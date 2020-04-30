@@ -9,7 +9,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.201.101.138|/bitcore:1.1.0-exodus2/|70003|50596|109.201.96.0/21|RU|ripencc|2010-02-12|ITNET33, RU
 109.202.107.125|/LitecoinCore:0.17.1/|70015|49453|109.202.107.0/24|NL|ripencc|2011-02-10|GLOBALLAYER, NL
 109.235.184.178|/bitcore:1.1.0-exodus2/|70003|47586|109.235.184.0/21|RU|ripencc|2010-01-29|BUSINESS-SVYAZ, RU
-109.249.184.201|/bitcore:1.1.0-exodus2/|70003|12576|109.249.0.0/16|GB|ripencc|2009-11-30|EE Ltd, GB
 110.144.140.193|/bitcore:1.1.0-exodus2/|70003|1221|110.144.0.0/13|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 114.79.38.80|/bitcore:1.1.0-exodus2/|70003|18004|114.79.36.0/22|ID|apnic|2009-12-09|WIRELESSNET-ID PT WIRELESS INDONESIA ( WIN ), ID
 116.202.113.53|/LitecoinCore:0.17.1/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -35,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.100.245|/LitecoinCore:0.16.3/|70015|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 148.251.69.61|/LitecoinCore:0.17.1/|70015|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
 151.74.50.75|/LitecoinCore:0.17.1/|70015|1267|151.74.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, EU
+157.157.87.141|/bitcore:1.1.0-exodus2/|70003|206804|157.157.87.0/24|IS|ripencc|2005-02-03|ESTNOC-AS, EE
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 159.148.186.192|/Satoshi:0.13.2/|70015|200709|159.148.186.0/24|LV|ripencc|1993-01-19|BIGHOST-AS, LV
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
@@ -46,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.227.195.170|/YoloCoinCore:0.16.3/|70015|14061|165.227.192.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 172.81.177.218|/LitecoinCore:0.17.1/|70015|174|172.81.176.0/21|CA|arin|2015-05-14|COGENT-174, US
+173.249.31.176|/bitcore:1.1.0/|70003|51167|173.249.30.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 175.176.67.210|/bitcore:1.1.0-exodus2/|70003|10139|175.176.67.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 176.227.247.105|/bitcore:1.1.0-exodus2/|70003|44443|176.227.247.0/24|UA|ripencc|2018-07-04|INOVTEL, UA
 176.235.191.142|/bitcore:1.1.0-exodus2/|70003|34984|176.235.191.0/24|TR|ripencc|2011-12-01|TELLCOM-AS, TR
@@ -68,7 +69,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.183.157.248|/LitecoinCore:0.16.0/|70015|197540|185.183.156.0/22|DE|ripencc|2016-12-28|NETCUP-AS netcup GmbH, DE
 185.209.177.23|/bitcore:1.1.0-exodus2/|70003|396356|185.209.177.0/24|US|arin|2019-08-01|MAXIHOST, US
 185.64.106.227|/LitecoinCore:0.17.1/|70015|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
-186.123.104.67|/bitcore:1.1.0-exodus2/|70003|11664|186.123.104.0/21|AR|lacnic|2010-06-03|Techtel LMDS Comunicaciones Interactivas S.A., AR
 186.176.251.102|/bitcore:1.1.0-exodus2/|70003|262197|186.176.250.0/23|CR|lacnic|2011-01-25|MILLICOM CABLE COSTA RICA S.A., CR
 186.230.88.22|/bitcore:1.1.0-exodus2/|70003|26615|186.230.88.0/21|BR|lacnic|2010-08-10|TIM S/A, BR
 186.29.71.37|/litecoinj:0.15.2-SNAPSHOT/|70002|19429|186.29.64.0/20|CO|lacnic|2009-06-08|ETB - Colombia, CO
@@ -85,6 +85,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.187.30.208|/LitecoinCore:0.15.1/|70015|22612|198.187.30.0/24|US|arin|2012-09-18|NAMECHEAP-NET, US
 2.15.54.83|/bitcore:1.1.0-exodus2/|70003|3215|2.15.0.0/16|FR|ripencc|2010-07-12|France Telecom - Orange, FR
 200.236.103.198|/bitcore:1.1.0-exodus2/|70003|6503|200.236.96.0/21|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
+200.92.176.127|/bitcore:1.1.0-exodus2/|70003|13999|200.92.176.0/22|MX|lacnic|2003-03-04|Mega Cable, S.A. de C.V., MX
 201.249.4.113|/bitcore:1.1.0-exodus2/|70003|8048|201.249.0.0/19|VE|lacnic|2004-05-05|CANTV Servicios, Venezuela, VE
 207.180.231.151|Merge DNS Seeder - Visit us www.projectmerge.org|70913|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 209.59.173.55|/LitecoinCore:0.17.1/|70015|32244|209.59.128.0/18|US|arin|2004-07-27|LIQUIDWEB, US
@@ -125,7 +126,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.164.228.164|/bitcore:1.1.0-exodus2/|70003|6856|46.164.192.0/18|RU|ripencc|2010-12-09|IC-VORONEZH-AS Informsvyaz - Chernozemye, RU
 46.188.121.97|/bitcore:1.1.0-exodus2/|70003|8334|46.188.0.0/17|RU|ripencc|2010-11-24|CO-2COM-AS Moscow, RU
 46.23.35.70|/DigitaleuroCore:0.16.3/|70015|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
-46.245.108.56|/bitcore:1.1.0-exodus2/|70003|43754|46.245.108.0/22|IR|ripencc|2010-12-31|ASIATECH, IR
 47.56.247.73|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.88.237.18|/LitecoinCore:0.17.1/|70015|45102|47.88.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -170,6 +170,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.213.163.146|/bitcore:1.1.0-exodus2/|70003|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.108.82.95|Custom 1.0|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 80.241.222.199|/DigitaleuroCore:0.16.3/|70015|51167|80.241.222.0/23|DE|ripencc|2011-02-14|CONTABO, DE
+80.255.7.118|/bitcore:1.1.0-exodus2/|70003|201011|80.255.0.0/20|DE|ripencc|2009-04-16|NETZBETRIEB-GMBH, DE
 80.82.77.12|/bitcore:1.1.0-exodus2/|70003|202425|80.82.77.0/24|NL|ripencc|2010-08-16|INT-NETWORK, SC
 81.148.255.19|/bitcore:1.1.0-exodus2/|70003|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.17.246.100|/bitcore:1.1.0-exodus2/|70003|39122|81.17.240.0/20|IE|ripencc|2005-12-16|BLACKNIGHT-AS, IE
@@ -177,7 +178,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.11.86.148|/bitcore:1.1.0-exodus2/|70003|5089|82.8.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.221.107.210|/WecoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.250.254.155|/bitcore:1.1.0-exodus2/|70003|12322|82.240.0.0/12|FR|ripencc|2003-11-04|PROXAD, FR
-82.32.117.97|/bitcore:1.1.0-exodus2/|70003|5089|82.32.0.0/16|GB|ripencc|2003-01-31|NTL, GB
+82.31.161.188|???|0|5089|82.28.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 83.1.98.9|/bitcore:1.1.0-exodus2/|70003|5617|83.0.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 83.102.198.143|/bitcore:1.1.0-exodus2/|70003|8402|83.102.128.0/17|RU|ripencc|2004-03-02|CORBINA-AS OJSC _Vimpelcom_, RU
 83.237.131.163|/bitcore:1.1.0-exodus2/|70003|8359|83.237.0.0/16|RU|ripencc|2004-02-12|MTS, RU
@@ -197,7 +198,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.137.191.253|/bitcore:1.1.0-exodus2/|70003|6830|89.137.0.0/16|RO|ripencc|2006-01-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.38.96.70|/LitecoinCore:0.15.0.1/|70015|49981|89.38.96.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.42.205.158|/bitcore:1.1.0-exodus2/|70003|206026|89.42.205.0/24|KZ|ripencc|2005-11-29|IPNET_KAR-TEL, KZ
-90.163.226.90|/bitcore:1.1.0-exodus2/|70003|12479|90.163.224.0/21|ES|ripencc|2006-09-12|UNI2-AS, ES
 90.216.225.8|/bitcore:1.1.0-exodus2/|70003|5607|90.192.0.0/11|GB|ripencc|2007-06-14|BSKYB-BROADBAND-AS, GB
 91.160.143.27|/bitcore:1.1.0-exodus2/|70003|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
 91.160.39.160|/bitcore:1.1.0-exodus2/|70003|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
@@ -212,7 +212,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.138.19.38|/bitcore:1.1.0-exodus2/|70003|21351|95.138.0.0/17|FR|ripencc|2009-03-23|CANALPLUSTELECOM, FR
 95.158.208.232|/TKEYSPACE:1.2.0/|70015|12389|95.158.192.0/19|RU|ripencc|2009-04-07|ROSTELECOM-AS, RU
 95.165.154.175|/LitecoinCore:0.14.2/|70015|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
-95.216.250.35|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.251.113.86|/bitcore:1.1.0-exodus2/|70003|3269|95.250.0.0/15|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
 95.54.95.58|/bitcore:1.1.0-exodus2/|70003|12389|95.52.0.0/14|RU|ripencc|2008-11-13|ROSTELECOM-AS, RU
 95.90.203.178|/bitcore:1.1.0-exodus2/|70003|31334|95.90.202.0/23|DE|ripencc|2008-12-15|KABELDEUTSCHLAND-AS, DE
