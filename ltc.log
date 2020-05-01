@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.69.60.178|/LitecoinCore:0.17.1/|70015|18403|118.69.60.0/24|VN|apnic|2007-08-08|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.254.175.39|/LitecoinCore:0.16.3/|70015|3786|121.254.128.0/17|KR|apnic|2006-05-29|LGDACOM LG DACOM Corporation, KR
+122.58.253.90|/bitcore:1.1.0-exodus2/|70003|4771|122.58.253.0/24|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 124.177.10.15|/bitcore:1.1.0-exodus2/|70003|1221|124.176.0.0/12|AU|apnic|2006-03-24|ASN-TELSTRA Telstra Corporation Ltd, AU
 125.239.131.213|/bitcore:1.1.0-exodus2/|70003|4771|125.239.128.0/21|NZ|apnic|2006-11-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -86,7 +87,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 200.236.103.198|/bitcore:1.1.0-exodus2/|70003|6503|200.236.96.0/21|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 200.92.176.127|/bitcore:1.1.0-exodus2/|70003|13999|200.92.176.0/22|MX|lacnic|2003-03-04|Mega Cable, S.A. de C.V., MX
 201.175.133.25|/loaf-android:175/|70015|28469|201.175.133.0/24|MX|lacnic|2011-08-31|AT&T COMUNICACIONES DIGITALES S DE RL, MX
-201.249.4.113|/bitcore:1.1.0-exodus2/|70003|8048|201.249.0.0/19|VE|lacnic|2004-05-05|CANTV Servicios, Venezuela, VE
 207.180.231.151|Merge DNS Seeder - Visit us www.projectmerge.org|70913|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 209.58.147.243|/bitcore:1.1.0-exodus2/|70003|394380|209.58.144.0/20|US|arin|1999-04-29|LEASEWEB-USA-DAL-10, US
 209.59.173.55|/LitecoinCore:0.17.1/|70015|32244|209.59.128.0/18|US|arin|2004-07-27|LIQUIDWEB, US
@@ -119,6 +119,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.164.228.164|/bitcore:1.1.0-exodus2/|70003|6856|46.164.192.0/18|RU|ripencc|2010-12-09|IC-VORONEZH-AS Informsvyaz - Chernozemye, RU
 46.188.121.97|/bitcore:1.1.0-exodus2/|70003|8334|46.188.0.0/17|RU|ripencc|2010-11-24|CO-2COM-AS Moscow, RU
 46.23.35.70|/DigitaleuroCore:0.16.3/|70015|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
+46.251.215.2|/BitcoinKit:0.1.0/|70015|50223|46.251.215.0/24|KG|ripencc|2011-02-08|ALFA, KG
 47.56.247.73|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -149,7 +150,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.228.148.23|/LitecoinCore:0.14.2/|70015|11351|72.228.0.0/16|US|arin|2005-07-21|TWC-11351-NORTHEAST, US
 73.67.229.185|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.75.26.87|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-74.105.124.201|/bitcore:1.1.0-exodus2/|70003|701|74.105.0.0/16|US|arin|2009-01-26|UUNET, US
 75.161.47.131|/bitcore:1.1.0-exodus2/|70003|209|75.160.0.0/12|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 75.172.31.44|/DigitaleuroCore:0.16.3/|70015|209|75.172.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 76.92.210.94|/bitcore:1.1.0-exodus2/|70003|11427|76.92.128.0/17|US|arin|2006-12-22|TWC-11427-TEXAS, US
@@ -201,6 +201,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.251.113.86|/bitcore:1.1.0-exodus2/|70003|3269|95.250.0.0/15|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
 95.54.95.58|/bitcore:1.1.0-exodus2/|70003|12389|95.52.0.0/14|RU|ripencc|2008-11-13|ROSTELECOM-AS, RU
 96.232.109.162|/bitcore:1.1.0-exodus2/|70003|701|96.232.0.0/16|US|arin|2006-12-29|UUNET, US
+98.192.101.113|/bitcore:1.1.0-exodus2/|70003|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.195.211.233|/bitcore:1.1.0-exodus2/|70003|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.201.60.129|/bitcore:1.1.0/|70003|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 99.234.70.20|/LitecoinCore:0.14.2/|70015|812|99.234.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
