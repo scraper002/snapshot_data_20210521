@@ -1,6 +1,7 @@
 # https://blockchair.com/ and whois results
 # Litecoin
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
+1.160.91.51|9333|/LitecoinCore:0.17.1/|3462|1.160.0.0/16|TW|apnic|2010-05-05|HINET Data Communication Business Group, TW
 1.255.226.246|11010|/LitecoinCore:0.16.0/|9318|1.248.0.0/13|KR|apnic|2010-07-19|SKB-AS SK Broadband Co Ltd, KR
 1.32.249.35|9333|/Satoshi:0.13.2/|64050|1.32.249.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.250.21|9333|/Satoshi:0.13.2/|64050|1.32.250.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
@@ -212,7 +213,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.56.117.96|9333|/LitecoinCore:0.17.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.132.49|7107|/FlashcoinCore:0.13.3.2(bitcore)/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.176.162|9333|/LitecoinCore:0.17.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
-149.56.21.37|9335|/LitecoinCore:0.16.3/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 15.164.150.190|9333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.164.166.11|8333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.164.201.127|55521|/RBTOCore:0.16.3/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
@@ -328,7 +328,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.72.148.251|9333|/FutureBit-ApolloCore:0.17.1/|701|173.72.128.0/17|US|arin|2008-08-11|UUNET, US
 173.72.22.244|9333|/Satoshi:0.13.2/|701|173.72.0.0/17|US|arin|2008-08-11|UUNET, US
 173.91.55.117|9333|/LitecoinCore:0.17.1/|10796|173.90.0.0/15|US|arin|2008-09-05|TWC-10796-MIDWEST, US
-174.113.136.199|11081|/WorldcoinFoundation:0.8.5.1/|812|174.113.128.0/18|CA|arin|2009-03-04|ROGERS-COMMUNICATIONS, CA
+174.4.4.183|9333|/LitecoinCore:0.17.1/|6327|174.4.4.0/22|CA|arin|2008-11-19|SHAW, CA
 174.49.159.176|9333|/LitecoinCore:0.16.3/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 174.55.158.230|9333|/FutureBit-ApolloCore:0.17.1/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 175.176.142.110|9333|/LitecoinCore:0.17.1/|38676|175.176.128.0/20|KR|apnic|2010-01-20|FLEXNET-AS-KR flexnetworks, KR
@@ -430,6 +430,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.243.112.158|9333|/LitecoinCore:0.16.0/|205406|185.243.112.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.243.113.243|9333|/LitecoinCore:0.13.2(bitcore)/|205406|185.243.113.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.25.60.199|33666|/CypherfunkCore:0.15.2/|8496|185.25.60.0/24|RU|ripencc|2013-04-29|RU-OPTIBIT, RU
+185.26.145.187|9333|/LitecoinCore:0.17.1/|60721|185.26.145.0/24|TR|ripencc|2013-05-22|BURSABIL, TR
 185.26.28.173|7203|/LitecoinCore:0.16.3/|31415|185.26.28.0/24|RU|ripencc|2013-05-14|SVSCOMM-AS, RU
 185.49.69.70|9333|/LitecoinCore:0.17.1/|28753|185.49.68.0/22|GB|ripencc|2014-02-28|LEASEWEB-DE-FRA-10, DE
 185.64.104.2|9333|/LitecoinCore:0.17.1/|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
@@ -1398,6 +1399,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.86.125.50|9333|/LitecoinCore:0.17.1/|39392|88.86.96.0/19|CZ|ripencc|2006-02-14|SUPERNETWORK (^_^)/, CZ
 88.98.88.158|9333|/LitecoinCore:0.15.1(BollockstoBrexit)/|13037|88.98.64.0/19|GB|ripencc|2005-08-03|ZEN-AS Zen Internet - UK, GB
 88.99.149.100|9333|/LitecoinCore:0.17.1/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.150.13|9333|/LitecoinCore:0.16.3/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.216.194|9333|/LitecoinCore:0.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.102.218.219|9333|/LitecoinCore:0.17.1/|6830|89.102.0.0/16|CZ|ripencc|2006-02-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.133.68.65|9333|/LitecoinCore:0.17.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
