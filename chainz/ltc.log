@@ -43,6 +43,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.128.27.106|/bitcore:1.1.0-exodus2/|70003|9009|185.128.27.0/24|RO|ripencc|2018-01-02|M247, GB
 185.153.151.11|/LitecoinCore:0.17.1/|70015|5577|185.153.151.0/24|GB|ripencc|2016-05-24|ROOT, LU
 185.64.106.227|/LitecoinCore:0.17.1/|70015|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
+188.162.64.203|/TKEYSPACE:1.2.0/|70015|31213|188.162.64.0/23|RU|ripencc|2009-05-20|MF-NWGSM-AS, RU
 189.226.178.194|/bitcore:1.1.0-exodus2/|70003|8151|189.226.176.0/21|MX|lacnic|2007-09-05|Uninet S.A. de C.V., MX
 190.83.199.222|/bitcore:1.1.0-exodus2/|70003|27665|190.83.192.0/20|TT|lacnic|2011-01-21|Columbus Communications Trinidad Limited., TT
 191.102.196.44|/loaf-android:175/|70015|262928|191.102.196.0/24|CO|lacnic|2014-03-07|DIRECTV COLOMBIA LTDA., CO
@@ -60,8 +61,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 210.242.27.236|/LitecoinCore:0.17.1/|70015|3462|210.242.0.0/16|TW|apnic|1999-03-17|HINET Data Communication Business Group, TW
 213.127.84.60|/bitcore:1.1.0-exodus2/|70003|6830|213.127.0.0/17|NL|ripencc|1999-09-16|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 213.183.57.14|/LitecoinCore:0.16.0/|70015|56630|213.183.57.0/24|LT|ripencc|2008-10-28|MELBICOM-EU-AS Melbikomas UAB, NL
-213.205.198.9|/loaf-android:175/|70015|12576|213.205.192.0/18|GB|ripencc|2002-11-07|EE Ltd, GB
-217.114.225.60|/Satoshi:0.13.2/|70015|3253|217.114.224.0/23|RU|ripencc|2004-08-09|SOVINTEL-EF-AS, RU
 217.66.156.244|/TKEYSPACE:1.2.0/|70015|8359|217.66.152.0/21|RU|ripencc|2003-06-30|MTS, RU
 23.92.127.10|/bitcore:1.1.0-exodus2/|70003|47536|23.92.127.0/24|SE|ripencc|2013-08-21|GLOBALIPEXCHANGE, SE
 24.183.113.223|/bitcore:1.1.0-exodus2/|70003|20115|24.183.112.0/20|US|arin|2003-10-28|CHARTER-20115, US
@@ -75,11 +74,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.20.131.92|/LitecoinCore:0.17.1/|70015|12389|37.20.0.0/16|RU|ripencc|2011-12-21|ROSTELECOM-AS, RU
 37.201.4.10|/bitcore:1.1.0-exodus2/|70003|6830|37.201.0.0/17|DE|ripencc|2012-03-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 41.215.165.246|/loaf-android:175/|70015|37030|41.215.165.0/24|GH|afrinic|2008-07-22|Airtel-Ghana, GH
-45.226.127.19|/bitcore:1.1.0-exodus2/|70003|266962|45.226.127.0/24|BR|lacnic|2017-10-31|G M DA COSTA INTERNET, BR
 45.76.143.91|/DigitaleuroCore:0.16.3/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.82.137.143|/CounosCoinCore:0.15.4/|70015|202468|45.82.137.0/24|IR|ripencc|2019-05-23|ABRARVAN-AS AbrArvan CDN and IaaS, IR
 46.211.66.36|/bitcore:1.1.0-exodus2/|70003|15895|46.211.0.0/16|UA|ripencc|2010-12-17|KSNET-AS, UA
+46.4.197.39|/CounosCoinCore:0.15.3.2/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -89,6 +88,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.66.182.204|/bitcore:1.1.0-exodus2/|70003|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
 51.79.86.8|/DigitaleuroCore:0.16.3/|70015|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
+52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.2.1.167|/LitecoinCore:0.17.1/|70015|14618|52.2.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
 52.3.113.228|/litecoinj:0.15.2-SNAPSHOT/|70002|14618|52.2.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -103,6 +103,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.70.61.128|/bitcore:1.1.0-exodus2/|70003|701|72.70.0.0/17|US|arin|2005-06-24|UUNET, US
 73.122.196.241|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.230.93.148|/WalletKit:0.1.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.26.23.103|/LitecoinCore:0.17.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.98.20.8|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.142.120.199|/LitecoinCore:0.14.2/|70015|20115|75.142.96.0/19|US|arin|2006-07-17|CHARTER-20115, US
 75.172.15.18|/DigitaleuroCore:0.16.3/|70015|209|75.172.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
@@ -112,6 +113,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.108.82.95|Custom 1.0|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 80.192.105.7|/LitecoinCore:0.17.1/|70015|5089|80.192.0.0/15|GB|ripencc|2001-09-26|NTL, GB
 80.27.31.144|/bitcore:1.1.0-exodus2/|70003|3352|80.27.0.0/16|ES|ripencc|2001-07-09|TELEFONICA_DE_ESPANA, ES
+81.231.108.137|/LitecoinCore:0.17.1/|70015|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 81.32.154.151|/bitcore:1.1.0-exodus2/|70003|3352|81.32.0.0/16|ES|ripencc|2002-02-15|TELEFONICA_DE_ESPANA, ES
 82.102.16.220|/bitcore:1.1.0-exodus2/|70003|9009|82.102.16.0/24|MT|ripencc|2003-12-29|M247, GB
 82.124.75.223|/LitecoinCore:0.17.1/|70015|3215|82.124.0.0/16|FR|ripencc|2003-10-21|France Telecom - Orange, FR
