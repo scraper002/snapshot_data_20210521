@@ -37,13 +37,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 195.154.38.241|/Satoshi:2.1.8/|70005|12876|195.154.0.0/16|FR|ripencc|1996-08-27|Online SAS, FR
 198.48.166.183|/Satoshi:2.1.8/|70005|5645|198.48.164.0/22|CA|arin|2013-03-04|TEKSAVVY, CA
+2.200.57.83|/Satoshi:2.1.8/|70005|3209|2.200.0.0/14|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 2.28.6.224|/Satoshi:2.1.8/|70005|12576|2.28.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 2.49.163.67|/Satoshi:2.1.8/|70005|5384|2.49.160.0/19|AE|ripencc|2010-05-28|EMIRATES-INTERNET Emirates Internet, AE
 201.156.23.38|/Satoshi:2.1.8/|70005|6503|201.156.22.0/23|MX|lacnic|2005-12-08|Axtel, S.A.B. de C.V., MX
 203.7.80.166|/Satoshi:2.1.8/|70005|7545|203.7.64.0/19|AU|apnic|2011-04-04|TPG-INTERNET-AP TPG Telecom Limited, AU
 212.50.0.99|/Satoshi:2.1.8/|70005|8717|212.50.0.0/19|BG|ripencc|1998-03-10|SPECTRUMNET, BG
 213.16.209.71|/Satoshi:2.1.8/|70005|1241|213.16.192.0/18|GR|ripencc|2000-08-14|FORTHNET-GR Forthnet, EU
-213.196.247.98|/Satoshi:2.1.8/|70005|8422|213.196.192.0/18|DE|ripencc|2002-08-26|NETCOLOGNE, DE
 213.205.194.66|/Satoshi:2.1.8/|70005|12576|213.205.192.0/18|GB|ripencc|2002-11-07|EE Ltd, GB
 216.126.75.152|/Satoshi:2.1.8/|70005|395667|216.126.75.0/24|CA|arin|1999-06-30|WISP-INTERNET-SERVICES-INC, CA
 217.234.69.42|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -55,7 +55,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.211.62.92|/Satoshi:2.1.8/|70005|11426|24.211.32.0/19|US|arin|2001-06-29|TWC-11426-CAROLINAS, US
 24.237.217.90|/Satoshi:2.1.8/|70005|8047|24.237.0.0/16|US|arin|1997-10-14|GCI, US
 31.150.104.157|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
-37.120.212.20|/Satoshi:2.1.8/|70005|9009|37.120.212.0/24|RO|ripencc|2012-02-13|M247, GB
 37.201.168.52|/Satoshi:2.1.8/|70005|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 37.201.213.38|/Satoshi:2.1.8/|70005|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 37.24.158.6|/Satoshi:2.1.8/|70005|6830|37.24.128.0/17|DE|ripencc|2011-12-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
@@ -119,6 +118,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.12.132.58|/Satoshi:2.1.8/|70005|3352|88.12.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
 89.155.127.14|/Satoshi:2.1.8/|70005|2860|89.155.64.0/18|PT|ripencc|2006-02-07|NOS_COMUNICACOES, PT
 90.247.224.144|/Satoshi:2.1.8/|70005|5378|90.244.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
+91.12.220.174|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.142.17.47|/Satoshi:2.1.8/|70005|21013|91.142.16.0/20|AT|ripencc|2006-10-10|ITANDTEL-AS Wels, AT
 91.239.38.136|/Satoshi:2.1.8/|70005|206082|91.239.38.0/23|DK|ripencc|2012-05-11|TULIP-LTD, DK
 91.8.24.107|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
@@ -135,5 +135,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 96.71.246.90|/Satoshi:2.1.8/|70005|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
 97.104.211.32|/Satoshi:2.1.8/|70005|33363|97.104.0.0/16|US|arin|2007-04-09|BHN-33363, US
-98.155.158.244|/Satoshi:2.1.8/|70005|20001|98.152.0.0/14|US|arin|2007-12-18|TWC-20001-PACWEST, US
 99.11.199.94|/Satoshi:2.1.8/|70005|7018|99.11.0.0/16|US|arin|2008-02-25|ATT-INTERNET4, US
