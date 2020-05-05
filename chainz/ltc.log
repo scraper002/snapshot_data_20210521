@@ -22,7 +22,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 141.98.255.143|/bitcore:1.1.0-exodus2/|70003|39351|141.98.255.0/24|SE|ripencc|2019-01-16|ESAB-AS, SE
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
-146.200.212.40|/bitcore:1.1.0-exodus2/|70003|6871|146.200.0.0/16|US|arin|1991-02-28|PLUSNET UK Internet Service Provider, GB
 148.163.76.218|/gamecredits-seeder:0.01/|80007|53755|148.163.0.0/17|US|arin|2014-06-06|IOFLOOD, US
 148.66.11.205|/LitecoinCore:0.14.2/|70015|45753|148.66.11.0/24|HK|apnic|1991-04-11|NETSEC-HK NETSEC, HK
 15.165.61.169|/RBTOCore:0.16.3/|70015|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
@@ -35,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 163.158.160.140|/bitcore:1.1.0-exodus2/|70003|15435|163.158.0.0/16|NL|ripencc|1992-09-01|KABELFOON DELTA Fiber Nederland, NL
+165.227.195.170|/YoloCoinCore:0.16.3/|70015|14061|165.227.192.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.99.214.72|/litecoinj:0.15-SNAPSHOT/|70002|14061|167.99.208.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 171.25.220.224|/Satoshi:4.5.0/|70004|57707|171.25.220.0/23|CZ|ripencc|2012-01-18|GREENDATA, CZ
@@ -66,7 +66,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.182.2.106|/bitcore:1.1.0/|70003|58224|2.182.0.0/19|IR|ripencc|2010-10-18|TCI, IR
 2.61.2.194|/TKEYSPACE:1.2.0/|70015|12389|2.61.0.0/16|RU|ripencc|2010-10-08|ROSTELECOM-AS, RU
 201.162.194.2|/bitcore:1.1.0-exodus2/|70003|7438|201.162.194.0/24|MX|lacnic|2014-06-12|Pegaso PCS, S.A. de C.V., MX
-209.58.144.231|/bitcore:1.1.0-exodus2/|70003|394380|209.58.144.0/20|US|arin|1999-04-29|LEASEWEB-USA-DAL-10, US
 210.242.27.236|/LitecoinCore:0.17.1/|70015|3462|210.242.0.0/16|TW|apnic|1999-03-17|HINET Data Communication Business Group, TW
 213.137.111.145|/bitcore:1.1.0-exodus2/|70003|13091|213.137.96.0/19|RS|ripencc|2002-06-10|PTT-SRBIJA-NET, RS
 220.255.201.124|/bitcore:1.1.0-exodus2/|70003|9506|220.255.128.0/17|SG|apnic|2003-06-24|SINGTEL-FIBRE Singtel Fibre Broadband, SG
@@ -126,6 +125,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.20.113.251|/bitcore:1.1.0-exodus2/|70003|5089|82.20.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.221.107.233|/WecoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.24.27.110|/bitcore:1.1.0-exodus2/|70003|5089|82.24.0.0/14|GB|ripencc|2003-02-28|NTL, GB
+83.22.41.122|/bitcore:1.1.0-exodus2/|70003|5617|83.16.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 83.37.66.222|/bitcore:1.1.0-exodus2/|70003|3352|83.37.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.15.186.17|/LitecoinCore:0.16.3/|70015|13194|84.15.0.0/16|LT|ripencc|2004-07-29|BITE Bite IP Network, LT
 84.30.13.193|/bitcore:1.1.0-exodus2/|70003|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
@@ -153,5 +153,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.250.35|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.107.226|/bitcore:1.1.0-exodus2/|70003|6830|95.223.0.0/16|DE|ripencc|2009-03-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 96.23.178.243|/bitcore:1.1.0-exodus2/|70003|5769|96.23.128.0/18|CA|arin|2007-10-30|VIDEOTRON, CA
+97.73.244.22|/bitcore:1.1.0-exodus2/|70003|6621|97.73.244.0/22|US|arin|2007-08-03|HNS-DIRECPC, US
 99.17.249.221|/WalletKit:0.1.0/|70015|7018|99.16.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
 99.80.39.175|/LitecoinCore:0.17.1/|70015|16509|99.80.0.0/15|US|arin|2018-01-10|AMAZON-02, US
