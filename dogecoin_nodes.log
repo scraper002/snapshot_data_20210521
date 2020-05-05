@@ -34,7 +34,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.79.73.146|22556|/Shibetoshi:1.14.0/|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.127.234.206|22556|/Shibetoshi:1.10.0/|38197|121.127.234.0/24|HK|apnic|2007-10-11|SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK
 124.168.36.18|22556|/Shibetoshi:1.10.0/|7545|124.168.32.0/19|AU|apnic|2006-03-20|TPG-INTERNET-AP TPG Telecom Limited, AU
-124.183.134.222|22556|/Shibetoshi:1.10.0/|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
 124.191.213.74|22556|/Shibetoshi:1.10.0/|1221|124.176.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 13.228.172.201|22556|/Shibetoshi:1.10.0/|16509|13.228.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 13.231.146.145|22556|/Shibetoshi:1.14.2/|16509|13.230.0.0/15|US|arin|2016-08-09|AMAZON-02, US
@@ -96,6 +95,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.212.199.246|22556|/Shibetoshi:1.14.2/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.202.33|22556|/Shibetoshi:1.10.0/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.207.249|22556|/Shibetoshi:1.14.0/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.214.223|22556|/Shibetoshi:1.14.2/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.230.142.84|22445|/Pandoshi:3.0.7.1/|63949|173.230.128.0/20|US|arin|2010-03-15|LINODE-AP Linode, LLC, US
 173.249.27.120|22556|/Shibetoshi:1.14.2/|51167|173.249.26.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.254.204.118|22445|/Pandoshi:2.0.2/|8100|173.254.192.0/18|US|arin|2010-10-19|ASN-QUADRANET-GLOBAL, US
@@ -207,6 +207,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5600:5ab:1337:1337:1337:1337:1337|22556|/Shibetoshi:1.10.0/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 27.124.18.174|22556|/Shibetoshi:1.10.0/|64050|27.124.18.0/24|SG|apnic|2010-10-08|BCPL-SG BGPNET Global ASN, SG
 2800:bf0:1c6:12ce:3d2f:808e:41ab:39b4|22556|/Shibetoshi:1.10.0/|27947|2800:bf0::/34|EC|lacnic|2011-12-07|Telconet S.A, EC
+2804:14d:baa1:89c8::1001|22556|/Shibetoshi:1.10.0/|28573|2804:14d:baa1::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2a00:23c4:5aa3:400:92e6:baff:feb9:b12a|22556|/Shibetoshi:1.14.2/|2856|2a00:2380::/25|GB|ripencc|2007-08-29|BT-UK-AS BTnet UK Regional network, GB
 2a01:4f8:10b:36da::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:110:536e::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -249,6 +250,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f98:ca00:493:1afa:5097:2d69|22556|/Shibetoshi:1.14.0/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:39d3:eb30:c098:4f2b:c2c8:b2af|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:121f:3a3f:0:38dd:64cf:380c:7886|22556|/Shibetoshi:1.10.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::2a|22556|/Shibetoshi:1.14.2/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:7b40:c287:513d::1|22556|/Shibetoshi:1.14.0/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
@@ -389,6 +391,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.200.205.30|22554|/Shibetoshi:1.14.2/|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
 82.221.128.31|8344|/Shibetoshi:1.10.0/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.65.33.15|22556|/Shibetoshi:1.14.2/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
+83.157.62.179|22556|/Shibetoshi:1.14.2/|12322|83.152.0.0/13|FR|ripencc|2004-01-23|PROXAD, FR
 83.171.238.198|22556|/Shibetoshi:1.14.2/|201206|83.171.238.0/24|DE|ripencc|2018-11-15|LINEVAST, DE
 83.49.76.82|22556|/Shibetoshi:1.14.2/|3352|83.49.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.80.173.101|22556|/Shibetoshi:1.10.0/|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
