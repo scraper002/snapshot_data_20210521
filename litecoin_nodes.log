@@ -339,9 +339,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.143.74|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.158.165|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.18.167|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
-176.9.28.155|9333|/LitecoinCore:0.16.3/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.28.174|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.42.253|9333|/Satoshi:0.13.2/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
+176.9.47.5|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.50.227|9333|/LitecoinCore:0.16.3/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.51.122|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.86.146|9333|/LitecoinCore:0.15.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
@@ -563,6 +563,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:3dc1:100::142|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4400:2b00::1c:b05|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:3fef:3954:c501:22f6:d63e|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
+2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -970,7 +971,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.33.11.149|9333|/LitecoinCore:0.17.1/|63949|45.33.0.0/19|US|arin|2015-03-20|LINODE-AP Linode, LLC, US
 45.56.127.90|9333|/LitecoinCore:0.17.1/|63949|45.56.120.0/21|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 45.63.68.18|9333|/LitecoinCore:0.17.1/|20473|45.63.64.0/20|US|arin|2015-01-02|AS-CHOOPA, US
-45.76.11.52|9333|/LitecoinCore:0.17.1/|20473|45.76.0.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.143.91|56969|/DigitaleuroCore:0.16.3/|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.77.136.193|9333|/LitecoinCore:0.15.1/|20473|45.77.136.0/22|US|arin|2015-04-24|AS-CHOOPA, US
 45.77.97.203|9333|/LitecoinCore:0.15.1/|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
@@ -1312,7 +1312,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.57.204.50|9333|/LitecoinCore:0.17.1/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 77.58.113.156|9333|/LitecoinCore:0.14.2/|6830|77.58.0.0/15|CH|ripencc|2006-10-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 77.72.147.193|9333|/Satoshi:0.8.7.1/|20857|77.72.144.0/21|NL|ripencc|2012-08-08|TRANSIP-AS Amsterdam, the Netherlands, NL
-78.133.36.96|9333|/LitecoinCore:0.15.1/|15735|78.133.32.0/21|MT|ripencc|2007-06-05|DATASTREAM-NET, MT
 78.20.92.179|9333|/LitecoinCore:0.17.1/|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.22.176.242|9333|/FutureBit-ApolloCore:0.17.1/|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.46.254.164|9333|/LitecoinCore:0.17.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
@@ -1406,7 +1405,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.102.218.219|9333|/LitecoinCore:0.17.1/|6830|89.102.0.0/16|CZ|ripencc|2006-02-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.133.68.65|9333|/LitecoinCore:0.17.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.163.148.212|9333|/LitecoinCore:0.15.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
-89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.212.75.6|9333|/LitecoinCore:0.17.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.238.77.69|9333|/LitecoinCore:0.17.1/|34240|89.238.64.0/18|DE|ripencc|2006-07-21|MANITU, DE
 89.38.96.70|9333|/LitecoinCore:0.15.0.1/|49981|89.38.96.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
