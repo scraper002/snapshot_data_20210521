@@ -22,6 +22,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.213.103.98|22556|/Shibetoshi:1.10.0/|38197|112.213.103.0/24|HK|apnic|2009-02-20|SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK
 112.74.45.139|22556|/Shibetoshi:1.14.2/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 112.74.50.226|22556|/Shibetoshi:1.14.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+114.73.181.180|22556|/Shibetoshi:1.10.0/|4804|114.73.0.0/16|AU|apnic|2008-05-14|MPX-AS Microplex PTY LTD, AU
 115.70.81.191|7400|/ExperiencecoinCore:3.0.1.1/|10143|115.70.80.0/21|AU|apnic|2008-07-22|EXETEL-AS-AP Exetel Pty Ltd, AU
 116.203.199.35|22556|/Shibetoshi:1.14.0/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.189.176.229|22556|/Shibetoshi:1.10.0/|4773|118.189.176.0/22|SG|apnic|2007-10-19|MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore, SG
@@ -107,7 +108,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.31.26.69|22556|/Shibetoshi:1.14.2/|209|174.16.0.0/12|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
 176.10.136.22|22556|/Shibetoshi:1.14.2/|8473|176.10.128.0/17|SE|ripencc|2011-05-18|BAHNHOF http://www.bahnhof.net/, SE
 176.101.220.130|22556|/Shibetoshi:1.14.0/|49588|176.101.192.0/19|UA|ripencc|2011-11-15|SLVNET-AS, UA
-176.38.234.2|22556|/Shibetoshi:1.10.0/|39608|176.36.0.0/14|UA|ripencc|2011-05-20|LANETUA-AS, UA
 176.57.74.172|22556|/Shibetoshi:1.14.0/|199634|176.57.72.0/21|RU|ripencc|2011-06-01|GTS-M, RU
 176.9.11.143|22556|/Shibetoshi:1.10.0/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.53.70|22556|/Shibetoshi:1.14.2/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
@@ -158,6 +158,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:602:25d4::|22556|/Shibetoshi:1.10.0/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:470:1f06:a5f::2|22556|/Shibetoshi:1.14.2/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:b011:e602:52ea:85e:6d36:32d4:c42f|22556|/Shibetoshi:1.14.2/|3462|2001:b011:e600::/39|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b07:5d2b:d2a8:5001:665e:28b2:ac62|22445|/Pandoshi:3.0.5.6/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:4400:2000::170f|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4700:2400::100f|22556|/Shibetoshi:1.10.0/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2002:d8f5:ceb5::d8f5:ceb5|22556|/Shibetoshi:1.10.0/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -198,7 +199,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:6180:0:d1::833:9001|22556|/Shibetoshi:1.14.2/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|22445|/Pandoshi:3.0.7.1/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8902::f03c:91ff:fe7b:172e|22445|/Pandoshi:3.0.7.1/|63949|2400:8902::/32|US|apnic|2016-08-05|LINODE-AP Linode, LLC, US
-2403:6200:88a4:56cd:111c:1b29:8fbc:e0bc|22445|/Pandoshi:3.0.6.4/|45629|2403:6200::/32|TH|apnic|2010-07-14|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 240e:b0:8295:1b0:5596:aa70:7c77:98ea|22556|/Shibetoshi:1.14.2/|4134|240e:b0::/31|CN|apnic|2010-05-20|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 2600:1700:daa:90::24|22556|/Shibetoshi:1.14.2(@_@)/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:3c00::f03c:91ff:fe84:d650|22556|/Shibetoshi:1.14.2/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
@@ -435,6 +435,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.48.7|9003|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.223.26.145|22556|/Shibetoshi:1.10.0/|201848|89.223.24.0/21|RU|ripencc|2006-09-19|TRADERSOFT, RU
 91.121.95.32|22556|/Shibetoshi:1.10.0/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
+93.43.210.168|22445|/Pandoshi:3.0.5.6/|12874|93.43.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
+93.73.81.197|22556|/Shibetoshi:1.10.0/|25229|93.73.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
 94.130.137.98|22556|/Shibetoshi:1.14.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.168.169|22556|/Shibetoshi:1.14.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.207.236|8506|/Shibetoshi:1.10.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
