@@ -17,7 +17,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 138.75.207.110|/bitcore:1.1.0-exodus2/|70003|4773|138.75.192.0/18|SG|apnic|1990-03-02|MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore, SG
-139.130.202.109|/bitcore:1.1.0-exodus2/|70003|1221|139.130.0.0/16|AU|apnic|2000-12-18|ASN-TELSTRA Telstra Corporation Ltd, AU
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -32,12 +31,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.227.144.131|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.144.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 165.227.195.170|/YoloCoinCore:0.16.3/|70015|14061|165.227.192.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
+167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 171.253.140.55|/bitcore:1.1.0/|70003|7552|171.253.136.0/21|VN|apnic|2011-03-04|VIETEL-AS-AP Viettel Group, VN
 173.212.194.178|/LitecoinCore:0.17.1/|70015|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 175.176.50.130|/BitCoinJ:0.11-SNAPSHOT/Litecoin Wallet:3.30.10/|70002|10139|175.176.50.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 176.126.15.42|/bitcore:1.1.0-exodus2/|70003|44172|176.126.0.0/20|RU|ripencc|2012-09-13|COURIER-PLUS-AS, RU
 176.227.235.41|/carrot.atalanta.snowflake:0.4/|70015|198336|176.227.234.0/23|CY|ripencc|2011-12-05|CUT, CY
-176.59.2.92|/TKEYSPACE:1.2.0/|70015|15378|176.59.0.0/19|RU|ripencc|2011-06-06|TELE2-RU-AS Tele2 Russia Network, RU
 176.59.49.92|/bitcore:1.1.0-exodus2/|70003|12958|176.59.48.0/22|RU|ripencc|2011-06-06|MCC Tele2 Russia Network, RU
 178.121.35.237|/loaf-android:175/|70015|6697|178.121.32.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.202.126.155|/LitecoinCore:0.14.2/|70015|6830|178.202.0.0/15|DE|ripencc|2010-03-16|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
@@ -104,6 +103,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.153.4.5|/LitecoinCore:0.17.1/|70015|3320|62.153.0.0/16|DE|ripencc|2000-02-04|DTAG Internet service provider operations, DE
 66.176.196.30|/bitcore:1.1.0-exodus2/|70003|7922|66.176.0.0/15|US|arin|2001-10-01|COMCAST-7922, US
 67.149.39.199|/LitecoinCore:0.17.1/|70015|12083|67.149.32.0/21|US|arin|2004-02-19|WOW-INTERNET, US
+67.253.38.74|/bitcore:1.1.0-exodus2/|70003|11351|67.252.0.0/15|US|arin|2008-02-27|TWC-11351-NORTHEAST, US
 68.103.81.92|/LitecoinCore:0.14.2/|70015|22773|68.102.0.0/15|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 68.201.137.241|/bitcore:1.1.0-exodus2/|70003|11427|68.201.128.0/17|US|arin|2003-01-31|TWC-11427-TEXAS, US
 68.205.103.182|/bitcore:1.1.0-exodus2/|70003|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
@@ -127,11 +127,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.106.148|/LitecoinCore:0.13.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.210|/WecoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 83.123.201.158|/bitcore:1.1.0-exodus2/|70003|197207|83.123.192.0/18|IR|ripencc|2004-01-06|MCCI-AS, IR
-84.42.195.237|/bitcore:1.1.0-exodus2/|70003|6830|84.42.192.0/18|CZ|ripencc|2004-09-14|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 84.73.30.185|/bitcore:1.1.0-exodus2/|70003|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 85.152.147.37|/bitcore:1.1.0-exodus2/|70003|12946|85.152.128.0/19|ES|ripencc|2004-10-20|TELECABLE Spain, ES
 86.123.99.67|/WalletKit:0.1.0/|70015|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
-86.159.125.186|/bitcore:1.1.0-exodus2/|70003|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.26.69.251|/bitcore:1.1.0-exodus2/|70003|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 86.49.8.42|/LitecoinCore:0.17.1/|70015|6830|86.49.0.0/17|CZ|ripencc|2005-04-21|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 86.89.253.54|/bitcore:1.1.0-exodus2/|70003|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
@@ -140,7 +138,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.84.131.86|/LitecoinCore:0.17.1/|70015|15830|88.84.128.0/21|DE|ripencc|2006-01-18|EQUINIX-CONNECT-EMEA, GB
 91.121.210.64|/LitecoinCore:0.17.1/|70015|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.240.142.228|/LitecoinCore:0.17.1/|70015|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
-92.223.89.206|/bitcore:1.1.0-exodus2/|70003|199524|92.223.89.0/24|AT|ripencc|2007-10-17|GCORE, AT
 94.103.228.50|/LitecoinCore:0.17.1/|70015|47954|94.103.228.0/23|RU|ripencc|2008-09-18|ALFANETTELECOM-AS, RU
 94.177.228.169|/LitecoinCore:0.17.1/|70015|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
 95.174.67.188|/bitcore:1.1.0/|70003|9009|95.174.67.0/24|RO|ripencc|2018-06-29|M247, GB
