@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.171.235.65|/SidneyReilly:0.7.8/|60018|7545|124.171.235.0/24|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 126.110.76.201|/KlausFuchs:2.2.2.2/|60018|17676|126.110.0.0/16|JP|apnic|2005-02-08|GIGAINFRA Softbank BB Corp., JP
 13.229.99.77|/SidneyReilly:0.7.8/|60018|16509|13.228.0.0/15|US|arin|2016-08-09|AMAZON-02, US
+13.230.19.97|/KlausFuchs:2.2.2.1/|60018|16509|13.230.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 131.93.228.226|/KlausFuchs:2.2.2.2/|60018|20115|131.93.0.0/16|US|arin|2017-07-26|CHARTER-20115, US
 139.47.16.148|/KlausFuchs:2.2.2.2/|60018|15704|139.47.0.0/17|ES|ripencc|1990-06-19|AS15704, ES
 141.135.199.152|/KlausFuchs:2.2.2.2/|60018|6848|141.134.0.0/15|BE|ripencc|2011-06-20|TELENET-AS, BE
@@ -24,7 +25,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.167.78.75|/KlausFuchs:2.2.2.2/|60018|135887|149.167.78.0/24|AU|apnic|1991-05-07|TELSTRA-BELONG-AP Telstra Corporation, AU
 149.224.23.34|/SidneyReilly:0.7.8/|60018|15943|149.224.0.0/17|DE|ripencc|1993-09-01|WTNET-AS wilhelm.tel GmbH, DE
 151.18.217.6|/KlausFuchs:2.2.2.2/|60018|1267|151.18.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, EU
-151.18.244.65|/KlausFuchs:2.2.2.2/|60018|1267|151.18.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, EU
 152.89.162.230|/KlausFuchs:2.2.2.2/|60018|9009|152.89.162.0/24|RO|ripencc|2019-01-25|M247, GB
 155.4.21.148|/KlausFuchs:2.2.2.2/|60018|8473|155.4.0.0/16|NO|ripencc|1991-10-30|BAHNHOF http://www.bahnhof.net/, SE
 158.75.117.4|/KlausFuchs:2.2.2.2/|60018|12423|158.75.0.0/17|PL|ripencc|1992-02-26|TORMAN Torun Regional Computer Network, PL
@@ -88,7 +88,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.116.232.39|/KlausFuchs:2.2.2.2/|60018|59257|45.116.232.0/24|PK|apnic|2015-05-12|CMPAKLIMITED-AS-AP CMPak Limited, PK
 45.116.233.38|/KlausFuchs:2.2.2.2/|60018|59257|45.116.233.0/24|PK|apnic|2015-05-12|CMPAKLIMITED-AS-AP CMPak Limited, PK
 45.56.150.183|/KlausFuchs:2.2.2.2/|60018|18450|45.56.150.0/24|US|arin|2015-01-27|WEBNX, US
-45.62.60.6|/KlausFuchs:2.2.2.2/|60018|53889|45.62.32.0/19|US|arin|2015-01-16|MICFO, US
 45.76.253.195|/KlausFuchs:2.2.2.2/|60018|20473|45.76.248.0/21|US|arin|2015-04-24|AS-CHOOPA, US
 46.101.235.143|/KlausFuchs:2.2.2.1/|60018|14061|46.101.128.0/17|NL|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.244.28.102|/SidneyReilly:0.7.8/|60018|36351|46.244.28.0/24|NL|ripencc|2010-12-28|SOFTLAYER, US
@@ -102,6 +101,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.229.163.73|/KlausFuchs:0.7.8/|60018|16509|54.229.128.0/17|US|arin|2012-03-01|AMAZON-02, US
 60.224.114.157|/KlausFuchs:2.2.2/|60018|1221|60.224.0.0/13|AU|apnic|2004-07-28|ASN-TELSTRA Telstra Corporation Ltd, AU
 62.195.42.12|/KlausFuchs:2.2.2.2/|60018|6830|62.195.0.0/16|NL|ripencc|2000-10-10|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+62.216.202.223|/KlausFuchs:2.2.2.2/|60018|8767|62.216.192.0/19|DE|ripencc|2005-04-20|MNET-AS Germany, DE
 62.216.207.239|/KlausFuchs:2.2.2.2/|60018|8767|62.216.192.0/19|DE|ripencc|2005-04-20|MNET-AS Germany, DE
 65.74.83.2|/KlausFuchs:2.2.2.1/|60018|8047|65.74.0.0/17|US|arin|2002-09-04|GCI, US
 66.41.163.241|/KlausFuchs:2.2.2.2/|60018|7922|66.41.0.0/16|US|arin|2000-11-07|COMCAST-7922, US
@@ -169,7 +169,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.65.251.75|/KlausFuchs:2.2.2/|60018|31334|91.65.251.0/24|DE|ripencc|2006-07-10|KABELDEUTSCHLAND-AS, DE
 92.110.25.183|/KlausFuchs:2.2.2.2/|60018|6830|92.110.0.0/15|NL|ripencc|2007-10-23|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 92.111.14.232|/KlausFuchs:2.2.2.2/|60018|6830|92.110.0.0/15|NL|ripencc|2007-10-23|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
-93.215.49.120|/KlausFuchs:2.2.2.2/|60018|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.237.17.72|/KlausFuchs:2.2.2.2/|60018|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.237.20.95|/KlausFuchs:2.2.2.2/|60018|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.45.95.49|/KlausFuchs:2.2.2.2/|60018|12874|93.44.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
