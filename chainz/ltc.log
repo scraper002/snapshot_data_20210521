@@ -5,6 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.207.242.12|/bitcore:1.1.0-exodus2/|70003|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
 108.39.46.31|/LitecoinCore:0.16.3/|70015|701|108.39.0.0/17|US|arin|2009-06-05|UUNET, US
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002|20473|108.61.178.0/23|US|arin|2010-12-08|AS-CHOOPA, US
+109.226.177.113|/bitcore:1.1.0-exodus2/|70003|21032|109.226.128.0/18|DE|ripencc|2010-01-27|TELTA-AS, DE
 109.48.1.123|/bitcore:1.1.0-exodus2/|70003|2860|109.48.0.0/18|PT|ripencc|2009-10-19|NOS_COMUNICACOES, PT
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -39,7 +40,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.126.15.42|/bitcore:1.1.0-exodus2/|70003|44172|176.126.0.0/20|RU|ripencc|2012-09-13|COURIER-PLUS-AS, RU
 176.227.235.41|/carrot.atalanta.snowflake:0.4/|70015|198336|176.227.234.0/23|CY|ripencc|2011-12-05|CUT, CY
 176.59.49.92|/bitcore:1.1.0-exodus2/|70003|12958|176.59.48.0/22|RU|ripencc|2011-06-06|MCC Tele2 Russia Network, RU
-178.121.35.237|/loaf-android:175/|70015|6697|178.121.32.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.147.58.70|/bitcore:1.1.0-exodus2/|70003|6799|178.147.0.0/16|GR|ripencc|2010-03-05|OTENET-GR Athens - Greece, GR
 178.63.25.224|/CounosXCore:0.17.2/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 179.154.152.164|/bitcore:1.1.0-exodus2/|70003|28573|179.154.152.0/21|BR|lacnic|2013-08-14|CLARO S.A., BR
@@ -55,6 +55,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.65.184.203|/bitcore:1.1.0-exodus2/|70003|6327|184.65.184.0/22|CA|arin|2010-01-15|SHAW, CA
 185.221.202.25|/LitecoinCore:0.17.1/|70015|204196|185.221.200.0/22|NL|ripencc|2017-09-20|ABELOHOST, NL
 185.64.106.227|/LitecoinCore:0.17.1/|70015|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
+188.138.170.110|/bitcore:1.1.0/|70003|31252|188.138.128.0/17|MD|ripencc|2011-01-07|STARNET-AS, MD
 188.164.146.33|/bitcore:1.1.0-exodus2/|70003|31608|188.164.144.0/21|PL|ripencc|2012-09-12|GAWEX-AS Plac Wolnosci 11 Szczecinek, PL
 188.165.192.153|/LitecoinCore:0.17.1/|70015|16276|188.165.0.0/16|FR|ripencc|2009-06-05|OVH, FR
 188.165.237.47|/DigitaleuroCore:0.16.3/|70015|16276|188.165.0.0/16|FR|ripencc|2009-06-05|OVH, FR
@@ -77,7 +78,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.236.99.67|/bitcore:1.1.0-exodus2/|70003|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.92.177.15|/bitcore:1.1.0-exodus2/|70003|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 218.200.14.18|/LitecoinCore:0.15.1/|70015|9808|218.200.0.0/18|CN|apnic|2001-11-06|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
-220.233.107.20|/bitcore:1.1.0-exodus2/|70003|10143|220.233.64.0/18|AU|apnic|2004-02-09|EXETEL-AS-AP Exetel Pty Ltd, AU
 222.153.95.4|/bitcore:1.1.0-exodus2/|70003|4771|222.153.88.0/21|NZ|apnic|2004-12-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
 24.144.129.151|/bitcore:1.1.0-exodus2/|70003|27364|24.144.128.0/19|US|arin|2003-11-11|ACS-INTERNET, US
 24.240.116.160|/bitcore:1.1.0-exodus2/|70003|20115|24.240.112.0/21|US|arin|1999-12-17|CHARTER-20115, US
@@ -103,6 +103,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+5.249.27.95|/bitcore:1.1.0-exodus2/|70003|12353|5.249.0.0/17|PT|ripencc|2012-09-13|VODAFONE-PT Vodafone Portugal, PT
 5.62.20.19|/bitcore:1.1.0-exodus2/|70003|198605|5.62.20.0/24|GB|ripencc|2012-06-08|AVAST-AS-DC, CZ
 5.81.245.5|/bitcore:1.1.0-exodus2/|70003|2856|5.81.0.0/16|GB|ripencc|2012-06-13|BT-UK-AS BTnet UK Regional network, GB
 51.154.172.180|/bitcore:1.1.0-exodus2/|70003|15796|51.154.0.0/16|CH|ripencc|1993-09-01|SALT-, CH
