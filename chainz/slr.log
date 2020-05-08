@@ -52,7 +52,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.211.62.92|/Satoshi:2.1.8/|70005|11426|24.211.32.0/19|US|arin|2001-06-29|TWC-11426-CAROLINAS, US
 31.150.108.111|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 37.160.177.132|/Satoshi:2.1.8/|70005|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
-37.160.31.45|/Satoshi:2.1.8/|70005|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.161.149.110|/Satoshi:2.1.8/|70005|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.201.168.52|/Satoshi:2.1.8/|70005|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 37.201.213.38|/Satoshi:2.1.8/|70005|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
@@ -61,6 +60,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 40.117.251.125|/Satoshi:2.1.8/|70005|8075|40.64.0.0/10|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
 41.13.56.242|/Satoshi:2.1.8/|70005|29975|41.13.0.0/18|ZA|afrinic|2007-11-26|VODACOM-, ZA
 43.249.199.20|/Satoshi:2.1.8/|70005|132449|43.249.199.0/24|NZ|apnic|2014-10-14|WIRELESSNATION-NZ Wireless Nation, NZ
+45.248.79.252|/Satoshi:2.1.8/|70005|136557|45.248.79.0/24|AU|apnic|2016-05-04|HOST-AS-AP Host Universal Pty Ltd, AU
 45.89.174.92|/Satoshi:2.1.8/|70005|9009|45.89.174.0/24|RO|ripencc|2019-06-21|M247, GB
 46.151.159.53|/Satoshi:2.1.8/|70005|50473|46.151.152.0/21|RU|ripencc|2010-12-06|ECO-AS, RU
 46.223.163.161|/Satoshi:2.1.8/|70005|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
@@ -71,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.186.115.45|/Satoshi:2.1.8/|70005|44869|5.186.0.0/16|DK|ripencc|2012-08-08|FIBIA-P-S, DK
 50.235.116.34|/Satoshi:2.1.8/|70005|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 50.34.43.235|/Satoshi:2.1.8/|70005|27017|50.34.0.0/16|US|arin|2010-09-24|NWFBR, US
+50.35.128.26|/Satoshi:2.1.8/|70005|27017|50.35.128.0/18|US|arin|2010-09-24|NWFBR, US
 51.144.254.155|/Satoshi:2.1.8/|70005|8075|51.144.0.0/15|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
 54.147.243.203|/Satoshi:2.1.8/|70005|14618|54.144.0.0/14|US|arin|2014-10-23|AMAZON-AES, US
 58.178.231.177|/Satoshi:2.1.8/|70005|9443|58.178.224.0/21|AU|apnic|2005-06-15|INTERNETPRIMUS-AS-AP Primus Telecommunications, AU
@@ -139,12 +140,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.45.20.213|/Satoshi:2.1.8/|70005|3215|90.45.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.11.207.239|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.126.23.76|/Satoshi:2.1.8/|70005|35699|91.126.16.0/20|ES|ripencc|2006-10-24|ADAMOEU-AS Adamo Telecom Iberia S.A., ES
-91.142.17.47|???|0|21013|91.142.16.0/20|AT|ripencc|2006-10-10|ITANDTEL-AS Wels, AT
+91.142.17.47|/Satoshi:2.1.8/|70005|21013|91.142.16.0/20|AT|ripencc|2006-10-10|ITANDTEL-AS Wels, AT
 91.16.47.220|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.187.73.72|/Satoshi:2.1.8/|70005|6752|91.187.72.0/22|AD|ripencc|2006-11-17|ANDORRA Andorra Telecom, AD
 91.66.141.112|/Satoshi:2.1.8/|70005|31334|91.66.128.0/17|DE|ripencc|2006-07-10|KABELDEUTSCHLAND-AS, DE
 92.112.126.250|/Satoshi:2.1.8/|70005|6849|92.112.126.0/23|UA|ripencc|2007-10-04|UKRTELNET, UA
-92.116.252.228|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 93.165.41.161|/Satoshi:2.1.8/|70005|3292|93.160.0.0/13|DK|ripencc|2008-02-07|TDC TDC A/S, DK
 93.200.85.76|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.202.12.102|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
