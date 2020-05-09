@@ -216,6 +216,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 15.165.24.244|9333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.165.61.169|55521|/RBTOCore:0.16.3/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.188.15.96|9333|/Satoshi:0.13.2/|16509|15.188.0.0/16|US|arin|2018-09-27|AMAZON-02, US
+15.236.158.98|9333|/LitecoinCore:0.17.1/|16509|15.236.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 151.80.20.129|9333|/LitecoinCore:0.15.1/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 155.143.190.63|9333|/LitecoinCore:0.17.1/|135887|155.143.0.0/16|AU|apnic|1991-11-13|TELSTRA-BELONG-AP Telstra Corporation, AU
 156.231.32.20|11081|/WorldcoinFoundation:0.8.7.5/|26484|156.231.32.0/24|SC|afrinic|2015-12-22|IKGUL-26484, US
@@ -425,7 +426,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.243.112.158|9333|/LitecoinCore:0.16.0/|205406|185.243.112.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.243.113.243|9333|/LitecoinCore:0.13.2(bitcore)/|205406|185.243.113.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.25.60.199|33666|/CypherfunkCore:0.15.2/|8496|185.25.60.0/24|RU|ripencc|2013-04-29|RU-OPTIBIT, RU
-185.26.145.187|9333|/LitecoinCore:0.17.1/|60721|185.26.145.0/24|TR|ripencc|2013-05-22|BURSABIL, TR
 185.26.28.173|7203|/LitecoinCore:0.16.3/|31415|185.26.28.0/24|RU|ripencc|2013-05-14|SVSCOMM-AS, RU
 185.49.69.70|9333|/LitecoinCore:0.17.1/|28753|185.49.68.0/22|GB|ripencc|2014-02-28|LEASEWEB-DE-FRA-10, DE
 185.64.104.2|9333|/LitecoinCore:0.17.1/|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
@@ -552,7 +552,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:470:21f6::2|9333|/LitecoinCore:0.17.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:470:7d79::4|9333|/LitecoinCore:0.17.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:470:c402:20::102|9333|/LitecoinCore:0.17.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
-2001:48f8:2c:11bc:4941:d391:f78d:7d17|9333|/LitecoinCore:0.14.2/|11232|2001:48f8::/32|US|arin|2005-06-30|MIDCO-NET, US
+2001:48f8:2c:11bc:7db3:c53e:2ba9:6dbc|9333|/LitecoinCore:0.14.2/|11232|2001:48f8::/32|US|arin|2005-06-30|MIDCO-NET, US
 2001:48f8:9021:b4e:42:81ff:fef4:fb6d|9333|/FutureBit-ApolloCore:0.17.1/|11232|2001:48f8::/32|US|arin|2005-06-30|MIDCO-NET, US
 2001:4ba0:cafe:622::1|9333|/LitecoinCore:0.17.1/|24961|2001:4ba0::/32|DE|ripencc|2008-09-30|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 2001:67c:2b0:db32:0:1:55bf:c833|9333|/LitecoinCore:0.17.1/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
@@ -576,6 +576,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:b072:de99:1:d535:e9c1:16d1:6ded|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b212:cc33::b212:cc33|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:d3:9f15:6b00:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
@@ -914,6 +915,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.122.107.69|9333|/LitecoinCore:0.17.1/|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.124.152.213|9333|/LitecoinCore:0.17.1/|16509|3.124.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.124.61.225|49333|/LitecoinCore:0.17.1/|16509|3.124.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.127.148.254|9333|/LitecoinCore:0.17.1/|16509|3.124.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.133.174.237|9333|/LitecoinCore:0.17.1/|16509|3.132.0.0/14|US|arin|2018-06-25|AMAZON-02, US
 3.133.79.205|12344|/FaxtcoinCore:0.18.1/|16509|3.132.0.0/14|US|arin|2018-06-25|AMAZON-02, US
 3.137.61.223|49333|/LitecoinCore:0.17.1/|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
@@ -1347,6 +1349,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.175.125.210|9333|/LitecoinCore:0.16.3/|9125|79.175.64.0/18|RS|ripencc|2007-11-12|ORIONTELEKOM-AS, RS
 79.18.121.18|9333|/LitecoinCore:0.17.1/|3269|79.18.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 79.183.105.28|9333|/LitecoinCore:0.17.1/|8551|79.183.105.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+79.224.37.140|9333|/LitecoinCore:0.17.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.31.76.87|9333|/LitecoinCore:0.16.3/|3269|79.30.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 79.98.159.7|9333|/LitecoinCore:0.16.3/|44065|79.98.152.0/21|CZ|ripencc|2007-11-06|NETAIR-AS, CZ
 80.0.27.75|9333|/LitecoinCore:0.17.1/|5089|80.0.0.0/16|GB|ripencc|2001-04-25|NTL, GB
