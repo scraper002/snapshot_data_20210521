@@ -14,7 +14,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002|20473|108.61.178.0/23|US|arin|2010-12-08|AS-CHOOPA, US
 109.180.108.74|/bitcore:1.1.0-exodus2/|70003|12576|109.180.0.0/16|GB|ripencc|2009-09-25|EE Ltd, GB
 109.226.177.113|/bitcore:1.1.0-exodus2/|70003|21032|109.226.128.0/18|DE|ripencc|2010-01-27|TELTA-AS, DE
-109.227.81.62|/bitcore:1.1.0-exodus2/|70003|25133|109.227.64.0/19|UA|ripencc|2010-02-01|MCLAUT-AS, UA
 109.40.241.92|/bitcore:1.1.0-exodus2/|70003|3209|109.40.192.0/18|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
 110.132.53.191|/bitcore:1.1.0-exodus2/|70003|9824|110.132.0.0/16|JP|apnic|2009-04-16|JTCL-JP-AS Jupiter Telecommunication Co. Ltd, JP
 110.54.131.16|/bitcore:1.1.0/|70003|132199|110.54.131.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
@@ -33,6 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 148.66.11.205|/LitecoinCore:0.14.2/|70015|45753|148.66.11.0/24|HK|apnic|1991-04-11|NETSEC-HK NETSEC, HK
 148.74.182.163|/bitcore:1.1.0-exodus2/|70003|6128|148.74.0.0/15|US|arin|2015-05-14|CABLE-NET-1, US
+15.165.61.169|/RBTOCore:0.16.3/|70015|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 152.32.110.173|/bitcore:1.1.0/|70003|17639|152.32.110.0/23|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
 154.127.127.72|/bitcore:1.1.0-exodus2/|70003|37358|154.127.112.0/20|ZA|afrinic|2014-02-28|BITCO, ZA
 154.245.201.137|/LitecoinCore:0.17.1/|70015|36947|154.244.0.0/15|DZ|afrinic|2016-04-26|ALGTEL-AS, DZ
@@ -42,8 +42,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.255.159.59|/bitcore:1.1.0-exodus1/|70003|37611|165.255.0.0/16|ZA|afrinic|2015-08-25|Afrihost, ZA
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
-173.177.160.120|/bitcore:1.1.0-exodus2/|70003|5769|173.177.128.0/18|CA|arin|2009-04-27|VIDEOTRON, CA
 173.212.194.178|/LitecoinCore:0.17.1/|70015|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+174.17.31.224|/bitcore:1.1.0-exodus2/|70003|209|174.17.0.0/16|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
 174.255.2.241|/bitcore:1.1.0-exodus2/|70003|6167|174.255.0.0/18|US|arin|2008-12-16|CELLCO-PART, US
 176.218.91.14|/bitcore:1.1.0-exodus2/|70003|8386|176.218.88.0/21|TR|ripencc|2011-11-17|KOCNET, TR
 176.227.235.41|/carrot.atalanta.snowflake:0.4/|70015|198336|176.227.234.0/23|CY|ripencc|2011-12-05|CUT, CY
@@ -57,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.195.155.246|/LitecoinCore:0.17.1/|70015|16509|18.194.0.0/15|US|arin|2018-06-29|AMAZON-02, US
 18.204.210.221|/Dain:0.1.0/|70003|14618|18.204.0.0/14|US|arin|2018-06-29|AMAZON-AES, US
 180.196.70.142|/Satoshi:0.8.7.4/|70002|18126|180.196.0.0/16|JP|apnic|2009-09-18|CTCX Chubu Telecommunications Company, Inc., JP
+181.21.102.69|/bitcore:1.1.0-exodus2/|70003|22927|181.20.0.0/14|AR|lacnic|2011-01-13|Telefonica de Argentina, AR
 183.89.221.50|/litecoinj:0.15.2-SNAPSHOT/|70002|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 185.147.15.8|/bitcore:1.1.0-exodus2/|70003|24875|185.147.12.0/22|NL|ripencc|2016-04-12|NOVOSERVE-AS, NL
 185.221.202.25|/LitecoinCore:0.17.1/|70015|204196|185.221.200.0/22|NL|ripencc|2017-09-20|ABELOHOST, NL
@@ -160,7 +161,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 8.40.179.85|/bitcore:1.1.0-exodus2/|70003|35986|8.40.176.0/21|US|arin|1992-12-01|VYVE-BROADBAND, US
 80.108.82.95|Custom 1.0|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 80.241.222.199|/DigitaleuroCore:0.16.3/|70015|51167|80.241.222.0/23|DE|ripencc|2011-02-14|CONTABO, DE
-81.185.168.132|/loaf-android:175/|70015|12626|81.185.0.0/16|FR|ripencc|2002-12-30|AS12626, FR
 81.205.96.4|/bitcore:1.1.0-exodus2/|70003|1136|81.204.0.0/14|NL|ripencc|2002-10-16|KPN KPN National, EU
 82.16.166.217|/LitecoinCore:0.17.1/|70015|5089|82.16.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.221.107.65|/WecoinCore:0.13.3.2/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
@@ -183,6 +183,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.178.206.66|/bitcore:1.1.0-exodus2/|70003|5432|91.176.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.240.142.228|/LitecoinCore:0.17.1/|70015|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 91.253.166.53|/bitcore:1.1.0-exodus2/|70003|24608|91.253.128.0/17|IT|ripencc|2012-09-14|WINDTRE-AS, IT
+92.176.52.147|/bitcore:1.1.0-exodus2/|70003|12479|92.176.52.0/22|FR|ripencc|2007-07-12|UNI2-AS, ES
 93.182.75.90|/LitecoinCore:0.17.1/|70015|44558|93.182.75.0/24|TR|ripencc|2008-05-06|NETONLINE, TR
 94.177.228.169|/LitecoinCore:0.17.1/|70015|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
 94.217.20.92|/DigitaleuroCore:0.16.3/|70015|3209|94.216.0.0/13|DE|ripencc|2008-07-28|VODANET International IP-Backbone of Vodafone, DE
