@@ -91,7 +91,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.227.104.231|/bitcore:1.1.0-exodus2/|70003|12175|216.227.104.0/21|US|arin|2004-05-03|YELMNET, US
 217.138.200.254|/bitcore:1.1.0-exodus2/|70003|9009|217.138.200.0/24|GB|ripencc|2001-01-31|M247, GB
 217.160.13.172|/litecoinj:0.15.2-SNAPSHOT/|70002|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.236.99.67|/bitcore:1.1.0-exodus2/|70003|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 222.154.2.141|/bitcore:1.1.0-exodus2/|70003|4771|222.154.0.0/21|NZ|apnic|2004-12-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
 24.240.116.160|/bitcore:1.1.0-exodus2/|70003|20115|24.240.112.0/21|US|arin|1999-12-17|CHARTER-20115, US
 24.255.57.96|/bitcore:1.1.0-exodus2/|70003|22773|24.255.0.0/18|US|arin|2003-10-28|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -114,6 +113,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.23.35.70|/DigitaleuroCore:0.16.3/|70015|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
 46.4.197.39|/CounosCoinCore:0.15.3.2/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 47.152.134.249|/bitcore:1.1.0-exodus2/|70003|5650|47.152.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
+47.252.1.103|/LitecoinCore:0.14.2/|70015|45102|47.252.0.0/18|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.56.247.73|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -169,11 +169,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.166.166.107|/bitcore:1.1.0-exodus2/|70003|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.19.48.107|/bitcore:1.1.0-exodus2/|70003|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
 86.203.105.224|/bitcore:1.1.0-exodus2/|70003|3215|86.203.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-87.102.156.197|/bitcore:1.1.0-exodus2/|70003|6772|87.102.128.0/17|CH|ripencc|2005-10-19|IMPNET-AS, CH
-87.156.5.84|/bitcore:1.1.0-exodus2/|70003|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.220.79.24|/FutureBit-ApolloCore:0.17.1/|70015|12479|87.220.76.0/22|ES|ripencc|2005-06-07|UNI2-AS, ES
 87.239.255.13|/LitecoinCore:0.17.1/|70015|12400|87.239.255.0/24|GB|ripencc|2006-05-11|PARTNER-AS, IL
 88.152.185.47|/bitcore:1.1.0-exodus2/|70003|6830|88.152.0.0/16|DE|ripencc|2008-04-14|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+88.22.183.243|/bitcore:1.1.0-exodus2/|70003|3352|88.22.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
 88.84.131.86|/LitecoinCore:0.17.1/|70015|15830|88.84.128.0/21|DE|ripencc|2006-01-18|EQUINIX-CONNECT-EMEA, GB
 89.103.88.11|/bitcore:1.1.0-exodus2/|70003|6830|89.103.0.0/16|CZ|ripencc|2006-02-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.143.75.213|/bitcore:1.1.0-exodus2/|70003|5603|89.143.64.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
@@ -192,7 +191,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.138.91.95|/bitcore:1.1.0-exodus2/|70003|21351|95.138.0.0/17|FR|ripencc|2009-03-23|CANALPLUSTELECOM, FR
 95.144.30.176|/bitcore:1.1.0-exodus2/|70003|12576|95.144.0.0/16|GB|ripencc|2009-01-19|EE Ltd, GB
 95.216.122.142|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.250.33|/CounosCoinCore:0.15.4/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.250.35|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.68.148|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.41.214.77|/bitcore:1.1.0-exodus2/|70003|8374|95.40.0.0/15|PL|ripencc|2008-10-13|PLUSNET Plus network operator in Poland, PL
