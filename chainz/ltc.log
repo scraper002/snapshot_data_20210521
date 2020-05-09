@@ -33,7 +33,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.89.135.198|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|159.89.128.0/20|US|arin|2017-07-07|DIGITALOCEAN-ASN, US
 162.253.130.44|/bitcore:1.1.0-exodus2/|70003|32489|162.253.130.0/24|CA|arin|2014-02-18|AMANAHA-NEW, CA
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
-162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.227.144.131|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.144.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 173.177.160.120|/bitcore:1.1.0-exodus2/|70003|5769|173.177.128.0/18|CA|arin|2009-04-27|VIDEOTRON, CA
@@ -72,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.210.84.104|/loaf-android:175/|70015|29465|197.210.84.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.211.61.194|/loaf-android:175/|70015|37148|197.211.61.0/24|NG|afrinic|2012-12-21|globacom-as, NG
 201.206.158.137|/bitcore:1.1.0-exodus2/|70003|11830|201.206.156.0/22|CR|lacnic|2005-05-30|Instituto Costarricense de Electricidad y Telecom., CR
+201.43.192.186|/bitcore:1.1.0-exodus2/|70003|27699|201.42.0.0/15|BR|lacnic|2005-07-08|TELEFONICA BRASIL S.A, BR
 203.213.227.68|/bitcore:1.1.0-exodus2/|70003|24033|203.213.224.0/20|AU|apnic|2006-03-31|ACTIV8ME-AS-AP Australian Private Networks Pty Ltd, AU
 207.180.231.151|Merge DNS Seeder - Visit us www.projectmerge.org|70913|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 208.180.116.136|/bitcore:1.1.0-exodus2/|70003|19108|208.180.0.0/16|US|arin|1999-05-07|SUDDENLINK-COMMUNICATIONS, US
@@ -98,7 +98,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.20.131.92|/LitecoinCore:0.17.1/|70015|12389|37.20.0.0/16|RU|ripencc|2011-12-21|ROSTELECOM-AS, RU
 37.4.253.47|/bitcore:1.1.0-exodus2/|70003|31334|37.4.252.0/23|DE|ripencc|2011-12-09|KABELDEUTSCHLAND-AS, DE
 41.104.78.150|/LitecoinCore:0.17.1/|70015|36947|41.104.64.0/19|DZ|afrinic|2009-05-04|ALGTEL-AS, DZ
-45.123.106.213|/bitcore:1.1.0-exodus2/|70003|38835|45.123.106.0/24|AU|apnic|2015-07-14|VIAIP-AS-AP Buroserv Australia Pty Ltd, AU
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.79.57.234|/LitecoinCore:0.17.1/|70015|63949|45.79.32.0/19|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
 45.82.137.143|/CounosCoinCore:0.15.4/|70015|202468|45.82.137.0/24|IR|ripencc|2019-05-23|ABRARVAN-AS AbrArvan CDN and IaaS, IR
@@ -186,6 +185,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.177.228.169|/LitecoinCore:0.17.1/|70015|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
 94.217.20.92|/DigitaleuroCore:0.16.3/|70015|3209|94.216.0.0/13|DE|ripencc|2008-07-28|VODANET International IP-Backbone of Vodafone, DE
 94.242.219.69|/LitecoinCore:0.15.1/|70015|5577|94.242.192.0/18|LU|ripencc|2008-10-21|ROOT, LU
+95.138.91.95|/bitcore:1.1.0-exodus2/|70003|21351|95.138.0.0/17|FR|ripencc|2009-03-23|CANALPLUSTELECOM, FR
 95.144.30.176|/bitcore:1.1.0-exodus2/|70003|12576|95.144.0.0/16|GB|ripencc|2009-01-19|EE Ltd, GB
 95.153.134.77|/bitcore:1.1.0-exodus2/|70003|29497|95.153.134.0/23|RU|ripencc|2009-02-23|KUBANGSM, RU
 95.168.164.216|/LitecoinCore:0.17.1/|70015|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
@@ -200,6 +200,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.90.255.104|/bitcore:1.1.0-exodus2/|70003|31334|95.90.254.0/23|DE|ripencc|2008-12-15|KABELDEUTSCHLAND-AS, DE
 96.59.230.26|/bitcore:1.1.0-exodus2/|70003|33363|96.58.0.0/15|US|arin|2008-02-29|BHN-33363, US
 96.78.70.61|/bitcore:1.1.0-exodus2/|70003|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
-97.88.191.59|/bitcore:1.1.0-exodus2/|70003|20115|97.88.160.0/19|US|arin|2007-03-21|CHARTER-20115, US
 98.167.187.137|/bitcore:1.1.0-exodus2/|70003|22773|98.167.128.0/17|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
 99.112.70.214|/loaf:2.1/|70015|7018|99.112.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
