@@ -81,7 +81,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.254.175.24|9333|/LitecoinCore:0.17.1/|3786|121.254.128.0/17|KR|apnic|2006-05-29|LGDACOM LG DACOM Corporation, KR
 121.254.175.39|9333|/LitecoinCore:0.16.3/|3786|121.254.128.0/17|KR|apnic|2006-05-29|LGDACOM LG DACOM Corporation, KR
 122.116.42.140|9333|/LitecoinCore:0.17.1/|3462|122.116.0.0/16|TW|apnic|2006-07-31|HINET Data Communication Business Group, TW
-122.51.171.31|9333|/LitecoinCore:0.17.1/|45090|122.51.128.0/18|CN|apnic|2006-07-19|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 128.199.233.226|9333|/LitecoinCore:0.16.3/|14061|128.199.192.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.253.72|9333|/LitecoinCore:0.15.1/|14061|128.199.192.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.37.152|9333|/LitecoinCore:0.17.1/|14061|128.199.32.0/19|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -391,6 +390,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.220.91.12|9333|/LitecoinCore:0.16.3/|16509|18.220.0.0/14|US|arin|2018-06-29|AMAZON-02, US
 18.222.121.178|9333|/LitecoinCore:0.17.1/|16509|18.220.0.0/14|US|arin|2018-06-29|AMAZON-02, US
 18.224.68.55|12344|/FaxtcoinCore:0.18.1/|16509|18.224.0.0/14|US|arin|2018-06-29|AMAZON-02, US
+181.198.182.19|9333|/LitecoinCore:0.17.1/|27947|181.198.160.0/19|EC|lacnic|2012-09-10|Telconet S.A, EC
 181.45.235.239|9333|/LitecoinCore:0.17.1/|27747|181.45.224.0/20|AR|lacnic|2013-12-16|Telecentro S.A., AR
 182.61.169.248|9333|/LitecoinCore:0.16.3/|55967|182.61.160.0/19|CN|apnic|2010-02-25|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 182.61.36.50|10333|/LitecoinCore:0.17.1/|38365|182.61.36.0/23|CN|apnic|2010-02-25|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
@@ -425,6 +425,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.243.112.158|9333|/LitecoinCore:0.16.0/|205406|185.243.112.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.243.113.243|9333|/LitecoinCore:0.13.2(bitcore)/|205406|185.243.113.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.25.60.199|33666|/CypherfunkCore:0.15.2/|8496|185.25.60.0/24|RU|ripencc|2013-04-29|RU-OPTIBIT, RU
+185.26.145.187|9333|/LitecoinCore:0.17.1/|60721|185.26.145.0/24|TR|ripencc|2013-05-22|BURSABIL, TR
 185.26.28.173|7203|/LitecoinCore:0.16.3/|31415|185.26.28.0/24|RU|ripencc|2013-05-14|SVSCOMM-AS, RU
 185.49.69.70|9333|/LitecoinCore:0.17.1/|28753|185.49.68.0/22|GB|ripencc|2014-02-28|LEASEWEB-DE-FRA-10, DE
 185.64.104.2|9333|/LitecoinCore:0.17.1/|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
@@ -572,7 +573,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -1475,7 +1475,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.23.18.229|9333|/LitecoinCore:0.17.1/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
 94.23.50.78|9333|/Satoshi:0.13.2/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
 94.23.56.131|9333|/LitecoinCore:0.17.1/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
-94.242.213.181|9333|/LitecoinCore:0.17.1/|5577|94.242.192.0/18|LU|ripencc|2008-10-21|ROOT, LU
 94.242.229.219|9333|/LitecoinCore:0.17.1/|5577|94.242.192.0/18|LU|ripencc|2008-10-21|ROOT, LU
 94.79.55.28|9333|/LitecoinCore:0.16.3/|48614|94.79.54.0/23|RU|ripencc|2008-08-27|ITSOFT-AS, RU
 95.111.230.55|9333|/LitecoinCore:0.17.1/|51167|95.111.230.0/23|DE|ripencc|2008-12-30|CONTABO, DE
