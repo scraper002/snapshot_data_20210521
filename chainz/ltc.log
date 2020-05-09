@@ -41,6 +41,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.255.2.241|/bitcore:1.1.0-exodus2/|70003|6167|174.255.0.0/18|US|arin|2008-12-16|CELLCO-PART, US
 176.227.235.41|/carrot.atalanta.snowflake:0.4/|70015|198336|176.227.234.0/23|CY|ripencc|2011-12-05|CUT, CY
 178.147.58.70|/bitcore:1.1.0-exodus2/|70003|6799|178.147.0.0/16|GR|ripencc|2010-03-05|OTENET-GR Athens - Greece, GR
+178.33.144.176|/bitcore:1.1.0-exodus2/|70003|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.33.209.123|/bitcore:1.1.0-exodus2/|70003|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.63.71.183|/LitecoinCore:0.17.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 179.108.251.174|/bitcore:1.1.0-exodus2/|70003|263276|179.108.250.0/23|BR|lacnic|2014-04-14|BBG TELECOM, BR
@@ -69,6 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.142.51.235|/bitcore:1.1.0-exodus2/|70003|21826|190.142.51.0/24|VE|lacnic|2007-01-23|Corporacion Telemic C.A., VE
 190.237.18.192|/bitcore:1.1.0-exodus2/|70003|6147|190.237.18.0/24|PE|lacnic|2010-06-11|Telefonica del Peru S.A.A., PE
 190.237.89.178|/bitcore:1.1.0-exodus2/|70003|6147|190.237.89.0/24|PE|lacnic|2010-06-11|Telefonica del Peru S.A.A., PE
+193.111.223.123|/bitcore:1.1.0-exodus2/|70003|3212|193.111.220.0/22|SI|ripencc|2002-05-16|TELEMACH Broadband Access & Carrier Services, SI
 194.19.235.71|/DigitaleuroCore:0.16.3/|70015|5518|194.19.224.0/19|LV|ripencc|1996-02-06|TELIALATVIJA, LV
 197.210.84.104|/loaf-android:175/|70015|29465|197.210.84.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.211.61.194|/loaf-android:175/|70015|37148|197.211.61.0/24|NG|afrinic|2012-12-21|globacom-as, NG
@@ -84,7 +86,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.138.200.254|/bitcore:1.1.0-exodus2/|70003|9009|217.138.200.0/24|GB|ripencc|2001-01-31|M247, GB
 217.160.13.172|/litecoinj:0.15.2-SNAPSHOT/|70002|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
 217.236.99.67|/bitcore:1.1.0-exodus2/|70003|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
-217.92.177.15|/bitcore:1.1.0-exodus2/|70003|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 218.200.14.18|/LitecoinCore:0.15.1/|70015|9808|218.200.0.0/18|CN|apnic|2001-11-06|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 222.154.2.141|/bitcore:1.1.0-exodus2/|70003|4771|222.154.0.0/21|NZ|apnic|2004-12-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
 24.240.116.160|/bitcore:1.1.0-exodus2/|70003|20115|24.240.112.0/21|US|arin|1999-12-17|CHARTER-20115, US
@@ -105,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.229.196.203|/bitcore:1.1.0-exodus2/|70003|20911|46.229.196.0/22|BG|ripencc|2011-02-18|NETSURF-AS-, BG
 46.23.35.70|/DigitaleuroCore:0.16.3/|70015|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
 47.152.134.249|/bitcore:1.1.0-exodus2/|70003|5650|47.152.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
-47.185.231.126|/bitcore:1.1.0-exodus2/|70003|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -132,13 +132,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 69.245.172.211|/bitcore:1.1.0-exodus2/|70003|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 70.142.212.89|/bitcore:1.1.0/|70003|7018|70.136.0.0/13|US|arin|2005-04-15|ATT-INTERNET4, US
 70.173.96.209|/bitcore:1.1.0-exodus2/|70003|22773|70.173.0.0/16|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
-70.51.232.59|/bitcore:1.1.0-exodus2/|70003|577|70.51.0.0/16|CA|arin|2004-05-10|BACOM, CA
 72.135.224.85|/LitecoinCore:0.17.1/|70015|10796|72.135.192.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
 72.250.159.220|/bitcore:1.1.0-exodus2/|70003|11961|72.250.128.0/19|US|arin|2006-09-15|MIDRIVERS, US
 73.10.189.77|/bitcore:1.1.0/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.248.89.93|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.65.60.168|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-73.70.52.44|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.127.202.225|/bitcore:1.1.0-exodus2/|70003|22995|74.127.202.0/23|CA|arin|2007-04-03|BARR-XPLR-ASN, CA
 74.141.63.126|/bitcore:1.1.0-exodus2/|70003|10796|74.128.0.0/12|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 74.88.134.119|/bitcore:1.1.0-exodus2/|70003|6128|74.88.0.0/15|US|arin|2009-03-04|CABLE-NET-1, US
@@ -158,6 +156,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.16.166.217|/LitecoinCore:0.17.1/|70015|5089|82.16.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 85.146.4.215|/bitcore:1.1.0-exodus2/|70003|50266|85.146.0.0/17|NL|ripencc|2004-10-06|TMOBILE-THUIS, NL
 86.100.49.209|/DigitaleuroCore:0.16.3/|70015|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
+86.166.166.107|/bitcore:1.1.0-exodus2/|70003|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.19.48.107|/bitcore:1.1.0-exodus2/|70003|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
 87.102.156.197|/bitcore:1.1.0-exodus2/|70003|6772|87.102.128.0/17|CH|ripencc|2005-10-19|IMPNET-AS, CH
 87.156.5.84|/bitcore:1.1.0-exodus2/|70003|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
@@ -185,7 +184,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.144.30.176|/bitcore:1.1.0-exodus2/|70003|12576|95.144.0.0/16|GB|ripencc|2009-01-19|EE Ltd, GB
 95.153.134.77|/bitcore:1.1.0-exodus2/|70003|29497|95.153.134.0/23|RU|ripencc|2009-02-23|KUBANGSM, RU
 95.168.164.216|/LitecoinCore:0.17.1/|70015|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
-95.183.45.241|/bitcore:1.1.0-exodus2/|70003|209788|95.183.44.0/23|RU|ripencc|2009-02-10|CONVEX-REGIONS, RU
 95.216.122.142|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.250.33|/CounosCoinCore:0.15.4/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.250.35|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
@@ -196,6 +194,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.90.220.56|/bitcore:1.1.0-exodus2/|70003|31334|95.90.220.0/23|DE|ripencc|2008-12-15|KABELDEUTSCHLAND-AS, DE
 95.90.255.104|/bitcore:1.1.0-exodus2/|70003|31334|95.90.254.0/23|DE|ripencc|2008-12-15|KABELDEUTSCHLAND-AS, DE
 96.59.230.26|/bitcore:1.1.0-exodus2/|70003|33363|96.58.0.0/15|US|arin|2008-02-29|BHN-33363, US
-96.78.70.61|/bitcore:1.1.0-exodus2/|70003|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
 98.167.187.137|/bitcore:1.1.0-exodus2/|70003|22773|98.167.128.0/17|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
 99.112.70.214|/loaf:2.1/|70015|7018|99.112.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
