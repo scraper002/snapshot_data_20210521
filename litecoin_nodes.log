@@ -426,6 +426,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.243.112.158|9333|/LitecoinCore:0.16.0/|205406|185.243.112.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.243.113.243|9333|/LitecoinCore:0.13.2(bitcore)/|205406|185.243.113.0/24|NL|ripencc|2018-01-26|A2-AMS01 Access2.IT Group B.V., NL
 185.25.60.199|33666|/CypherfunkCore:0.15.2/|8496|185.25.60.0/24|RU|ripencc|2013-04-29|RU-OPTIBIT, RU
+185.26.145.187|9333|/LitecoinCore:0.17.1/|60721|185.26.145.0/24|TR|ripencc|2013-05-22|BURSABIL, TR
 185.26.28.173|7203|/LitecoinCore:0.16.3/|31415|185.26.28.0/24|RU|ripencc|2013-05-14|SVSCOMM-AS, RU
 185.49.31.162|9333|/LitecoinCore:0.14.2/|35179|185.49.31.0/24|PL|ripencc|2014-02-26|KORBANK-AS Korbank S. A., PL
 185.49.69.70|9333|/LitecoinCore:0.17.1/|28753|185.49.68.0/22|GB|ripencc|2014-02-28|LEASEWEB-DE-FRA-10, DE
@@ -571,9 +572,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:f40:908:3fef:add8:548b:6279:78e|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
 2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:b212:cc33::b212:cc33|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:d3:9f15:6b00:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
 202.186.232.72|9333|/LitecoinCore:0.17.1/|9930|202.186.0.0/15|MY|apnic|1996-10-29|TTNET-MY TIME dotCom Berhad, MY
@@ -895,7 +898,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a07:e00::67:89|9333|/LitecoinCore:0.17.1/|210083|2a07:e00::/48|SE|ripencc|2018-10-11|PRIVEX, SE
 2a07:e01:2::a|9333|/LitecoinCore:0.17.1/|210083|2a07:e01::/32|SE|ripencc|2018-10-11|PRIVEX, SE
 2a0b:4880::266e:96ff:fedb:7cdc|9333|/LitecoinCore:0.16.3/|48614|2a0b:4880::/48|RU|ripencc|2017-01-10|ITSOFT-AS, RU
-2c0f:f0f8:523:6400:d00a:dd4a:b42b:55fd|9333|/LitecoinCore:0.17.1/|36924|2c0f:f0f8::/32|TG|afrinic|2017-07-17|GVA-Canalbox, BJ
 3.0.102.83|22745|/MindexcoinCore:0.18.1/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.0.103.76|7721|/Satoshi:0.15.1.6/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.0.163.51|9333|/LitecoinCore:0.16.3/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
@@ -953,7 +955,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.240.134.246|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.240.159.106|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.240.177.12|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
-37.112.69.238|9432|/Satoshi:0.8.6.5/|49048|37.112.68.0/22|RU|ripencc|2012-02-09|TVER-AS, RU
 37.139.15.91|9333|/LitecoinCore:0.14.2/|14061|37.139.0.0/19|NL|ripencc|2012-02-24|DIGITALOCEAN-ASN, US
 37.187.118.150|9333|/LitecoinCore:0.17.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.121.67|9333|/LitecoinCore:0.14.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
@@ -984,6 +985,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 44.225.254.244|9333|/LitecoinCore:0.17.1/|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.252.250.223|9333|/LitecoinCore:0.17.1/|63760|45.252.248.0/22|VN|apnic|2016-06-02|AZDIGI-AS-VN AZDIGI Corporation, VN
 45.33.11.149|9333|/LitecoinCore:0.17.1/|63949|45.33.0.0/19|US|arin|2015-03-20|LINODE-AP Linode, LLC, US
+45.53.93.112|9333|/FutureBit-ApolloCore:0.17.1/|5650|45.52.0.0/15|US|arin|2015-01-29|FRONTIER-FRTR, US
 45.56.127.90|9333|/LitecoinCore:0.17.1/|63949|45.56.120.0/21|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 45.63.68.18|9333|/LitecoinCore:0.17.1/|20473|45.63.64.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 45.76.143.91|56969|/DigitaleuroCore:0.16.3/|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
