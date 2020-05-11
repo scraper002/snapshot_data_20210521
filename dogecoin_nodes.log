@@ -20,6 +20,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.178.98.66|22556|/Shibetoshi:1.10.0/|53755|107.178.64.0/18|US|arin|2014-02-10|IOFLOOD, US
 107.179.194.150|22556|/Shibetoshi:1.8.0/|5645|107.179.128.0/17|CA|arin|2014-01-30|TEKSAVVY, CA
 108.172.93.215|22556|/Shibetoshi:1.14.0/|852|108.172.0.0/16|CA|arin|2012-02-01|ASN852, CA
+111.108.29.123|22556|/Shibetoshi:1.10.0/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.229.127.66|22556|/Shibetoshi:1.14.2/|45090|111.229.64.0/18|CN|apnic|2009-07-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 111.230.193.206|22556|/Shibetoshi:1.10.0/|45090|111.230.192.0/18|CN|apnic|2009-07-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 112.118.59.249|22556|/Shibetoshi:1.10.0/|4760|112.118.32.0/19|HK|apnic|2009-01-22|HKTIMS-AP HKT Limited, HK
@@ -161,6 +162,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:470:1f06:a5f::2|22556|/Shibetoshi:1.14.2/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:bc8:4400:2000::170f|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4700:2400::100f|22556|/Shibetoshi:1.10.0/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
+2002:d8f5:ceb5::d8f5:ceb5|22556|/Shibetoshi:1.10.0/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:c8:bf2f:9c01:4ecc:6aff:fef6:bb10|22556|/Shibetoshi:1.14.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.125.31.93|22556|/Shibetoshi:1.10.0/|7545|202.125.31.0/24|AU|apnic|2005-05-23|TPG-INTERNET-AP TPG Telecom Limited, AU
 203.40.16.242|22556|/Shibetoshi:1.10.0/|1221|203.40.0.0/13|AU|apnic|1994-09-02|ASN-TELSTRA Telstra Corporation Ltd, AU
@@ -199,7 +201,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:6180:100:d0::948:8001|22556|/Shibetoshi:1.14.2/|14061|2400:6180:100::/40|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|22445|/Pandoshi:3.0.7.1/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8902::f03c:91ff:fe7b:172e|22445|/Pandoshi:3.0.7.1/|63949|2400:8902::/32|US|apnic|2016-08-05|LINODE-AP Linode, LLC, US
-2403:6200:88a4:10af:4846:8f03:cae:a082|22445|/Pandoshi:3.0.6.4/|45629|2403:6200::/32|TH|apnic|2010-07-14|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 2600:1700:b0d0:bb50::3f|22556|/Shibetoshi:1.14.2/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1700:daa:90::24|22556|/Shibetoshi:1.14.2(@_@)/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:3c00::f03c:91ff:fe89:52a0|22556|/Shibetoshi:1.10.0/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
@@ -414,7 +415,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.135.221.212|22556|/Shibetoshi:1.14.2/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.186.18.120|22556|/Shibetoshi:1.10.0/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.233.35.119|22556|/Shibetoshi:1.14.2/|3215|86.233.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-86.84.179.184|22556|/Shibetoshi:1.14.2/|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
+86.61.65.116|22445|/Pandoshi:3.0.6.4/|5603|86.61.64.0/18|SI|ripencc|2005-05-11|SIOL-NET Telekom Slovenije d.d., SI
 87.236.27.155|18478|/Shibetoshi:1.14.2/|12714|87.236.24.0/21|RU|ripencc|2005-07-18|TI-AS Moscow, Russia, RU
 88.110.252.46|22556|/Shibetoshi:1.10.0/|9105|88.110.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.150.230.97|22556|/Shibetoshi:1.14.2/|20860|88.150.230.0/24|GB|ripencc|2006-01-31|IOMART-AS, GB
