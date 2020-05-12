@@ -11,10 +11,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.136.81.83|/loaf:2.1/|70015|9808|117.136.81.0/24|CN|apnic|2007-07-17|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 117.2.19.99|/DigitaleuroCore:0.16.3/|70015|7552|117.2.18.0/23|VN|apnic|2007-05-21|VIETEL-AS-AP Viettel Group, VN
 118.148.182.20|/bitcore:1.1.0-exodus2/|70003|38793|118.148.128.0/18|NZ|apnic|2007-10-01|NZCOMMS-AS-AP Two Degrees Mobile Limited, NZ
-118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.224.50.199|/bitcore:1.1.0-exodus2/|70003|9790|119.224.0.0/17|NZ|apnic|2008-02-26|VOCUSGROUPNZ VocusGroup, NZ
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.79.39.22|/LitecoinCore:0.16.3/|70015|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+121.74.207.23|/bitcore:1.1.0-exodus2/|70003|9500|121.74.0.0/16|NZ|apnic|2008-04-18|VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
 121.99.142.151|/bitcore:1.1.0-exodus2/|70003|9790|121.98.0.0/15|NZ|apnic|2010-08-26|VOCUSGROUPNZ VocusGroup, NZ
 124.122.96.36|/bitcore:1.1.0-exodus2/|70003|17552|124.122.64.0/18|TH|apnic|2007-05-01|TRUE-AS-AP True Internet Co.,Ltd., TH
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -25,7 +25,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 134.209.189.138|/LitecoinCore:0.17.1/|70015|14061|134.209.176.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 139.168.206.118|/bitcore:1.1.0-exodus2/|70003|1221|139.168.0.0/16|AU|apnic|1990-03-24|ASN-TELSTRA Telstra Corporation Ltd, AU
-139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
@@ -53,7 +52,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.206.41.122|/bitcore:1.1.0-exodus2/|70003|1267|176.206.0.0/16|IT|ripencc|2011-09-05|ASN-WINDTRE IUNET, EU
 176.227.235.41|/carrot.atalanta.snowflake:0.4/|70015|198336|176.227.234.0/23|CY|ripencc|2011-12-05|CUT, CY
 177.102.36.251|/bitcore:1.1.0-exodus2/|70003|27699|177.102.0.0/16|BR|lacnic|2011-09-29|TELEFONICA BRASIL S.A, BR
-177.236.108.14|/bitcore:1.1.0-exodus2/|70003|28545|177.236.96.0/20|MX|lacnic|2013-11-08|Cablemas Telecomunicaciones SA de CV, MX
 178.157.252.87|/bitcore:1.1.0-exodus2/|70003|43557|178.157.192.0/18|DK|ripencc|2010-06-29|ASEMNET, DK
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 18.138.215.40|/bitcore:1.1.0-exodus2/|70003|16509|18.138.0.0/15|US|arin|2018-06-29|AMAZON-02, US
@@ -64,9 +62,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 183.89.221.50|/litecoinj:0.15.2-SNAPSHOT/|70002|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 185.108.105.77|/bitcore:1.1.0-exodus2/|70003|20860|185.108.105.0/24|PT|ripencc|2015-07-09|IOMART-AS, GB
 185.17.12.83|/bitcore:1.1.0-exodus2/|70003|51184|185.17.12.0/22|AT|ripencc|2013-01-25|FONIRA-, AT
-185.220.101.5|/LitecoinCore:0.17.1/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 185.221.202.25|/LitecoinCore:0.17.1/|70015|204196|185.221.200.0/22|NL|ripencc|2017-09-20|ABELOHOST, NL
-185.64.106.227|/LitecoinCore:0.17.1/|70015|61272|185.64.104.0/22|LT|ripencc|2014-07-18|IST-AS, LT
 185.94.193.198|/bitcore:1.1.0-exodus2/|70003|9009|185.94.193.0/24|GB|ripencc|2015-04-07|M247, GB
 185.99.254.38|/bitcore:1.1.0-exodus2/|70003|42831|185.99.252.0/22|US|ripencc|2015-05-12|UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location, GB
 187.107.33.64|/bitcore:1.1.0-exodus2/|70003|28573|187.107.32.0/20|BR|lacnic|2009-11-18|CLARO S.A., BR
