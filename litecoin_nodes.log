@@ -626,6 +626,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.47.26.58|9333|/LitecoinCore:0.17.1/|6830|213.47.0.0/17|AT|ripencc|1999-12-30|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 213.81.159.150|9333|/LitecoinCore:0.17.1/|6855|213.81.128.0/17|SK|ripencc|2001-05-14|SK-TELEKOM, SK
 216.108.16.201|9333|/LitecoinCore:0.17.1/|6058|216.108.16.0/23|CA|arin|1998-10-09|NORTHWESTEL-INC, CA
+216.108.236.180|9333|/LitecoinCore:0.17.1/|26277|216.108.236.0/24|US|arin|2008-04-11|PREMIANET, US
 216.189.154.133|9333|/LitecoinCore:0.17.1/|7489|216.189.154.0/24|US|arin|2014-08-29|HOSTUS-GLOBAL-AS HostUS, HK
 216.194.165.98|9333|/LitecoinCore:0.16.3/|22611|216.194.164.0/22|US|arin|2013-04-02|IMH-WEST, US
 216.218.213.188|7107|/FlashcoinCore:0.13.3.2/|6939|216.218.128.0/17|US|arin|1999-08-30|HURRICANE, US
@@ -845,9 +846,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:cb00:f98:ca00:493:1afa:5097:2d69|9555|/LitecoinCore:0.17.1/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e0a:373:dad0:1169:a531:ef93:3a64|9333|/LitecoinCore:0.17.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ec0f:c850:303e:4be3:f308:a85c|9333|/LitecoinCore:0.17.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
-2a01:e34:ed68:71e0:c91a:cac5:66b8:6edc|9333|/LitecoinCore:0.16.3/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
-2a01:e35:2f6b:5120:de60:88b9:5b1f:fb17|9333|/LitecoinCore:0.16.3/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1205:5035:6e00:fa32:e4ff:fe8c:333d|9333|/LitecoinCore:0.17.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:1205:c691:c8f0:8d75:7751:209c:cb8a|9333|/LitecoinCore:0.15.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.17.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
@@ -1174,6 +1173,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 58.174.178.198|9333|/FutureBit-ApolloCore:0.17.1/|1221|58.160.0.0/12|AU|apnic|2006-02-13|ASN-TELSTRA Telstra Corporation Ltd, AU
 58.229.208.217|9333|/LitecoinCore:0.14.2/|9318|58.224.0.0/13|KR|apnic|2005-06-27|SKB-AS SK Broadband Co Ltd, KR
 58.229.208.244|9333|/LitecoinCore:0.17.1/|9318|58.224.0.0/13|KR|apnic|2005-06-27|SKB-AS SK Broadband Co Ltd, KR
+58.64.166.196|9333|/LitecoinCore:0.16.3/|17444|58.64.160.0/19|HK|apnic|2006-09-19|NWT-AS-AP AS number for New World Telephone Ltd., HK
 59.110.22.131|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.110.30.9|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.148.23.172|9333|/LitecoinCore:0.17.1/|10103|59.148.23.0/24|HK|apnic|2004-11-03|HKBN-AS-AP HK Broadband Network Ltd., HK
@@ -1214,7 +1214,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.159.134.74|9333|/LitecoinCore:0.17.1(dc8ee71b9991a7b87e7a6116eea28aa7005e0acd)/|14051|67.159.128.0/19|US|arin|2006-12-27|SUREWEST, US
 67.177.253.109|9333|/FutureBit-ApolloCore:0.17.1/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
 67.183.29.123|9333|/LitecoinCore:0.16.3/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
-67.2.188.148|9333|/LitecoinCore:0.17.1/|209|67.2.0.0/16|US|arin|2001-07-26|CENTURYLINK-US-LEGACY-QWEST, US
 67.205.168.71|9333|/LitecoinCore:0.14.2/|14061|67.205.160.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 67.207.91.29|9333|/Satoshi:0.13.2/|14061|67.207.80.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 67.230.169.198|9333|/LitecoinCore:0.16.3/|25820|67.230.160.0/20|CA|arin|2018-05-04|IT7NET, CA
@@ -1382,7 +1381,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.3.86.224|9333|/LitecoinCore:0.17.1/|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 86.100.49.209|56969|/DigitaleuroCore:0.16.3/|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.161.132.71|9333|/LitecoinCore:0.17.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.171.70.9|9333|/Satoshi:0.8.5.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.195.78.26|9333|/LitecoinCore:0.16.3/|3215|86.195.0.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 87.119.247.30|9333|/LitecoinCore:0.16.3/|12389|87.119.240.0/20|RU|ripencc|2005-11-18|ROSTELECOM-AS, RU
 87.123.35.70|9333|/LitecoinCore:0.17.1/|8881|87.123.32.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
