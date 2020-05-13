@@ -51,13 +51,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.197.225.173|/bitcore:1.1.0-exodus2/|70003|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
 178.203.147.162|/bitcore:1.1.0-exodus2/|70003|6830|178.202.0.0/15|DE|ripencc|2010-03-16|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
-18.130.142.102|/PrydiumCore:0.16.3/|70015|16509|18.130.0.0/16|US|arin|2018-06-29|AMAZON-02, US
 18.130.142.190|/PrydiumCore:0.16.3/|70015|16509|18.130.0.0/16|US|arin|2018-06-29|AMAZON-02, US
 18.195.155.246|/LitecoinCore:0.17.1/|70015|16509|18.194.0.0/15|US|arin|2018-06-29|AMAZON-02, US
 181.110.160.3|/bitcore:1.1.0-exodus2/|70003|7303|181.110.160.0/21|AR|lacnic|2012-06-21|Telecom Argentina S.A., AR
 181.140.226.183|/bitcore:1.1.0-exodus2/|70003|13489|181.128.0.0/12|CO|lacnic|2013-07-26|EPM Telecomunicaciones S.A. E.S.P., CO
 185.128.27.106|/bitcore:1.1.0-exodus2/|70003|9009|185.128.27.0/24|RO|ripencc|2018-01-02|M247, GB
 185.221.202.25|/LitecoinCore:0.17.1/|70015|204196|185.221.200.0/22|NL|ripencc|2017-09-20|ABELOHOST, NL
+185.26.145.187|/LitecoinCore:0.17.1/|70015|60721|185.26.145.0/24|TR|ripencc|2013-05-22|BURSABIL, TR
 186.143.202.183|/bitcore:1.1.0-exodus2/|70003|11315|186.143.202.0/24|AR|lacnic|2009-09-07|Telefonica Moviles Argentina S.A. (Movistar Argentina), AR
 186.92.48.55|/PrbCoinCore:0.16.3/|70015|8048|186.92.32.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 188.113.50.69|/bitcore:1.1.0-exodus2/|70003|12389|188.113.0.0/18|RU|ripencc|2009-05-01|ROSTELECOM-AS, RU
@@ -95,6 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.164.78.133|/bitcore:1.1.0-exodus2/|70003|6730|31.164.0.0/15|CH|ripencc|2011-02-23|SUNRISE, CH
 42.201.131.9|/bitcore:1.1.0-exodus2/|70003|55714|42.201.131.0/24|PK|apnic|2011-03-17|APNIC-FIBERLINK-PK Fiberlink Pvt.Ltd, PK
+45.136.246.98|/LitecoinCore:0.17.1/|70015|57393|45.136.246.0/23|RU|ripencc|2019-08-02|VIVA-AS, RU
 45.76.143.91|/DigitaleuroCore:0.16.3/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.10.120.128|/LitecoinCore:0.17.1/|70015|8866|46.10.120.0/21|BG|ripencc|2010-09-13|BTC-AS BULGARIA, BG
@@ -121,7 +122,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.175.116.10|/Dain:0.1.0/|70003|14618|54.174.0.0/15|US|arin|2014-06-20|AMAZON-AES, US
 54.80.54.82|/LitecoinCore:0.17.1/|70015|14618|54.80.0.0/14|US|arin|2013-11-25|AMAZON-AES, US
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-59.167.111.209|/bitcore:1.1.0-exodus2/|70003|4739|59.167.104.0/21|AU|apnic|2004-11-24|INTERNODE-AS Internode Pty Ltd, AU
 60.54.45.58|/bitcore:1.1.0-exodus2/|70003|4788|60.54.0.0/18|MY|apnic|2004-06-07|TMNET-AS-AP TM Net, Internet Service Provider, MY
 61.157.96.36|/Satoshi:0.15.1.6/|70003|38283|61.157.96.0/24|CN|apnic|2000-03-14|CHINANET-SCIDC-AS-AP CHINANET SiChuan Telecom Internet Data Center, CN
 62.171.176.187|/LitecoinCore:0.17.1/|70015|51167|62.171.176.0/23|DE|ripencc|2000-08-18|CONTABO, DE
@@ -129,6 +129,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.251.119.69|/Satoshi:0.13.2/|70015|3265|62.251.0.0/17|NL|ripencc|2001-01-03|XS4ALL-NL Amsterdam, NL
 62.78.253.44|/bitcore:1.1.0-exodus2/|70003|16086|62.78.128.0/17|FI|ripencc|2001-09-18|DNA, FI
 65.96.112.41|/bitcore:1.1.0-exodus2/|70003|7922|65.96.0.0/16|US|arin|2001-01-02|COMCAST-7922, US
+67.8.19.182|/bitcore:1.1.0-exodus2/|70003|33363|67.8.0.0/16|US|arin|2001-08-14|BHN-33363, US
 69.16.145.4|/bitcore:1.1.0-exodus2/|70003|12989|69.16.145.0/24|US|arin|2004-02-19|HWNG, NL
 70.161.115.34|/bitcore:1.1.0-exodus2/|70003|22773|70.160.0.0/15|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
 70.185.221.124|/bitcore:1.1.0-exodus2/|70003|22773|70.185.192.0/18|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -142,11 +143,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.105.60.164|/bitcore:1.1.0-exodus2/|70003|5607|78.105.0.0/16|GB|ripencc|2007-12-10|BSKYB-BROADBAND-AS, GB
 78.217.237.130|/bitcore:1.1.0-exodus2/|70003|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.94.15.74|/bitcore:1.1.0-exodus2/|70003|6830|78.94.0.0/17|DE|ripencc|2007-07-20|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+79.112.76.53|/bitcore:1.1.0-exodus2/|70003|8708|79.112.0.0/13|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 79.137.69.175|/LitecoinCore:0.14.2/|70015|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 80.108.82.95|Custom 1.0|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 80.31.87.78|/bitcore:1.1.0-exodus2/|70003|3352|80.31.0.0/16|ES|ripencc|2001-07-09|TELEFONICA_DE_ESPANA, ES
 81.83.231.106|/bitcore:1.1.0-exodus2/|70003|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
-83.45.90.9|/bitcore:1.1.0-exodus2/|70003|3352|83.45.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.137.106.54|/bitcore:1.1.0-exodus2/|70003|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.17.36.156|/bitcore:1.1.0-exodus2/|70003|60068|84.17.36.0/24|GB|ripencc|2004-07-23|CDN77, GB
 84.63.25.206|/bitcore:1.1.0-exodus2/|70003|3209|84.56.0.0/13|DE|ripencc|2004-08-17|VODANET International IP-Backbone of Vodafone, DE
