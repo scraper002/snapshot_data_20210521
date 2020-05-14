@@ -8,7 +8,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.17.161.136|/Satoshi:2.1.8/|70005|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
 109.226.168.107|/Satoshi:2.1.8/|70005|21032|109.226.128.0/18|DE|ripencc|2010-01-27|TELTA-AS, DE
 109.249.185.96|/Satoshi:2.1.8/|70005|12576|109.249.0.0/16|GB|ripencc|2009-11-30|EE Ltd, GB
-109.91.39.194|/Satoshi:2.1.8/|70005|6830|109.91.0.0/16|DE|ripencc|2009-09-10|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 110.32.187.165|/Satoshi:2.1.8/|70005|4804|110.32.128.0/17|AU|apnic|2009-02-24|MPX-AS Microplex PTY LTD, AU
 117.20.69.55|/Satoshi:2.1.8/|70005|4764|117.20.68.0/22|AU|apnic|2007-06-18|WIDEBAND-AS-AP Aussie Broadband, AU
 118.210.89.43|/Satoshi:2.1.8/|70005|7545|118.210.64.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -58,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.66.86.48|/Satoshi:2.1.8/|70005|3301|213.64.0.0/14|SE|ripencc|1999-11-12|TELIANET-SWEDEN Telia Company, SE
 213.93.4.119|/Satoshi:2.1.8/|70005|6830|213.93.0.0/17|NL|ripencc|2000-05-09|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 216.126.75.152|/Satoshi:2.1.8/|70005|395667|216.126.75.0/24|CA|arin|1999-06-30|WISP-INTERNET-SERVICES-INC, CA
+217.238.110.24|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.255.54.2|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.62.25.201|/Satoshi:2.1.8/|70005|33915|217.62.0.0/17|NL|ripencc|2000-11-23|TNF-AS, NL
 220.240.137.153|/Satoshi:2.1.8/|70005|7545|220.240.137.0/24|AU|apnic|2003-04-30|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -102,6 +102,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.22.250.130|/Satoshi:2.1.8/|70005|31334|77.22.248.0/22|DE|ripencc|2008-04-08|KABELDEUTSCHLAND-AS, DE
 77.78.48.161|/Satoshi:2.1.8/|70005|34569|77.78.0.0/18|BG|ripencc|2007-02-27|NETWORX-BG Online Direct, BG
 78.20.43.211|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
+78.21.0.119|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.43.223.107|/Satoshi:2.1.8/|70005|6830|78.43.0.0/16|DE|ripencc|2007-03-23|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 79.192.176.252|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.192.180.112|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -111,7 +112,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.253.152.206|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.253.49.212|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.138.186.123|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
-80.69.197.31|/Satoshi:2.1.8/|70005|20810|80.69.192.0/20|DE|ripencc|2001-05-31|NETCOM-KASSEL Netcom Kassel, DE
 81.207.146.209|/Satoshi:2.1.8/|70005|1136|81.204.0.0/14|NL|ripencc|2002-10-16|KPN KPN National, EU
 81.234.184.187|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 81.241.4.137|/Satoshi:2.1.8/|70005|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
@@ -131,10 +131,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.26.144.135|/Satoshi:2.1.8/|70005|33915|84.24.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 84.72.195.149|/Satoshi:2.1.8/|70005|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 85.135.216.15|/Satoshi:2.1.8/|70005|8257|85.135.192.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
-85.148.226.126|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.187.88.66|/Satoshi:2.1.8/|70005|47771|85.187.64.0/18|BG|ripencc|2004-11-26|ENTRY-BG-AS, BG
 85.201.215.142|/Satoshi:2.1.8/|70005|12392|85.201.208.0/20|BE|ripencc|2005-01-11|ASBRUTELE VOO, BE
 85.222.21.70|/Satoshi:2.1.8/|70005|6830|85.222.0.0/18|PL|ripencc|2005-02-14|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+86.142.153.34|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.179.231.174|/Satoshi:2.1.8/|70005|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.206.244.96|/Satoshi:2.1.8/|70005|3215|86.206.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.213.242.18|/Satoshi:2.1.8/|70005|3215|86.213.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
