@@ -64,6 +64,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.17.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.248.108|9333|/LitecoinCore:0.17.1/|55990|119.3.224.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -157,7 +158,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.89.121.207|9333|/LitecoinCore:0.17.1/|3363|143.89.0.0/16|HK|apnic|1990-09-07|HKUST-AS-HK Hong Kong University of Science and Technology, HK
 144.133.85.168|9333|/LitecoinCore:0.17.1/|1221|144.132.0.0/14|AU|apnic|1990-12-10|ASN-TELSTRA Telstra Corporation Ltd, AU
 144.217.77.97|9333|/LitecoinCore:0.17.1/|16276|144.217.0.0/16|CA|arin|2016-09-07|OVH, FR
-144.255.80.198|204|/WorldcoinFoundation:0.8.7.5/|4134|144.255.0.0/16|CN|apnic|2011-03-29|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 144.76.1.155|9333|/LitecoinCore:0.17.1/|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 144.76.100.245|9333|/LitecoinCore:0.16.3/|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 144.76.102.2|9333|/LitecoinCore:0.17.1/|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
@@ -440,6 +440,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.166.20.206|9333|/LitecoinCore:0.17.1/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.247.24|9333|/LitecoinCore:0.16.3/|14061|188.166.240.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.4.21|9333|/LitecoinCore:0.13.2(bitcore)/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
+188.18.89.149|9333|/LitecoinCore:0.14.2/|12389|188.18.64.0/19|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 188.214.133.94|9333|/LitecoinCore:0.17.1/|16125|188.214.128.0/21|LT|ripencc|2009-05-08|CHERRYSERVERS1-AS, LT
 188.241.148.94|9333|/LitecoinCore:0.17.1/|20857|188.241.148.0/22|NL|ripencc|2009-06-23|TRANSIP-AS Amsterdam, the Netherlands, NL
 188.241.58.79|9333|/LitecoinCore:0.14.2/|51177|188.241.58.0/24|RO|ripencc|2009-06-23|THCPROJECTS, RO
@@ -558,11 +559,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:f40:908:3fef:add8:548b:6279:78e|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
 2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
-2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|6939|2002::/16||other||HURRICANE, US
+2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
-2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2003:d3:9f15:6b00:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
 202.186.232.72|9333|/LitecoinCore:0.17.1/|9930|202.186.0.0/15|MY|apnic|1996-10-29|TTNET-MY TIME dotCom Berhad, MY
@@ -1259,7 +1260,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.228.75.141|9333|/LitecoinCore:0.16.3/|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
 71.9.190.53|9333|/LitecoinCore:0.17.1/|20115|71.9.176.0/20|US|arin|2004-10-01|CHARTER-20115, US
 72.135.224.85|9333|/LitecoinCore:0.17.1/|10796|72.135.192.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
-72.15.139.173|9333|/LitecoinCore:0.17.1/|393636|72.15.128.0/20|US|arin|2004-11-24|NPLUSNETWORKS, CA
+72.15.139.173|9333|/LitecoinCore:0.17.1/|393636|72.15.128.0/20|US|arin|2004-11-24|NPLUSNETWORKS, ZZ
 72.174.9.189|9333|/LitecoinCore:0.16.0/|33588|72.174.0.0/15|US|arin|2005-12-06|BRESNAN-33588, US
 72.190.202.167|9333|/LitecoinCore:0.17.1/|11427|72.190.0.0/15|US|arin|2005-11-21|TWC-11427-TEXAS, US
 72.190.77.61|9333|/FutureBit-ApolloCore:0.17.1/|11427|72.190.0.0/15|US|arin|2005-11-21|TWC-11427-TEXAS, US
