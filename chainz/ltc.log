@@ -28,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.98.250|/btcwire:0.5.0/btc-crawl-go:1.0.0/|70015|14061|159.65.96.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.89.124.153|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|159.89.112.0/20|US|arin|2017-07-07|DIGITALOCEAN-ASN, US
+162.223.91.52|/bitcore:1.1.0-exodus2/|70003|19084|162.223.91.0/24|US|arin|2013-10-18|COLOUP, US
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.227.195.170|/YoloCoinCore:0.16.3/|70015|14061|165.227.192.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
@@ -70,7 +71,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.19.235.71|/DigitaleuroCore:0.16.3/|70015|5518|194.19.224.0/19|LV|ripencc|1996-02-06|TELIALATVIJA, LV
 197.15.227.17|/bitcore:1.1.0-exodus2/|70003|37671|197.15.192.0/18|TN|afrinic|2010-05-03|GLOBALNET-AS, TN
 197.250.228.235|/bitcore:1.1.0-exodus2/|70003|36908|197.250.192.0/18|TZ|afrinic|2011-06-02|VTL-ASN, TZ
-2.239.30.110|/bitcore:1.1.0-exodus2/|70003|12874|2.232.0.0/13|IT|ripencc|2010-12-30|FASTWEB, IT
 200.114.243.245|/bitcore:1.1.0-exodus2/|70003|10318|200.114.224.0/19|AR|lacnic|2004-04-08|Telecom Argentina S.A., AR
 203.86.200.177|/btcwire:0.5.0/|70013|23655|203.86.200.0/21|NZ|apnic|2004-11-16|SNAP-NZ-AS Snap Internet Limited, NZ
 207.180.231.151|Merge DNS Seeder - Visit us www.projectmerge.org|70913|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -96,7 +96,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.174.227.110|/bitcore:1.1.0-exodus2/|70003|197113|46.174.224.0/21|PL|ripencc|2011-01-25|LCSNET-AS, PL
 46.208.97.96|/bitcore:1.1.0-exodus2/|70003|6871|46.208.0.0/16|GB|ripencc|2010-12-01|PLUSNET UK Internet Service Provider, GB
-46.4.197.39|/CounosCoinCore:0.15.3.2/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 47.252.1.103|/LitecoinCore:0.14.2/|70015|45102|47.252.0.0/18|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.53.1.16|/DigitaleuroCore:0.16.3/|70015|30722|47.53.0.0/16|US|arin|2012-05-15|VODAFONE-IT-ASN, IT
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -158,9 +157,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.121.210.64|/LitecoinCore:0.17.1/|70015|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 92.116.65.61|/bitcore:1.1.0-exodus2/|70003|8881|92.116.64.0/18|DE|ripencc|2007-10-25|VERSATEL, DE
 92.62.77.44|/WalletKit:0.1.0/|70015|29061|92.62.76.0/22|KG|ripencc|2008-01-22|SAIMANET-AS Chui 121, KG
-94.176.148.228|/bitcore:1.1.0-exodus2/|70003|9009|94.176.148.0/24|RO|ripencc|2008-08-14|M247, GB
 94.177.228.169|/LitecoinCore:0.17.1/|70015|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
-95.160.143.209|/bitcore:1.1.0-exodus2/|70003|29314|95.160.128.0/17|PL|ripencc|2008-12-22|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
 95.216.122.142|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.250.33|/CounosCoinCore:0.15.4/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.75.148|/bitcore:1.1.0-exodus2/|70003|6830|95.223.0.0/16|DE|ripencc|2009-03-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
