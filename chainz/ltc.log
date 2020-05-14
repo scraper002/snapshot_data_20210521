@@ -17,7 +17,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.189.138|/LitecoinCore:0.17.1/|70015|14061|134.209.176.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 138.122.22.5|/bitcore:1.1.0-exodus2/|70003|264308|138.122.22.0/24|BR|lacnic|2015-06-18|RM INFORMATICA LTDA, BR
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.93.151.183|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|142.93.144.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
@@ -50,6 +49,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.203.147.162|/bitcore:1.1.0-exodus2/|70003|6830|178.202.0.0/15|DE|ripencc|2010-03-16|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 179.236.66.120|/bitcore:1.1.0-exodus2/|70003|7738|179.236.64.0/18|BR|lacnic|2012-12-10|Telemar Norte Leste S.A., BR
+18.130.142.102|/PrydiumCore:0.16.3/|70015|16509|18.130.0.0/16|US|arin|2018-06-29|AMAZON-02, US
 18.195.155.246|/LitecoinCore:0.17.1/|70015|16509|18.194.0.0/15|US|arin|2018-06-29|AMAZON-02, US
 180.150.39.66|/bitcore:1.1.0-exodus2/|70003|4764|180.150.39.0/24|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
 181.28.113.38|/bitcore:1.1.0-exodus2/|70003|10318|181.28.96.0/19|AR|lacnic|2011-01-21|Telecom Argentina S.A., AR
@@ -64,6 +64,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.165.192.153|/LitecoinCore:0.17.1/|70015|16276|188.165.0.0/16|FR|ripencc|2009-06-05|OVH, FR
 188.191.111.219|/LitecoinCore:0.17.1/|70015|43310|188.191.96.0/20|UA|ripencc|2011-02-23|LVS-AS, UA
 188.214.30.95|/open-nodes:0.1/|70003|51177|188.214.30.0/24|RO|ripencc|2009-05-08|THCPROJECTS, RO
+188.234.17.37|/bitcore:1.1.0-exodus2/|70003|41668|188.234.16.0/22|RU|ripencc|2011-01-26|ERTH-KAZAN-AS, RU
 188.60.109.80|/bitcore:1.1.0-exodus2/|70003|3303|188.60.0.0/16|CH|ripencc|2009-03-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
 190.141.18.144|/bitcore:1.1.0-exodus2/|70003|18809|190.141.0.0/17|PA|lacnic|2007-09-25|Cable Onda, PA
 190.44.242.199|/bitcore:1.1.0-exodus2/|70003|22047|190.44.240.0/20|CL|lacnic|2006-04-06|VTR BANDA ANCHA S.A., CL
@@ -88,7 +89,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.159.174.218|/bitcore:1.1.0-exodus2/|70003|3249|217.159.128.0/17|EE|ripencc|2003-04-02|ESTPAK, EE
 217.160.13.172|/litecoinj:0.15.2-SNAPSHOT/|70002|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
 217.66.157.140|/bitcore:1.1.0-exodus2/|70003|8359|217.66.152.0/21|RU|ripencc|2003-06-30|MTS, RU
-3.113.63.156|/LitecoinCore:0.17.1/|70015|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.172.79|LitecoinCore:test|70003|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
@@ -117,7 +117,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 60.54.45.58|/bitcore:1.1.0-exodus2/|70003|4788|60.54.0.0/18|MY|apnic|2004-06-07|TMNET-AS-AP TM Net, Internet Service Provider, MY
 62.171.176.187|/LitecoinCore:0.17.1/|70015|51167|62.171.176.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.197.243.176|/bitcore:1.1.0-exodus2/|70003|16160|62.197.192.0/18|SK|ripencc|2002-07-22|SWAN Bratislava, Slovakia, SK
-62.251.119.69|/Satoshi:0.13.2/|70015|3265|62.251.0.0/17|NL|ripencc|2001-01-03|XS4ALL-NL Amsterdam, NL
 67.8.19.182|/bitcore:1.1.0-exodus2/|70003|33363|67.8.0.0/16|US|arin|2001-08-14|BHN-33363, US
 69.157.156.50|/bitcore:1.1.0-exodus2/|70003|577|69.157.0.0/16|CA|arin|2003-11-25|BACOM, CA
 69.162.194.227|/bitcore:1.1.0-exodus2/|70003|7782|69.162.192.0/19|US|arin|2008-07-10|ALSK-7782, US
@@ -143,7 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.107.210|/WecoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 83.11.209.139|/bitcore:1.1.0-exodus2/|70003|5617|83.8.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.137.106.54|/bitcore:1.1.0-exodus2/|70003|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.17.36.156|/bitcore:1.1.0-exodus2/|70003|60068|84.17.36.0/24|GB|ripencc|2004-07-23|CDN77, GB
 84.18.98.253|/loaf:2.1/|70015|28840|84.18.96.0/22|RU|ripencc|2004-08-12|TATTELECOM-AS, RU
 84.54.153.173|/bitcore:1.1.0-exodus2/|70003|29084|84.54.153.0/24|BG|ripencc|2004-11-10|COMNET-AS, BG
 84.63.25.206|/bitcore:1.1.0-exodus2/|70003|3209|84.56.0.0/13|DE|ripencc|2004-08-17|VODANET International IP-Backbone of Vodafone, DE
