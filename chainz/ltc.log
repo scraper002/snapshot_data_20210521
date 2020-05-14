@@ -5,6 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.144.111.234|/bitcore:1.1.0-exodus2/|70003|1221|1.128.0.0/11|AU|apnic|2010-05-18|ASN-TELSTRA Telstra Corporation Ltd, AU
 100.38.182.125|/bitcore:1.1.0-exodus2/|70003|701|100.38.0.0/16|US|arin|2010-12-28|UUNET, US
 101.53.18.178|/bitcore:1.1.0-exodus2/|70003|24173|101.53.18.0/24|VN|apnic|2011-02-14|NETNAM-AS-AP Netnam Company, VN
+105.112.105.135|/loaf-android:175/|70015|36873|105.112.104.0/23|NG|afrinic|2013-09-20|VNL1-AS, NG
 107.170.17.56|/litecoin-seeder:0.01/|70002|14061|107.170.0.0/17|US|arin|2013-12-30|DIGITALOCEAN-ASN, US
 107.191.119.170|/DefcoinCore:1.0.0/|70015|3842|107.191.116.0/22|US|arin|2014-05-08|RAMNODE, US
 108.39.46.31|/LitecoinCore:0.16.3/|70015|701|108.39.0.0/17|US|arin|2009-06-05|UUNET, US
@@ -45,7 +46,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.232.121.217|/bitcore:1.1.0-exodus2/|70003|34984|176.232.120.0/21|TR|ripencc|2011-12-01|TELLCOM-AS, TR
 176.254.247.228|/bitcore:1.1.0-exodus2/|70003|5607|176.248.0.0/13|GB|ripencc|2011-12-05|BSKYB-BROADBAND-AS, GB
 177.232.87.136|/bitcore:1.1.0-exodus2/|70003|28536|177.232.86.0/23|MX|lacnic|2013-05-20|Mexico Red de Telecomunicaciones, S. de R.L. de C.V., MX
-178.127.56.33|/bitcore:1.1.0-exodus2/|70003|6697|178.127.56.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.25.224|/CounosXCore:0.17.2/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 179.236.66.120|/bitcore:1.1.0-exodus2/|70003|7738|179.236.64.0/18|BR|lacnic|2012-12-10|Telemar Norte Leste S.A., BR
@@ -72,6 +72,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.106.29.98|/LitecoinCore:0.15.1/|70015|50297|193.106.28.0/22|UA|ripencc|2009-11-30|INFIUM, UA
 193.86.205.34|/bitcore:1.1.0-exodus2/|70003|5588|193.86.0.0/16|CZ|ripencc|1994-06-20|GTSCE GTS Central Europe / Antel Germany, CZ
 194.19.235.71|/DigitaleuroCore:0.16.3/|70015|5518|194.19.224.0/19|LV|ripencc|1996-02-06|TELIALATVIJA, LV
+196.52.84.23|/bitcore:1.1.0-exodus2/|70003|13213|196.52.84.0/24|ZA|afrinic|1995-10-09|UK2NET-AS, GB
 197.15.227.17|/bitcore:1.1.0-exodus2/|70003|37671|197.15.192.0/18|TN|afrinic|2010-05-03|GLOBALNET-AS, TN
 197.250.228.235|/bitcore:1.1.0-exodus2/|70003|36908|197.250.192.0/18|TZ|afrinic|2011-06-02|VTL-ASN, TZ
 200.114.243.245|/bitcore:1.1.0-exodus2/|70003|10318|200.114.224.0/19|AR|lacnic|2004-04-08|Telecom Argentina S.A., AR
@@ -98,6 +99,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 41.73.1.78|/bitcore:1.1.0-exodus2/|70003|37004|41.73.1.0/24|NG|afrinic|2016-11-15|Suburban-Broadband-AS, NG
 45.136.246.98|/LitecoinCore:0.17.1/|70015|57393|45.136.246.0/23|RU|ripencc|2019-08-02|VIVA-AS, RU
 45.14.211.239|/bitcore:1.1.0-exodus2/|70003|48146|45.14.211.0/24|ES|ripencc|2019-05-09|TRIPLEA, ES
+45.76.143.91|/DigitaleuroCore:0.16.3/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.174.227.110|/bitcore:1.1.0-exodus2/|70003|197113|46.174.224.0/21|PL|ripencc|2011-01-25|LCSNET-AS, PL
 46.208.97.96|/bitcore:1.1.0-exodus2/|70003|6871|46.208.0.0/16|GB|ripencc|2010-12-01|PLUSNET UK Internet Service Provider, GB
@@ -162,6 +164,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.121.210.64|/LitecoinCore:0.17.1/|70015|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 92.116.65.61|/bitcore:1.1.0-exodus2/|70003|8881|92.116.64.0/18|DE|ripencc|2007-10-25|VERSATEL, DE
 92.62.77.44|/WalletKit:0.1.0/|70015|29061|92.62.76.0/22|KG|ripencc|2008-01-22|SAIMANET-AS Chui 121, KG
+93.201.2.12|/bitcore:1.1.0-exodus2/|70003|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.177.228.169|/LitecoinCore:0.17.1/|70015|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
 95.216.122.142|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.250.33|/CounosCoinCore:0.15.4/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
