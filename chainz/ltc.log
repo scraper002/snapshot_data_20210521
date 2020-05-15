@@ -5,6 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.163.173.195|/LitecoinCore:0.17.1/|70015|3462|1.163.0.0/16|TW|apnic|2010-05-05|HINET Data Communication Business Group, TW
 105.112.105.135|/loaf-android:175/|70015|36873|105.112.104.0/23|NG|afrinic|2013-09-20|VNL1-AS, NG
 107.170.17.56|/litecoin-seeder:0.01/|70002|14061|107.170.0.0/17|US|arin|2013-12-30|DIGITALOCEAN-ASN, US
+108.172.93.24|/bitcore:1.1.0-exodus2/|70003|852|108.172.0.0/16|CA|arin|2012-02-01|ASN852, CA
 108.39.46.31|/LitecoinCore:0.16.3/|70015|701|108.39.0.0/17|US|arin|2009-06-05|UUNET, US
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002|20473|108.61.178.0/23|US|arin|2010-12-08|AS-CHOOPA, US
 109.60.94.121|/bitcore:1.1.0-exodus2/|70003|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
@@ -73,7 +74,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.19.235.71|/DigitaleuroCore:0.16.3/|70015|5518|194.19.224.0/19|LV|ripencc|1996-02-06|TELIALATVIJA, LV
 194.207.83.135|/bitcore:1.1.0/|70003|12390|194.207.64.0/19|GB|ripencc|1996-04-04|KINGSTON-UK-AS, GB
 196.52.84.23|/bitcore:1.1.0-exodus2/|70003|13213|196.52.84.0/24|ZA|afrinic|1995-10-09|UK2NET-AS, GB
-197.15.227.17|/bitcore:1.1.0-exodus2/|70003|37671|197.15.192.0/18|TN|afrinic|2010-05-03|GLOBALNET-AS, TN
 2.222.130.35|/bitcore:1.1.0-exodus2/|70003|5607|2.216.0.0/13|GB|ripencc|2010-12-03|BSKYB-BROADBAND-AS, GB
 2.97.27.238|/bitcore:1.1.0/|70003|13285|2.96.0.0/15|GB|ripencc|2010-04-21|OPALTELECOM-AS TalkTalk Communications Limited, GB
 201.203.117.65|/LitecoinCore:0.17.1/|70015|11830|201.203.117.0/24|CR|lacnic|2005-05-30|Instituto Costarricense de Electricidad y Telecom., CR
@@ -93,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.4.243.12|/bitcore:1.1.0-exodus2/|70003|12430|31.4.0.0/16|ES|ripencc|2011-04-07|VODAFONE_ES, ES
 35.183.41.47|/litecoinj:0.15.2-SNAPSHOT/|70002|16509|35.182.0.0/15|US|arin|2016-08-09|AMAZON-02, US
+37.133.2.127|/bitcore:1.1.0-exodus2/|70003|12479|37.133.0.0/22|ES|ripencc|2012-02-21|UNI2-AS, ES
 37.30.30.54|/bitcore:1.1.0-exodus2/|70003|12912|37.30.0.0/15|PL|ripencc|2011-12-30|TM, PL
 41.202.241.24|/loaf-android:175/|70015|36991|41.202.240.0/22|UG|afrinic|2007-11-16|ORANGE-, UG
 41.73.1.78|/bitcore:1.1.0-exodus2/|70003|37004|41.73.1.0/24|NG|afrinic|2016-11-15|Suburban-Broadband-AS, NG
@@ -142,6 +143,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.21.161.8|/bitcore:1.1.0-exodus2/|70003|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 79.137.69.175|/LitecoinCore:0.14.2/|70015|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 80.108.82.95|Custom 1.0|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+80.220.89.254|/bitcore:1.1.0-exodus2/|70003|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, EU
 80.241.222.199|/DigitaleuroCore:0.16.3/|70015|51167|80.241.222.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 82.221.106.183|/WecoinCore:0.13.3.2/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.210|/WecoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
@@ -155,9 +157,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.220.79.24|/FutureBit-ApolloCore:0.17.1/|70015|12479|87.220.76.0/22|ES|ripencc|2005-06-07|UNI2-AS, ES
 88.216.137.133|/bitcore:1.1.0-exodus2/|70003|33922|88.216.137.0/24|LT|ripencc|2005-11-22|NTT-LT-AS, LT
 88.84.131.86|/LitecoinCore:0.17.1/|70015|15830|88.84.128.0/21|DE|ripencc|2006-01-18|EQUINIX-CONNECT-EMEA, GB
-89.23.224.48|/bitcore:1.1.0-exodus2/|70003|42541|89.23.224.0/19|DK|ripencc|2010-05-21|FIBERBY, DK
 89.238.139.6|/bitcore:1.1.0-exodus2/|70003|9009|89.238.136.0/22|GB|ripencc|2006-07-28|M247, GB
 89.64.58.0|/bitcore:1.1.0-exodus2/|70003|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+90.68.153.209|/bitcore:1.1.0-exodus2/|70003|12479|90.68.152.0/21|FR|ripencc|2006-03-02|UNI2-AS, ES
 91.121.210.64|/LitecoinCore:0.17.1/|70015|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 93.201.2.12|/bitcore:1.1.0-exodus2/|70003|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.177.228.169|/LitecoinCore:0.17.1/|70015|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
