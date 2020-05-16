@@ -52,7 +52,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.110.143.121|/Curecoin:2.0.0.2/|60009|3292|2.104.0.0/13|DK|ripencc|2010-05-04|TDC TDC A/S, DK
 2.27.130.116|/Curecoin:2.0.0.2/|60009|12576|2.27.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 2.58.44.114|/Curecoin:2.0.0.2/|60009|9009|2.58.44.0/24|RO|ripencc|2019-03-21|M247, GB
-203.219.144.48|/Curecoin:2.0.0.2/|60009|7545|203.219.144.0/24|AU|apnic|2003-03-11|TPG-INTERNET-AP TPG Telecom Limited, AU
 206.81.12.152|/Curecoin:2.0.0.2/|60009|14061|206.81.0.0/20|US|arin|1995-08-11|DIGITALOCEAN-ASN, US
 209.122.112.38|/Curecoin:2.0.0.2/|60009|6079|209.122.0.0/16|US|arin|1997-08-06|RCN-AS, US
 213.162.73.35|/Curecoin:2.0.0.2/|60009|8412|213.162.64.0/19|AT|ripencc|2000-03-07|TMA Rennweg 97-99, AT
@@ -71,6 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.76.212.126|/Curecoin:2.0.0.2/|60009|6327|24.76.212.0/22|CA|arin|2000-12-15|SHAW, CA
 24.96.63.227|/Curecoin:2.0.0.2/|60009|12083|24.96.0.0/17|US|arin|1996-05-31|WOW-INTERNET, US
 38.121.20.227|/Curecoin:2.0.0.2/|60009|138576|38.121.20.0/24|US|arin|1991-04-16|CODECCLOUD-AS-AP CodecCloud (HK) Limited, HK
+47.220.161.207|/Curecoin:2.0.0.2/|60009|19108|47.220.0.0/14|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 47.42.168.185|/Curecoin:2.0.0.2/|60009|20115|47.42.160.0/19|US|arin|2014-12-23|CHARTER-20115, US
 49.150.180.73|/Curecoin:2.0.0.2/|60009|9299|49.150.160.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.49.245.178|/Curecoin:2.0.0.2/|60009|45629|49.49.0.0/16|TH|apnic|2010-09-20|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
@@ -117,6 +117,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.200.151.141|/Curecoin:2.0.0.2/|60009|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.255.36.42|/Curecoin:2.0.0.2/|60009|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.107.169.193|/Curecoin:2.0.0.2/|60009|6799|80.107.0.0/16|GR|ripencc|2001-07-26|OTENET-GR Athens - Greece, GR
+80.138.193.178|/Curecoin:2.0.0.2/|60009|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.106.207.229|/Curecoin:2.0.0.2/|60009|5089|81.106.0.0/15|GB|ripencc|2002-06-14|NTL, GB
 81.167.198.63|/Curecoin:2.0.0.2/|60009|29695|81.166.0.0/15|NO|ripencc|2005-01-04|ALTIBOX_AS Norway, NO
 82.64.199.240|/Curecoin:2.0.0.2/|60009|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
@@ -128,7 +129,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.197.102.188|/Curecoin:2.0.0.2/|60009|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.20.102.19|/Curecoin:2.0.0.2/|60009|2116|84.20.96.0/19|NO|ripencc|2004-09-02|ASN-CATCHCOM, NO
 84.9.169.16|/Curecoin:2.0.0.2/|60009|25310|84.9.0.0/16|GB|ripencc|2004-07-12|ASN-CWACCESS, GB
-85.243.39.108|/Curecoin:2.0.0.2/|60009|3243|85.240.0.0/13|PT|ripencc|2004-01-03|MEO-RESIDENCIAL, PT
 86.130.215.76|/Curecoin:2.0.0.2/|60009|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.49.247.13|/Curecoin:2.0.0.2/|60009|6830|86.49.128.0/17|CZ|ripencc|2005-04-21|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 86.49.252.159|/Curecoin:2.0.0.2/|60009|6830|86.49.128.0/17|CZ|ripencc|2005-04-21|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
@@ -136,7 +136,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.180.60.132|/Curecoin:2.0.0.2/|60009|2860|89.180.0.0/16|PT|ripencc|2006-04-06|NOS_COMUNICACOES, PT
 89.8.135.221|/Curecoin:2.0.0.2/|60009|12929|89.8.0.0/15|NO|ripencc|2006-06-20|NETCOM-AS Oslo, Norway, NO
 90.156.90.201|/Curecoin:2.0.0.2/|60009|43939|90.156.0.0/17|PL|ripencc|2006-11-17|INTERNETIA_ETTH2-AS Noc-Bialystok, PL
-90.252.6.204|/Curecoin:2.0.0.2/|60009|5378|90.252.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 91.167.32.217|/Curecoin:2.0.0.2/|60009|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
 93.238.241.30|/Curecoin:2.0.0.2/|60009|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.110.114.140|/Curecoin:2.0.0.2/|60009|47377|94.110.96.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
