@@ -66,6 +66,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.24.177.178|9333|/LitecoinCore:0.14.2/|4134|117.24.0.0/13|CN|apnic|2007-06-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.189.201.201|9333|/Satoshi:0.8.6.1/|4773|118.189.200.0/22|SG|apnic|2007-10-19|MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore, SG
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.248.108|9333|/LitecoinCore:0.17.1/|55990|119.3.224.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -276,7 +277,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.172.160.119|9333|/LitecoinCore:0.17.1/|14061|167.172.160.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
 167.172.165.80|9333|/LitecoinCore:0.17.1/|14061|167.172.160.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
 167.172.30.191|9333|/LitecoinCore:0.13.2(bitcore)/|14061|167.172.16.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
-167.179.137.92|9333|/LitecoinCore:0.17.1/|4764|167.179.136.0/22|AU|apnic|1993-09-08|WIDEBAND-AS-AP Aussie Broadband, AU
 167.71.15.69|9333|/LitecoinCore:0.17.1/|14061|167.71.0.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.71.36.169|12006|/LitecoinCore:0.17.1/|14061|167.71.32.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.71.63.165|9333|/LitecoinCore:0.17.1/|14061|167.71.48.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
@@ -667,7 +667,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2402:1f00:8101:189::|17785|/LitecoinCore:0.16.2/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
 2403:6200:8871:a68d:70cd:f637:479d:ab57|9333|/LitecoinCore:0.14.2/|45629|2403:6200::/32|TH|apnic|2010-07-14|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 240b:11:d140:cf00:b228:5a55:e7ae:bea3|9333|/LitecoinCore:0.14.2/|2516|240b::/26|JP|apnic|2010-09-24|KDDI KDDI CORPORATION, JP
-240e:390:e14:9d90::2|9333|/Satoshi:0.13.2/|4134|240e:390::/29|CN|apnic|2011-12-14|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 2600:1700:daa:90:109a:fd99:a7fd:e8df|9333|/LitecoinCore:0.17.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1702:2490:4c50:cd67:c259:b5d6:80cf|9333|/LitecoinCore:0.15.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1f18:17de:ea20:ad1d:e3db:f09:a291|9333|/LitecoinCore:0.17.1/|14618|2600:1f18::/35|US|arin|2014-10-17|AMAZON-AES, US
@@ -858,7 +857,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:1205:5035:6e00:fa32:e4ff:fe8c:333d|9333|/LitecoinCore:0.17.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:1205:c691:c8f0:8d75:7751:209c:cb8a|9333|/LitecoinCore:0.15.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.17.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
-2a02:2f0d:80a:9d00:988c:eef:aa72:6c7c|9333|/LitecoinCore:0.17.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:2f0d:a0f:6600:b942:7704:2b62:2a2f|9333|/LitecoinCore:0.17.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:4780:8:6:2:354e:1256:7a04|9333|/LitecoinCore:0.17.1/|47583|2a02:4780:8::/48|LT|ripencc|2011-07-13|AS-HOSTINGER, LT
 2a02:610:fffa:7:d250:99ff:fe93:3800|9333|/Satoshi:0.13.2/|2588|2a02:610::/32|LV|ripencc|2008-07-21|LATNET-AS, LV
