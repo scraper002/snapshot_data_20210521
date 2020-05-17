@@ -68,6 +68,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.24.177.178|9333|/LitecoinCore:0.14.2/|4134|117.24.0.0/13|CN|apnic|2007-06-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.167.31.247|9333|/Satoshi:0.13.2/|3462|118.167.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -232,7 +233,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 158.181.226.33|9333|/LitecoinCore:0.17.1/|41750|158.181.224.0/20|KG|ripencc|2011-11-10|AS-MEGALINE-, KG
 158.69.118.2|9433|/LitecoinCore:0.17.1/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 158.69.227.12|28653|/LitecoinCore:0.17.1/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
-158.69.24.50|9335|/LitecoinCore:0.17.1/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 158.69.66.162|9333|/Satoshi:0.13.2/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.100.240.189|9333|/LitecoinCore:0.17.1/|61098|159.100.240.0/22|CH|ripencc|1992-03-31|EXOSCALE, CH
 159.138.45.220|22231|/LitecoinCore:0.14.2/|136907|159.138.32.0/20|SG|apnic|1992-04-20|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
@@ -339,6 +339,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.143.74|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.153.133|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.158.165|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
+176.9.28.155|9333|/LitecoinCore:0.16.3/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.28.174|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.28.202|9333|/LitecoinCore:0.16.3/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.47.5|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
@@ -561,8 +562,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:3dc1:100::142|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4400:2b00::1c:b05|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:3fef:add8:548b:6279:78e|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
+2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -1481,7 +1482,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.169.182.28|9333|/LitecoinCore:0.17.1/|31103|95.169.176.0/21|DE|ripencc|2009-01-29|KEYWEB-AS, DE
 95.179.206.174|9333|/LitecoinCore:0.17.1/|20473|95.179.192.0/20|NL|ripencc|2009-01-22|AS-CHOOPA, US
 95.211.103.175|9333|/LitecoinCore:0.15.1/|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
-95.211.138.110|8334|/LitecoinCore:0.15.1/|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.211.189.3|9333|/LitecoinCore:0.17.1/|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.216.0.251|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.0.79|9333|/LitecoinCore:0.15.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
