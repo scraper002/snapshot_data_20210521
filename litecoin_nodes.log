@@ -43,6 +43,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.236.81.138|59333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.84.141|9333|/LitecoinCore:0.16.2/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.88.245|9333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
+109.250.156.86|9333|/LitecoinCore:0.17.1/|8881|109.250.144.0/20|DE|ripencc|2009-12-01|VERSATEL, DE
 110.173.58.50|9333|/LitecoinCore:0.16.3/|45753|110.173.58.0/24|HK|apnic|2009-05-07|NETSEC-HK NETSEC, HK
 110.175.34.163|9333|/LitecoinCore:0.18.1/|7545|110.175.34.0/23|AU|apnic|2009-05-08|TPG-INTERNET-AP TPG Telecom Limited, AU
 111.108.29.123|9333|/LitecoinCore:0.14.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
@@ -509,6 +510,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.200.203.222|9333|/LitecoinCore:0.14.2/|3209|2.200.0.0/14|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 2.25.225.42|9333|/LitecoinCore:0.16.3/|12576|2.25.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 2001:0:53aa:64c:18cd:1e3f:cbba:7cf3|9333|/LitecoinCore:0.14.2/|6939|2001::/32||other||HURRICANE, US
+2001:14ba:23f6:9c00:9434:6612:65f1:d5ea|9333|/LitecoinCore:0.16.3/|16086|2001:14b8::/29|FI|ripencc|2003-07-07|DNA, FI
 2001:1620:c24:1:11:32ff:fe22:21b6|9333|/LitecoinCore:0.17.1/|13030|2001:1620::/32|CH|ripencc|2003-10-30|INIT7, CH
 2001:19f0:5:1f93:5400:1ff:fe7a:c65a|9333|/LitecoinCore:0.15.1/|20473|2001:19f0::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:6001:1743:5400:1ff:fed2:299f|9333|/LitecoinCore:0.16.3/|20473|2001:19f0:6000::/38|US|arin|2004-11-08|AS-CHOOPA, US
@@ -841,7 +843,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -896,6 +897,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a07:e00::67:89|9333|/LitecoinCore:0.17.1/|210083|2a07:e00::/48|SE|ripencc|2018-10-11|PRIVEX, SE
 2a07:e01:2::a|9333|/LitecoinCore:0.17.1/|210083|2a07:e01::/32|SE|ripencc|2018-10-11|PRIVEX, SE
 2a0b:4880::266e:96ff:fedb:7cdc|9333|/LitecoinCore:0.16.3/|48614|2a0b:4880::/48|RU|ripencc|2017-01-10|ITSOFT-AS, RU
+2c0f:f0f8:523:6400:d00a:dd4a:b42b:55fd|9333|/LitecoinCore:0.17.1/|36924|2c0f:f0f8::/32|TG|afrinic|2017-07-17|GVA-Canalbox, BJ
 3.0.102.83|22745|/MindexcoinCore:0.18.1/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.0.103.76|7721|/Satoshi:0.15.1.6/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.0.163.51|9333|/LitecoinCore:0.16.3/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
@@ -1298,6 +1300,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.241.228.235|9333|/Satoshi:0.10.2.2/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.242.72.115|9333|/Satoshi:0.13.2/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.250.246.165|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.61.81.39|9333|/LitecoinCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.113.240.138|9333|/LitecoinCore:0.17.1/|13823|74.113.240.0/22|US|arin|2009-05-19|MESH-NET, US
 74.140.206.68|9333|/LitecoinCore:0.17.1/|10796|74.128.0.0/12|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 74.76.74.234|9333|/FutureBit-ApolloCore:0.17.1/|11351|74.76.0.0/14|US|arin|2006-03-27|TWC-11351-NORTHEAST, US
@@ -1427,6 +1430,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.133.68.65|9333|/LitecoinCore:0.17.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.163.135.45|9333|/LitecoinCore:0.17.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.163.148.212|9333|/LitecoinCore:0.15.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
+89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.212.75.6|9333|/LitecoinCore:0.17.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.223.26.145|9333|/Satoshi:0.8.7.2/|201848|89.223.24.0/21|RU|ripencc|2006-09-19|TRADERSOFT, RU
 89.238.77.69|9333|/LitecoinCore:0.17.1/|34240|89.238.64.0/18|DE|ripencc|2006-07-21|MANITU, DE
