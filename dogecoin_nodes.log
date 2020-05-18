@@ -190,6 +190,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:6180:100:d0::948:8001|22556|/Shibetoshi:1.14.2/|14061|2400:6180:100::/40|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|22445|/Pandoshi:3.0.7.1/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8902::f03c:91ff:fe7b:172e|22445|/Pandoshi:3.0.7.1/|63949|2400:8902::/32|US|apnic|2016-08-05|LINODE-AP Linode, LLC, US
+2403:6200:88a2:f275:2591:d6b:7b2a:7111|22445|/Pandoshi:3.0.6.4/|45629|2403:6200::/32|TH|apnic|2010-07-14|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 2600:1700:daa:90::24|22556|/Shibetoshi:1.14.2(@_@)/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:3c00::f03c:91ff:fe89:52a0|22556|/Shibetoshi:1.10.0/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:3c01::f03c:91ff:fe48:3cd3|22556|/Shibetoshi:1.14.2/|63949|2600:3c01::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
@@ -248,6 +249,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:7e00::f03c:91ff:fe7b:db8a|22445|/Pandoshi:3.0.7.2/|63949|2a01:7e00::/32|GB|ripencc|2011-02-01|LINODE-AP Linode, LLC, US
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:2f6b:5120:84e2:c74b:3b3f:f259|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:120b:2c23:1eb0:27de:af19:bbdc:3ac4|22556|/Shibetoshi:1.10.0/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121e:3450:0:49f0:1264:29cc:79da|22556|/Shibetoshi:1.14.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121f:3a3f:0:38dd:64cf:380c:7886|22556|/Shibetoshi:1.10.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -406,6 +408,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.135.219.249|22556|/Shibetoshi:1.14.2/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.192.164.67|22556|/Shibetoshi:1.10.0/|3215|86.192.128.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.233.35.119|22556|/Shibetoshi:1.14.2/|3215|86.233.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
+86.61.65.116|22445|/Pandoshi:3.0.6.4/|5603|86.61.64.0/18|SI|ripencc|2005-05-11|SIOL-NET Telekom Slovenije d.d., SI
 87.236.27.155|18478|/Shibetoshi:1.14.2/|12714|87.236.24.0/21|RU|ripencc|2005-07-18|TI-AS Moscow, Russia, RU
 88.150.230.97|22556|/Shibetoshi:1.14.2/|20860|88.150.230.0/24|GB|ripencc|2006-01-31|IOMART-AS, GB
 88.198.230.142|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -431,8 +434,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.19.108.214|22556|/Shibetoshi:1.10.0/|35807|94.19.0.0/16|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
 94.214.229.41|22556|/Shibetoshi:1.10.0/|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.23.2.215|22556|/Shibetoshi:1.14.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
-94.248.189.160|22556|/Shibetoshi:1.14.0/|41897|94.248.184.0/21|RS|ripencc|2008-09-09|SAT-TRAKT-AS Serbia, RS
-94.4.208.26|22556|/Shibetoshi:1.14.2/|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
+94.4.208.26|22556|/Shibetoshi:1.8.1/|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 95.111.230.55|22556|/Shibetoshi:1.14.2/|51167|95.111.230.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.154.90.99|22556|/Shibetoshi:1.14.2/|44724|95.154.90.0/24|RU|ripencc|2009-02-24|OCTOPUSNET-AS, RU
 95.168.164.216|22556|/Shibetoshi:1.14.2/|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
