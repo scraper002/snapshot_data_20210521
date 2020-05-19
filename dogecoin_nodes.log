@@ -59,6 +59,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.28.39.130|22556|/Shibetoshi:1.10.0/|20473|149.28.32.0/19|US|arin|2018-05-04|AS-CHOOPA, US
 149.56.21.37|2556|/Shibetoshi:1.14.2/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 15.188.15.96|22556|/Shibetoshi:1.14.2/|16509|15.188.0.0/16|US|arin|2018-09-27|AMAZON-02, US
+151.250.25.246|22556|/Shibetoshi:1.10.0/|34984|151.250.24.0/22|TR|ripencc|2012-08-21|TELLCOM-AS, TR
 157.161.128.56|22556|/Shibetoshi:1.14.2/|6772|157.161.0.0/16|CH|ripencc|2004-04-07|IMPNET-AS, CH
 157.230.17.82|22556|/Shibetoshi:1.14.0/|14061|157.230.16.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 158.69.196.61|22551|/Node:0.8.7.2/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
@@ -173,7 +174,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.136.83.223|22556|/Shibetoshi:1.14.2/|51167|213.136.82.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.239.219.230|9003|/Shibetoshi:1.14.2/|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
 213.239.232.113|6332|/Shibetoshi:1.14.2/|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
-213.3.18.143|22556|/Shibetoshi:1.14.0/|3303|213.3.0.0/17|CH|ripencc|2000-01-13|SWISSCOM Swisscom (Switzerland) Ltd, CH
 213.32.27.198|22556|/Shibetoshi:1.14.0/|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 213.81.159.150|22556|/Shibetoshi:1.14.2/|6855|213.81.128.0/17|SK|ripencc|2001-05-14|SK-TELEKOM, SK
 216.108.236.180|22556|/Shibetoshi:1.14.0/|26277|216.108.236.0/24|US|arin|2008-04-11|PREMIANET, US
@@ -248,7 +248,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:c010:e78::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f98:ca00:493:1afa:5097:2d69|22556|/Shibetoshi:1.14.0/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
-2a01:e0a:473:c170:514a:a132:cef0:10ed|22556|/Shibetoshi:1.14.2/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ed6a:e450:384f:150d:a3cd:d8ec|22556|/Shibetoshi:1.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:120b:2c23:1eb0:27de:af19:bbdc:3ac4|22556|/Shibetoshi:1.10.0/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -291,6 +290,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.209.52.108|22556|/Shibetoshi:1.10.0/|19108|47.209.52.0/22|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 47.244.131.81|22556|/Shibetoshi:1.10.0/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.244.160.222|22556|/Shibetoshi:1.14.0/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+47.244.227.190|22556|/Shibetoshi:1.10.0/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.254.169.51|22556|/Shibetoshi:1.14.0/|45102|47.254.160.0/19|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.74.240.165|22556|/Shibetoshi:1.14.2/|45102|47.74.192.0/18|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.75.53.165|22556|/Shibetoshi:1.10.0/|45102|47.75.0.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -325,7 +325,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.38.57.53|22556|/Shibetoshi:1.14.0/|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.7.154.135|22556|/Shibetoshi:1.10.0/|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
 51.75.55.212|22556|/Shibetoshi:1.10.0/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
-51.79.18.207|22566|/Shibetoshi:1.10.0/
+51.79.18.207|22566|/Shibetoshi:1.10.0/|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 51.89.40.32|22556|/Shibetoshi:1.14.2/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.91.170.94|22445|/Pandoshi:3.0.7.2/|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.91.82.3|2556|/Shibetoshi:1.14.2/|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -343,7 +343,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.67.3.79|22556|/Shibetoshi:1.10.0/|16509|54.67.0.0/17|US|arin|2014-06-20|AMAZON-02, US
 54.95.95.120|22556|/Shibetoshi:1.14.2/|16509|54.95.0.0/17|US|arin|2013-11-25|AMAZON-02, US
 58.96.84.1|7400|/ExperiencecoinCore:3.0.1.1/|10143|58.96.64.0/19|AU|apnic|2005-04-11|EXETEL-AS-AP Exetel Pty Ltd, AU
-59.115.128.162|22556|/Shibetoshi:1.10.0/|3462|59.115.0.0/16|TW|apnic|2004-09-09|HINET Data Communication Business Group, TW
 61.18.192.9|22556|/Shibetoshi:1.14.0/|9908|61.18.192.0/20|HK|apnic|2000-12-13|HKCABLE2-HK-AP HK Cable TV Ltd, HK
 62.210.109.144|22556|/Shibetoshi:1.14.0/|12876|62.210.0.0/16|FR|ripencc|2000-10-26|Online SAS, FR
 63.143.34.98|22556|/Shibetoshi:1.14.0/|46475|63.143.32.0/19|US|arin|2011-10-27|LIMESTONENETWORKS, US
