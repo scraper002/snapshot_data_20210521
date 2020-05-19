@@ -64,7 +64,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.24.177.178|9333|/LitecoinCore:0.14.2/|4134|117.24.0.0/13|CN|apnic|2007-06-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
-118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.248.108|9333|/LitecoinCore:0.17.1/|55990|119.3.224.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -507,6 +506,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.217.117.134|8553|/LitecoinCore:0.17.1/|30083|199.217.112.0/21|US|arin|2012-06-21|AS-30083-GO-DADDY-COM-LLC, US
 199.241.190.50|9333|/LitecoinCore:0.17.1/|31863|199.241.184.0/21|US|arin|2012-07-30|DACEN-2, US
 2.200.203.222|9333|/LitecoinCore:0.14.2/|3209|2.200.0.0/14|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
+2.25.225.42|9333|/LitecoinCore:0.16.3/|12576|2.25.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 2001:0:53aa:64c:18cd:1e3f:cbba:7cf3|9333|/LitecoinCore:0.14.2/|6939|2001::/32||other||HURRICANE, US
 2001:1620:c24:1:11:32ff:fe22:21b6|9333|/LitecoinCore:0.17.1/|13030|2001:1620::/32|CH|ripencc|2003-10-30|INIT7, CH
 2001:19f0:5:1f93:5400:1ff:fe7a:c65a|9333|/LitecoinCore:0.15.1/|20473|2001:19f0::/38|US|arin|2004-11-08|AS-CHOOPA, US
@@ -691,6 +691,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2601:3c7:8204:5980::995c|9333|/LitecoinCore:0.14.2/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:407:4100:1d45:3564:222b:30a8:d49f|9333|/LitecoinCore:0.15.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:647:5883:13e0::23af|9333|/LitecoinCore:0.16.3/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
+2601:807:8000:9508:9d0e:46f:df20:921b|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
 2602:ffc5:40::1:b7c4|9333|/LitecoinCore:0.17.1/|7489|2602:ffc5:40::/44|US|arin|2014-04-04|HOSTUS-GLOBAL-AS HostUS, HK
 2603:300c:1c00:9600::f8c5|9333|/LitecoinCore:0.17.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
@@ -718,7 +719,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 27.124.18.174|9333|/Satoshi:0.13.2/|64050|27.124.18.0/24|SG|apnic|2010-10-08|BCPL-SG BGPNET Global ASN, SG
 27.124.18.179|9333|/Satoshi:0.13.2/|64050|27.124.18.0/24|SG|apnic|2010-10-08|BCPL-SG BGPNET Global ASN, SG
 2800:200:e840:253a:816d:aa75:c0a0:2170|9333|/LitecoinCore:0.17.1/|12252|2800:200:e840::/44|PE|lacnic|2008-04-11|America Movil Peru S.A.C., PE
-2800:484:3a94:4300:895f:2582:598a:c107|9333|/LitecoinCore:0.16.3/|NA|NA|CO|lacnic|2016-12-23|NA
 2804:14c:43:2363:21e8:1193:edb8:5e80|9333|/LitecoinCore:0.17.1/|28573|2804:14c:40::/44|BR|lacnic|2012-02-10|CLARO S.A., BR
 2806:103e:27:644f:70c4:393e:bbb4:2332|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
 2806:2f0:90e1:d35:61f2:7a22:a7fe:db51|9333|/LitecoinCore:0.17.1/|17072|2806:2f0:90e0::/47|MX|lacnic|2012-10-11|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
@@ -841,7 +841,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1436,6 +1435,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.197.44.130|9333|/LitecoinCore:0.17.1/|58209|91.197.44.0/24|CY|ripencc|2012-05-23|KPTNETWORK-AS, NL
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
 91.240.142.228|9333|/LitecoinCore:0.17.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
+92.253.144.180|9333|/LitecoinCore:0.16.3/|50923|92.253.128.0/19|CZ|ripencc|2007-12-03|METRO-SET-AS Metroset Autonomous System, RU
 92.52.17.129|9333|/LitecoinCore:0.17.1/|15962|92.52.0.0/18|SK|ripencc|2008-01-17|OSK-DNI Slovakia, SK
 92.53.89.123|9333|/LitecoinCore:0.17.1/|49505|92.53.89.0/24|RU|ripencc|2008-02-15|SELECTEL, RU
 93.104.214.155|9333|/LitecoinCore:0.17.1/|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
