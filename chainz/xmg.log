@@ -30,7 +30,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.72.22.244|/m-core:1.4.6.2/|71065|701|173.72.0.0/17|US|arin|2008-08-11|UUNET, US
 174.4.4.51|/m-core:1.4.6.2/|71065|6327|174.4.4.0/22|CA|arin|2008-11-19|SHAW, CA
 175.136.170.67|/m-core:1.4.6.2/|71065|4788|175.136.128.0/18|MY|apnic|2010-01-08|TMNET-AS-AP TM Net, Internet Service Provider, MY
-177.220.177.209|/m-core:1.4.6.2/|71065|14868|177.220.160.0/19|BR|lacnic|2013-09-20|COPEL Telecomunicacoes S.A., BR
 185.152.2.253|/m-core:1.4.6.2/|71065|51561|185.152.2.0/24|GB|ripencc|2016-05-13|AS-ICUK, GB
 185.37.119.12|/m-core:1.4.6.2/|71065|197075|185.37.116.0/22|IT|ripencc|2013-10-11|ACTIVENETWORK-AS Active Network S.p.A., IT
 185.37.119.20|/m-core:1.4.6.2/|71065|197075|185.37.116.0/22|IT|ripencc|2013-10-11|ACTIVENETWORK-AS Active Network S.p.A., IT
@@ -63,6 +62,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.40.114.75|/m-core:1.4.6.2/|71065|56761|31.40.112.0/20|RU|ripencc|2011-05-05|MULTINEX-MIASS-AS, RU
 31.49.226.152|/m-core:1.4.6.2/|71065|2856|31.48.0.0/13|GB|ripencc|2010-12-31|BT-UK-AS BTnet UK Regional network, GB
 35.129.7.204|/m-core:1.4.6.2/|71065|20115|35.129.0.0/18|US|arin|2017-06-30|CHARTER-20115, US
+37.120.194.218|/m-core:1.4.6.2/|71065|9009|37.120.194.0/24|RO|ripencc|2012-02-13|M247, GB
 37.235.199.194|/m-core:1.4.6.2/|71065|41268|37.235.128.0/17|RU|ripencc|2012-04-16|LANTA-AS, RU
 37.4.253.93|/m-core:1.4.6.2/|71065|31334|37.4.252.0/23|DE|ripencc|2011-12-09|KABELDEUTSCHLAND-AS, DE
 41.62.75.111|/m-core:1.4.6.2/|71065|37705|41.62.0.0/17|TN|afrinic|2020-01-06|TOPNET, TN
@@ -106,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.8.170.114|/m-core:1.4.6.2/|71065|5617|83.8.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.159.230.190|/m-core:1.4.6.2/|71065|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.160.242.119|/m-core:1.4.6.2/|71065|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.160.246.3|/m-core:1.4.6.2/|71065|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.160.254.57|/m-core:1.4.6.2/|71065|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.198.102.174|/m-core:1.4.6.2/|71065|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.208.163.115|/m-core:1.4.6.2/|71065|41164|84.208.128.0/17|NO|ripencc|2005-07-07|GET-NO GET Norway, NO
@@ -118,13 +117,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.146.112.46|/m-core:1.4.6.2/|71065|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.80.56.24|/m-core:1.4.6.2/|71065|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 87.162.115.169|/m-core:1.4.6.2/|71065|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-87.188.192.123|/m-core:1.4.6.2/|71065|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.90.193.26|/m-core:1.4.6.2/|71065|2119|88.88.0.0/13|NO|ripencc|2005-11-25|TELENOR-NEXTEL Telenor Norge AS, NO
 89.103.176.90|/m-core:1.4.6.2/|71065|6830|89.103.0.0/16|CZ|ripencc|2006-02-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.110.248.153|/m-core:1.4.6.2/|71065|13091|89.110.224.0/19|RS|ripencc|2006-04-18|PTT-SRBIJA-NET, RS
 89.14.237.37|/m-core:1.4.6.2/|71065|6805|89.14.0.0/16|DE|ripencc|2006-07-19|TDDE-ASN1, DE
 89.163.146.251|/m-core:1.4.6.2/|71065|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
-89.178.214.130|/m-core:1.4.6.2/|71065|8402|89.178.0.0/15|RU|ripencc|2006-03-22|CORBINA-AS OJSC _Vimpelcom_, RU
 90.193.31.19|/m-core:1.4.6.2/|71065|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
 90.206.228.185|/m-core:1.4.6.2/|71065|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
 91.164.199.32|/m-core:1.4.6.2/|71065|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
