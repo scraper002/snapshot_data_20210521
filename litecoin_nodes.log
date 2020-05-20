@@ -65,6 +65,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.24.177.178|9333|/LitecoinCore:0.14.2/|4134|117.24.0.0/13|CN|apnic|2007-06-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.248.108|9333|/LitecoinCore:0.17.1/|55990|119.3.224.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -228,6 +229,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 158.181.226.33|9333|/LitecoinCore:0.17.1/|41750|158.181.224.0/20|KG|ripencc|2011-11-10|AS-MEGALINE-, KG
 158.69.118.2|9433|/LitecoinCore:0.17.1/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 158.69.227.12|28653|/LitecoinCore:0.17.1/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
+158.69.24.50|9335|/LitecoinCore:0.17.1/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 158.69.66.162|9333|/Satoshi:0.13.2/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.100.240.189|9333|/LitecoinCore:0.17.1/|61098|159.100.240.0/22|CH|ripencc|1992-03-31|EXOSCALE, CH
 159.138.45.220|22231|/LitecoinCore:0.14.2/|136907|159.138.32.0/20|SG|apnic|1992-04-20|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
@@ -674,7 +676,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:8901::f03c:91ff:fe92:4ea0|33666|/CypherfunkCore:0.15.2/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:ac40:700:dc9a:b1ba:ae5d:f715:703b|9333|/LitecoinCore:0.17.1/|136255|2400:ac40::/32|MM|apnic|2017-02-10|TIMCL-AS-AP Telecom International Myanmar Co., Ltd, MM
 2402:1f00:8101:189::|17785|/LitecoinCore:0.16.2/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
-2403:6200:8871:d16a:6d5b:e4d3:431d:5987|9333|/LitecoinCore:0.14.2/|45629|2403:6200::/32|TH|apnic|2010-07-14|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 2600:1700:daa:90:109a:fd99:a7fd:e8df|9333|/LitecoinCore:0.17.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1702:2490:4c50:cd67:c259:b5d6:80cf|9333|/LitecoinCore:0.15.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1f18:17de:ea20:ad1d:e3db:f09:a291|9333|/LitecoinCore:0.17.1/|14618|2600:1f18::/35|US|arin|2014-10-17|AMAZON-AES, US
@@ -837,6 +838,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -861,7 +863,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1205:5035:6e00:fa32:e4ff:fe8c:333d|9333|/LitecoinCore:0.17.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.17.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
-2a02:2f0d:80a:9d00:988c:eef:aa72:6c7c|9333|/LitecoinCore:0.17.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:4780:8:6:2:354e:1256:7a04|9333|/LitecoinCore:0.17.1/|47583|2a02:4780:8::/48|LT|ripencc|2011-07-13|AS-HOSTINGER, LT
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:810d:1500:39ba:211:32ff:fe89:9506|9333|/LitecoinCore:0.15.1/|31334|2a02:810d::/33|DE|ripencc|2011-02-03|KABELDEUTSCHLAND-AS, DE
@@ -1241,7 +1242,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 69.148.175.185|9333|/LitecoinCore:0.16.0/|7018|69.148.0.0/14|US|arin|2003-12-24|ATT-INTERNET4, US
 69.157.133.152|9333|/LitecoinCore:0.17.1/|577|69.157.0.0/16|CA|arin|2003-11-25|BACOM, CA
 69.164.196.239|9333|/LitecoinCore:0.17.1/|63949|69.164.192.0/20|US|arin|2009-05-15|LINODE-AP Linode, LLC, US
-69.253.162.160|9333|/LitecoinCore:0.17.1/|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 69.253.43.20|9333|/LitecoinCore:0.17.1/|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 69.61.54.37|9333|/LitecoinCore:0.14.2/|22653|69.61.0.0/17|US|arin|2003-07-08|GLOBALCOMPASS, US
 69.64.34.185|9333|/LitecoinCore:0.16.3/|30083|69.64.32.0/19|US|arin|2003-07-30|AS-30083-GO-DADDY-COM-LLC, US
@@ -1254,6 +1254,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.123.48.17|9333|/LitecoinCore:0.17.1/|701|71.123.32.0/19|US|arin|2005-01-18|UUNET, US
 71.163.46.146|9333|/LitecoinCore:0.17.1/|701|71.163.0.0/16|US|arin|2005-06-01|UUNET, US
 71.228.75.141|9333|/LitecoinCore:0.16.3/|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
+71.244.101.204|9332|/LitecoinCore:0.17.1/|701|71.244.96.0/20|US|arin|2004-11-09|UUNET, US
 72.135.224.85|9333|/LitecoinCore:0.17.1/|10796|72.135.192.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
 72.15.139.173|9333|/LitecoinCore:0.17.1/|393636|72.15.128.0/20|US|arin|2004-11-24|-Reserved AS-, ZZ
 72.174.9.189|9333|/LitecoinCore:0.16.0/|33588|72.174.0.0/15|US|arin|2005-12-06|BRESNAN-33588, US
