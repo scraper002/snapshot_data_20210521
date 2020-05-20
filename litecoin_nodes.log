@@ -66,6 +66,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.24.177.178|9333|/LitecoinCore:0.14.2/|4134|117.24.0.0/13|CN|apnic|2007-06-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.248.108|9333|/LitecoinCore:0.17.1/|55990|119.3.224.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -177,7 +178,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.104.184|9333|/LitecoinCore:0.17.1/|51167|144.91.104.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.106.12|44230|/ThronusCore:0.14.2/|51167|144.91.106.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.111.114|9333|/LitecoinCore:0.17.1/|51167|144.91.110.0/23|DE|ripencc|1990-11-20|CONTABO, DE
-144.91.118.252|9333|/LitecoinCore:0.17.1/|51167|144.91.118.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.122.52|9333|/LitecoinCore:0.17.1/|51167|144.91.122.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.77.184|9333|/LitecoinCore:0.17.1/|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.98.64|9333|/LitecoinCore:0.17.1/|51167|144.91.98.0/23|DE|ripencc|1990-11-20|CONTABO, DE
@@ -896,7 +896,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a07:e00::67:89|9333|/LitecoinCore:0.17.1/|210083|2a07:e00::/48|SE|ripencc|2018-10-11|PRIVEX, SE
 2a07:e01:2::a|9333|/LitecoinCore:0.17.1/|210083|2a07:e01::/32|SE|ripencc|2018-10-11|PRIVEX, SE
 2a0b:4880::266e:96ff:fedb:7cdc|9333|/LitecoinCore:0.16.3/|48614|2a0b:4880::/48|RU|ripencc|2017-01-10|ITSOFT-AS, RU
-2c0f:f0f8:523:6400:d00a:dd4a:b42b:55fd|9333|/LitecoinCore:0.17.1/|36924|2c0f:f0f8::/32|TG|afrinic|2017-07-17|GVA-Canalbox, BJ
 3.0.102.83|22745|/MindexcoinCore:0.18.1/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.0.103.76|7721|/Satoshi:0.15.1.6/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.0.163.51|9333|/LitecoinCore:0.16.3/|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
@@ -1249,6 +1248,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 69.148.175.185|9333|/LitecoinCore:0.16.0/|7018|69.148.0.0/14|US|arin|2003-12-24|ATT-INTERNET4, US
 69.157.133.152|9333|/LitecoinCore:0.17.1/|577|69.157.0.0/16|CA|arin|2003-11-25|BACOM, CA
 69.164.196.239|9333|/LitecoinCore:0.17.1/|63949|69.164.192.0/20|US|arin|2009-05-15|LINODE-AP Linode, LLC, US
+69.253.162.160|9333|/LitecoinCore:0.17.1/|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 69.253.43.20|9333|/LitecoinCore:0.17.1/|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 69.61.54.37|9333|/LitecoinCore:0.14.2/|22653|69.61.0.0/17|US|arin|2003-07-08|GLOBALCOMPASS, US
 69.64.34.185|9333|/LitecoinCore:0.16.3/|30083|69.64.32.0/19|US|arin|2003-07-30|AS-30083-GO-DADDY-COM-LLC, US
@@ -1415,12 +1415,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.149.100|9333|/LitecoinCore:0.17.1/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.150.13|9333|/LitecoinCore:0.16.3/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.216.194|9333|/LitecoinCore:0.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-89.102.218.219|9333|/LitecoinCore:0.17.1/|6830|89.102.0.0/16|CZ|ripencc|2006-02-24|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.133.68.65|9333|/LitecoinCore:0.17.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 89.163.135.45|9333|/LitecoinCore:0.17.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.163.148.212|9333|/LitecoinCore:0.15.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.212.75.6|9333|/LitecoinCore:0.17.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.223.26.145|9333|/Satoshi:0.8.7.2/|201848|89.223.24.0/21|RU|ripencc|2006-09-19|TRADERSOFT, RU
+89.238.77.69|9333|/LitecoinCore:0.17.1/|34240|89.238.64.0/18|DE|ripencc|2006-07-21|MANITU, DE
 89.38.96.70|9333|/LitecoinCore:0.15.0.1/|49981|89.38.96.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.39.104.167|9333|/LitecoinCore:0.16.0/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.45.224.10|9553|/LitecoinCore:0.18.1/|9009|89.45.224.0/24|VN|ripencc|2005-11-29|M247, GB
