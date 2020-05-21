@@ -148,7 +148,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.44.163.215|9333|/LitecoinCore:0.16.3/|16276|142.44.128.0/17|CA|arin|2017-06-21|OVH, FR
 142.44.173.25|9333|/LitecoinCore:0.17.1/|16276|142.44.128.0/17|CA|arin|2017-06-21|OVH, FR
 142.54.164.234|9333|/LitecoinCore:0.16.3/|33387|142.54.160.0/19|US|arin|2012-05-18|NOCIX, US
-142.59.154.46|9333|/LitecoinCore:0.18.1/|852|142.59.128.0/19|CA|arin|1994-05-23|ASN852, CA
 142.93.116.106|9333|/LitecoinCore:0.16.0/|14061|142.93.112.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 142.93.227.177|9333|/LitecoinCore:0.17.1/|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 142.93.30.86|9333|/LitecoinCore:0.16.0/|14061|142.93.16.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
@@ -495,7 +494,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.201.87.244|9333|/LitecoinCore:0.16.0/|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 195.209.249.164|9333|/LitecoinCore:0.15.1/|8790|195.209.248.0/23|RU|ripencc|1996-07-19|PETRSU-AS, RU
 197.155.6.164|9333|/LitecoinCore:0.15.1/|37199|197.155.0.0/20|ZA|afrinic|2012-08-10|VANILLA, ZA
-198.187.30.208|9333|/LitecoinCore:0.15.1/|22612|198.187.30.0/24|US|arin|2012-09-18|NAMECHEAP-NET, US
 198.199.91.133|9333|/LitecoinCore:0.17.1/|14061|198.199.88.0/22|US|arin|2013-03-27|DIGITALOCEAN-ASN, US
 198.27.81.24|9333|/LitecoinCore:0.15.0.1/|16276|198.27.64.0/18|CA|arin|2012-08-28|OVH, FR
 198.27.82.12|19333|/LitecoinCore:0.17.1/|16276|198.27.64.0/18|CA|arin|2012-08-28|OVH, FR
@@ -563,10 +561,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:f40:908:3fef:add8:548b:6279:78e|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:cb:8714:5802:baae:edff:feea:317d|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
+2003:d3:9f04:1e00:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
 202.186.232.72|9333|/LitecoinCore:0.17.1/|9930|202.186.0.0/15|MY|apnic|1996-10-29|TTNET-MY TIME dotCom Berhad, MY
 203.173.116.34|9333|/LitecoinCore:0.17.1/|38676|203.173.96.0/19|KR|apnic|2005-10-25|FLEXNET-AS-KR flexnetworks, KR
@@ -645,7 +645,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 219.78.126.51|9333|/Satoshi:0.13.2/|4760|219.78.96.0/19|HK|apnic|2002-12-30|HKTIMS-AP HKT Limited, HK
 220.135.81.163|9333|/LitecoinCore:0.17.1/|3462|220.135.64.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
 221.240.155.77|8338|/LitecoinCore:0.16.3/|17506|221.240.0.0/12|JP|apnic|2003-08-07|UCOM ARTERIA Networks Corporation, JP
-23.102.77.31|9333|/LitecoinCore:0.16.3/|8075|23.102.0.0/16|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 23.106.124.2|9333|/LitecoinCore:0.17.1/|59253|23.106.120.0/21|SG|apnic|2013-07-24|LEASEWEB-APAC-SIN-11 Leaseweb Asia Pacific pte. ltd., SG
 23.112.250.126|9333|/LitecoinCore:0.16.3/|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
 23.233.39.81|9333|/Satoshi:0.8.6.2/|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
@@ -1176,7 +1175,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 58.229.208.217|9333|/LitecoinCore:0.14.2/|9318|58.224.0.0/13|KR|apnic|2005-06-27|SKB-AS SK Broadband Co Ltd, KR
 58.229.208.244|9333|/LitecoinCore:0.17.1/|9318|58.224.0.0/13|KR|apnic|2005-06-27|SKB-AS SK Broadband Co Ltd, KR
 58.96.84.1|9333|/LitecoinCore:0.17.1/|10143|58.96.64.0/19|AU|apnic|2005-04-11|EXETEL-AS-AP Exetel Pty Ltd, AU
-59.10.255.140|9333|/LitecoinCore:0.14.2/|4766|59.8.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
 59.110.22.131|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.110.30.9|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.148.23.172|9333|/LitecoinCore:0.17.1/|10103|59.148.23.0/24|HK|apnic|2004-11-03|HKBN-AS-AP HK Broadband Network Ltd., HK
