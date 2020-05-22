@@ -38,7 +38,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.61.183.37|9513|/Satoshi:0.8.7.2/|20473|108.61.180.0/22|US|arin|2010-12-08|AS-CHOOPA, US
 108.61.89.2|9333|/btcwire:0.5.0/ltcd:0.20.1/|20473|108.61.64.0/19|US|arin|2010-12-08|AS-CHOOPA, US
 109.12.99.127|9333|/LitecoinCore:0.14.2/|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
-109.195.131.81|9333|/LitecoinCore:0.17.1/|56330|109.195.128.0/20|RU|ripencc|2009-10-27|KURGAN-AS, RU
 109.202.107.125|9333|/LitecoinCore:0.17.1/|49453|109.202.107.0/24|NL|ripencc|2011-02-10|GLOBALLAYER, NL
 109.236.81.138|59333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.84.141|9333|/LitecoinCore:0.16.2/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
@@ -49,9 +48,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.229.127.66|9333|/LitecoinCore:0.17.1/|45090|111.229.64.0/18|CN|apnic|2009-07-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 112.213.103.98|9333|/Satoshi:0.13.2/|38197|112.213.103.0/24|HK|apnic|2009-02-20|SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK
 112.213.124.157|9333|/Satoshi:0.13.2/|38197|112.213.124.0/24|HK|apnic|2009-02-20|SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK
+112.54.13.221|9333|/LitecoinCore:0.17.1/|56044|112.54.0.0/20|CN|apnic|2008-12-15|CMNET-AS-LIAONING China Mobile communications corporation, CN
 112.74.45.139|9333|/LitecoinCore:0.17.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 112.74.50.226|9333|/LitecoinCore:0.17.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-114.32.157.76|9333|/FutureBit-ApolloCore:0.17.1/|3462|114.32.128.0/18|TW|apnic|2008-04-18|HINET Data Communication Business Group, TW
 115.64.137.217|9333|/LitecoinCore:0.18.1/|7545|115.64.137.0/24|AU|apnic|2008-07-11|TPG-INTERNET-AP TPG Telecom Limited, AU
 116.202.0.237|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.113.53|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -560,6 +559,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:f40:908:3fef:98ac:c06f:2aab:2b66|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -708,6 +708,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 27.124.18.174|9333|/Satoshi:0.13.2/|64050|27.124.18.0/24|SG|apnic|2010-10-08|BCPL-SG BGPNET Global ASN, SG
 2804:14c:43:2363:487e:8111:f73c:f9f8|9333|/LitecoinCore:0.17.1/|28573|2804:14c:40::/44|BR|lacnic|2012-02-10|CLARO S.A., BR
 2806:103e:27:6f6a:9a4:8d07:a3d:8471|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
+2806:2f0:90e1:d35:1810:dd2e:2b19:4864|9333|/LitecoinCore:0.17.1/|17072|2806:2f0:90e0::/47|MX|lacnic|2012-10-11|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
 2a00:1828:a004:2::666|9333|/LitecoinCore:0.17.1/|34240|2a00:1828::/32|DE|ripencc|2009-12-08|MANITU, DE
 2a00:1838:36:142::ec73|9333|/LitecoinCore:0.15.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
 2a00:1838:36:17::38cb|9333|/LitecoinCore:0.15.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
@@ -827,7 +828,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -980,6 +980,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.105.114.89|9333|/LitecoinCore:0.15.1/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
 46.105.55.208|9333|/LitecoinCore:0.17.1/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
 46.105.72.110|33666|/CypherfunkCore:0.15.2/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
+46.11.46.68|9333|/LitecoinCore:0.15.1/|15735|46.11.40.0/21|MT|ripencc|2010-09-14|DATASTREAM-NET, MT
 46.165.221.209|19333|/LitecoinCore:0.17.1/|28753|46.165.192.0/18|DE|ripencc|2010-12-13|LEASEWEB-DE-FRA-10, DE
 46.165.230.156|19333|/LitecoinCore:0.17.1/|28753|46.165.192.0/18|DE|ripencc|2010-12-13|LEASEWEB-DE-FRA-10, DE
 46.166.162.45|20002|/LitecoinCore:0.15.1/|16125|46.166.160.0/21|LT|ripencc|2010-12-16|CHERRYSERVERS1-AS, LT
@@ -1246,7 +1247,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.190.77.61|9333|/FutureBit-ApolloCore:0.17.1/|11427|72.190.0.0/15|US|arin|2005-11-21|TWC-11427-TEXAS, US
 72.207.150.10|9333|/FutureBit-ApolloCore:0.17.1/|22773|72.207.128.0/18|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 72.216.35.187|9333|/FutureBit-ApolloCore:0.17.1/|22773|72.216.0.0/18|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
-72.225.7.80|9333|/LitecoinCore:0.17.1/|11351|72.225.0.0/18|US|arin|2005-07-21|TWC-11351-NORTHEAST, US
 72.241.150.130|10333|/LitecoinCore:0.15.1/|13490|72.241.128.0/19|US|arin|2005-04-21|BUCKEYECABLEVISION, US
 73.101.188.111|9333|/LitecoinCore:0.16.3/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.107.94.102|9333|/Satoshi:0.8.5.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
