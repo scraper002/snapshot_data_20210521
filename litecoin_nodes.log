@@ -566,6 +566,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:f40:908:3fef:98ac:c06f:2aab:2b66|9333|/LitecoinCore:0.17.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad, MY
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -859,7 +860,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e34:ed68:71e0:8a9:b416:ce32:366e|9333|/LitecoinCore:0.16.3/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:168:420b:a::28|9333|/LitecoinCore:0.17.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
-2a02:2f0d:312:5e00:9ca5:196d:fcfe:59d|9333|/LitecoinCore:0.17.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:2f0d:80a:9d00:5895:8a65:6b25:b51a|9333|/LitecoinCore:0.17.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:4780:8:6:2:354e:1256:7a04|9333|/LitecoinCore:0.17.1/|47583|2a02:4780:8::/48|LT|ripencc|2011-07-13|AS-HOSTINGER, LT
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
@@ -935,7 +935,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.194.165.75|9333|/LitecoinCore:0.17.1/|15169|35.192.0.0/14|US|arin|2017-03-21|GOOGLE, US
 35.196.208.135|9333|/LitecoinCore:0.16.0/|15169|35.196.0.0/15|US|arin|2017-03-21|GOOGLE, US
 35.204.66.183|19335|/LitecoinCore:0.17.1/|15169|35.204.0.0/15|US|arin|2017-03-21|GOOGLE, US
-35.209.225.103|9333|/LitecoinCore:0.17.1(litecoin)/|19527|35.208.0.0/15|US|arin|2017-09-29|GOOGLE-2, US
 35.228.53.132|9333|/LitecoinCore:0.17.1/|15169|35.228.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.237.137.29|9333|/LitecoinCore:0.17.1/|15169|35.236.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.237.72.70|9333|/LitecoinCore:0.17.1/|15169|35.236.0.0/14|US|arin|2017-09-29|GOOGLE, US
@@ -999,6 +998,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.4.102.69|9086|/Satoshi:0.8.6.2/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.105.19|9333|/LitecoinCore:0.17.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.85.241|9085|/FlashcoinCore:0.13.3/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
+46.84.82.110|9333|/LitecoinCore:0.17.1/|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 46.93.82.166|9333|/FutureBit-ApolloCore:0.17.1/|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.101.68.255|9333|/LitecoinCore:0.17.1/|37963|47.100.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.105.42.64|9333|/LitecoinCore:0.17.1/|37963|47.105.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1266,6 +1266,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.198.63.11|9333|/LitecoinCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.203.77.83|9333|/LitecoinCore:0.16.0/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.22.235.245|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.222.3.234|9333|/Satoshi:0.8.6.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.225.8.164|9333|/LitecoinCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.229.58.235|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.240.7.185|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -1536,6 +1537,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 96.126.123.143|9333|/LitecoinCore:0.17.1/|63949|96.126.112.0/20|US|arin|2011-05-06|LINODE-AP Linode, LLC, US
 96.22.82.34|9333|/LitecoinCore:0.17.1/|5769|96.22.64.0/18|CA|arin|2007-10-30|VIDEOTRON, CA
 96.234.42.12|9333|/LitecoinCore:0.17.1/|701|96.234.0.0/17|US|arin|2006-12-29|UUNET, US
+96.240.205.145|9333|/FutureBit-ApolloCore:0.17.1/|701|96.240.192.0/18|US|arin|2006-12-29|UUNET, US
 98.194.53.113|9333|/LitecoinCore:0.16.3/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.217.124.239|9333|/LitecoinCore:0.16.0/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.22.18.215|9333|/FutureBit-ApolloCore:0.17.1/|7029|98.16.0.0/13|US|arin|2007-02-05|WINDSTREAM, US
@@ -1545,4 +1547,3 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 99.152.32.222|9333|/LitecoinCore:0.17.1/|7018|99.152.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
 99.229.149.194|9333|/LitecoinCore:0.17.1/|812|99.229.128.0/18|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
 99.85.72.197|9333|/FutureBit-ApolloCore:0.17.1/|7018|99.85.0.0/17|US|arin|2008-02-25|ATT-INTERNET4, US
-99.98.217.243|9333|/LitecoinCore:0.17.1/|7018|99.96.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
