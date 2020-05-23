@@ -30,6 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+165.227.195.170|/YoloCoinCore:0.16.3/|70015|14061|165.227.192.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 172.58.19.185|/bitcore:1.1.0-exodus2/|70003|21928|172.58.16.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 174.59.47.37|/LitecoinCore:0.17.1/|70015|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
@@ -53,7 +54,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.190.221.21|/LitecoinCore:0.17.1/|70015|207744|188.190.192.0/19|RU|ripencc|2011-02-17|MEGALINK-AS, RU
 188.195.155.6|/LitecoinCore:0.17.1/|70015|31334|188.195.155.0/24|DE|ripencc|2009-06-08|KABELDEUTSCHLAND-AS, DE
 190.217.12.67|/LitecoinCore:0.17.1/|70015|3549|190.217.12.0/24|AR|lacnic|2011-04-08|LVLT-3549, US
-192.99.9.13|/LitecoinCore:0.17.1/|70015|16276|192.99.0.0/16|CA|arin|2013-06-17|OVH, FR
 193.106.60.152|/Satoshi:0.13.2/|70015|50281|193.106.60.0/22|UA|ripencc|2009-12-10|ISP6-6-AS, UA
 193.250.36.142|/LitecoinCore:0.17.1/|70015|3215|193.250.0.0/16|FR|ripencc|1993-09-01|France Telecom - Orange, FR
 193.81.107.167|/bitcore:1.1.0-exodus2/|70003|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
@@ -80,6 +80,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.232.15.226|/bitcore:1.1.0-exodus2/|70003|35805|37.232.0.0/17|GE|ripencc|2012-04-12|SILKNET-AS, GE
 45.56.127.90|/LitecoinCore:0.17.1/|70015|63949|45.56.120.0/21|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
+47.197.198.133|/LitecoinCore:0.14.2/|70015|5650|47.196.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -116,7 +117,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.120.104.77|/Bitupper:0.8.2/|70014|25229|77.120.96.0/19|UA|ripencc|2006-11-24|VOLIA-AS, UA
 77.20.254.11|/bitcore:1.1.0-exodus2/|70003|31334|77.20.254.0/23|DE|ripencc|2008-04-08|KABELDEUTSCHLAND-AS, DE
 78.235.238.107|/LitecoinCore:0.17.1/|70015|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
-80.235.107.89|/bitcore:1.1.0-exodus2/|70003|3249|80.235.0.0/17|EE|ripencc|2001-10-11|ESTPAK, EE
 80.241.222.199|/DigitaleuroCore:0.16.3/|70015|51167|80.241.222.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 80.242.124.21|/LitecoinCore:0.17.1/|70015|21107|80.242.112.0/20|BA|ripencc|2005-09-07|BLICNET-AS 
 80.61.55.19|/bitcore:1.1.0-exodus2/|70003|1136|80.60.0.0/15|NL|ripencc|2001-06-15|KPN KPN National, EU
@@ -128,6 +128,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.156.134.110|/bitcore:1.1.0-exodus2/|70003|29314|88.156.134.0/23|PL|ripencc|2006-01-19|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
 89.64.61.108|/bitcore:1.1.0-exodus2/|70003|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 91.160.94.118|/bitcore:1.1.0-exodus2/|70003|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
+91.65.156.143|/LitecoinCore:0.17.1/|70015|31334|91.65.156.0/24|DE|ripencc|2006-07-10|KABELDEUTSCHLAND-AS, DE
 94.130.146.165|/CounosCoinCore:0.15.3.2/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 95.131.149.11|/LitecoinCore:0.16.0/|70015|41275|95.131.144.0/21|RU|ripencc|2009-03-31|LEALTA-AS Moscow, Russia, RU
 95.141.142.67|/LitecoinCore:0.17.1/|70015|35104|95.141.142.0/24|KZ|ripencc|2009-06-05|KTC-AS, KZ
