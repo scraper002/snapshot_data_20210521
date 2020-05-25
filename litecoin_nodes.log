@@ -67,6 +67,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.17.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|9333|/LitecoinCore:0.17.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -928,7 +929,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.194.165.75|9333|/LitecoinCore:0.17.1/|15169|35.192.0.0/14|US|arin|2017-03-21|GOOGLE, US
 35.196.208.135|9333|/LitecoinCore:0.16.0/|15169|35.196.0.0/15|US|arin|2017-03-21|GOOGLE, US
 35.204.66.183|19335|/LitecoinCore:0.17.1/|15169|35.204.0.0/15|US|arin|2017-03-21|GOOGLE, US
-35.209.225.103|9333|/LitecoinCore:0.17.1(litecoin)/|19527|35.208.0.0/15|US|arin|2017-09-29|GOOGLE-2, US
 35.228.53.132|9333|/LitecoinCore:0.17.1/|15169|35.228.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.231.213.24|9333|/LitecoinCore:0.16.3/|15169|35.228.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.237.137.29|9333|/LitecoinCore:0.17.1/|15169|35.236.0.0/14|US|arin|2017-09-29|GOOGLE, US
@@ -1013,6 +1013,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.254.82.64|9333|/LitecoinCore:0.16.3/|45102|47.254.80.0/21|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.52.131.159|9333|/LitecoinCore:0.14.2/|45102|47.52.128.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.56.228.202|8887|/LitecoinCore:0.17.1/|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+47.62.87.94|9333|/LitecoinCore:0.17.1/|12430|47.62.0.0/16|US|arin|2012-05-15|VODAFONE_ES, ES
 47.75.100.150|9333|/LitecoinCore:0.16.3/|45102|47.75.0.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.75.14.219|9333|/LitecoinCore:0.16.3/|45102|47.75.0.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.75.164.60|18887|/LitecoinCore:0.17.1/|45102|47.75.128.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -1383,6 +1384,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.25.149.24|9333|/LitecoinCore:0.16.3/|8972|85.25.149.0/24|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 85.25.202.57|7999|/DigitalcoinV3.0:3.0.1/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 85.3.86.224|9333|/LitecoinCore:0.17.1/|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
+86.0.177.109|9333|/LitecoinCore:0.14.2/|5089|86.0.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.100.49.209|56969|/DigitaleuroCore:0.16.3/|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.128.17.166|9333|/LitecoinCore:0.17.1/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.171.70.9|9333|/Satoshi:0.8.5.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
@@ -1412,6 +1414,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.163.148.212|9333|/LitecoinCore:0.15.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.212.75.6|9333|/LitecoinCore:0.17.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.223.26.145|9333|/Satoshi:0.8.7.2/|201848|89.223.24.0/21|RU|ripencc|2006-09-19|TRADERSOFT, RU
+89.238.77.110|9333|/LitecoinCore:0.17.1/|34240|89.238.64.0/18|DE|ripencc|2006-07-21|MANITU, DE
 89.38.96.70|9333|/LitecoinCore:0.15.0.1/|49981|89.38.96.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.39.104.167|9333|/LitecoinCore:0.16.0/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.45.224.10|9553|/LitecoinCore:0.18.1/|9009|89.45.224.0/24|VN|ripencc|2005-11-29|M247, GB
