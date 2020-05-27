@@ -55,7 +55,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.74.45.139|9333|/LitecoinCore:0.17.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 112.74.50.226|9333|/LitecoinCore:0.17.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 114.32.157.76|9333|/FutureBit-ApolloCore:0.17.1/|3462|114.32.128.0/18|TW|apnic|2008-04-18|HINET Data Communication Business Group, TW
-115.68.190.124|9333|/LitecoinCore:0.16.3/|38700|115.68.128.0/17|KR|apnic|2008-07-15|SMILESERV-AS-KR SMILESERV, KR
 116.202.0.237|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.113.53|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.115.101|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -69,6 +68,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.17.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|9333|/LitecoinCore:0.17.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -206,7 +206,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.56.117.96|9333|/LitecoinCore:0.17.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.132.49|7107|/FlashcoinCore:0.13.3.2(bitcore)/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.176.162|9333|/LitecoinCore:0.17.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
-149.56.21.37|9336|/CodemyCoinCore:0.14.2/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 15.164.150.190|9333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.164.166.11|8333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.164.215.57|9333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
@@ -1216,6 +1215,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.183.121.76|9333|/LitecoinCore:0.16.3/|14061|68.183.112.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 68.183.72.249|9333|/LitecoinCore:0.17.1/|14061|68.183.64.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 68.183.98.67|9333|/LitecoinCore:0.16.3/|14061|68.183.96.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
+68.184.93.61|9333|/Satoshi:0.13.2/|20115|68.184.80.0/20|US|arin|2002-12-31|CHARTER-20115, US
 68.186.253.26|9333|/FutureBit-ApolloCore:0.17.1/|20115|68.186.240.0/20|US|arin|2002-12-31|CHARTER-20115, US
 68.194.11.166|9333|/FutureBit-ApolloCore:0.17.1/|6128|68.192.0.0/13|US|arin|2003-01-29|CABLE-NET-1, US
 68.195.18.155|9333|/LitecoinCore:0.17.1/|6128|68.192.0.0/13|US|arin|2003-01-29|CABLE-NET-1, US
@@ -1380,7 +1380,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.128.17.166|9333|/LitecoinCore:0.17.1/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.195.78.26|9333|/LitecoinCore:0.16.3/|3215|86.195.0.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.235.199.42|9333|/LitecoinCore:0.17.1/|3215|86.235.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-86.81.0.203|9333|/FutureBit-ApolloCore:0.17.1/|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 87.119.228.196|9333|/LitecoinCore:0.16.3/|12389|87.119.224.0/20|RU|ripencc|2005-11-18|ROSTELECOM-AS, RU
 87.220.79.24|9333|/FutureBit-ApolloCore:0.17.1/|12479|87.220.76.0/22|ES|ripencc|2005-06-07|UNI2-AS, ES
 87.249.207.89|9333|/LitecoinCore:0.14.2/|41925|87.249.192.0/19|RU|ripencc|2010-03-01|CHEL-FACTORIAL-INTERNET, RU
