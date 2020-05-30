@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.55.105|/open-nodes:0.1/|70003|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.8.45.40|/LitecoinCore:0.17.1/|70015|136907|119.8.32.0/19|SG|apnic|2007-11-23|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
-120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 138.68.61.71|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|138.68.48.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
@@ -33,6 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.43.220.250|/bitcore:1.1.0/|70003|34984|176.43.220.0/22|TR|ripencc|2011-05-20|TELLCOM-AS, TR
 176.59.212.240|/TKEYSPACE:1.2.0/|70015|48190|176.59.192.0/19|RU|ripencc|2011-06-06|T2-EKATERINBURG-AS Tele2 Russia Network, RU
 176.59.32.188|/TKEYSPACE:1.2.0/|70015|12958|176.59.32.0/22|RU|ripencc|2011-06-06|MCC Tele2 Russia Network, RU
+178.116.82.32|/bitcore:1.1.0-exodus2/|70003|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.128.29.221|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|178.128.16.0/20|NL|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.25.224|/CounosXCore:0.17.2/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
@@ -70,12 +70,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.101.184.169|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|46.101.128.0/17|NL|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.127.192.197|/bitcore:1.1.0-exodus2/|70003|6830|46.127.0.0/16|CH|ripencc|2010-06-01|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
-46.13.188.161|/LitecoinCore:0.14.2/|70015|13036|46.13.128.0/17|CZ|ripencc|2010-09-24|TMOBILE-, CZ
 47.56.247.73|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
-51.79.86.8|/DigitaleuroCore:0.16.3/|70015|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 51.89.161.144|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.96.163|/LitecoinCore:0.17.1/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
@@ -104,6 +102,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.79.97.49|/Satoshi:0.8.6.2/|70002|8359|91.76.0.0/14|RU|ripencc|2006-08-21|MTS, RU
 92.211.11.9|/bitcore:1.1.0-exodus2/|70003|3209|92.208.0.0/14|DE|ripencc|2007-10-17|VODANET International IP-Backbone of Vodafone, DE
 95.216.187.94|/litecoinj:0.15.2-SNAPSHOT/|70002|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.250.35|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.91.238.141|/LitecoinCore:0.17.1/|70015|31334|95.91.238.0/23|DE|ripencc|2008-12-15|KABELDEUTSCHLAND-AS, DE
 99.80.39.175|/LitecoinCore:0.17.1/|70015|16509|99.80.0.0/15|US|arin|2018-01-10|AMAZON-02, US
