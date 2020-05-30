@@ -29,7 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 222.153.89.70|/eMark:1.5.0/|60011|4771|222.153.88.0/21|NZ|apnic|2004-12-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
 24.4.64.219|/eMark:1.5.1/|60011|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 35.139.86.33|/eMark:1.5.1/|60011|33363|35.136.0.0/13|US|arin|2017-06-30|BHN-33363, US
-37.201.195.45|/eMark:1.5.1/|60011|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+37.201.195.45|/eMark:1.5.1/|60011|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 37.30.17.53|/eMark:1.5.1/|60011|12912|37.30.0.0/15|PL|ripencc|2011-12-30|TM, PL
 37.49.191.86|/eMark:1.5.1/|60011|12688|37.49.160.0/19|RU|ripencc|2012-01-25|BAIKALTRANSTELECOM Irkutsk, Russia, RU
 41.180.77.14|/eMark:1.5.1/|60011|36916|41.180.76.0/23|ZA|afrinic|2008-05-22|X-DSL-NET1, ZA
@@ -39,8 +39,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.223.193.176|/eMark:1.5.1/|60011|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 46.238.0.140|/eMark:1.5.1/|60011|29580|46.238.0.0/24|BG|ripencc|2011-01-31|HOMELAN-AS, BG
-5.146.164.118|/eMark:1.5.1/|60011|6830|5.146.0.0/16|DE|ripencc|2012-07-13|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
-5.146.4.167|/eMark:1.6.1/|60012|6830|5.146.0.0/16|DE|ripencc|2012-07-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+5.146.164.118|/eMark:1.5.1/|60011|6830|5.146.0.0/16|DE|ripencc|2012-07-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+5.146.4.167|/eMark:1.6.1/|60012|6830|5.146.0.0/16|DE|ripencc|2012-07-13|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
 5.9.141.86|/eMark:1.5.0/|60011|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 50.92.181.218|/eMark:1.5.1/|60011|852|50.92.0.0/16|CA|arin|2011-02-04|ASN852, CA
 51.38.57.53|/eMark:1.5.0/|60011|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -50,7 +50,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.93.174.250|/eMark:1.5.1/|60011|20001|70.93.0.0/16|US|arin|2004-09-22|TWC-20001-PACWEST, US
 73.212.188.149|/eMark:1.5.0/|60011|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 77.7.79.60|/eMark:1.5.0/|60011|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
-78.96.131.91|/eMark:1.5.1/|60011|6830|78.96.0.0/16|RO|ripencc|2007-04-25|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+78.96.131.91|/eMark:1.5.1/|60011|6830|78.96.0.0/16|RO|ripencc|2007-04-25|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 79.208.79.63|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.211.171.16|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.211.172.180|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -77,12 +77,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.138.205.97|/eMark:1.5.1/|60011|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 86.105.9.116|/eMark:1.5.1/|60011|9009|86.105.9.0/24|RO|ripencc|2005-04-18|M247, GB
 86.105.9.118|/eMark:1.5.1/|60011|9009|86.105.9.0/24|RO|ripencc|2005-04-18|M247, GB
-86.105.9.94|/eMark:1.5.1/|60011|9009|86.105.9.0/24|RO|ripencc|2005-04-18|M247, GB
 86.106.137.12|/eMark:1.5.1/|60011|9009|86.106.137.0/24|RO|ripencc|2005-04-18|M247, GB
 87.184.173.15|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.189.159.194|/eMark:1.5.0/|60011|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.210.197.85|/eMark:1.5.1/|60011|13127|87.208.0.0/13|NL|ripencc|2005-06-02|VERSATEL AS for the Trans-European Tele2 IP Transport backbone, NL
-88.152.185.138|/eMark:1.5.1/|60011|6830|88.152.0.0/16|DE|ripencc|2008-04-14|LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+88.152.185.138|/eMark:1.5.1/|60011|6830|88.152.0.0/16|DE|ripencc|2008-04-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 89.1.214.188|/eMark:1.5.1/|60011|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.142.154.129|/eMark:1.5.0/|60011|5603|89.142.128.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
@@ -90,7 +89,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.244.237.210|/eMark:1.5.1/|60011|8881|89.244.224.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.245.12.82|/eMark:1.5.1/|60011|8881|89.245.0.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.33.246.28|/eMark:1.5.1/|60011|9009|89.33.246.0/24|RO|ripencc|2005-11-29|M247, GB
-89.40.71.244|/eMark:1.5.1/|60011|9009|89.40.71.0/24|RO|ripencc|2005-11-29|M247, GB
 90.191.151.218|/eMark:1.5.1/|60011|3249|90.190.0.0/15|EE|ripencc|2006-11-14|ESTPAK, EE
 91.18.117.185|/eMark:1.5.1/|60011|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.128.97|/eMark:1.5.1/|60011|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
