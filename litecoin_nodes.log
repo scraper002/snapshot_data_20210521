@@ -295,6 +295,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.245.245.8|33666|/CypherfunkCore:0.15.2/|36352|172.245.244.0/22|US|arin|2013-04-22|AS-COLOCROSSING, US
 172.76.74.242|9333|/FutureBit-ApolloCore:0.17.1/|5650|172.76.0.0/14|US|arin|2015-04-02|FRONTIER-FRTR, US
 173.176.184.54|9333|/LitecoinCore:0.17.1/|5769|173.176.128.0/18|CA|arin|2009-04-27|VIDEOTRON, CA
+173.2.15.191|9333|/LitecoinCore:0.17.1/|6128|173.2.0.0/15|US|arin|2008-05-12|CABLE-NET-1, US
 173.2.91.254|9333|/FutureBit-ApolloCore:0.17.1/|6128|173.2.0.0/15|US|arin|2008-05-12|CABLE-NET-1, US
 173.209.44.34|9333|/LitecoinCore:0.14.2/|36666|173.209.32.0/19|CA|arin|2009-09-21|GTCOMM, CA
 173.212.197.63|9333|/LitecoinCore:0.17.1/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
@@ -497,6 +498,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.217.117.134|8553|/LitecoinCore:0.17.1/|30083|199.217.112.0/21|US|arin|2012-06-21|AS-30083-GO-DADDY-COM-LLC, US
 199.241.190.50|9333|/LitecoinCore:0.17.1/|31863|199.241.184.0/21|US|arin|2012-07-30|DACEN-2, US
 2.27.96.143|9333|/LitecoinCore:0.16.3/|12576|2.27.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
+2.95.80.219|9333|/LitecoinCore:0.17.1/|3216|2.95.0.0/16|RU|ripencc|2010-05-21|SOVAM-AS, RU
 2001:0:53aa:64c:18cd:1e3f:cbba:7cf3|9333|/LitecoinCore:0.14.2/|6939|2001::/32||other||HURRICANE, US
 2001:14ba:23f6:9c00:405b:9ba3:73c9:eb03|9333|/LitecoinCore:0.16.3/|16086|2001:14b8::/29|FI|ripencc|2003-07-07|DNA, FI
 2001:1620:c24:1:11:32ff:fe22:21b6|9333|/LitecoinCore:0.17.1/|13030|2001:1620::/32|CH|ripencc|2003-10-30|INIT7, CH
@@ -637,7 +639,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.84.176.86|9333|/FutureBit-ApolloCore:0.17.1/|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 219.78.126.51|9333|/Satoshi:0.13.2/|4760|219.78.96.0/19|HK|apnic|2002-12-30|HKTIMS-AP HKT Limited, HK
 220.135.81.163|9333|/LitecoinCore:0.17.1/|3462|220.135.64.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
-221.240.155.77|8338|/LitecoinCore:0.16.3/|17506|221.240.0.0/12|JP|apnic|2003-08-07|UCOM ARTERIA Networks Corporation, JP
 23.102.77.31|9333|/LitecoinCore:0.16.3/|8075|23.102.0.0/16|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 23.106.124.2|9333|/LitecoinCore:0.17.1/|59253|23.106.120.0/21|SG|apnic|2013-07-24|LEASEWEB-APAC-SIN-11 Leaseweb Asia Pacific pte. ltd., SG
 23.106.249.66|9333|/LitecoinCore:0.17.1/|59253|23.106.248.0/22|SG|apnic|2013-07-24|LEASEWEB-APAC-SIN-11 Leaseweb Asia Pacific pte. ltd., SG
@@ -822,7 +823,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1319,7 +1319,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.137.57.54|9027|/Satoshi:0.8.6.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.137.69.175|9333|/LitecoinCore:0.14.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.175.125.210|9333|/LitecoinCore:0.16.3/|9125|79.175.64.0/18|RS|ripencc|2007-11-12|ORIONTELEKOM-AS, RS
-79.179.42.169|9333|/LitecoinCore:0.17.1/|8551|79.179.42.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+79.176.70.155|9333|/LitecoinCore:0.17.1/|8551|79.176.70.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 79.225.80.33|9333|/FutureBit-ApolloCore:0.17.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.98.159.7|9333|/LitecoinCore:0.16.3/|44065|79.98.152.0/21|CZ|ripencc|2007-11-06|NETAIR-AS, CZ
 80.0.27.75|9333|/LitecoinCore:0.17.1/|5089|80.0.0.0/16|GB|ripencc|2001-04-25|NTL, GB
