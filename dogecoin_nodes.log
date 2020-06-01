@@ -30,6 +30,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.79.39.22|22556|/Shibetoshi:1.14.1/|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.79.73.146|22556|/Shibetoshi:1.14.2/|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.127.234.206|22556|/Shibetoshi:1.10.0/|38197|121.127.234.0/24|HK|apnic|2007-10-11|SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK
+121.45.129.54|22556|/Shibetoshi:1.14.0/|7545|121.45.128.0/20|AU|apnic|2007-02-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 124.191.213.74|22556|/Shibetoshi:1.10.0/|1221|124.176.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 124.64.11.76|22556|/Shibetoshi:1.10.0/|4808|124.64.0.0/18|CN|apnic|2006-01-09|CHINA169-BJ China Unicom Beijing Province Network, CN
 13.228.172.201|22556|/Shibetoshi:1.10.0/|16509|13.228.0.0/15|US|arin|2016-08-09|AMAZON-02, US
@@ -38,7 +39,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.144.211.232|22556|/Shibetoshi:1.14.2/|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 136.243.148.11|22556|/Shibetoshi:1.14.0/|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 137.220.49.234|22556|/Shibetoshi:1.14.2/|20473|137.220.48.0/22|US|arin|2019-12-09|AS-CHOOPA, US
-138.201.204.237|22556|/Shibetoshi:1.14.0/|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
 142.44.163.215|22556|/Shibetoshi:1.14.0/|16276|142.44.128.0/17|CA|arin|2017-06-21|OVH, FR
 142.44.173.25|22556|/Shibetoshi:1.14.2/|16276|142.44.128.0/17|CA|arin|2017-06-21|OVH, FR
 144.48.165.19|22556|/Shibetoshi:1.14.2/|135352|144.48.164.0/23|AU|apnic|2016-04-15|TSGNLCO-AS-AP The Signal Co. Wireless, AU
@@ -231,7 +231,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:162:3104::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|11333|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:173:14ec::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:173:2765::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:24ef::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:528d::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -416,6 +415,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.100.49.209|22556|/Shibetoshi:1.14.2/|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.135.217.48|22556|/Shibetoshi:1.14.2/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.233.35.119|22556|/Shibetoshi:1.14.2/|3215|86.233.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
+86.61.65.116|22445|/Pandoshi:3.0.6.4/|5603|86.61.64.0/18|SI|ripencc|2005-05-11|SIOL-NET Telekom Slovenije d.d., SI
 87.236.27.155|18478|/Shibetoshi:1.14.2/|12714|87.236.24.0/21|RU|ripencc|2005-07-18|TI-AS Moscow, Russia, RU
 88.150.230.97|22556|/Shibetoshi:1.14.2/|20860|88.150.230.0/24|GB|ripencc|2006-01-31|IOMART-AS, GB
 88.198.230.142|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -432,7 +432,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.223.26.145|22556|/Shibetoshi:1.10.0/|201848|89.223.24.0/21|RU|ripencc|2006-09-19|TRADERSOFT, RU
 91.121.95.32|22556|/Shibetoshi:1.10.0/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.228.218.105|64222|/Shibetoshi:1.14.2/|25229|91.228.218.0/24|UA|ripencc|2011-06-08|VOLIA-AS, UA
-93.73.81.197|22556|/Shibetoshi:1.10.0/|25229|93.73.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
 94.130.137.98|22556|/Shibetoshi:1.14.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.168.169|22556|/Shibetoshi:1.14.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.207.236|8506|/Shibetoshi:1.10.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
