@@ -162,6 +162,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:4400:2000::170f|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:608:641::1|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
+2002:a22a:cdce::a22a:cdce|22556|/Shibetoshi:1.10.0/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:d8f5:ceb5::d8f5:ceb5|22556|/Shibetoshi:1.10.0/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 205.178.39.30|22556|/Shibetoshi:1.10.0/|6079|205.178.0.0/17|US|arin|1995-03-20|RCN-AS, US
 207.180.229.150|22556|/Shibetoshi:1.14.2/|51167|207.180.228.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.235.155|22556|/Shibetoshi:1.14.2/|51167|207.180.234.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -229,7 +231,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|11333|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:173:14ec::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:173:2765::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:24ef::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:528d::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:192:1c2::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -294,7 +295,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.166.162.76|20003|/Shibetoshi:1.10.0/|16125|46.166.160.0/21|LT|ripencc|2010-12-16|CHERRYSERVERS1-AS, LT
 46.28.107.182|22556|/Shibetoshi:1.14.0/|197019|46.28.104.0/21|CZ|ripencc|2010-07-22|WEDOS, CZ
 47.203.94.238|22556|/Shibetoshi:1.14.2/|5650|47.200.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
-47.219.216.8|22445|/Pandoshi:3.0.5.6/|19108|47.218.0.0/15|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 47.244.131.81|22556|/Shibetoshi:1.10.0/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.244.160.222|22556|/Shibetoshi:1.14.0/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.244.227.190|22556|/Shibetoshi:1.10.0/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -412,7 +412,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.25.202.57|22556|/Shibetoshi:1.10.0/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 86.100.49.209|22556|/Shibetoshi:1.14.2/|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.135.217.48|22556|/Shibetoshi:1.14.2/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.180.231.49|22556|/Shibetoshi:1.10.0/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.233.35.119|22556|/Shibetoshi:1.14.2/|3215|86.233.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 87.236.27.155|18478|/Shibetoshi:1.14.2/|12714|87.236.24.0/21|RU|ripencc|2005-07-18|TI-AS Moscow, Russia, RU
 88.150.230.97|22556|/Shibetoshi:1.14.2/|20860|88.150.230.0/24|GB|ripencc|2006-01-31|IOMART-AS, GB
