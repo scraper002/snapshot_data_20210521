@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.8.45.40|/LitecoinCore:0.17.1/|70015|136907|119.8.32.0/19|SG|apnic|2007-11-23|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
-120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 124.187.147.13|/LitecoinCore:0.17.1/|70015|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -36,6 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.206.108.45|/bitcore:1.1.0-exodus2/|70003|6407|173.206.64.0/18|CA|arin|2009-10-22|PRIMUS-AS6407, CA
 176.31.35.12|/loaf-android:175/|70015|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
 176.59.41.252|/bitcore:1.1.0-exodus2/|70003|12958|176.59.40.0/22|RU|ripencc|2011-06-06|MCC Tele2 Russia Network, RU
+178.238.227.84|/DigitaleuroCore:0.16.3/|70015|51167|178.238.226.0/23|DE|ripencc|2010-07-28|CONTABO, DE
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.25.224|/CounosXCore:0.17.2/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 184.164.128.66|/LitecoinCore:0.16.3/|70015|20454|184.164.128.0/19|US|arin|2011-05-13|SSASN2, US
@@ -72,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.39.228.232|/TKEYSPACE:1.2.0/|70015|29124|46.39.228.0/23|RU|ripencc|2010-12-28|ISKRATELECOM-AS SEVEN-SKY, RU
 47.56.247.73|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
-47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 5.125.25.28|/loaf-android:175/|70015|44244|5.125.16.0/20|IR|ripencc|2012-06-29|IRANCELL-AS, IR
 5.173.33.70|/loaf-android:175/|70015|39603|5.173.0.0/17|PL|ripencc|2012-07-30|P4NET P4 UMTS operator in Poland, PL
@@ -98,7 +97,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.106.148|/LitecoinCore:0.13.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.210|/WecoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 87.175.41.60|/LitecoinCore:0.17.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-88.80.187.187|/litecoin-seeder:0.01/|70002|63949|88.80.184.0/21|GB|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
+88.80.187.187|/Node:0.8.7.2/|70002|63949|88.80.184.0/21|GB|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
 89.208.194.103|/bitcore:1.1.0-exodus2/|70003|12695|89.208.192.0/22|RU|ripencc|2006-04-18|DINET-AS, RU
 91.152.122.32|/LitecoinCore:0.17.1/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, EU
 93.190.140.198|/bitcore:1.1.0-exodus2/|70003|49981|93.190.140.0/22|NL|ripencc|2008-05-16|WORLDSTREAM, NL
@@ -108,6 +107,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.250.35|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.120.157|/LitecoinCore:0.17.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.91.238.141|/LitecoinCore:0.17.1/|70015|31334|95.91.238.0/23|DE|ripencc|2008-12-15|KABELDEUTSCHLAND-AS, DE
+96.33.4.31|/bitcore:1.1.0-exodus2/|70003|20115|96.33.0.0/19|US|arin|2007-12-19|CHARTER-20115, US
 98.203.82.233|/LitecoinCore:0.17.1/|70015|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 99.74.10.89|/LitecoinCore:0.14.2/|70015|7018|99.74.0.0/16|US|arin|2008-02-25|ATT-INTERNET4, US
 99.93.14.40|/LitecoinCore:0.14.2/|70015|7018|99.88.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
