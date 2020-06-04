@@ -45,6 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.24.42.73|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|8708|188.24.0.0/15|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
 190.189.41.195|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|10481|190.189.32.0/19|AR|lacnic|2007-06-21|Telecom Argentina S.A., AR
 190.96.1.19|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
+194.230.159.160|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|6730|194.230.0.0/16|CH|ripencc|1996-01-23|SUNRISE, CH
 194.59.251.142|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9009|194.59.251.0/24|RO|ripencc|2018-07-31|M247, GB
 195.113.79.18|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|2852|195.113.0.0/16|CZ|ripencc|1997-03-17|CESNET2, CZ
 195.138.71.80|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6876|195.138.64.0/19|UA|ripencc|1997-02-25|TENET-AS, UA
@@ -76,14 +77,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.134.26.141|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|31334|24.134.0.0/18|DE|ripencc|2012-04-25|KABELDEUTSCHLAND-AS, DE
 24.156.179.111|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|40788|24.156.176.0/20|CA|arin|2014-10-27|START-, CA
 24.76.93.35|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|6327|24.76.92.0/22|CA|arin|2000-12-15|SHAW, CA
-3.121.247.139|/Satoshi:0.16.3/Peercoin:0.8.2.1(v0.8.2.1-3d3800b)/|70015|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.173.80.160|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|25159|31.173.80.0/21|RU|ripencc|2011-04-04|SONICDUO-AS, RU
 31.187.115.27|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|9145|31.187.112.0/20|DE|ripencc|2011-03-25|EWETEL Cloppenburger Strasse 310, DE
 31.28.12.26|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|29076|31.28.12.0/22|RU|ripencc|2011-02-10|CITYTELECOM-AS Filanco LTD, RU
 31.8.39.211|/Satoshi:0.16.3/Peercoin:0.8.5(v0.8.5ppc)/|70015|28812|31.8.0.0/16|RU|ripencc|2011-04-12|JSCBIS-AS, RU
 32.208.155.197|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|46690|32.208.0.0/12|US|arin|1990-05-30|SNET-FCC, US
 34.222.240.86|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|16509|34.208.0.0/12|US|arin|2016-09-12|AMAZON-02, US
-37.120.192.22|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9009|37.120.192.0/24|RO|ripencc|2012-02-13|M247, GB
+37.120.192.22|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|9009|37.120.192.0/24|RO|ripencc|2012-02-13|M247, GB
 37.144.185.62|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|8402|37.144.184.0/21|RU|ripencc|2012-03-02|CORBINA-AS OJSC _Vimpelcom_, RU
 37.218.241.105|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|209829|37.218.241.0/24|NL|ripencc|2012-04-03|GREENHOST-, US
 37.48.51.94|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|13036|37.48.0.0/18|CZ|ripencc|2012-01-23|TMOBILE-, CZ
@@ -124,7 +124,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.47.138.61|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|21615|72.47.138.0/24|US|arin|2005-04-25|CEBRIDGE, US
 73.125.135.103|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.97.28.94|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-75.118.114.96|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|12083|75.118.112.0/21|US|arin|2006-11-02|WOW-INTERNET, US
 77.4.102.84|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 78.132.143.220|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|13056|78.132.128.0/17|RU|ripencc|2007-06-05|RT-TMB-AS Tambov branch, RU
 78.150.126.2|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|13285|78.150.0.0/15|GB|ripencc|2007-05-10|OPALTELECOM-AS TalkTalk Communications Limited, GB
@@ -157,7 +156,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.235.240|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.131.155.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12479|89.131.152.0/22|ES|ripencc|2006-01-17|UNI2-AS, ES
 89.212.20.62|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
-90.146.207.84|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12605|90.146.128.0/17|AT|ripencc|2006-11-23|LIWEST-AT Linz, Austria, AT
 91.115.242.59|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|8447|91.112.0.0/14|AT|ripencc|2006-09-04|TELEKOM-AT A1 Telekom Austria AG, AT
 91.152.122.170|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4.0-6d10627a1)/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, EU
 91.215.178.29|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|49711|91.215.176.0/22|BY|ripencc|2009-08-24|FLYNET, BY
@@ -174,6 +172,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.45.234|/Satoshi:0.16.3/Peercoin:0.8.3(v0.8.3ppc)/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.39.81|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.79.88.40|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|42682|95.79.88.0/22|RU|ripencc|2008-12-10|ERTH-NNOV-AS, RU
-96.67.255.30|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
 97.126.45.178|/Satoshi:0.16.3/Peercoin:0.8.4(v0.8.4ppc)/|70015|209|97.126.0.0/16|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
 97.93.182.237|/Satoshi:0.16.3/Peercoin:0.8.5.1(v0.8.5.1ppc)/|70015|20115|97.93.180.0/22|US|arin|2007-03-21|CHARTER-20115, US
