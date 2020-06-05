@@ -28,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.138.251|/LitecoinCashCore:0.16.1.1/|70015|14061|159.65.128.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.69.137.136|/LitecoinCashCore:0.16.1.1/|70015|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 159.69.212.209|/LitecoinCashCore:0.16.1.3/|70015|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
+159.69.244.156|/LitecoinCashCore:0.16.1.2/|70015|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 159.89.6.189|/LitecoinCashCore:0.16.1.1/|70015|14061|159.89.0.0/20|US|arin|2017-07-07|DIGITALOCEAN-ASN, US
 162.219.176.174|/LitecoinCashCore:0.16.1.3/|70015|32489|162.219.176.0/24|CA|arin|2013-08-15|AMANAHA-NEW, CA
 163.172.154.153|/LitecoinCashCore:0.16.1.1/|70015|12876|163.172.0.0/16|GB|ripencc|1992-02-14|Online SAS, FR
@@ -58,6 +59,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.165.6.140|/LitecoinCashCore:0.16.1.3/|70015|16276|188.165.0.0/16|FR|ripencc|2009-06-05|OVH, FR
 188.17.158.224|/LitecoinCashCore:0.16.1.1/|70015|12389|188.17.144.0/20|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 188.29.140.214|/LitecoinCashCore:0.16.1.3/|70015|206067|188.29.128.0/19|GB|ripencc|2009-02-13|H3GUK, GB
+188.98.192.84|/LitecoinCashCore:0.16.1.3/|70015|3209|188.96.0.0/12|DE|ripencc|2009-01-20|VODANET International IP-Backbone of Vodafone, DE
 189.54.192.176|/LitecoinCashCore:0.16.1.3/|70015|28573|189.54.192.0/19|BR|lacnic|2007-07-30|CLARO S.A., BR
 191.221.145.124|/LitecoinCashCore:0.16.1.1/|70015|8167|191.221.128.0/18|BR|lacnic|2013-12-11|Brasil Telecom S/A - Filial Distrito Federal, BR
 192.162.111.93|/LitecoinCashCore:0.16.1.1/|70015|39169|192.162.108.0/22|UA|ripencc|2011-03-28|ALFACOM-AS, UA
@@ -71,7 +73,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.201.212.176|/LitecoinCashCore:0.16.1.2/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 199.247.27.158|/LitecoinCashCore:0.16.1.1/|70015|20473|199.247.24.0/21|EU|ripencc|1996-04-09|AS-CHOOPA, US
 200.229.153.245|/LitecoinCashCore:0.16.0.1/|70015|21826|200.229.153.0/24|VE|lacnic|2014-06-15|Corporacion Telemic C.A., VE
-200.86.181.72|/LitecoinCashCore:0.16.1.3/|70015|22047|200.86.176.0/20|CL|lacnic|2002-10-07|VTR BANDA ANCHA S.A., CL
 206.217.139.24|/LitecoinCashCore:0.15.0.1/|70015|36352|206.217.139.0/24|US|arin|2009-08-13|AS-COLOCROSSING, US
 206.248.97.202|/LitecoinCashCore:0.16.1.3/|70015|14638|206.248.97.0/24|PR|arin|2005-03-03|LCPRL, US
 208.88.251.95|/LitecoinCashCore:0.16.1.1/|70015|11525|208.88.248.0/21|US|arin|2008-03-31|HRTC, US
@@ -80,7 +81,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.232.124.121|/LitecoinCashCore:0.16.1.1/|70015|209741|213.232.124.0/24|IR|ripencc|2018-12-07|TSAN, IR
 213.239.219.230|/LitecoinCashCore:0.16.1.1/|70015|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
 213.240.110.80|/LitecoinCashCore:0.16.1.3/|70015|1901|213.240.64.0/18|AT|ripencc|2001-04-02|EUNETAT-AS A1 Telekom Austria AG, AT
-217.103.221.7|/LitecoinCashCore:0.16.1.2/|70015|6830|217.103.128.0/17|NL|ripencc|2000-12-05|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 217.182.199.85|/LitecoinCashCore:0.16.1.1/|70015|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
 217.244.234.206|/LitecoinCashCore:0.16.0.5/|70015|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 220.118.194.171|/LitecoinCashCore:0.15.0.1/|70015|4766|220.116.0.0/14|KR|apnic|2002-12-31|KIXS-AS-KR Korea Telecom, KR
@@ -114,6 +114,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.9.89.15|/LitecoinCashCore:0.16.1.3/|70015|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 50.209.74.129|/LitecoinCashCore:0.16.0.5/|70015|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 50.254.113.131|/LitecoinCashCore:0.16.1.3/|70015|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
+50.35.116.100|/LitecoinCashCore:0.15.0.1/|70015|27017|50.35.0.0/16|US|arin|2010-09-24|ZIPLY-FIBER-LEGACY-ASN, US
 50.67.28.233|/LitecoinCashCore:0.16.1.3/|70015|6327|50.67.28.0/22|CA|arin|2010-10-28|SHAW, CA
 51.68.204.201|/LitecoinCashCore:0.16.1.2/|70015|16276|51.68.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.96.163|/LitecoinCashCore:0.16.1.1/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -165,6 +166,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.215.21.121|/LitecoinCashCore:0.15.0.1/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.189.66.181|/LitecoinCashCore:0.16.1.3/|70015|6871|80.189.0.0/16|GB|ripencc|2002-07-08|PLUSNET UK Internet Service Provider, GB
 80.219.190.80|/LitecoinCashCore:0.16.1.1/|70015|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+81.102.30.231|/LitecoinCashCore:0.15.0.1/|70015|5089|81.102.0.0/15|GB|ripencc|2002-06-14|NTL, GB
 81.180.139.193|/LitecoinCashCore:0.16.1.3/|70015|8708|81.180.128.0/19|RO|ripencc|2003-02-04|RCS-RDS 73-75 Dr. Staicovici, RO
 81.187.211.49|/LitecoinCashCore:0.16.1.1/|70015|20712|81.187.0.0/16|GB|ripencc|2003-02-03|AS20712 Andrews & Arnold Ltd, GB
 82.200.205.30|/LitecoinCashCore:0.16.1.3/|70015|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
@@ -182,10 +184,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.140.0.164|/LitecoinCashCore:0.16.1.3/|70015|8359|85.140.0.0/21|RU|ripencc|2004-12-13|MTS, RU
 85.140.40.66|/LitecoinCashCore:0.16.1.3/|70015|39811|85.140.40.0/22|RU|ripencc|2004-12-13|MTSNET-FAR-EAST-AS An Autonomous System for the Far East divisions, RU
 85.58.138.194|/LitecoinCashCore:0.16.1.3/|70015|12479|85.58.136.0/22|ES|ripencc|2004-09-07|UNI2-AS, ES
-86.177.96.33|/LitecoinCashCore:0.16.1.3/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.2.168.78|/LitecoinCashCore:0.16.1.3/|70015|5089|86.2.0.0/15|GB|ripencc|2005-03-29|NTL, GB
 86.42.121.118|/LitecoinCashCore:0.15.0.1/|70015|5466|86.40.0.0/13|IE|ripencc|2005-03-31|EIRCOM Internet House, IE
-87.102.130.248|/LitecoinCashCore:0.15.0.1/|70015|6772|87.102.128.0/17|CH|ripencc|2005-10-19|IMPNET-AS, CH
 89.143.33.119|/LitecoinCashCore:0.16.1.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 89.163.140.204|/LitecoinCashCore:0.16.1.1/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.22.249.9|/LitecoinCashCore:0.16.1.3/|70015|57093|89.22.240.0/20|UA|ripencc|2011-07-15|ASYALTA, UA
@@ -211,6 +211,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.244.58|/LitecoinCashCore:0.16.1.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.46.90|/LitecoinCashCore:0.16.1.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.79.35.133|/LitecoinCashCore:0.16.0.4/|70015|42682|95.79.0.0/16|RU|ripencc|2008-12-10|ERTH-NNOV-AS, RU
+97.125.177.107|/LitecoinCashCore:0.15.0.1/|70015|209|97.112.0.0/12|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
 97.73.244.252|/LitecoinCashCore:0.16.0.7/|70015|6621|97.73.244.0/22|US|arin|2007-08-03|HNS-DIRECPC, US
 98.144.240.138|/LitecoinCashCore:0.16.1.3/|70015|10796|98.144.0.0/16|US|arin|2007-12-18|TWC-10796-MIDWEST, US
 98.150.66.46|/LitecoinCashCore:0.15.0.1/|70015|20001|98.150.0.0/15|US|arin|2007-12-18|TWC-20001-PACWEST, US
