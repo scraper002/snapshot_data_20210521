@@ -40,6 +40,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.61.183.37|9513|/Satoshi:0.8.7.2/|20473|108.61.180.0/22|US|arin|2010-12-08|AS-CHOOPA, US
 108.61.89.2|9333|/btcwire:0.5.0/ltcd:0.20.1/|20473|108.61.64.0/19|US|arin|2010-12-08|AS-CHOOPA, US
 109.12.99.127|9333|/LitecoinCore:0.14.2/|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
+109.194.51.160|7107|/FlashcoinCore:0.13.3.2/|59713|109.194.48.0/20|RU|ripencc|2009-10-27|ERTH-KURSK-AS, RU
 109.195.131.81|9333|/LitecoinCore:0.17.1/|56330|109.195.128.0/20|RU|ripencc|2009-10-27|KURGAN-AS, RU
 109.202.107.125|9333|/LitecoinCore:0.17.1/|49453|109.202.107.0/24|NL|ripencc|2011-02-10|GLOBALLAYER, NL
 109.236.81.138|59333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
@@ -69,7 +70,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.17.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
-118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|9333|/LitecoinCore:0.17.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -621,7 +621,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.69.229.4|9333|/LitecoinCore:0.16.0/|5587|212.69.224.0/19|GB|ripencc|2000-05-31|ITILITY-LIMITED Internet Service Provider, GB
 212.92.101.189|9333|/LitecoinCore:0.17.1/|49505|212.92.101.0/24|RU|ripencc|1999-11-03|SELECTEL, RU
 212.99.226.36|9010|/LitecoinCore:0.17.1/|29100|212.99.224.0/19|DK|ripencc|2003-04-10|BROADCOM, DK
-213.113.107.121|33666|/CypherfunkCore:0.15.2/|2119|213.112.0.0/14|SE|ripencc|2000-12-15|TELENOR-NEXTEL Telenor Norge AS, NO
 213.133.103.3|9002|/LitecoinCore:0.16.3/|24940|213.133.96.0/19|DE|ripencc|2002-05-23|HETZNER-AS, DE
 213.136.66.91|9533|/LitecoinCore:0.16.3/|51167|213.136.66.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.136.92.251|9333|/LitecoinCore:0.17.1/|51167|213.136.92.0/23|DE|ripencc|2000-02-28|CONTABO, DE
@@ -860,6 +859,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:4780:8:6:2:354e:1256:7a04|9333|/LitecoinCore:0.17.1/|47583|2a02:4780:8::/48|LT|ripencc|2011-07-13|AS-HOSTINGER, LT
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:8308:b13e:e300:6f8f:df72:10b7:37d5|9333|/LitecoinCore:0.17.1/|6830|2a02:8308::/29|CZ|ripencc|2011-08-08|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+2a02:a456:c63f:0:819:3c3c:26ad:eb3a|9333|/LitecoinCore:0.14.2/|1136|2a02:a400::/25|NL|ripencc|2011-06-10|KPN KPN National, EU
 2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:0:3829::1|9333|/LitecoinCore:0.16.0/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2012:1570::1|9333|/LitecoinCore:0.14.2/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -940,7 +940,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.240.134.246|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.240.159.106|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.240.177.12|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
-37.139.15.91|9333|/LitecoinCore:0.14.2/|14061|37.139.0.0/19|NL|ripencc|2012-02-24|DIGITALOCEAN-ASN, US
 37.187.118.150|9333|/LitecoinCore:0.17.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.121.67|9333|/LitecoinCore:0.14.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.22.76|9333|/LitecoinCore:0.14.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
