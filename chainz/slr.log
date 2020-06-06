@@ -17,6 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.0.52.163|/Satoshi:2.1.8/|70005|54614|135.0.0.0/18|CA|arin|2012-03-19|CIKTELECOM-CABLE, CA
 139.162.244.34|/Satoshi:2.1.8/|70005|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 141.226.210.178|/Satoshi:2.1.8/|70005|50463|141.226.192.0/19|IL|ripencc|1990-08-05|TRIPLEC-ASN, IL
+144.138.172.77|/Satoshi:2.1.8/|70005|135887|144.138.0.0/16|AU|apnic|1990-12-10|TELSTRA-BELONG-AP Telstra Corporation, AU
 144.76.25.187|/Satoshi:2.1.8/|70005|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 153.212.157.114|/Satoshi:2.1.8/|70005|4713|153.192.0.0/11|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 157.52.15.223|/Satoshi:2.1.8/|70005|5645|157.52.0.0/19|CA|arin|2015-04-01|TEKSAVVY, CA
@@ -27,7 +28,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.2.198.37|/Satoshi:2.1.8/|70005|6128|173.2.0.0/15|US|arin|2008-05-12|CABLE-NET-1, US
 174.17.145.154|/Satoshi:2.1.8/|70005|209|174.17.0.0/16|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
 176.139.213.166|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
-178.118.183.73|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.198.50.136|/Satoshi:2.1.8/|70005|3303|178.198.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
 178.25.123.80|/Satoshi:2.1.8/|70005|31334|178.25.123.0/24|DE|ripencc|2010-02-17|KABELDEUTSCHLAND-AS, DE
 181.105.96.123|/Satoshi:2.1.8/|70005|7303|181.105.96.0/21|AR|lacnic|2012-06-21|Telecom Argentina S.A., AR
@@ -49,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 223.134.202.180|/Satoshi:2.1.8/|70005|2527|223.132.0.0/14|JP|apnic|2010-07-08|SO-NET So-net Entertainment Corporation, JP
 24.132.36.190|/Satoshi:2.1.8/|70005|6830|24.132.0.0/17|NL|ripencc|1997-10-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 37.201.6.163|/Satoshi:2.1.8/|70005|6830|37.201.0.0/17|DE|ripencc|2012-03-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
-45.19.239.238|/Satoshi:2.1.8/|70005|7018|45.16.0.0/12|US|arin|2014-12-11|ATT-INTERNET4, US
 46.238.234.86|/Satoshi:2.1.8/|70005|12618|46.238.232.0/22|PL|ripencc|2011-02-08|PL-BYDMAN-COM Commercial Users, PL
 47.146.40.203|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.151.244.156|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -81,6 +80,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.117.146.127|/Satoshi:2.1.8/|70005|25255|77.116.0.0/14|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 77.163.178.222|/Satoshi:2.1.8/|70005|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, EU
 77.53.82.229|/Satoshi:2.1.8/|70005|45011|77.53.0.0/16|SE|ripencc|2007-01-24|SE-A3 http://www.a3.se/, SE
+77.78.48.161|/Satoshi:2.1.8/|70005|34569|77.78.0.0/18|BG|ripencc|2007-02-27|NETWORX-BG Online Direct, BG
 78.21.56.109|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 79.192.182.27|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.192.186.210|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -130,7 +130,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.207.43.184|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.207.46.73|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.225.153.68|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-94.11.189.54|/Satoshi:2.1.8/|70005|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 94.110.173.129|/Satoshi:2.1.8/|70005|47377|94.110.160.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
 94.132.213.222|/Satoshi:2.1.8/|70005|2860|94.132.192.0/18|PT|ripencc|2008-07-14|NOS_COMUNICACOES, PT
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
