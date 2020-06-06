@@ -3,6 +3,8 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.229.71|/BolivarCore:2.0.0.2/|70212|14061|128.199.192.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.229.71|/BolivarCore:2.0.0.2/|70211|14061|128.199.192.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+138.122.4.22|/BolivarCore:2.0.0.2/|70212|269832|138.122.4.0/22|VE|lacnic|2015-06-16|MDS TELECOM C.A., VE
+138.122.4.22|/BolivarCore:2.0.0.2/|70211|269832|138.122.4.0/22|VE|lacnic|2015-06-16|MDS TELECOM C.A., VE
 138.197.127.246|/BolivarCore:2.0.0.2/|70212|14061|138.197.112.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.197.127.246|/BolivarCore:2.0.0.2/|70211|14061|138.197.112.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 159.65.203.140|/BolivarCore:2.0.0.2/|70212|14061|159.65.192.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
@@ -31,18 +33,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 186.167.244.80|/BolivarCore:2.0.0.2/|70211|264731|186.167.244.0/23|VE|lacnic|2011-06-27|Corporacion Digitel C.A., VE
 186.167.248.92|/BolivarCore:2.0.0.2/|70212|264731|186.167.248.0/22|VE|lacnic|2011-06-27|Corporacion Digitel C.A., VE
 186.167.248.92|/BolivarCore:2.0.0.2/|70211|264731|186.167.248.0/22|VE|lacnic|2011-06-27|Corporacion Digitel C.A., VE
-186.167.250.150|/BolivarCore:2.0.0.2/|70212|264731|186.167.248.0/22|VE|lacnic|2011-06-27|Corporacion Digitel C.A., VE
-186.167.250.150|/BolivarCore:2.0.0.2/|70211|264731|186.167.248.0/22|VE|lacnic|2011-06-27|Corporacion Digitel C.A., VE
 186.90.192.148|/BolivarCore:2.0.0.2/|70212|8048|186.90.192.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 186.90.192.148|/BolivarCore:2.0.0.2/|70211|8048|186.90.192.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
-186.91.239.98|/BolivarCore:2.0.0.2/|70212|8048|186.91.224.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
-186.91.239.98|/BolivarCore:2.0.0.2/|70211|8048|186.91.224.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 186.93.82.177|/BolivarCore:2.0.0.2/|70212|8048|186.93.64.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 186.93.82.177|/BolivarCore:2.0.0.2/|70211|8048|186.93.64.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 190.199.77.83|/BolivarCore:2.0.0.2/|70212|8048|190.199.64.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.199.77.83|/BolivarCore:2.0.0.2/|70211|8048|190.199.64.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.200.231.238|/BolivarCore:2.0.0.2/|70212|8048|190.200.224.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.200.231.238|/BolivarCore:2.0.0.2/|70211|8048|190.200.224.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
+190.204.120.59|/BolivarCore:2.0.0.2/|70212|8048|190.204.96.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
+190.204.120.59|/BolivarCore:2.0.0.2/|70211|8048|190.204.96.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.74.13.253|/BolivarCore:2.0.0.2/|70212|8048|190.74.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
 190.74.13.253|/BolivarCore:2.0.0.2/|70211|8048|190.74.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
 190.75.14.232|/BolivarCore:2.0.0.2/|70212|8048|190.75.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
@@ -89,6 +89,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.38.167.57|/BolivarCore:2.0.0.2/|70211|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.38.167.58|/BolivarCore:2.0.0.2/|70212|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.38.167.58|/BolivarCore:2.0.0.2/|70211|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.38.167.59|/BolivarCore:2.0.0.2/|70212|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.38.167.59|/BolivarCore:2.0.0.2/|70211|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.38.167.60|/BolivarCore:2.0.0.2/|70212|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.38.167.60|/BolivarCore:2.0.0.2/|70211|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.38.167.63|/BolivarCore:2.0.0.2/|70212|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
