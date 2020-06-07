@@ -12,7 +12,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.117.144.250|9333|/LitecoinCore:0.16.3/|45753|103.117.144.0/24|HK|apnic|2018-06-27|NETSEC-HK NETSEC, HK
 103.14.97.198|51420|/LitecoinCore:0.16.0/|58641|103.14.97.0/24|IN|apnic|2012-07-05|TRUNKOZ-IN Trunkoz Technologies Pvt Ltd, IN
 103.193.189.232|9333|/LitecoinCore:0.14.2/|139007|103.193.189.0/24|CN|apnic|2015-07-31|UNICOM-NM-WULANCHABU-IDC UNICOM InnerMongolia province network, CN
-104.198.68.42|9333|/LitecoinCore:0.17.1/|15169|104.198.64.0/19|US|arin|2014-08-27|GOOGLE, US
 104.2.96.26|9333|/LitecoinCore:0.17.1/|7018|104.0.0.0/12|US|arin|2014-01-16|ATT-INTERNET4, US
 104.236.136.96|9331|/Node:0.8.7.2/|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 104.237.3.195|9336|/Feathercoin:0.9.6.2/|394727|104.237.3.0/24|US|arin|2014-11-03|NODISTO, US
@@ -68,6 +67,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.17.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.17.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|9333|/LitecoinCore:0.17.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -566,7 +566,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:cb:8721:c602:aaa1:59ff:fe1e:4e75|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 2003:d3:9f04:1e00:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
@@ -847,6 +846,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7e00::f03c:91ff:fe68:d92a|9333|/LitecoinCore:0.14.2/|63949|2a01:7e00::/32|GB|ripencc|2011-02-01|LINODE-AP Linode, LLC, US
 2a01:7e01::f03c:92ff:fe50:5f52|18344|/LitecoinCore:0.17.1/|63949|2a01:7e01::/32|GB|ripencc|2011-02-01|LINODE-AP Linode, LLC, US
 2a01:cb00:f98:ca00:493:1afa:5097:2d69|9555|/LitecoinCore:0.17.1/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
+2a01:e34:ed68:71e0:c7a:af25:1eb:b8bf|9333|/LitecoinCore:0.16.3/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1205:34fb:3240:e8c3:70bc:bd46:adc2|9333|/LitecoinCore:0.17.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.17.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
@@ -928,7 +928,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.204.66.183|19335|/LitecoinCore:0.17.1/|15169|35.204.0.0/15|US|arin|2017-03-21|GOOGLE, US
 35.209.225.103|9333|/LitecoinCore:0.17.1(litecoin)/|19527|35.208.0.0/15|US|arin|2017-09-29|GOOGLE-2, US
 35.228.53.132|9333|/LitecoinCore:0.17.1/|15169|35.228.0.0/14|US|arin|2017-09-29|GOOGLE, US
-35.231.213.24|9333|/LitecoinCore:0.16.3/|15169|35.228.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.237.137.29|9333|/LitecoinCore:0.17.1/|15169|35.236.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.237.72.70|9333|/LitecoinCore:0.17.1/|15169|35.236.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.240.134.246|9333|/LitecoinCore:0.13.2(bitcore)/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
@@ -1386,6 +1385,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.248.20.65|9333|/LitecoinCore:0.17.1/|5578|85.248.0.0/16|SK|ripencc|2005-01-20|AS-BENESTRA Bratislava, Slovak Republic, SK
 85.25.118.19|9333|/LitecoinCore:0.16.0/|8972|85.25.118.0/24|DE|ripencc|2005-03-01|GD-EMEA-DC-SXB1, DE
 85.25.202.57|7999|/DigitalcoinV3.0:3.0.1/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
+85.253.101.237|9333|/LitecoinCore:0.17.1/|13272|85.253.0.0/16|EE|ripencc|2005-02-10|STARMAN, EE
 86.100.49.209|56969|/DigitaleuroCore:0.16.3/|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.177.42.202|9333|/LitecoinCore:0.17.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.195.78.26|9333|/LitecoinCore:0.16.3/|3215|86.195.0.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
