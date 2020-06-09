@@ -5,6 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.112.83.233|/Satoshi:2.1.8/|70005|23889|102.112.0.0/17|MU|afrinic|2018-06-27|MauritiusTelecom, MU
 103.1.212.148|/Satoshi:2.1.8/|70005|137409|103.1.212.0/24|AU|apnic|2011-04-19|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.255.25.89|/Satoshi:2.1.8/|70005|133192|103.255.25.0/24|NZ|apnic|2013-12-18|UBB-AS-AP Ultimate Mobile limited, NZ
+104.238.58.83|/Satoshi:2.1.8/|70005|29802|104.238.58.0/24|US|arin|2014-12-03|HVC-AS, US
 108.211.88.222|/Satoshi:2.1.8/|70005|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
 108.90.40.254|/Satoshi:2.1.8/|70005|7018|108.64.0.0/11|US|arin|2009-10-29|ATT-INTERNET4, US
 109.130.169.68|/Satoshi:2.1.8/|70005|5432|109.128.0.0/14|BE|ripencc|2009-07-27|PROXIMUS-ISP-AS, BE
@@ -33,7 +34,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.139.213.166|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 176.24.65.71|/Satoshi:2.1.8/|70005|5607|176.24.0.0/14|GB|ripencc|2011-05-19|BSKYB-BROADBAND-AS, GB
 176.74.252.221|/Satoshi:2.1.8/|70005|28878|176.74.224.0/19|NL|ripencc|2011-06-17|SIGNET-AS, NL
-178.117.115.177|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.25.123.80|/Satoshi:2.1.8/|70005|31334|178.25.123.0/24|DE|ripencc|2010-02-17|KABELDEUTSCHLAND-AS, DE
 178.63.60.7|/Satoshi:2.1.8/|70005|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 181.105.98.104|/Satoshi:2.1.8/|70005|7303|181.105.96.0/21|AR|lacnic|2012-06-21|Telecom Argentina S.A., AR
@@ -104,7 +104,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.163.178.222|/Satoshi:2.1.8/|70005|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, EU
 77.22.250.130|/Satoshi:2.1.8/|70005|31334|77.22.248.0/22|DE|ripencc|2008-04-08|KABELDEUTSCHLAND-AS, DE
 77.3.106.172|/Satoshi:2.1.8/|70005|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
-77.53.82.229|/Satoshi:2.1.8/|70005|45011|77.53.0.0/16|SE|ripencc|2007-01-24|SE-A3 http://www.a3.se/, SE
 78.21.0.119|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.233.243.136|/Satoshi:2.1.8/|70005|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.43.223.107|/Satoshi:2.1.8/|70005|6830|78.43.0.0/16|DE|ripencc|2007-03-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -112,7 +111,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.249.225.29|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.252.20.31|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.123.93.90|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|TELEKOM-AT A1 Telekom Austria AG, AT
-80.140.81.191|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.41.7.93|/Satoshi:2.1.8/|70005|9105|80.40.0.0/15|GB|ripencc|2001-11-23|TISCALI-UK TalkTalk Communications Limited, GB
 80.69.196.176|/Satoshi:2.1.8/|70005|20810|80.69.192.0/20|DE|ripencc|2001-05-31|NETCOM-KASSEL Netcom Kassel, DE
 81.234.184.187|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
@@ -130,7 +128,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.187.88.66|/Satoshi:2.1.8/|70005|47771|85.187.64.0/18|BG|ripencc|2004-11-26|ENTRY-BG-AS, BG
 86.181.115.117|/Satoshi:2.1.8/|70005|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.206.244.96|/Satoshi:2.1.8/|70005|3215|86.206.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-86.84.93.20|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 87.122.157.15|/Satoshi:2.1.8/|70005|8881|87.122.144.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.16.130|/Satoshi:2.1.8/|70005|8881|87.123.16.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.171.215.64|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
