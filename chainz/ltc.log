@@ -21,6 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 130.240.22.202|/LitecoinCore:0.15.1/|70015|2831|130.240.0.0/16|SE|ripencc|1988-11-17|LTUNET, SE
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 139.162.236.94|/LitecoinCore:0.14.2/|70015|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
+139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.116.91.27|/bitcore:1.1.0-exodus2/|70003|577|142.116.0.0/16|CA|arin|1993-04-05|BACOM, CA
@@ -46,14 +47,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.25.224|/CounosXCore:0.17.2/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 18.130.142.102|/PrydiumCore:0.16.3/|70015|16509|18.130.0.0/16|US|arin|2018-06-29|AMAZON-02, US
-18.204.210.221|/Dain:0.1.0/|70003|14618|18.204.0.0/14|US|arin|2018-06-29|AMAZON-AES, US
 185.114.224.54|/bitcore:1.1.0-exodus2/|70003|25369|185.114.224.0/24|GB|ripencc|2015-08-26|BANDWIDTH-AS, GB
 185.82.203.241|/LitecoinCore:0.17.1/|70015|60117|185.82.203.0/24|NL|ripencc|2014-12-31|HS, AE
 186.0.184.10|/loaf-android:175/|70015|263776|186.0.184.0/24|AR|lacnic|2010-06-28|Vito Hugo Gonzalez, AR
 188.162.64.112|/bitcore:1.1.0-exodus2/|70003|31213|188.162.64.0/23|RU|ripencc|2009-05-20|MF-NWGSM-AS, RU
 188.166.248.154|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|188.166.240.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 189.155.53.192|/LitecoinCore:0.18.1/|70015|8151|189.155.48.0/21|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
-191.98.64.159|/bitcore:1.1.0-exodus2/|70003|13489|191.98.0.0/17|CO|lacnic|2013-11-04|EPM Telecomunicaciones S.A. E.S.P., CO
 193.70.32.13|/Satoshi:0.13.2/|70015|16276|193.70.0.0/17|FR|ripencc|1993-09-01|OVH, FR
 203.86.200.177|/btcwire:0.5.0/|70013|23655|203.86.200.0/21|NZ|apnic|2004-11-16|SNAP-NZ-AS Snap Internet Limited, NZ
 204.228.147.42|/LitecoinCore:0.17.1/|70015|6315|204.228.128.0/19|US|arin|2020-01-31|XMISSION, US
@@ -74,6 +73,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.77.102.17|Merge DNS Seeder - Visit us www.projectmerge.org|70913|20473|45.77.96.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.23.35.70|/DigitaleuroCore:0.16.3/|70015|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
 47.244.96.230|/LitecoinCore:0.13.2(bitcore)/|70015|45102|47.244.0.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+47.52.253.59|???|0|45102|47.52.128.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.56.186.154|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -90,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.137.185.16|/LitecoinCore:0.17.1/|70015|31798|64.137.185.0/24|CA|arin|2015-04-06|DATACITY, CA
 64.225.4.210|/B2CCoinCore:0.16.3/|70015|14061|64.225.0.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 67.67.49.230|/bitcore:1.1.0-exodus2/|70003|7018|67.64.0.0/14|US|arin|2002-06-13|ATT-INTERNET4, US
-71.212.162.87|/DigitaleuroCore:0.16.3/|70015|209|71.212.0.0/16|US|arin|2005-05-06|CENTURYLINK-US-LEGACY-QWEST, US
 72.193.164.104|/loaf-android:175/|70015|22773|72.193.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 73.54.60.117|/bitcore:1.1.0-exodus2/|70003|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 76.23.109.116|/bitcore:1.1.0-exodus2/|70003|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
@@ -99,6 +98,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.47.166.88|/LitecoinCore:0.13.2(bitcore)/|70015|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 82.221.106.183|/WecoinCore:0.13.3.2/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.218|/FlashcoinCore:0.13.3.2(bitcore)/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
+83.39.57.147|/bitcore:1.1.0-exodus2/|70003|3352|83.39.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.168.189.174|/bitcore:1.1.0-exodus2/|70003|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.29.130.250|/bitcore:1.1.0-exodus2/|70003|21299|85.29.130.0/24|KZ|ripencc|2005-05-18|KAR-TEL-AS Almaty, Republic of Kazakhstan, KZ
 85.52.230.93|/bitcore:1.1.0-exodus2/|70003|12479|85.52.230.0/24|ES|ripencc|2004-09-07|UNI2-AS, ES
