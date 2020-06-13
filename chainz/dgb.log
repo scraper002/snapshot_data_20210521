@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.124.111.84|/digiwallet:1.0.0/|70017|1221|1.120.0.0/13|AU|apnic|2010-05-18|ASN-TELSTRA Telstra Corporation Ltd, AU
 1.53.39.107|/digiwallet:1.0.0/|70017|18403|1.53.39.0/24|VN|apnic|2010-05-26|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
 100.15.248.209|/digiwallet:1.0.0/|70017|701|100.15.0.0/16|US|arin|2010-12-28|UUNET, US
+100.24.90.244|/DigiByte:7.17.2/|70017|14618|100.24.0.0/13|US|arin|2018-01-10|AMAZON-AES, US
 100.4.225.40|/digiwallet:1.0.0/|70017|701|100.4.128.0/17|US|arin|2010-12-28|UUNET, US
 101.179.120.4|/DigiByte:7.17.2/|70017|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 101.189.141.203|/DigiByte:7.17.2/|70017|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
@@ -90,6 +91,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.5.140.190|/DigiByte:7.17.2/|70017|6327|174.5.140.0/22|CA|arin|2008-11-19|SHAW, CA
 174.91.149.196|/DigiByte:7.17.2/|70017|577|174.91.0.0/16|CA|arin|2009-02-27|BACOM, CA
 175.158.225.209|/digiwallet:1.0.0/|70017|10139|175.158.192.0/18|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
+176.55.71.107|/digiwallet:1.0.0/|70017|15897|176.55.68.0/22|TR|ripencc|2011-05-26|VODAFONETURKEY, TR
 178.22.125.140|/DigiByte:7.17.2/|70017|43754|178.22.124.0/22|IR|ripencc|2010-04-08|ASIATECH, IR
 18.197.1.196|/DigiByte:7.17.2/|70017|16509|18.196.0.0/15|US|arin|2018-06-29|AMAZON-02, US
 18.27.79.17|/DigiByte:7.17.2/|70017|3|18.27.0.0/16|US|arin|1994-01-01|MIT-GATEWAYS, US
@@ -99,7 +101,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 183.89.24.198|/DigiByte:7.17.2/|70017|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 185.113.128.13|/DigiByte:7.17.2/|70017|42831|185.113.128.0/23|GB|ripencc|2015-08-14|UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location, GB
 185.244.215.42|/DigiByte:7.17.2/|70017|9009|185.244.215.0/24|RO|ripencc|2018-02-05|M247, GB
-185.48.128.205|/DigiByte:7.17.2/|70017|198935|185.48.128.0/24|PL|ripencc|2014-02-20|CYBERNET_WMW-AS, PL
 185.50.24.15|/DigiByte:7.17.2/|70017|198610|185.50.24.0/24|RU|ripencc|2014-03-12|BEGET-AS, RU
 185.50.24.92|/DigiByte:7.17.2/|70017|198610|185.50.24.0/24|RU|ripencc|2014-03-12|BEGET-AS, RU
 186.143.202.217|/digiwallet:1.0.0/|70017|11315|186.143.202.0/24|AR|lacnic|2009-09-07|Telefonica Moviles Argentina S.A. (Movistar Argentina), AR
@@ -147,7 +148,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.225.224.198|/DigiByte:7.17.2/|70017|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.178.123.8|/DigiByte:7.17.2/|70017|16509|35.178.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 36.77.93.111|/digiwallet:1.0.0/|70017|7713|36.77.92.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
-36.82.100.107|/DigiByte:7.17.2/|70017|7713|36.82.100.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 37.123.153.203|/DigiByte:7.17.2/|70017|8473|37.123.128.0/18|SE|ripencc|2012-02-15|BAHNHOF http://www.bahnhof.net/, SE
 37.201.193.82|/DigiByte:7.17.2/|70017|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 37.208.145.131|/DigiByte:7.17.2/|70017|42298|37.208.144.0/20|QA|ripencc|2012-03-29|GCC-MPLS-PEERING GCC MPLS peering, QA
@@ -160,6 +160,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.46.69|/DigiByte:7.17.2/|70017|20473|45.76.44.0/22|US|arin|2015-04-24|AS-CHOOPA, US
 46.182.186.205|/digiwallet:1.0.0/|70017|43571|46.182.184.0/21|IS|ripencc|2010-11-26|NOVAIS-AS, IS
 46.94.133.44|/digiwallet:1.0.0/|70017|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
+46.97.169.20|/digiwallet:1.0.0/|70017|12302|46.97.168.0/21|RO|ripencc|2010-05-31|VODAFONE_RO Charles de Gaulle nr.15, RO
 47.17.34.249|/digiwallet:1.0.0/|70017|6128|47.16.0.0/15|US|arin|2012-02-29|CABLE-NET-1, US
 47.232.181.128|/DigiByte:7.17.2/|70017|20115|47.232.128.0/17|US|arin|2017-11-27|CHARTER-20115, US
 47.39.63.40|/DigiByte:7.17.2/|70017|20115|47.39.0.0/18|US|arin|2014-12-23|CHARTER-20115, US
