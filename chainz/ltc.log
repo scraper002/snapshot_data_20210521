@@ -11,7 +11,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.2.19.99|/DigitaleuroCore:0.16.3/|70015|7552|117.2.18.0/23|VN|apnic|2007-05-21|VIETEL-AS-AP Viettel Group, VN
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.227.134.29|/LitecoinCore:0.16.3/|70015|56047|120.227.0.0/16|CN|apnic|2008-04-14|CMNET-HUNAN-AP China Mobile communications corporation, CN
-128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -44,7 +44,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.231.151|Merge DNS Seeder - Visit us www.projectmerge.org|70913|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 217.66.158.242|/TKEYSPACE:1.2.0/|70015|8359|217.66.152.0/21|RU|ripencc|2003-06-30|MTS, RU
 24.134.26.141|/LitecoinCore:0.17.1/|70015|31334|24.134.0.0/18|DE|ripencc|2012-04-25|KABELDEUTSCHLAND-AS, DE
-3.114.172.79|LitecoinCore:test|70003|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.236.51.152|/btcwire:0.5.0/ltcd:0.20.1/|70013|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 31.2.3.217|/bitcore:1.1.0-exodus2/|70003|21243|31.2.0.0/17|PL|ripencc|2011-04-05|PLUSNET PlusGSM transit core network, PL
@@ -57,6 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 51.75.47.161|/LitecoinCore:0.17.1/|70015|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.79.86.8|/DigitaleuroCore:0.16.3/|70015|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 54.175.116.10|/Dain:0.1.0/|70003|14618|54.174.0.0/15|US|arin|2014-06-20|AMAZON-AES, US
@@ -74,10 +74,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.241.222.33|/LitecoinCore:0.16.3/|70015|51167|80.241.222.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 84.174.220.162|/bitcore:1.1.0-exodus2/|70003|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.115.224.135|/LitecoinCore:0.16.3/|70015|34644|85.115.224.0/21|RU|ripencc|2005-03-04|EXTEL-AS, RU
-85.115.224.140|/LitecoinCore:0.16.3/|70015|34644|85.115.224.0/21|RU|ripencc|2005-03-04|EXTEL-AS, RU
 85.115.224.142|/LitecoinCore:0.16.3/|70015|34644|85.115.224.0/21|RU|ripencc|2005-03-04|EXTEL-AS, RU
 85.20.162.54|/Satoshi:0.13.2/|70015|8968|85.20.128.0/17|IT|ripencc|2005-03-17|BT-ITALIA, IT
 85.222.233.183|/litecoinj:0.15.2-SNAPSHOT/|70002|49604|85.222.232.0/22|EE|ripencc|2005-03-22|ZONE Zone Media OU, EE
+86.100.49.209|/DigitaleuroCore:0.16.3/|70015|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.74.98.39|/bitcore:1.1.0-exodus2/|70003|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
 87.100.71.236|/bitcore:1.1.0-exodus2/|70003|35632|87.100.0.0/17|FR|ripencc|2005-09-12|IRIS64-AS, FR
 89.113.142.153|/TKEYSPACE:1.2.0/|70015|16345|89.113.136.0/21|RU|ripencc|2006-04-10|BEE-AS Russia, RU
