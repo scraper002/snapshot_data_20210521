@@ -480,7 +480,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.200.241.132|19333|/LitecoinCore:0.17.1/|51167|193.200.241.0/24|DE|ripencc|2007-06-12|CONTABO, DE
 193.31.27.93|9333|/LitecoinCore:0.17.1/|197540|193.31.24.0/22|DE|ripencc|2018-07-10|NETCUP-AS netcup GmbH, DE
 193.34.145.77|9332|/LitecoinCore:0.17.1/|51167|193.34.144.0/23|DE|ripencc|2006-10-19|CONTABO, DE
-193.58.196.212|9333|/LitecoinCore:0.16.3/|16160|193.58.196.0/23|SK|ripencc|1997-01-21|SWAN Bratislava, Slovakia, SK
 193.70.32.13|9333|/Satoshi:0.13.2/|16276|193.70.0.0/17|FR|ripencc|1993-09-01|OVH, FR
 193.85.175.165|9333|/LitecoinCore:0.17.1/|5588|193.85.0.0/16|CZ|ripencc|1993-09-01|GTSCE GTS Central Europe / Antel Germany, CZ
 194.176.118.181|8335|/LitecoinCore:0.14.2/|49352|194.176.118.0/24|RU|ripencc|2006-07-26|LOGOL-AS, RU
@@ -558,6 +557,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:8f8:112b:c62a:42:28ff:fe64:6b36|9333|/FutureBit-ApolloCore:0.17.1/|8966|2001:8f8::/32|AE|ripencc|2002-09-20|ETISALAT-AS P.O. Box 1150, Dubai, U, AE
 2001:985:c344:1:ba27:ebff:fe33:9eee|9333|/LitecoinCore:0.18.1/|3265|2001:980::/29|NL|ripencc|2002-10-25|XS4ALL-NL Amsterdam, NL
 2001:b011:4000:3a05:71aa:dd:3bf3:4f9f|9333|/LitecoinCore:0.17.1/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b030:2422::2475|9333|/LitecoinCore:0.17.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:6467:1987:80a8:69c0:373b:fee4|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:182c:184a::1|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -1041,7 +1041,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.97.9.50|9333|/LitecoinCore:0.17.1/|37963|47.96.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.99.126.230|9333|/LitecoinCore:0.16.3/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 49.12.105.60|9333|/LitecoinCore:0.18.1/|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
-49.12.126.6|9002|/LitecoinCore:0.16.3/|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
+49.12.126.6|9085|/FlashcoinCore:0.13.3/|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
 49.12.64.220|9333|/LitecoinCore:0.17.1/|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
 49.235.131.139|10333|/LitecoinCore:0.17.1/|45090|49.235.128.0/20|CN|apnic|2010-11-26|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 5.100.250.140|9333|/LitecoinCore:0.14.2/|12400|5.100.250.0/24|IL|ripencc|2012-06-26|PARTNER-AS, IL
@@ -1334,6 +1334,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.211.67.216|9333|/LitecoinCore:0.17.1/|31034|80.211.0.0/17|IT|ripencc|2001-12-12|ARUBA-ASN, IT
 80.242.124.21|9333|/LitecoinCore:0.17.1/|21107|80.242.112.0/20|BA|ripencc|2005-09-07|BLICNET-AS # BLIC.NET AS peering info, BA
 80.79.114.34|9333|/LitecoinCore:0.17.1/|34702|80.79.112.0/20|EE|ripencc|2005-03-18|WAVECOM-AS, EE
+80.82.54.217|9333|/LitecoinCore:0.17.1/|21017|80.82.32.0/19|RU|ripencc|2002-09-03|VSI-AS 35, Revolutsii prosp., RU
 80.90.224.117|8833|/Ladacoshi:0.10.4.12/|43103|80.90.224.0/24|UA|ripencc|2001-09-10|ONETELECOM-AS, UA
 81.177.160.24|9333|/LitecoinCore:0.16.3/|8342|81.177.160.0/20|RU|ripencc|2003-01-15|RTCOMM-AS, RU
 81.177.196.122|9333|/LitecoinCore:0.17.1/|200982|81.177.196.0/23|RU|ripencc|2003-01-15|ZT-TOMSK-AS, RU
