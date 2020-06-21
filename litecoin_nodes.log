@@ -28,7 +28,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.200.7.114|9333|/LitecoinCore:0.17.1/|7018|107.192.0.0/12|US|arin|2012-04-25|ATT-INTERNET4, US
 108.172.93.215|9333|/LitecoinCore:0.17.1/|852|108.172.0.0/16|CA|arin|2012-02-01|ASN852, CA
 108.200.255.200|9333|/LitecoinCore:0.17.1/|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
-108.26.202.244|9333|/FutureBit-ApolloCore:0.17.1/|701|108.26.128.0/17|US|arin|2009-06-05|UUNET, US
 108.28.102.238|9333|/LitecoinCore:0.18.1/|701|108.28.0.0/16|US|arin|2009-06-05|UUNET, US
 108.39.46.31|9333|/LitecoinCore:0.17.1/|701|108.39.0.0/17|US|arin|2009-06-05|UUNET, US
 108.45.152.162|1335|/DefcoinCore:1.0.0/|701|108.45.0.0/16|US|arin|2009-06-05|UUNET, US
@@ -60,6 +59,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.202.217.3|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.226.159|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.251.195|9333|/LitecoinCore:0.16.0/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.202.35.157|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.51.11|9333|/LitecoinCore:0.16.3/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.245.29|9333|/Satoshi:0.8.7.4/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.61.61|9333|/LitecoinCore:0.17.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -506,7 +506,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.217.117.134|8553|/LitecoinCore:0.17.1/|30083|199.217.112.0/21|US|arin|2012-06-21|AS-30083-GO-DADDY-COM-LLC, US
 199.241.190.50|9333|/LitecoinCore:0.17.1/|31863|199.241.184.0/21|US|arin|2012-07-30|DACEN-2, US
 2001:0:53aa:64c:18cd:1e3f:cbba:7cf3|9333|/LitecoinCore:0.14.2/|6939|2001::/32||other||HURRICANE, US
-2001:14ba:23f6:9c00:b091:55ac:89a3:bf30|9333|/LitecoinCore:0.16.3/|16086|2001:14b8::/29|FI|ripencc|2003-07-07|DNA, FI
 2001:1620:c24:1:11:32ff:fe22:21b6|9333|/LitecoinCore:0.17.1/|13030|2001:1620::/32|CH|ripencc|2003-10-30|INIT7, CH
 2001:19f0:5:1f93:5400:1ff:fe7a:c65a|9333|/LitecoinCore:0.15.1/|20473|2001:19f0::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:6001:1743:5400:1ff:fed2:299f|9333|/LitecoinCore:0.16.3/|20473|2001:19f0:6000::/38|US|arin|2004-11-08|AS-CHOOPA, US
@@ -563,6 +562,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:cb:870b:ee02:aaa1:59ff:fe1e:4e75|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
@@ -822,7 +822,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1283,6 +1282,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.182.82.69|9333|/FutureBit-ApolloCore:0.17.1/|11426|75.182.0.0/15|US|arin|2006-08-16|TWC-11426-CAROLINAS, US
 75.40.189.179|9333|/LitecoinCore:0.17.1/|7018|75.40.0.0/14|US|arin|2006-02-28|ATT-INTERNET4, US
 75.44.77.150|9333|/LitecoinCore:0.15.1/|7018|75.44.0.0/16|US|arin|2006-02-28|ATT-INTERNET4, US
+75.66.135.168|9333|/LitecoinCore:0.14.2/|7922|75.64.0.0/13|US|arin|2006-07-07|COMCAST-7922, US
 75.67.170.197|9333|/LitecoinCore:0.17.1/|7922|75.64.0.0/13|US|arin|2006-07-07|COMCAST-7922, US
 76.100.121.19|9333|/FutureBit-ApolloCore:0.17.1/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.103.7.22|9333|/LitecoinCore:0.17.1(opreturn.net)/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
@@ -1448,6 +1448,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
 93.241.228.102|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.241.53.200|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.72.149.200|9333|/LitecoinCore:0.17.1/|25229|93.72.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
 94.112.19.237|9333|/LitecoinCore:0.17.1/|6830|94.112.0.0/16|CZ|ripencc|2008-07-09|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 94.12.28.255|9333|/LitecoinCore:0.17.1/|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 94.130.146.165|11963|/CounosCoinCore:0.15.3.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
