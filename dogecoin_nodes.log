@@ -36,6 +36,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.127.234.206|22556|/Shibetoshi:1.10.0/|38197|121.127.234.0/24|HK|apnic|2007-10-11|SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK
 121.150.81.198|22556|/Shibetoshi:1.10.0/|4766|121.144.0.0/13|KR|apnic|2006-04-07|KIXS-AS-KR Korea Telecom, KR
 122.57.2.68|22445|/Pandoshi:3.0.6.4/|4771|122.57.0.0/21|NZ|apnic|2006-11-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
+124.183.134.222|22556|/Shibetoshi:1.10.0/|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
 124.191.213.74|22556|/Shibetoshi:1.10.0/|1221|124.176.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 13.228.172.201|22556|/Shibetoshi:1.10.0/|16509|13.228.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 13.231.146.145|22556|/Shibetoshi:1.14.2/|16509|13.230.0.0/15|US|arin|2016-08-09|AMAZON-02, US
@@ -170,11 +171,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:4400:2000::170f|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:608:641::1|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
-2002:2501:cd11::2501:cd11|8333|/Shibetoshi:1.14.0/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:2501:cd11::2501:cd11|8333|/Shibetoshi:1.14.0/|6939|2002::/16||other||HURRICANE, US
 2002:4847:c4d6:0:e03b:436a:b7a3:ff4a|22556|/Shibetoshi:1.14.2/|6939|2002::/16||other||HURRICANE, US
-2002:55d6:c350::55d6:c350|22556|/Shibetoshi:1.14.2/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2002:55d6:c350::55d6:c350|22556|/Shibetoshi:1.14.2/|6939|2002::/16||other||HURRICANE, US
 2003:c9:5726:1f00:d5f8:5d7b:f2f5:a598|22556|/Shibetoshi:1.10.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
-205.178.39.30|22556|/Shibetoshi:1.10.0/|6079|205.178.0.0/17|US|arin|1995-03-20|RCN-AS, US
 207.180.211.73|22556|/Shibetoshi:1.14.2/|51167|207.180.210.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.229.150|22556|/Shibetoshi:1.14.2/|51167|207.180.228.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.231.22|22556|/Shibetoshi:1.14.2/|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -229,6 +229,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 27.124.18.174|22556|/Shibetoshi:1.10.0/|64050|27.124.18.0/24|SG|apnic|2010-10-08|BCPL-SG BGPNET Global ASN, SG
 27.50.59.25|22556|/Shibetoshi:1.10.0/|64050|27.50.59.0/24|SG|apnic|2010-03-17|BCPL-SG BGPNET Global ASN, SG
 2802:8000:c3eb:6b00:f881:390c:61f3:95f5|22556|/Shibetoshi:1.14.2/|22927|2802:8000::/32|AR|lacnic|2016-06-13|Telefonica de Argentina, AR
+2804:868:d041:b821:4dcb:6612:a0e7:f705|22556|/Shibetoshi:1.14.2/|28649|2804:868::/32|BR|lacnic|2012-01-27|Desktop Sigmanet Comunicacao Multimidia Ltda, BR
 2a00:23c4:5aa3:400:92e6:baff:feb9:b12a|22556|/Shibetoshi:1.14.2/|2856|2a00:2380::/25|GB|ripencc|2007-08-29|BT-UK-AS BTnet UK Regional network, GB
 2a01:4f8:10b:36da::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:110:536e::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -278,6 +279,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a03:4000:43:56:c82a:66ff:fe0c:bb82|22556|/Shibetoshi:1.14.2/|197540|2a03:4000::/32|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
 2a04:ac00:4:d18:5054:ff:fe00:d35d|22556|/Shibetoshi:1.10.0/|201848|2a04:ac00:4::/48|RU|ripencc|2014-02-05|TRADERSOFT, RU
 3.137.74.108|8446|/Shibetoshi:1.14.0/|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
+31.127.247.223|22445|/Pandoshi:3.0.4/|12576|31.127.0.0/16|GB|ripencc|2010-11-25|EE Ltd, GB
 31.25.241.224|2556|/Shibetoshi:1.14.0/|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
 31.48.0.116|22556|/Shibetoshi:1.14.2/|2856|31.48.0.0/13|GB|ripencc|2010-12-31|BT-UK-AS BTnet UK Regional network, GB
 34.195.55.159|22556|/Shibetoshi:1.10.0/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
@@ -364,7 +366,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.151.242.154|22556|/Shibetoshi:1.14.0/|63018|66.151.242.0/24|US|arin|2001-07-13|DEDICATED, US
 66.194.38.250|22556|/Shibetoshi:1.10.0/|35863|66.194.38.0/24|US|arin|2001-10-25|TELCO214US1, US
 66.194.38.42|22556|/Shibetoshi:1.10.0/|35863|66.194.38.0/24|US|arin|2001-10-25|TELCO214US1, US
-67.141.79.142|22556|/Shibetoshi:1.14.2/|7029|67.140.0.0/15|US|arin|2003-11-18|WINDSTREAM, US
 67.169.210.168|22556|/Shibetoshi:1.10.0/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
 67.43.1.184|22556|/Shibetoshi:1.10.0/|32244|67.43.0.0/20|US|arin|2004-03-08|LIQUIDWEB, US
 68.183.151.235|22556|/Shibetoshi:1.14.2/|14061|68.183.144.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
