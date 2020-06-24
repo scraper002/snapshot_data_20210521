@@ -305,6 +305,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.212.217.55|9333|/LitecoinCore:0.13.2(bitcore)/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.224.192|9333|/LitecoinCore:0.17.1/|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.232.136|9333|/LitecoinCore:0.14.2/|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
+173.249.53.194|9333|/LitecoinCore:0.17.1/|51167|173.249.52.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.254.204.118|33666|/CypherfunkCore:0.15.2/|8100|173.254.192.0/18|US|arin|2010-10-19|ASN-QUADRANET-GLOBAL, US
 173.255.204.124|9333|/LitecoinCore:0.17.1/|63949|173.255.192.0/20|US|arin|2010-08-27|LINODE-AP Linode, LLC, US
 173.255.209.39|9333|/LitecoinCore:0.14.2/|63949|173.255.209.0/24|US|arin|2010-08-27|LINODE-AP Linode, LLC, US
@@ -556,7 +557,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:cb:870b:ee02:aaa1:59ff:fe1e:4e75|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 2003:d3:9f04:1e00:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
@@ -846,6 +846,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:0:3829::1|9333|/LitecoinCore:0.16.0/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2012:1570::1|9333|/LitecoinCore:0.14.2/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
+2a02:c207:2018:4790::1|9333|/LitecoinCore:0.17.1/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2019:4940::1|9333|/LitecoinCore:0.17.1/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2020:6243::1|9333|/LitecoinCore:0.16.3/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2022:4422::1|9333|/LitecoinCore:0.13.2(bitcore)/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -1383,6 +1384,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.81.0.203|9333|/FutureBit-ApolloCore:0.17.1/|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 86.88.120.250|9334|/LitecoinCore:0.18.1/|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 87.222.235.176|9333|/FutureBit-ApolloCore:0.17.1/|12479|87.222.234.0/23|ES|ripencc|2005-06-07|UNI2-AS, ES
+87.225.104.45|9333|/LitecoinCore:0.18.1/|34584|87.225.64.0/18|RU|ripencc|2005-06-23|KHBDSV # downlink to customer DalComBank, RU
 87.249.207.89|9333|/LitecoinCore:0.14.2/|41925|87.249.192.0/19|RU|ripencc|2010-03-01|CHEL-FACTORIAL-INTERNET, RU
 87.4.110.174|9333|/LitecoinCore:0.17.1/|3269|87.4.0.0/15|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 88.105.34.207|9333|/LitecoinCore:0.17.1/|9105|88.104.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
@@ -1488,7 +1490,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.122.135|11963|/CounosCoinCore:0.15.3.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.122.136|11963|/CounosCoinCore:0.15.3.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.122.137|11963|/CounosCoinCore:0.15.3.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.122.142|10841|/CounosXCore:0.17.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.159.206|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.172.255|8333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.21.176|9333|/LitecoinCore:0.16.3/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
