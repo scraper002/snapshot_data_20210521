@@ -2,6 +2,7 @@
 # Dogecoin
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.163.30.54|22556|/Shibetoshi:1.14.0/|3462|1.163.0.0/16|TW|apnic|2010-05-05|HINET Data Communication Business Group, TW
+1.32.249.35|22556|/Shibetoshi:1.10.0/|64050|1.32.249.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.250.21|22556|/Shibetoshi:1.10.0/|64050|1.32.250.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.250.84|22556|/Shibetoshi:1.10.0/|64050|1.32.250.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.255.243|22556|/Shibetoshi:1.10.0/|64050|1.32.255.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
@@ -170,7 +171,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:4400:2000::170f|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:608:641::1|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
-2002:2501:cd11::2501:cd11|8333|/Shibetoshi:1.14.0/|6939|2002::/16||other||HURRICANE, US
 2003:c9:5726:1f00:d5f8:5d7b:f2f5:a598|22556|/Shibetoshi:1.10.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 207.180.211.73|22556|/Shibetoshi:1.14.2/|51167|207.180.210.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.229.150|22556|/Shibetoshi:1.14.2/|51167|207.180.228.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -328,7 +328,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.172.6|22556|/Shibetoshi:1.14.2/|51167|5.189.160.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.249.82.224|22556|/Shibetoshi:1.10.0/|12353|5.249.0.0/17|PT|ripencc|2012-09-13|VODAFONE-PT Vodafone Portugal, PT
 5.8.101.60|22556|/Shibetoshi:1.10.0/|30848|5.8.96.0/19|IT|ripencc|2012-04-25|IT-TWT-AS, IT
-5.9.10.66|22556|/Shibetoshi:1.14.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.145.235|22556|/Shibetoshi:1.14.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.29.54|22556|/Shibetoshi:1.14.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.99.62|22556|/Shibetoshi:1.10.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -342,6 +341,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.210.116.192|22556|/Shibetoshi:1.14.2/|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.255.87.121|22556|/Shibetoshi:1.14.2/|16276|51.254.0.0/15|FR|ripencc|1993-09-01|OVH, FR
 51.38.57.53|22556|/Shibetoshi:1.14.0/|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.6.136.63|22556|/Shibetoshi:1.10.0/|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
 51.75.55.212|22556|/Shibetoshi:1.10.0/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.40.32|22556|/Shibetoshi:1.14.2/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.91.170.94|22445|/Pandoshi:3.0.7.2/|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -423,7 +423,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.54.11|22556|/Shibetoshi:1.14.2/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.208.3.195|22556|/Shibetoshi:1.14.0/|39572|88.208.0.0/18|NL|ripencc|2005-10-24|ADVANCEDHOSTERS-AS, NL
 88.208.57.212|22556|/Shibetoshi:1.14.2/|39572|88.208.0.0/18|NL|ripencc|2005-10-24|ADVANCEDHOSTERS-AS, NL
-88.99.0.106|22556|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.103.51|22556|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.48.7|9003|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.223.26.145|22556|/Shibetoshi:1.10.0/|201848|89.223.24.0/21|RU|ripencc|2006-09-19|TRADERSOFT, RU
