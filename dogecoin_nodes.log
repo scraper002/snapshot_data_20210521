@@ -2,7 +2,6 @@
 # Dogecoin
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.163.30.54|22556|/Shibetoshi:1.14.0/|3462|1.163.0.0/16|TW|apnic|2010-05-05|HINET Data Communication Business Group, TW
-1.32.249.35|22556|/Shibetoshi:1.10.0/|64050|1.32.249.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.250.21|22556|/Shibetoshi:1.10.0/|64050|1.32.250.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.250.84|22556|/Shibetoshi:1.10.0/|64050|1.32.250.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
 1.32.255.243|22556|/Shibetoshi:1.10.0/|64050|1.32.255.0/24|SG|apnic|2011-04-05|BCPL-SG BGPNET Global ASN, SG
@@ -174,6 +173,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 2002:2501:cd11::2501:cd11|8333|/Shibetoshi:1.14.0/|6939|2002::/16||other||HURRICANE, US
 2003:c9:5726:1f00:d5f8:5d7b:f2f5:a598|22556|/Shibetoshi:1.10.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
+205.178.39.30|22556|/Shibetoshi:1.10.0/|6079|205.178.0.0/17|US|arin|1995-03-20|RCN-AS, US
 207.180.211.73|22556|/Shibetoshi:1.14.2/|51167|207.180.210.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.229.150|22556|/Shibetoshi:1.14.2/|51167|207.180.228.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.231.22|22556|/Shibetoshi:1.14.2/|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -242,7 +242,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:13b:3d90::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:13b:bd6::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:141:5491::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:160:8048::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:162:3104::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|11333|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -270,11 +269,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f98:ca00:493:1afa:5097:2d69|22556|/Shibetoshi:1.14.0/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:2f6b:5120:6ced:5f19:7a78:90db|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:120b:2c23:1eb0:27de:af19:bbdc:3ac4|22556|/Shibetoshi:1.10.0/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121e:3450:0:49f0:1264:29cc:79da|22556|/Shibetoshi:1.14.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121f:3a3f:0:38dd:64cf:380c:7886|22556|/Shibetoshi:1.10.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::2a|22556|/Shibetoshi:1.14.2/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
-2a02:2f0c:7704:4d00:9b4:5ccc:4f63:fd1f|22556|/Shibetoshi:1.14.2/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:7b40:c287:513d::1|22556|/Shibetoshi:1.14.0/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:7b40:c3b5:f606::1|22556|/Shibetoshi:1.14.2/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a03:4000:43:56:c82a:66ff:fe0c:bb82|22556|/Shibetoshi:1.14.2/|197540|2a03:4000::/32|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
