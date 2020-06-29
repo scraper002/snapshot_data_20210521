@@ -168,6 +168,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 2002:2501:cd11::2501:cd11|8333|/Shibetoshi:1.14.0/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:47b5:5717:0:e8ff:fdc0:4296:3d06|22556|/Shibetoshi:1.14.2/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
+2003:c8:bf15:9e01:4ecc:6aff:fef6:bb10|22556|/Shibetoshi:1.14.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 207.180.211.73|22556|/Shibetoshi:1.14.2/|51167|207.180.210.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.229.150|22556|/Shibetoshi:1.14.2/|51167|207.180.228.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.231.22|22556|/Shibetoshi:1.14.2/|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -196,7 +197,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.239.15.210|22445|/Pandoshi:3.0.7.2/|63949|23.239.8.0/21|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
 23.239.31.246|22556|/Shibetoshi:1.14.2/|63949|23.239.28.0/22|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
 24.154.48.59|22556|/Shibetoshi:1.10.0/|27364|24.154.32.0/19|US|arin|2000-03-16|ACS-INTERNET, US
-24.16.80.74|22556|/Shibetoshi:1.10.0/|7922|24.16.0.0/13|US|arin|2003-12-08|COMCAST-7922, US
 24.202.162.69|22445|/Pandoshi:3.0.7.1/|5769|24.202.128.0/18|CA|arin|1999-04-15|VIDEOTRON, CA
 2400:6180:0:d1::7a9:4001|22556|/Shibetoshi:1.14.2/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|22445|/Pandoshi:3.0.7.1/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
@@ -233,6 +233,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:13b:3d90::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:13b:bd6::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:141:5491::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:160:8048::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:162:3104::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|11333|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -259,7 +260,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:c010:e78::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
-2a01:e35:2f6b:5120:9c9a:681c:28b8:b91a|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:120b:2c23:1eb0:27de:af19:bbdc:3ac4|22556|/Shibetoshi:1.10.0/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121e:3450:0:49f0:1264:29cc:79da|22556|/Shibetoshi:1.14.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121f:3a3f:0:38dd:64cf:380c:7886|22556|/Shibetoshi:1.10.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -399,7 +399,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.117.237.8|22556|/Shibetoshi:1.10.0/|210099|85.117.237.0/24|TR|ripencc|2018-10-09|TIGOVA, TR
 85.13.237.25|22556|/Shibetoshi:1.10.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
 85.13.237.26|22556|/Shibetoshi:1.10.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
-85.167.63.86|22556|/Shibetoshi:1.10.0/|2119|85.164.0.0/14|NO|ripencc|2004-11-18|TELENOR-NEXTEL Telenor Norge AS, NO
 85.214.68.122|22556|/Shibetoshi:1.10.0/|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 85.214.93.169|22556|/Shibetoshi:1.14.2/|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 85.248.20.65|22556|/Shibetoshi:1.14.0/|5578|85.248.0.0/16|SK|ripencc|2005-01-20|AS-BENESTRA Bratislava, Slovak Republic, SK
