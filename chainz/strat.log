@@ -7,6 +7,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.70.117.37|/Stratis:2.0.0.2/|70000|8758|109.70.116.0/22|CH|ripencc|2009-11-03|IWAY, CH
 112.199.159.24|/Stratis:2.0.0.3/|70000|4773|112.199.128.0/18|SG|apnic|2009-02-17|MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore, SG
 116.126.141.21|/Stratis:2.0.0.5/|70000|9318|116.126.0.0/16|KR|apnic|2007-05-21|SKB-AS SK Broadband Co Ltd, KR
+118.39.30.107|???|0|4766|118.32.0.0/13|KR|apnic|2007-08-03|KIXS-AS-KR Korea Telecom, KR
 121.44.169.232|/Stratis:2.0.0.3/|70000|4739|121.44.160.0/19|AU|apnic|2006-06-01|INTERNODE-AS Internode Pty Ltd, AU
 124.111.218.230|StratisNode:3.0.5 (70012)|70012|9318|124.111.0.0/16|KR|apnic|2006-02-28|SKB-AS SK Broadband Co Ltd, KR
 124.191.57.217|/Stratis:2.0.0.3/|70000|1221|124.176.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
@@ -130,20 +131,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.46.40.226|StratisNode:3.0.7 (70012)|70012|5089|82.46.0.0/15|GB|ripencc|2003-01-31|NTL, GB
 82.53.129.146|/Stratis:2.0.0.3/|70000|3269|82.53.128.0/17|IT|ripencc|2003-08-07|ASN-IBSNAZ, IT
 83.163.54.6|StratisNode:3.0.5 (70012)|70012|3265|83.160.0.0/14|NL|ripencc|2004-03-03|XS4ALL-NL Amsterdam, NL
-84.161.145.5|StratisNode:3.0.7 (70012)|70012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.161.89.230|/Stratis:2.0.0.5/|70000|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.187.85.85|StratisNode:3.0.5 (70012)|70012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.52.180.228|StratisNode:3.0.3 (70012)|70012|3212|84.52.128.0/18|SI|ripencc|2004-11-01|TELEMACH Broadband Access & Carrier Services, SI
 84.90.165.155|StratisNode:3.0.7 (70012)|70012|13156|84.90.160.0/21|PT|ripencc|2004-05-12|AS13156 Palmela, PT
-85.4.12.24|/Stratis:2.0.0.3/|70000|3303|85.4.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 86.4.115.227|/Stratis:2.0.0.5/|70000|5089|86.4.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.86.1.205|/Stratis:2.0.0.2/|70000|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 86.9.166.178|StratisNode:3.0.5 (70012)|70012|5089|86.9.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 87.214.214.101|StratisNode:3.0.5 (70012)|70012|13127|87.208.0.0/13|NL|ripencc|2005-06-02|VERSATEL AS for the Trans-European Tele2 IP Transport backbone, NL
 88.116.139.164|/Stratis:2.0.0.3/|70000|8447|88.116.0.0/15|AT|ripencc|2005-09-16|TELEKOM-AT A1 Telekom Austria AG, AT
 88.121.121.218|StratisNode:3.0.5 (70012)|70012|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
-88.130.152.241|/Stratis:2.0.0.2/|70000|8881|88.130.152.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.57.100|/Stratis:2.0.0.2/|70000|8881|88.130.57.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
+88.207.83.127|StratisNode:3.0.7 (70012)|70012|31012|88.207.0.0/17|HR|ripencc|2005-12-14|DCM-AS Vipnet d.o.o., HR
 89.10.227.34|Blockcore:1.0.6|70012|15659|89.10.0.0/15|NO|ripencc|2006-06-29|NEXTGENTEL NEXTGENTEL Autonomous System, NO
 89.104.23.224|/Stratis:2.0.0.2/|70000|8559|89.104.0.0/19|AT|ripencc|2006-02-22|WELLCOM Kabelplus GmbH (vormals B.net/Wellcom), AT
 89.201.247.127|StratisNode:3.0.4 (70012)|70012|34594|89.201.128.0/17|HR|ripencc|2006-04-18|OT-AS, HR
@@ -154,7 +153,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.102.63.226|StratisNode:3.0.7 (70012)|70012|202425|94.102.63.0/24|NL|ripencc|2008-08-29|INT-NETWORK, SC
 94.11.91.9|/Stratis:2.0.0.2/|70000|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 94.130.59.132|/Stratis:2.0.0.3/|70000|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.253.245.186|StratisNode:3.0.7 (70012)|70012|31012|94.253.128.0/17|HR|ripencc|2008-10-02|DCM-AS Vipnet d.o.o., HR
 94.253.248.182|StratisNode:3.0.7 (70012)|70012|31012|94.253.128.0/17|HR|ripencc|2008-10-02|DCM-AS Vipnet d.o.o., HR
 95.178.154.58|StratisNode:3.0.4 (70012)|70012|34594|95.178.128.0/19|HR|ripencc|2009-01-16|OT-AS, HR
 95.208.230.136|StratisNode:3.0.5 (70012)|70012|6830|95.208.128.0/17|DE|ripencc|2009-01-29|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
