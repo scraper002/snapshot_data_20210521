@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.145.190.136|/Satoshi:1.9.9.1/|70006|137443|103.145.190.0/24|CN|apnic|2019-11-27|ANCHGLOBAL-AS-AP Anchnet Asia Limited, HK
 103.229.183.234|/Satoshi:1.9.9.2/|70006|138415|103.229.183.0/24|HK|apnic|2014-04-17|HENGDA-HK HENGDA NETWORK LIMITED, HK
 104.238.135.136|/Satoshi:1.9.9.2/|70006|20473|104.238.128.0/21|US|arin|2014-11-13|AS-CHOOPA, US
-106.12.126.250|/Satoshi:1.9.9.2/|70006|38365|106.12.112.0/20|CN|apnic|2011-03-22|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
+106.12.126.250|/Satoshi:1.9.9.2/|70006|38365|106.12.126.0/23|CN|apnic|2011-03-22|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 106.12.5.10|/Satoshi:1.9.9.2/|70006|38365|106.12.0.0/19|CN|apnic|2011-03-22|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 106.124.135.43|/Satoshi:1.9.9.2/|70006|4134|106.124.0.0/16|CN|apnic|2011-04-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 106.58.191.44|/Satoshi:1.9.9.2/|70006|4134|106.58.0.0/15|CN|apnic|2011-03-17|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -61,10 +61,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 140.246.101.160|/Satoshi:1.9.9.2/|70006|58519|140.246.0.0/16|CN|apnic|2011-03-29|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 140.246.159.19|/Satoshi:1.9.9.2/|70006|58519|140.246.0.0/16|CN|apnic|2011-03-29|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 140.246.89.36|/Satoshi:1.9.9.2/|70006|58519|140.246.0.0/16|CN|apnic|2011-03-29|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
+157.161.128.59|/Satoshi:1.9.9.2/|70006|6772|157.161.0.0/16|CH|ripencc|2004-04-07|IMPNET-AS, CH
 182.42.14.217|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.42.14.240|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.42.14.243|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
-182.42.14.246|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.42.14.252|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.42.14.253|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.42.15.3|???|0|58519|182.42.0.0/16|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
@@ -76,7 +76,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.43.206.254|/Satoshi:1.9.9.2/|70006|58519|182.43.128.0/17|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.43.217.6|/Satoshi:1.9.9.2/|70006|58519|182.43.128.0/17|CN|apnic|2010-02-12|CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN
 182.61.133.183|/Satoshi:1.9.9.2/|70006|38365|182.61.132.0/23|CN|apnic|2010-02-25|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
-182.61.25.104|/Satoshi:1.9.9.2/|70006|38365|182.61.24.0/23|CN|apnic|2010-02-25|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
+182.61.25.104|/Satoshi:1.9.9.2/|70006|38365|182.61.0.0/19|CN|apnic|2010-02-25|BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN
 183.13.14.28|/Satoshi:1.9.9.2/|70006|4134|183.0.0.0/10|CN|apnic|2009-10-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 183.13.15.151|/Satoshi:1.9.9.2/|70006|4134|183.0.0.0/10|CN|apnic|2009-10-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 185.124.171.58|/Satoshi:1.9.9.2/|70006|31148|185.124.171.0/24|UA|ripencc|2015-11-04|FREENET_LLC, UA
@@ -173,6 +173,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.234.52.190|/Satoshi:1.9.9.2/|70006|49560|84.234.48.0/20|MD|ripencc|2009-07-02|LINKS-MD-AS, MD
 85.15.179.171|/Satoshi:1.9.9.2/|70006|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 87.175.154.16|/Satoshi:1.9.9.1/|70006|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
+87.178.208.141|/Satoshi:1.9.9.2(UASF-SegWit-BIP148)/|70006|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.178.208.81|/Satoshi:1.9.9.2(UASF-SegWit-BIP148)/|70006|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 93.234.197.249|/Satoshi:1.9.9.2(UASF-SegWit-BIP148)/|70006|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.199.101.77|/Satoshi:1.9.9.2/|70006|40676|94.199.101.0/24|GB|ripencc|2018-06-28|AS40676, US
