@@ -65,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.101.235.143|/m-core:1.4.6.2/|71065|14061|46.101.128.0/17|NL|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.165.147.111|/m-core:1.4.6.2/|71065|42652|46.165.128.0/18|DE|ripencc|2010-12-13|DELUNET, DE
 46.244.182.126|/m-core:1.4.6.2/|71065|8767|46.244.128.0/17|DE|ripencc|2010-12-29|MNET-AS Germany, DE
+46.90.0.88|/m-core:1.4.6.2/|71065|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.196.87.155|/m-core:1.4.6.2/|71065|5650|47.196.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 49.181.210.211|/m-core:1.4.6.2/|71065|4804|49.181.128.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 5.146.164.118|/m-core:1.4.6.2/|71065|6830|5.146.0.0/16|DE|ripencc|2012-07-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -101,16 +102,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.205.28.158|/m-core:1.4.6.2/|71065|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.236.207.14|/m-core:1.4.6.2/|71065|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.109.18.41|/m-core:1.4.6.2/|71065|6830|80.109.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+80.131.103.91|/m-core:1.4.6.2/|71065|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.187.100.167|/m-core:1.4.6.2/|71065|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 80.98.240.196|/m-core:1.4.6.2/|71065|6830|80.98.0.0/16|HU|ripencc|2001-07-15|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 82.233.255.200|/m-core:1.4.6.2/|71065|12322|82.224.0.0/12|FR|ripencc|2003-11-04|PROXAD, FR
 82.64.32.163|/m-core:1.4.6.2/|71065|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.8.138.124|/m-core:1.4.6.2/|71065|5617|83.8.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.160.243.175|/m-core:1.4.6.2/|71065|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.162.242.44|/m-core:1.4.6.2/|71065|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.198.102.174|/m-core:1.4.6.2/|71065|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.208.163.115|/m-core:1.4.6.2/|71065|41164|84.208.128.0/17|NO|ripencc|2005-07-07|GET-NO GET Norway, NO
-84.40.106.95|/m-core:1.4.6.2/|71065|43561|84.40.106.0/24|BG|ripencc|2009-10-02|NET1-AS, BG
 84.71.128.75|/m-core:1.4.6.2/|71065|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 85.165.19.61|/m-core:1.4.6.2/|71065|2119|85.164.0.0/14|NO|ripencc|2004-11-18|TELENOR-NEXTEL Telenor Norge AS, NO
 85.214.23.202|/m-core:1.4.6.2/|71065|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
@@ -122,7 +122,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.104.117.252|/m-core:1.4.6.2/|71065|9105|88.104.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.67.246.182|/m-core:1.4.6.2/|71065|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
 89.12.116.250|/m-core:1.4.6.2/|71065|6805|89.12.0.0/15|DE|ripencc|2006-07-19|TDDE-ASN1, DE
-89.163.146.251|/m-core:1.4.6.2/|71065|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 91.164.199.32|/m-core:1.4.6.2/|71065|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
 91.226.197.234|/m-core:1.4.6.2/|71065|205299|91.226.197.0/24|PL|ripencc|2011-04-27|NET-TECH, PL
 91.234.102.143|/m-core:1.4.6.2/|71065|39507|91.234.100.0/22|PL|ripencc|2011-12-29|IPIVISION-AS, PL
