@@ -8,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.132.202.58|/loaf-android:175/|70015|2516|106.128.0.0/11|JP|apnic|2011-03-15|KDDI KDDI CORPORATION, JP
 107.191.119.170|/DefcoinCore:1.0.0/|70015|3842|107.191.116.0/22|US|arin|2014-05-08|RAMNODE, US
 108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002|20473|108.61.178.0/23|US|arin|2010-12-08|AS-CHOOPA, US
+114.124.178.201|/loaf-android:175/|70015|23693|114.124.160.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 117.2.19.99|/DigitaleuroCore:0.16.3/|70015|7552|117.2.18.0/23|VN|apnic|2007-05-21|VIETEL-AS-AP Viettel Group, VN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -25,6 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 15.165.61.169|/RBTOCore:0.16.3/|70015|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 158.69.196.61|/Node:0.8.7.2/|70002|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
+159.100.240.189|/LitecoinCore:0.17.1/|70015|61098|159.100.240.0/22|CH|ripencc|1992-03-31|EXOSCALE, CH
 159.138.3.249|/LitecoinCore:0.17.1/|70015|136907|159.138.0.0/20|SG|apnic|1992-04-20|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
 159.203.10.23|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|159.203.0.0/20|US|arin|2015-08-10|DIGITALOCEAN-ASN, US
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
@@ -32,8 +34,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 160.119.253.139|/litecoinj:0.15.2-SNAPSHOT/|70002|37153|160.119.253.0/24|ZA|afrinic|2017-03-17|xneelo, ZA
 161.35.94.71|/LitecoinCore:0.17.1/|70015|14061|161.35.80.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
 162.144.99.9|/LitecoinCore:0.18.1/|70015|46606|162.144.0.0/16|US|arin|2013-03-01|UNIFIEDLAYER-AS-1, US
-162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
-162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.227.144.131|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.144.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 171.25.193.25|/BitcoinKit:0.1.0/|70015|198093|171.25.193.0/24|SE|ripencc|2012-01-13|DFRI-AS Foreningen for digitala fri- och rattigheter, SE
@@ -63,7 +63,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.172.79|LitecoinCore:test|70003|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-31.24.231.253|/bitcore:1.1.0-exodus2/|70003|13213|31.24.224.0/21|GB|ripencc|2011-02-28|UK2NET-AS, GB
 31.53.245.79|/bitcore:1.1.0-exodus1/|70003|2856|31.48.0.0/13|GB|ripencc|2010-12-31|BT-UK-AS BTnet UK Regional network, GB
 34.86.33.1|/LitecoinCore:0.18.1/|70015|15169|34.84.0.0/14|US|arin|2018-09-28|GOOGLE, US
 37.113.7.37|/loaf-android:175/|70015|50542|37.113.4.0/22|RU|ripencc|2012-02-09|VORONEZH-AS, RU
@@ -73,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.143.91|/DigitaleuroCore:0.16.3/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.105.55.208|/LitecoinCore:0.17.1/|70015|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
 47.56.186.154|/MindexcoinCore:0.16.3/|70015|45102|47.56.0.0/16|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
-47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
