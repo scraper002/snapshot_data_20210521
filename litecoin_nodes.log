@@ -189,9 +189,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.210.226.74|10333|/LitecoinCore:0.17.1/|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 149.248.13.187|9333|/LitecoinCore:0.16.3/|20473|149.248.0.0/19|US|arin|2018-07-03|AS-CHOOPA, US
 149.28.39.130|9333|/LitecoinCore:0.16.3/|20473|149.28.32.0/19|US|arin|2018-05-04|AS-CHOOPA, US
-149.56.117.96|9333|/LitecoinCore:0.17.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.132.49|7107|/FlashcoinCore:0.13.3.2(bitcore)/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
-149.56.176.162|9333|/LitecoinCore:0.17.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.21.37|9335|/LitecoinCore:0.18.1/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 15.164.150.190|9333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 15.164.215.57|9333|/LitecoinCore:0.17.1/|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
@@ -304,6 +302,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.112.198.51|9333|/FutureBit-ApolloCore:0.17.1/|812|174.112.0.0/16|CA|arin|2009-03-04|ROGERS-COMMUNICATIONS, CA
 174.44.145.129|9333|/FutureBit-ApolloCore:0.17.1/|6128|174.44.0.0/16|US|arin|2011-12-22|CABLE-NET-1, US
 174.49.159.176|9333|/LitecoinCore:0.16.3/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
+174.55.158.230|9333|/FutureBit-ApolloCore:0.17.1/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 175.176.142.110|9333|/LitecoinCore:0.17.1/|38676|175.176.128.0/20|KR|apnic|2010-01-20|FLEXNET-AS-KR flexnetworks, KR
 176.126.167.10|9333|/LitecoinCore:0.17.1/|59684|176.126.167.0/24|KG|ripencc|2012-09-14|ASHOSTER, KG
 176.191.227.173|9333|/LitecoinCore:0.17.1/|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
@@ -529,6 +528,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:8b0:95:10::11b|9333|/LitecoinCore:0.18.1/|20712|2001:8b0::/32|GB|ripencc|2002-08-20|AS20712 Andrews & Arnold Ltd, GB
 2001:985:c344:1:ba27:ebff:fe33:9eee|9333|/LitecoinCore:0.18.1/|3265|2001:980::/29|NL|ripencc|2002-10-25|XS4ALL-NL Amsterdam, NL
 2001:b011:e001:382e:4568:c212:aca5:39ae|9333|/FutureBit-ApolloCore:0.17.1/|3462|2001:b011:e000::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b030:2422::2475|9333|/LitecoinCore:0.17.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:6467:1987:247b:8235:a519:dfd8|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:3dc1:100::142|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -1259,7 +1259,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.225.92.231|9333|/FutureBit-ApolloCore:0.17.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 8.30.183.13|9333|/FutureBit-ApolloCore:0.17.1/|13904|8.30.183.0/24|US|arin|1992-12-01|COSLINK, US
 80.0.27.75|9333|/LitecoinCore:0.17.1/|5089|80.0.0.0/16|GB|ripencc|2001-04-25|NTL, GB
-80.1.7.233|9333|/LitecoinCore:0.17.1/|5089|80.1.0.0/17|GB|ripencc|2001-04-25|NTL, GB
 80.108.210.64|9333|/LitecoinCore:0.17.1/|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 80.194.62.218|53179|/LitecoinCore:0.16.0/|5089|80.194.0.0/15|GB|ripencc|2001-09-26|NTL, GB
 80.195.243.45|9333|/LitecoinCore:0.17.1/|5089|80.194.0.0/15|GB|ripencc|2001-09-26|NTL, GB
