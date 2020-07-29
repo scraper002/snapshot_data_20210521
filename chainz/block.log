@@ -42,6 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.98.83.68|/Blocknet:4.2.0/|70713|13213|172.98.83.0/24|US|arin|2015-06-15|UK2NET-AS, GB
 172.98.86.173|/Blocknet:4.2.0/|70713|46562|172.98.86.0/24|US|arin|2015-06-15|TOTAL-SERVER-SOLUTIONS, US
 173.212.224.192|/Blocknet:4.3.0/|70713|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
+173.239.198.192|/Blocknet:4.3.0/|70713|36351|173.239.198.0/24|US|arin|2010-05-06|SOFTLAYER, US
 173.249.57.221|/Blocknet:4.3.0/|70713|51167|173.249.56.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.3.92.26|/Blocknet:4.3.0/|70713|6128|173.2.0.0/15|US|arin|2008-05-12|CABLE-NET-1, US
 173.52.157.204|/Blocknet:4.3.0/|70713|701|173.52.0.0/16|US|arin|2008-10-09|UUNET, US
@@ -71,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.115.99.44|/Blocknet:4.3.0/|70713|46844|199.115.99.0/24|US|arin|2012-03-02|ST-BGP, US
 199.247.25.188|/Blocknet:4.3.0/|70713|20473|199.247.24.0/21|EU|ripencc|1996-04-09|AS-CHOOPA, US
 2.32.199.225|/Blocknet:4.2.0/|70713|30722|2.32.192.0/20|IT|ripencc|2010-04-29|VODAFONE-IT-ASN, IT
-201.170.178.13|/Blocknet:4.2.0/|70713|8151|201.170.176.0/21|MX|lacnic|2009-03-24|Uninet S.A. de C.V., MX
 201.187.100.2|/Blocknet:4.2.0/|70713|14117|201.187.100.0/24|CL|lacnic|2011-08-01|Telefonica del Sur S.A., CL
 203.63.189.68|/Blocknet:4.3.0/|70713|7545|203.63.188.0/23|AU|apnic|1995-07-12|TPG-INTERNET-AP TPG Telecom Limited, AU
 207.126.92.219|/Blocknet:4.3.0/|70713|6939|207.126.64.0/19|US|arin|1996-05-17|HURRICANE, US
@@ -124,6 +124,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.237.20.186|/Blocknet:4.3.0/|70713|7470|49.237.0.0/16|TH|apnic|2010-12-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 5.146.100.9|/Blocknet:4.3.0/|70713|6830|5.146.0.0/16|DE|ripencc|2012-07-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 5.175.3.216|/Blocknet:4.2.0/|70713|8972|5.175.0.0/20|DE|ripencc|2012-08-01|GD-EMEA-DC-SXB1, DE
+5.2.132.49|/Blocknet:4.2.0/|70713|8708|5.2.128.0/17|RO|ripencc|2012-04-27|RCS-RDS 73-75 Dr. Staicovici, RO
 50.42.177.146|/Blocknet:4.2.0/|70713|5650|50.32.0.0/12|US|arin|2010-09-24|FRONTIER-FRTR, US
 50.71.183.146|/Blocknet:4.3.0/|70713|6327|50.71.180.0/22|CA|arin|2010-10-28|SHAW, CA
 51.222.27.28|/Blocknet:4.3.0/|70713|16276|51.222.0.0/16|CA|arin|2020-03-31|OVH, FR
@@ -166,7 +167,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.30.250.29|/Blocknet:4.3.0/|70713|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
 77.168.20.209|/Blocknet:4.3.0/|70713|1136|77.168.0.0/14|NL|ripencc|2006-11-02|KPN KPN National, EU
 77.168.200.227|/Blocknet:4.2.0/|70713|1136|77.168.0.0/14|NL|ripencc|2006-11-02|KPN KPN National, EU
-77.175.179.253|/Blocknet:4.3.0/|70713|1136|77.175.128.0/17|NL|ripencc|2006-11-02|KPN KPN National, EU
 78.62.229.123|/Blocknet:4.3.0/|70713|8764|78.62.228.0/22|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
 79.115.167.196|/Blocknet:4.2.0/|70713|8708|79.112.0.0/13|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 79.116.78.70|/Blocknet:4.2.0/|70713|8708|79.112.0.0/13|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
@@ -186,6 +186,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.245.232.135|/Blocknet:4.3.0/|70713|719|83.245.128.0/17|FI|ripencc|2004-04-15|ELISA-AS Helsinki, Finland, EU
 84.180.77.241|/Blocknet:4.3.0/|70713|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.30.81.80|/Blocknet:4.2.0/|70713|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
+84.47.71.206|/Blocknet:4.2.0/|70713|6855|84.47.0.0/17|SK|ripencc|2004-10-12|SK-TELEKOM, SK
 84.54.76.137|/Blocknet:4.2.0/|70713|8193|84.54.76.0/22|UZ|ripencc|2004-11-10|BRM-AS, UZ
 84.59.112.73|/Blocknet:4.2.0/|70713|3209|84.56.0.0/13|DE|ripencc|2004-08-17|VODANET International IP-Backbone of Vodafone, DE
 85.10.49.190|/Blocknet:4.3.0/|70713|29485|85.10.48.0/20|HR|ripencc|2005-02-18|AMIS, HR
@@ -198,11 +199,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.24.80.188|/Blocknet:4.3.0/|70713|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 86.242.211.202|/Blocknet:4.2.0/|70713|3215|86.242.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.84.252.214|/Blocknet:4.3.0/|70713|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
-86.89.176.206|/Blocknet:4.3.0/|70713|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 87.115.16.250|/Blocknet:4.2.0/|70713|6871|87.115.0.0/16|GB|ripencc|2005-07-29|PLUSNET UK Internet Service Provider, GB
 89.151.222.141|/Blocknet:4.2.0/|70713|34087|89.151.192.0/19|NO|ripencc|2006-04-28|NTE-BREDBAND NIX 1, Oslo, Norway, NO
 89.190.50.54|/Blocknet:4.2.0/|70713|12570|89.190.48.0/20|CZ|ripencc|2006-06-06|ITSELF Network and internet service provider., CZ
 89.21.228.114|/Blocknet:4.2.0/|70713|41695|89.21.224.0/19|GB|ripencc|2006-10-09|VOSTRON-AS, GB
+89.212.119.170|/Blocknet:4.2.0/|70713|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.45.90.40|/Blocknet:4.0.2/|70713|9009|89.45.90.0/24|VN|ripencc|2005-11-29|M247, GB
 89.64.38.52|/Blocknet:4.3.0/|70713|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 90.186.3.85|/Blocknet:4.3.0/|70713|3209|90.186.0.0/16|DE|ripencc|2006-11-09|VODANET International IP-Backbone of Vodafone, DE
@@ -213,6 +214,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.110.146.111|/Blocknet:4.2.0/|70713|6830|92.110.0.0/15|NL|ripencc|2007-10-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 92.6.192.82|/Blocknet:4.3.0/|70713|13285|92.6.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 93.150.81.163|/Blocknet:4.2.0/|70713|30722|93.150.64.0/19|IT|ripencc|2008-04-11|VODAFONE-IT-ASN, IT
+93.153.1.205|/Blocknet:4.3.0/|70713|13036|93.153.0.0/17|CZ|ripencc|2008-05-07|TMOBILE-, CZ
 94.255.131.29|/Blocknet:4.3.0/|70713|29518|94.255.128.0/17|SE|ripencc|2008-10-20|BREDBAND2, SE
 94.61.62.72|/Blocknet:4.2.0/|70713|12353|94.60.0.0/14|PT|ripencc|2008-06-23|VODAFONE-PT Vodafone Portugal, PT
 95.131.157.68|/Blocknet:4.3.0/|70713|6894|95.131.152.0/21|GB|ripencc|2009-03-31|KDDI-EUROPE KDDI Europe Ltd., GB
