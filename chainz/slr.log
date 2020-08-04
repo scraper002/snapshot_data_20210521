@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.112.54.81|/Satoshi:2.1.8/|70005|23889|102.112.0.0/17|MU|afrinic|2018-06-27|MauritiusTelecom, MU
 103.244.172.129|/Satoshi:2.1.8/|70005|9541|103.244.172.0/24|PK|apnic|2012-12-20|CYBERNET-AP Cyber Internet Services (Pvt) Ltd., PK
 108.234.27.6|/Satoshi:2.1.8/|70005|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
+109.24.215.19|/Satoshi:2.1.8/|70005|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
 109.75.93.25|/Satoshi:2.1.8/|70005|9063|109.75.80.0/20|DE|ripencc|2009-11-19|SAARGATE-AS VSE NET GmbH, DE
 109.91.38.120|/Satoshi:2.1.8/|70005|6830|109.91.0.0/16|DE|ripencc|2009-09-10|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 119.230.8.30|/Satoshi:2.1.8/|70005|17511|119.228.0.0/14|JP|apnic|2008-02-28|OPTAGE OPTAGE Inc., JP
@@ -32,6 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.94.190.79|/Satoshi:2.1.8/|70005|25914|184.94.176.0/20|CA|arin|2011-05-02|QCC-AS, CA
 185.183.106.228|/Satoshi:2.1.8/|70005|9009|185.183.106.0/24|RO|ripencc|2016-12-23|M247, GB
 185.220.101.198|/Satoshi:2.1.8/|70005|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
+185.53.156.242|/Satoshi:2.1.8/|70005|9063|185.53.156.0/22|DE|ripencc|2014-04-11|SAARGATE-AS VSE NET GmbH, DE
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 198.48.166.183|/Satoshi:2.1.8/|70005|5645|198.48.164.0/22|CA|arin|2013-03-04|TEKSAVVY, CA
 2.25.3.71|/Satoshi:2.1.8/|70005|12576|2.25.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
@@ -41,7 +43,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.96.77.232|/Satoshi:2.1.8/|70005|3352|213.96.0.0/16|ES|ripencc|2000-01-03|TELEFONICA_DE_ESPANA, ES
 216.126.75.152|/Satoshi:2.1.8/|70005|395667|216.126.75.0/24|CA|arin|1999-06-30|WISP-INTERNET-SERVICES-INC, CA
 217.103.132.37|/Satoshi:2.1.8/|70005|6830|217.103.128.0/17|NL|ripencc|2000-12-05|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
-217.110.120.154|/Satoshi:2.1.8/|70005|8220|217.110.0.0/15|DE|ripencc|2001-01-02|COLT COLT Technology Services Group Limited, GB
 217.62.25.201|/Satoshi:2.1.8/|70005|33915|217.62.0.0/17|NL|ripencc|2000-11-23|TNF-AS, NL
 221.121.139.175|/Satoshi:2.1.8/|70005|45671|221.121.139.0/24|AU|apnic|2009-10-05|AS45671-NET-AU Wholesale Services Provider, AU
 223.134.202.180|/Satoshi:2.1.8/|70005|2527|223.132.0.0/14|JP|apnic|2010-07-08|SO-NET So-net Entertainment Corporation, JP
@@ -88,7 +89,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.140.89.3|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.145.161.168|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.147.129.194|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
-80.174.170.186|/Satoshi:2.1.8/|70005|12357|80.174.170.0/24|ES|ripencc|2004-07-05|COMUNITEL SPAIN, ES
 80.32.54.186|/Satoshi:2.1.8/|70005|3352|80.32.0.0/16|ES|ripencc|2001-11-12|TELEFONICA_DE_ESPANA, ES
 80.57.240.179|/Satoshi:2.1.8/|70005|6830|80.57.0.0/16|NL|ripencc|2001-05-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 80.62.117.63|/Satoshi:2.1.8/|70005|3292|80.62.0.0/15|DK|ripencc|2001-06-20|TDC TDC A/S, DK
@@ -130,6 +130,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.232.11.99|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
 95.168.173.30|/Satoshi:2.1.8/|70005|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
+95.211.230.211|/Satoshi:2.1.8/|70005|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.91.230.109|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.8.130.40|/Satoshi:2.1.8/|70005|16527|96.8.128.0/19|US|arin|2008-07-29|GVTCINTERNET, US
