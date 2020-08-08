@@ -512,6 +512,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:985:c344:1:ba27:ebff:fe33:9eee|9333|/LitecoinCore:0.18.1/|3265|2001:980::/29|NL|ripencc|2002-10-25|XS4ALL-NL Amsterdam, NL
 2001:b011:4009:153d:e4e7:dfd3:f899:90b|9333|/LitecoinCore:0.17.1/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:e001:53da:ed27:3588:4493:4c6b|9333|/FutureBit-ApolloCore:0.17.1/|3462|2001:b011:e000::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b030:2422::2475|9333|/LitecoinCore:0.17.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:1828:1b33::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8:1800::/38|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:3dc1:100::142|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -763,6 +764,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1115,7 +1117,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 63.250.33.135|9333|/LitecoinCore:0.17.1/|22612|63.250.33.0/24|US|arin|2019-07-16|NAMECHEAP-NET, US
 63.250.36.66|9335|/LitecoinCore:0.17.1/|22612|63.250.36.0/24|US|arin|2019-07-16|NAMECHEAP-NET, US
 64.137.185.16|9333|/LitecoinCore:0.17.1/|31798|64.137.185.0/24|CA|arin|2015-04-06|DATACITY, CA
-64.18.166.103|9333|/LitecoinCore:0.18.1/|19515|64.18.160.0/19|CA|arin|2002-05-13|ORICOM-QUEBEC1, CA
 64.225.23.71|9333|/LitecoinCore:0.17.1/|14061|64.225.16.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 64.225.4.210|37371|/B2CCoinCore:0.16.3/|14061|64.225.0.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 64.227.19.92|9333|/LitecoinCore:0.17.1/|14061|64.227.16.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
@@ -1293,6 +1294,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.25.118.19|9333|/LitecoinCore:0.16.0/|8972|85.25.118.0/24|DE|ripencc|2005-03-01|GD-EMEA-DC-SXB1, DE
 85.25.149.24|9333|/LitecoinCore:0.16.3/|8972|85.25.149.0/24|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 85.25.202.57|7999|/DigitalcoinV3.0:3.0.1/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
+86.0.177.109|9333|/LitecoinCore:0.14.2/|5089|86.0.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.176.151.21|9333|/LitecoinCore:0.17.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.246.106.89|9333|/LitecoinCore:0.18.1/|3215|86.246.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.81.0.203|9333|/FutureBit-ApolloCore:0.17.1/|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
