@@ -58,9 +58,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.233.71.197|/PXN:1.0.4.1/|60014|9829|117.233.64.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 117.233.71.197|/PXN:1.0.4.1/|60015|9829|117.233.64.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 117.233.71.197|/PXN:1.0.4.1/|60016|9829|117.233.64.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
-117.233.85.179|/PXN:1.0.4.1/|60014|9829|117.233.80.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
-117.233.85.179|/PXN:1.0.4.1/|60015|9829|117.233.80.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
-117.233.85.179|/PXN:1.0.4.1/|60016|9829|117.233.80.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 118.209.17.106|/PXN:1.0.4.1/|60014|7545|118.209.0.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
 118.209.17.106|/PXN:1.0.4.1/|60015|7545|118.209.0.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
 118.209.17.106|/PXN:1.0.4.1/|60016|7545|118.209.0.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -164,6 +161,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.13.212.108|/PXN:1.0.4.1/|60014|7738|187.13.192.0/18|BR|lacnic|2008-09-08|Telemar Norte Leste S.A., BR
 187.13.212.108|/PXN:1.0.4.1/|60015|7738|187.13.192.0/18|BR|lacnic|2008-09-08|Telemar Norte Leste S.A., BR
 187.13.212.108|/PXN:1.0.4.1/|60016|7738|187.13.192.0/18|BR|lacnic|2008-09-08|Telemar Norte Leste S.A., BR
+187.15.40.128|/PXN:1.0.4.1/|60014|7738|187.15.0.0/18|BR|lacnic|2008-09-08|Telemar Norte Leste S.A., BR
+187.15.40.128|/PXN:1.0.4.1/|60015|7738|187.15.0.0/18|BR|lacnic|2008-09-08|Telemar Norte Leste S.A., BR
+187.15.40.128|/PXN:1.0.4.1/|60016|7738|187.15.0.0/18|BR|lacnic|2008-09-08|Telemar Norte Leste S.A., BR
 190.112.81.2|/Satoshi:1.0.4/|60013|28048|190.112.80.0/21|AR|lacnic|2010-04-27|Internet Para Todos - Gobierno de La Rioja, AR
 191.253.87.135|/PXN:1.0.4.1/|60014|52768|191.253.80.0/20|BR|lacnic|2014-01-14|ALSOL Provedor de Internet Ltda., BR
 191.253.87.135|/PXN:1.0.4.1/|60015|52768|191.253.80.0/20|BR|lacnic|2014-01-14|ALSOL Provedor de Internet Ltda., BR
@@ -351,6 +351,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.19.49.207|/PXN:1.0.4.1/|60015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.19.49.207|/PXN:1.0.4.1/|60016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.188.209.192|/Satoshi:1.0.3/|60013|10796|75.188.0.0/16|US|arin|2006-08-16|TWC-10796-MIDWEST, US
+76.175.76.216|/PXN:1.0.4.1/|60014|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
+76.175.76.216|/PXN:1.0.4.1/|60015|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
+76.175.76.216|/PXN:1.0.4.1/|60016|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
 77.172.118.159|/PXN:1.0.4.1/|60014|1136|77.172.0.0/16|NL|ripencc|2006-11-02|KPN KPN National, EU
 77.172.118.159|/PXN:1.0.4.1/|60015|1136|77.172.0.0/16|NL|ripencc|2006-11-02|KPN KPN National, EU
 77.172.118.159|/PXN:1.0.4.1/|60016|1136|77.172.0.0/16|NL|ripencc|2006-11-02|KPN KPN National, EU
@@ -435,9 +438,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.147.87.86|/PXN:1.0.4.1/|60014|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.147.87.86|/PXN:1.0.4.1/|60015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.147.87.86|/PXN:1.0.4.1/|60016|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
-87.157.195.242|/PXN:1.0.4.1/|60014|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
-87.157.195.242|/PXN:1.0.4.1/|60015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
-87.157.195.242|/PXN:1.0.4.1/|60016|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.157.203.112|/PXN:1.0.4.1/|60014|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.157.203.112|/PXN:1.0.4.1/|60015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.157.203.112|/PXN:1.0.4.1/|60016|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
