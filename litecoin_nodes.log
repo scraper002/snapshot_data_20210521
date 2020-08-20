@@ -285,7 +285,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.118.126.20|19334|/LitecoinCore:0.17.1/|9318|175.112.0.0/13|KR|apnic|2009-12-17|SKB-AS SK Broadband Co Ltd, KR
 176.126.167.10|9333|/LitecoinCore:0.17.1/|59684|176.126.167.0/24|KG|ripencc|2012-09-14|ASHOSTER, KG
 176.191.227.173|9333|/LitecoinCore:0.17.1/|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
-176.31.121.185|9333|/LitecoinCore:0.18.1/|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
 176.31.236.182|9333|/LitecoinCore:0.17.1/|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
 176.31.64.127|9333|/LitecoinCore:0.17.1/|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
 176.34.202.162|9333|/LitecoinCore:0.18.1/|16509|176.34.192.0/18|IE|ripencc|2011-05-23|AMAZON-02, US
@@ -460,6 +459,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.204.211.87|1337|/DefcoinCore:1.0.0/|36077|199.204.211.0/24|CA|arin|2010-05-04|DYNAMICHOSTINGBIZ, CA
 199.217.117.134|8553|/LitecoinCore:0.17.1/|30083|199.217.112.0/21|US|arin|2012-06-21|AS-30083-GO-DADDY-COM-LLC, US
 199.247.24.116|9333|/LitecoinCore:0.18.1/|20473|199.247.24.0/21|EU|ripencc|1996-04-09|AS-CHOOPA, US
+2.96.38.103|9333|/LitecoinCore:0.17.1/|13285|2.96.0.0/15|GB|ripencc|2010-04-21|OPALTELECOM-AS TalkTalk Communications Limited, GB
 2001:0:53aa:64c:18cd:1e3f:cbba:7cf3|9333|/LitecoinCore:0.14.2/|6939|2001::/32||other||HURRICANE, US
 2001:1620:c24:1:11:32ff:fe22:21b6|9333|/LitecoinCore:0.18.1/|13030|2001:1620::/32|CH|ripencc|2003-10-30|INIT7, CH
 2001:16a2:11ad:1500:6d:b688:adef:2b62|9333|/LitecoinCore:0.18.1/|25019|2001:16a2:1000::/39|SA|ripencc|2003-12-19|SAUDINETSTC-AS, SA
@@ -506,6 +506,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:985:c344:1:ba27:ebff:fe33:9eee|9333|/LitecoinCore:0.17.1/|3265|2001:980::/29|NL|ripencc|2002-10-25|XS4ALL-NL Amsterdam, NL
 2001:b011:4009:112c:9825:2c72:b4e:4df7|9333|/LitecoinCore:0.17.1/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:e001:3050:692d:372:79c0:9757|9333|/FutureBit-ApolloCore:0.17.1/|3462|2001:b011:e000::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b030:2422::2475|9333|/LitecoinCore:0.17.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:6467:1987:41a3:a719:b115:8c09|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:1828:1b33::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8:1800::/38|FR|ripencc|2003-04-15|Online SAS, FR
@@ -514,6 +515,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:f40:908:91f3:a04c:4fd4:2ff9:d12e|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
+2002:59b3:99ab::59b3:99ab|9333|/LitecoinCore:0.14.2/|6939|2002::/16||other||HURRICANE, US
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|6939|2002::/16||other||HURRICANE, US
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:c7f7:1874::c7f7:1874|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
@@ -958,6 +960,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.166.112.224|9333|/LitecoinCore:0.14.2/|50512|5.166.112.0/22|RU|ripencc|2012-07-25|BARNAUL-AS, RU
 5.188.104.245|10333|/LitecoinCore:0.16.3/|199860|5.188.104.0/23|RU|ripencc|2012-08-09|SDN-AS, RU
 5.188.187.130|10333|/LitecoinCore:0.17.1/|50340|5.188.184.0/22|RU|ripencc|2012-08-09|SELECTEL-MSK, RU
+5.189.187.89|9333|/LitecoinCore:0.16.0/|51167|5.189.176.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.196.117.47|9333|/LitecoinCore:0.15.1/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.157.116|9333|/Satoshi:0.10.4/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.167.44|9333|/LitecoinCore:0.17.1/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
