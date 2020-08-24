@@ -28,7 +28,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 195.213.54.82|/Satoshi:2.1.8/|70005|6871|195.213.0.0/16|BE|ripencc|1997-09-25|PLUSNET UK Internet Service Provider, GB
 195.88.137.97|/Satoshi:2.1.8/|70005|48997|195.88.136.0/23|NL|ripencc|2009-03-16|ZORGRING-AS, NL
-2.25.3.71|/Satoshi:2.1.8/|70005|12576|2.25.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 209.58.129.99|/Satoshi:2.1.8/|70005|7203|209.58.128.0/20|US|arin|1999-04-29|LEASEWEB-USA-SFO-12, US
 212.50.0.99|/Satoshi:2.1.8/|70005|8717|212.50.0.0/19|BG|ripencc|1998-03-10|SPECTRUMNET, BG
 216.126.75.152|/Satoshi:2.1.8/|70005|395667|216.126.75.0/24|CA|arin|1999-06-30|WISP-INTERNET-SERVICES-INC, CA
@@ -66,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.91.101.225|/Satoshi:2.1.8/|70005|20686|62.91.0.0/16|DE|ripencc|2001-06-11|BISPING ISP & Citycarrier, Germany, DE
 65.78.158.177|/Satoshi:2.1.8/|70005|14051|65.78.128.0/18|US|arin|2003-10-24|SUREWEST, US
 66.61.208.202|/Satoshi:2.1.8/|70005|11426|66.61.192.0/18|US|arin|2001-01-03|TWC-11426-CAROLINAS, US
+67.6.54.65|/Satoshi:2.1.8/|70005|209|67.6.0.0/16|US|arin|2001-07-26|CENTURYLINK-US-LEGACY-QWEST, US
 68.205.97.213|/Satoshi:2.1.8/|70005|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
 69.119.193.9|/Satoshi:2.1.8/|70005|6128|69.112.0.0/13|US|arin|2004-01-15|CABLE-NET-1, US
 72.194.72.3|/Satoshi:2.1.8/|70005|22773|72.194.64.0/18|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -97,12 +97,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.76.62.87|/Satoshi:2.1.8/|70005|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
 82.95.131.52|/Satoshi:2.1.8/|70005|3265|82.92.0.0/14|NL|ripencc|2003-11-25|XS4ALL-NL Amsterdam, NL
-84.119.162.12|/Satoshi:2.1.8/|70005|6830|84.119.0.0/16|NL|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 84.198.252.130|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.28.61.53|/Satoshi:2.1.8/|70005|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 84.72.195.149|/Satoshi:2.1.8/|70005|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 84.92.106.61|/Satoshi:2.1.8/|70005|6871|84.92.0.0/15|GB|ripencc|2004-05-18|PLUSNET UK Internet Service Provider, GB
 85.1.240.226|/Satoshi:2.1.8/|70005|3303|85.0.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
+85.135.224.32|/Satoshi:2.1.8/|70005|8257|85.135.192.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
 85.146.244.250|/Satoshi:2.1.8/|70005|33915|85.146.192.0/18|NL|ripencc|2004-10-06|TNF-AS, NL
 85.148.226.126|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.187.88.66|/Satoshi:2.1.8/|70005|47771|85.187.64.0/18|BG|ripencc|2004-11-26|ENTRY-BG-AS, BG
@@ -118,7 +118,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.126.23.76|/Satoshi:2.1.8/|70005|35699|91.126.16.0/20|ES|ripencc|2006-10-24|ADAMOEU-AS Adamo Telecom Iberia S.A., ES
 91.142.17.47|/Satoshi:2.1.8/|70005|21013|91.142.16.0/20|AT|ripencc|2006-10-10|ITANDTEL-AS Wels, AT
 91.221.89.4|/Satoshi:2.1.8/|70005|50467|91.221.88.0/23|PL|ripencc|2010-11-10|BESKID-MEDIA-AS, PL
-91.67.39.222|/Satoshi:2.1.8/|70005|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 93.199.160.237|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.225.41.44|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.236.152.236|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
