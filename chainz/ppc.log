@@ -11,6 +11,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.43.5.54|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3462|114.43.0.0/16|TW|apnic|2008-04-18|HINET Data Communication Business Group, TW
 115.79.255.46|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7552|115.79.252.0/22|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
 116.237.99.53|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|4812|116.237.0.0/16|CN|apnic|2007-04-04|CHINANET-SH-AP China Telecom (Group), CN
+119.18.37.63|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|4764|119.18.36.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
 119.3.138.218|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|55990|119.3.128.0/20|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
 122.51.249.99|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|45090|122.51.192.0/18|CN|apnic|2006-07-19|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 125.168.40.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9443|125.168.32.0/20|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
@@ -48,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.49.167.228|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31200|178.49.128.0/17|RU|ripencc|2009-12-28|NTK IPv6 customers, RU
 18.27.197.252|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|3|18.27.0.0/16|US|arin|1994-01-01|MIT-GATEWAYS, US
 180.150.78.248|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|4764|180.150.78.0/24|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
-181.41.41.9|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|11816|181.41.40.0/22|AW|lacnic|2012-07-06|SetarNet, AW
 183.225.235.238|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9808|183.225.128.0/17|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 185.203.152.137|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31143|185.203.152.0/23|BY|ripencc|2017-05-15|COSMOSTV-AS, BY
 185.220.100.241|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
@@ -145,13 +145,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.14.242.77|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24961|85.14.192.0/18|DE|ripencc|2005-04-14|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 85.214.152.190|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 86.131.253.215|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.160.26.73|/Satoshi:0.8.6/Peercoin:0.6.1(v0.6.1ppc)/|70001|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 88.126.202.24|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.207.88.250|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31012|88.207.0.0/17|HR|ripencc|2005-12-14|DCM-AS Vipnet d.o.o., HR
 89.1.210.213|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-1cbefe44d Strider)/|70015|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.187.140.130|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|35592|89.187.128.0/19|CZ|ripencc|2006-04-28|COOLHOUSING-AS Vinohradska 190, CZ
 89.217.102.30|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6730|89.217.0.0/16|CH|ripencc|2006-06-26|SUNRISE, CH
 89.221.223.93|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-1cbefe44d Strider)/|70015|197019|89.221.208.0/20|CZ|ripencc|2006-10-11|WEDOS, CZ
-89.45.10.218|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9009|89.45.10.0/24|RO|ripencc|2005-11-29|M247, GB
 91.105.216.159|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|33915|91.105.216.0/24|NL|ripencc|2012-08-14|TNF-AS, NL
 91.139.72.200|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|13036|91.139.0.0/17|CZ|ripencc|2007-05-22|TMOBILE-, CZ
 91.150.178.146|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
