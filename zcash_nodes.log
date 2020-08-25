@@ -4,6 +4,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.37.77.121|8233|/MagicBean:3.0.0/|37963|101.37.0.0/17|CN|apnic|2010-12-14|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 104.236.180.231|8233|/MagicBean:3.0.0/|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 104.238.190.157|8236|/MagicBean:2.0.1/|20473|104.238.188.0/22|US|arin|2014-11-13|AS-CHOOPA, US
+104.248.161.166|8233|/MagicBean:3.0.0/|14061|104.248.160.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
 104.248.60.26|8233|/MagicBean:3.0.0/|14061|104.248.48.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
 106.54.9.182|8233|/MagicBean:3.0.0/|45090|106.54.0.0/18|CN|apnic|2011-04-06|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 106.55.251.152|8233|/MagicBean:3.0.0/|45090|106.55.192.0/18|CN|apnic|2011-04-06|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -197,7 +198,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7e01::f03c:92ff:fea1:ec5|8233|/MagicBean:3.0.0/|63949|2a01:7e01::/32|GB|ripencc|2011-02-01|LINODE-AP Linode, LLC, US
 2a01:cb00:f98:ca00:5054:ff:fed4:763d|8355|/MagicBean:3.0.0/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e0a:14:6f71::212|8233|/MagicBean:3.1.0(bitcore)/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
-2a02:1812:2c45:96f0::abf|8233|/MagicBean:3.1.0/|6848|2a02:1800::/24|BE|ripencc|2010-02-25|TELENET-AS, BE
 2a02:2b88:2:1::5b27:1|8144|/MagicBean:2.1.0/|197019|2a02:2b88::/32|CZ|ripencc|2010-11-29|WEDOS, CZ
 2a02:2f01:b300:df00:d0a:66a7:2e21:e1b2|8233|/zqwMagicBean:3.1.0/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:7b40:c287:513d::1|8233|/MagicBean:3.0.0/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
@@ -233,10 +233,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.59.32.10|8233|/MagicBean:3.0.0/|16276|37.59.0.0/16|FR|ripencc|2012-01-16|OVH, FR
 37.59.57.96|8233|/MagicBean:3.1.0/|16276|37.59.0.0/16|FR|ripencc|2012-01-16|OVH, FR
 39.106.140.217|8233|/MagicBean:3.0.0/|37963|39.106.0.0/15|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.97.167.158|8233|/MagicBean:3.0.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.97.172.77|8233|/MagicBean:3.0.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.97.178.10|8233|/MagicBean:3.0.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.97.183.153|8233|/MagicBean:3.0.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+39.97.167.158|8233|/MagicBean:3.1.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+39.97.172.77|8233|/MagicBean:3.1.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+39.97.178.10|8233|/MagicBean:3.1.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+39.97.183.153|8233|/MagicBean:3.1.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 45.227.252.247|8233|/MagicBean:3.1.0/|209272|45.227.252.0/24|PA|lacnic|2017-11-29|AS43350, NL
 45.32.128.89|8033|/MagicBean:2.1.1-1/|20473|45.32.128.0/20|US|arin|2015-02-17|AS-CHOOPA, US
 45.55.45.68|16125|/MagicBean:1.0.14/|14061|45.55.32.0/19|US|arin|2015-02-05|DIGITALOCEAN-ASN, US
@@ -276,9 +276,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.90.244.88|8233|/MagicBean:3.1.0/|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.90.248.68|8233|/MagicBean:3.1.0/|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.92.134.60|8233|/MagicBean:3.0.0/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.93.17.158|8233|/MagicBean:3.0.0/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+47.93.17.158|8233|/MagicBean:3.1.0/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.93.194.27|8233|/MagicBean:3.0.0/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.93.198.249|8233|/MagicBean:3.0.0/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+47.93.198.249|8233|/MagicBean:3.1.0/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.94.92.186|8233|/MagicBean:3.0.0/|37963|47.94.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.98.224.31|8233|/MagicBean:3.1.0/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 5.133.65.82|8233|/MagicBean:3.1.0/|15440|5.133.65.0/24|LT|ripencc|2018-11-09|BALTNETA Customers AS, LT
@@ -311,7 +311,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.51.187.114|8233|/MagicBean:3.0.0/|577|70.51.0.0/16|CA|arin|2004-05-10|BACOM, CA
 74.207.236.134|8233|/MagicBean:3.1.0/|63949|74.207.224.0/20|US|arin|2009-01-14|LINODE-AP Linode, LLC, US
 77.93.223.9|8144|/MagicBean:2.1.0/|24971|77.93.192.0/19|CZ|ripencc|2007-05-18|MASTER-AS Czech Republic / www.master.cz, CZ
-78.20.135.129|8233|/MagicBean:3.1.0/|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.27.139.13|8233|/MagicBean:3.1.0/|15683|78.27.128.0/18|UA|ripencc|2010-06-11|DOMASHKA-AS, UA
 78.46.43.59|8233|/MagicBean:3.1.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 79.151.76.34|8144|/MagicBean:2.1.0/|3352|79.151.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
