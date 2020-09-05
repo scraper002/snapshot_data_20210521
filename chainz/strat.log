@@ -25,7 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 146.90.234.124|Blockcore:1.0.13(STRAT;70013)|70013|6871|146.90.0.0/16|GB|ripencc|2011-07-11|PLUSNET UK Internet Service Provider, GB
 147.156.44.105|StratisNode:3.0.7 (70012)|70012|766|147.156.0.0/16|ES|ripencc|1991-04-22|REDIRIS RedIRIS Autonomous System, ES
 148.251.20.133|/Stratis:2.0.0.5/|70000|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
-148.71.213.240|/Stratis:2.0.0.5/|70000|12353|148.71.0.0/16|PT|ripencc|1991-04-11|VODAFONE-PT Vodafone Portugal, PT
+148.71.213.240|???|0|12353|148.71.0.0/16|PT|ripencc|1991-04-11|VODAFONE-PT Vodafone Portugal, PT
 149.202.200.88|/Stratis:2.0.0.5/|70000|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.224.75.56|/Stratis:2.0.0.3/|70000|15943|149.224.0.0/17|DE|ripencc|1993-09-01|WTNET-AS wilhelm.tel GmbH, DE
 151.230.31.0|StratisNode:3.0.7 (70012)|70012|5607|151.224.0.0/13|GB|ripencc|2012-08-09|BSKYB-BROADBAND-AS, GB
@@ -95,8 +95,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.133.180.233|???|0|9009|45.133.180.0/24|RO|ripencc|2019-07-25|M247, GB
 45.32.154.148|StratisNode:3.0.5 (70012)|70012|20473|45.32.152.0/21|US|arin|2015-02-17|AS-CHOOPA, US
 46.126.161.121|/Stratis:2.0.0.5/|70000|6830|46.126.0.0/16|CH|ripencc|2010-06-01|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
-46.223.148.174|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.163.154|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+46.223.163.156|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.163.187|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.59.135.200|/Stratis:2.0.0.3/|70000|15943|46.59.128.0/17|DE|ripencc|2010-10-21|WTNET-AS wilhelm.tel GmbH, DE
 47.144.161.145|/Stratis:2.0.0.5/|70000|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -109,7 +109,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.64.252.87|/Stratis:2.0.0.2/|70000|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
 50.47.142.1|/Stratis:2.0.0.5/|70000|27017|50.47.128.0/19|US|arin|2010-09-24|ZIPLY-FIBER-LEGACY-ASN, US
 51.141.113.71|/Stratis:2.0.0.3/|70000|8075|51.140.0.0/14|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
-51.75.214.17|???|0|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.54.14.27|/Stratis:2.0.0.3/|70000|14618|52.54.0.0/15|US|arin|2015-09-02|AMAZON-AES, US
 60.141.45.80|StratisNode:3.0.7 (70012)|70012|17676|60.141.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 62.182.71.114|/Stratis:2.0.0.2/|70000|196638|62.182.64.0/21|UA|ripencc|2011-02-18|PROMTELECOM-AS, UA
@@ -171,6 +170,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.98.244.174|/Stratis:2.0.0.3/|70000|6830|89.98.0.0/16|NL|ripencc|2006-02-20|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 90.78.39.144|StratisNode:3.0.5 (70012)|70012|3215|90.78.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.0.114.34|StratisNode:3.0.5 (70012)|70012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.0.126.75|StratisNode:3.0.5 (70012)|70012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.181.63.62|Breeze:1.1.12|70000|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 92.242.243.156|/Stratis:2.0.0.5/|70000|44377|92.242.224.0/19|HR|ripencc|2008-01-09|MTNET-AS MAGIC-NET, HR
 92.76.0.52|StratisNode:3.0.6 (70012)|70012|3209|92.72.0.0/13|DE|ripencc|2007-07-27|VODANET International IP-Backbone of Vodafone, DE
