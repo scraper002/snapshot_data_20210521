@@ -239,6 +239,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:c010:e78::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f98:ca00:5054:ff:fed4:763d|8155|/Shibetoshi:1.14.2/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
+2a01:cb05:89d3:3e00:8c4b:81d3:8639:710f|22556|/Shibetoshi:1.14.2/|3215|2a01:cb04::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ef66:9d40:9d2:fb1d:70ee:9676|22556|/Shibetoshi:1.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:39d3:eb30:849b:c574:11c1:a03c|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
@@ -273,7 +274,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.79.190.254|22445|/Pandoshi:3.0.7.2/|63949|45.79.176.0/20|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
 45.80.150.16|22556|/Shibetoshi:1.14.2/|204641|45.80.150.0/24|RO|ripencc|2019-05-15|GWHOST, RO
 46.101.245.8|22556|/Shibetoshi:1.10.0/|14061|46.101.128.0/17|NL|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
-46.152.119.83|22556|/Shibetoshi:1.14.2/|35819|46.152.96.0/19|SA|ripencc|2010-10-26|MOBILY-AS Etihad Etisalat Company (Mobily), SA
 46.166.162.76|20003|/Shibetoshi:1.10.0/|16125|46.166.160.0/21|LT|ripencc|2010-12-16|CHERRYSERVERS1-AS, LT
 46.28.107.182|22556|/Shibetoshi:1.14.0/|197019|46.28.104.0/21|CZ|ripencc|2010-07-22|WEDOS, CZ
 46.4.80.152|22556|/Shibetoshi:1.14.2/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
@@ -342,6 +342,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.195.18.155|22556|/Shibetoshi:1.14.2/|6128|68.192.0.0/13|US|arin|2003-01-29|CABLE-NET-1, US
 69.2.212.157|22556|/Shibetoshi:1.14.2/|13649|69.2.192.0/19|US|arin|2002-11-04|ASN-VINS, US
 69.64.46.37|22556|/Shibetoshi:1.14.2/|30083|69.64.32.0/19|US|arin|2003-07-30|AS-30083-GO-DADDY-COM-LLC, US
+69.73.28.41|22556|/Shibetoshi:1.14.2/|12083|69.73.0.0/18|US|arin|2003-09-03|WOW-INTERNET, US
 70.45.40.224|22556|/Shibetoshi:1.14.2/|14638|70.45.40.0/21|PR|arin|2005-11-30|LCPRL, US
 70.94.70.163|22556|/Shibetoshi:1.10.0/|11427|70.94.0.0/17|US|arin|2004-09-22|TWC-11427-TEXAS, US
 71.161.223.179|22556|/Shibetoshi:1.14.2/|13977|71.161.223.0/24|US|arin|2005-06-01|CTELCO, US
@@ -387,6 +388,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.248.20.65|22556|/Shibetoshi:1.14.0/|5578|85.248.0.0/16|SK|ripencc|2005-01-20|AS-BENESTRA Bratislava, Slovak Republic, SK
 85.25.202.57|22556|/Shibetoshi:1.10.0/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 86.143.204.148|22556|/Shibetoshi:1.14.2/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.217.83.36|22556|/Shibetoshi:1.14.2/|3215|86.217.0.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.238.113.183|22556|/Shibetoshi:1.10.0/|3215|86.238.0.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 88.150.230.97|22556|/Shibetoshi:1.14.2/|20860|88.150.230.0/24|GB|ripencc|2006-01-31|IOMART-AS, GB
 88.198.230.142|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -394,7 +396,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.5.11|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.54.11|22556|/Shibetoshi:1.14.2/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.208.3.195|22556|/Shibetoshi:1.14.0/|39572|88.208.0.0/18|NL|ripencc|2005-10-24|ADVANCEDHOSTERS-AS, NL
-88.99.0.106|22556|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.103.51|22556|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.245.54|22556|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.48.7|9003|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
