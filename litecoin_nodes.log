@@ -63,6 +63,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|9333|/LitecoinCore:0.17.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.78.127.243|9333|/LitecoinCore:0.16.3/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+121.123.65.30|9333|/Satoshi:0.8.7.1/|9534|121.123.0.0/17|MY|apnic|2007-02-27|MAXIS-AS1-AP Binariang Berhad, MY
 121.254.153.200|9333|/LitecoinCore:0.17.1/|3786|121.254.128.0/17|KR|apnic|2006-05-29|LGDACOM LG DACOM Corporation, KR
 122.116.42.140|9333|/LitecoinCore:0.17.1/|3462|122.116.0.0/16|TW|apnic|2006-07-31|HINET Data Communication Business Group, TW
 124.217.235.186|9333|/LitecoinCore:0.17.1/|45839|124.217.235.0/24|MY|apnic|2007-11-02|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
@@ -229,6 +230,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.144.99.9|9333|/LitecoinCore:0.18.1/|46606|162.144.0.0/16|US|arin|2013-03-01|UNIFIEDLAYER-AS-1, US
 162.214.64.229|9333|/LitecoinCore:0.16.2/|46606|162.214.64.0/21|US|arin|2013-05-22|UNIFIEDLAYER-AS-1, US
 162.232.255.114|9333|/LitecoinCore:0.17.1/|7018|162.224.0.0/12|US|arin|2013-05-21|ATT-INTERNET4, US
+162.243.12.248|11081|/WorldcoinFoundation:0.8.6.2/|14061|162.243.0.0/17|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.62.21.32|9333|/LitecoinCore:0.17.1/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|9333|/LitecoinCore:0.17.1/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 163.172.104.83|9333|/LitecoinCore:0.17.1/|12876|163.172.0.0/16|GB|ripencc|1992-02-14|Online SAS, FR
@@ -509,7 +511,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:1828:1b33::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8:1800::/38|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:3dc1:100::142|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4400:2b00::1c:b05|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
+2001:d08:d7:ab58:d4dd:9528:fb76:ab57|9333|/Satoshi:0.8.7.1/|9534|2001:d08:d6::/47|MY|apnic|2003-02-18|MAXIS-AS1-AP Binariang Berhad, MY
 2001:f40:908:7288:150:52bb:f87b:a4aa|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
+2002:2f5b:a5f9::2f5b:a5f9|3337|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:52ca:fafa::52ca:fafa|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -530,7 +534,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.3.60|9333|/LitecoinCore:0.16.3/|14061|206.189.0.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 206.189.42.14|10001|/RRMCoinCore:0.16.3/|14061|206.189.32.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 206.189.90.253|9333|/LitecoinCore:0.13.2(bitcore)/|14061|206.189.80.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
-206.189.93.69|9333|/LitecoinCore:0.17.1/
+206.189.93.69|9333|/LitecoinCore:0.17.1/|14061|206.189.80.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 206.223.193.222|9333|/FutureBit-ApolloCore:0.17.1/|32204|206.223.192.0/23|US|arin|2004-04-15|KPUNET, US
 207.148.21.111|9333|/LitecoinCore:0.17.1/|20473|207.148.16.0/20|US|arin|2017-12-01|AS-CHOOPA, US
 207.180.206.221|9333|/LitecoinCore:0.16.3/|51167|207.180.206.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -760,12 +764,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:21ee::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4eb::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:4ee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:4a:176a::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1dee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1df0::2|11081|/Worldcoin Business Center:3.0.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:270d::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1344,7 +1346,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.11.242|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.11.57|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.118.33|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.119.109|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.12.173|9333|/LitecoinCore:0.17.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.122.131|9333|/LitecoinCore:0.15.1/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.122.133|11963|/CounosCoinCore:0.15.3.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
