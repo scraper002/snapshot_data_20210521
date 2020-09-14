@@ -40,7 +40,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.48.128.205|/Trezarcoin:2.1.0/|70001|198935|185.48.128.0/24|PL|ripencc|2014-02-20|CYBERNET_WMW-AS, PL
 185.82.203.241|/Trezarcoin:2.1.0/|70001|60117|185.82.203.0/24|NL|ripencc|2014-12-31|HS, AE
 188.134.76.173|/Trezarcoin:2.1.0/|70001|41733|188.134.0.0/17|RU|ripencc|2009-04-27|ZTELECOM-AS, RU
-188.47.21.46|/Trezarcoin:2.0.1/|70000|5617|188.47.0.0/16|PL|ripencc|2009-05-13|TPNET, PL
 193.70.84.182|/Trezarcoin:2.0.1/|70000|16276|193.70.0.0/17|FR|ripencc|1993-09-01|OVH, FR
 195.201.164.117|/Trezarcoin:2.1.1/|70001|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 198.48.237.3|/Trezarcoin:2.1.0/|70001|5645|198.48.128.0/17|CA|arin|2013-03-04|TEKSAVVY, CA
@@ -69,6 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.111.238.130|/Trezarcoin:2.1.1/|70001|24389|37.111.238.0/24|BD|apnic|2012-02-08|GRAMEENPHONE-AS-AP GrameenPhone Ltd., BD
 37.130.4.11|/Trezarcoin:1.2.1/|70000|15874|37.130.0.0/18|PL|ripencc|2012-02-20|INTERKAM, PL
 37.225.2.212|/Trezarcoin:2.0.1/|70000|5617|37.225.0.0/16|PL|ripencc|2012-04-10|TPNET, PL
+37.4.228.53|/Trezarcoin:2.0.0/|70000|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
 37.49.29.67|/Trezarcoin:2.1.1/|70001|6830|37.49.0.0/18|DE|ripencc|2012-01-25|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 45.76.33.236|/Trezarcoin:2.1.1/|70001|20473|45.76.32.0/21|US|arin|2015-04-24|AS-CHOOPA, US
 46.101.118.170|/Trezarcoin:2.1.1/|70001|14061|46.101.96.0/19|NL|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
@@ -112,13 +112,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.23.169.1|/Trezarcoin:2.1.1/|70001|7018|75.23.0.0/16|US|arin|2006-02-28|ATT-INTERNET4, US
 76.108.58.39|/Trezarcoin:2.1.0/|70001|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.110.112.84|/Trezarcoin:2.1.0/|70001|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
+77.255.10.196|/Trezarcoin:2.1.1/|70001|12741|77.252.0.0/14|PL|ripencc|2007-02-01|AS-NETIA Warszawa 02-822, PL
 80.56.157.188|/Trezarcoin:2.1.0/|70001|6830|80.56.0.0/16|NL|ripencc|2001-05-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 81.169.141.19|/Trezarcoin:2.0.1/|70000|6724|81.169.128.0/20|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 81.197.183.173|/Trezarcoin:2.1.1/|70001|719|81.197.0.0/16|FI|ripencc|2002-09-30|ELISA-AS Helsinki, Finland, EU
 81.217.96.171|/Trezarcoin:2.1.1/|70001|8339|81.217.0.0/16|AT|ripencc|2002-10-17|KABSI-AS, AT
 82.37.57.30|/Trezarcoin:2.1.1/|70001|5089|82.37.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 83.215.142.158|/Trezarcoin:2.0.0/|70000|8445|83.215.0.0/16|AT|ripencc|2004-03-26|SALZBURG-AG-AS, AT
-83.85.224.15|/Trezarcoin:2.1.0/|70001|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.114.163.250|/Trezarcoin:2.1.0/|70001|6830|84.114.0.0/15|AT|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 84.210.148.93|/Trezarcoin:2.1.1/|70001|41164|84.210.128.0/17|NO|ripencc|2005-07-07|GET-NO GET Norway, NO
 84.238.206.49|/Trezarcoin:2.0.1/|70000|8866|84.238.204.0/22|BG|ripencc|2004-08-10|BTC-AS BULGARIA, BG
@@ -142,7 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.134.191.55|/Trezarcoin:2.1.1/|70001|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
 91.15.96.38|/Trezarcoin:2.1.1/|70001|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.192.133.232|/Trezarcoin:2.1.0/|70001|34579|91.192.133.0/24|UA|ripencc|2007-02-22|SOYUZ-AS, UA
-91.226.164.2|/Trezarcoin:2.0.1/|70000|44678|91.226.164.0/23|RU|ripencc|2011-04-21|TVT-NET, RU
 91.89.90.197|/Trezarcoin:2.1.0/|70001|6830|91.89.0.0/17|DE|ripencc|2006-07-28|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 92.110.139.45|/Trezarcoin:2.1.0/|70001|6830|92.110.0.0/15|NL|ripencc|2007-10-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 93.137.20.157|/Trezarcoin:2.1.0/|70001|5391|93.137.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
