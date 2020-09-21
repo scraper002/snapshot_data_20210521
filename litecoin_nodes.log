@@ -284,7 +284,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.83.195.93|9333|/FutureBit-ApolloCore:0.17.1/|20115|174.83.128.0/17|US|arin|2009-02-23|CHARTER-20115, US
 175.118.126.20|19334|/LitecoinCore:0.17.1/|9318|175.112.0.0/13|KR|apnic|2009-12-17|SKB-AS SK Broadband Co Ltd, KR
 175.32.0.192|9333|/LitecoinCore:0.18.1/|4804|175.32.0.0/16|AU|apnic|2009-12-08|MPX-AS Microplex PTY LTD, AU
-176.101.118.27|9333|/LitecoinCore:0.17.1/|5598|176.101.96.0/19|UA|ripencc|2011-11-07|NETLUX-AS Internet Service Provider, RU
 176.126.167.10|9333|/LitecoinCore:0.17.1/|59684|176.126.167.0/24|KG|ripencc|2012-09-14|ASHOSTER, KG
 176.31.236.182|9333|/LitecoinCore:0.17.1/|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
 176.31.47.237|9333|/LitecoinCore:0.18.1/|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
@@ -359,6 +358,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.132.134.154|9333|/LitecoinCore:0.17.1/|49981|185.132.132.0/22|NL|ripencc|2015-12-22|WORLDSTREAM, NL
 185.138.8.45|9333|/LitecoinCore:0.15.1/|49253|185.138.8.0/24|RU|ripencc|2016-02-09|BRINGO-AS, RU
 185.142.239.205|9333|/LitecoinCore:0.18.1/|174|185.142.239.0/24|NL|ripencc|2016-03-10|COGENT-174, US
+185.15.92.18|10993|/LitecoinCore:0.17.1/|25486|185.15.92.0/23|DE|ripencc|2013-01-10|LUN-AS Lightup Network Solutions GmbH & Co. KG, DE
 185.161.209.132|9333|/LitecoinCore:0.16.3/|42159|185.161.208.0/22|UA|ripencc|2016-08-02|DELTAHOST-AS, UA
 185.161.210.85|9333|/LitecoinCore:0.16.3/|42159|185.161.208.0/22|UA|ripencc|2016-08-02|DELTAHOST-AS, UA
 185.162.8.144|9333|/LitecoinCore:0.17.1/|21100|185.162.8.0/24|NL|ripencc|2016-08-04|ITLDC-NL, UA
@@ -507,7 +507,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2002:7036:ddd::7036:ddd|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:b065:761b::b065:761b|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:cb:8709:4802:aaa1:59ff:fe1e:4e75|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 2003:d3:9f40:3500:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
@@ -604,7 +603,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2600:8804:6600:1dd1:42:ebff:fec3:5878|9333|/FutureBit-ApolloCore:0.17.1/|22773|2600:8804:4000::/34|US|arin|2014-07-16|ASN-CXA-ALL-CCI-22773-RDC, US
 2601:144:8100:8085:223:24ff:fe37:98e1|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:18d:4600:43f1:20e7:b3ff:fecf:a99|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
-2601:1c0:c780:1a71:cd08:bfe4:a6ca:3f6e|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
+2601:1c0:c780:1a71:8952:d33c:634b:3d7|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:3c7:8204:5980:55a7:ff5f:4246:bc71|9333|/LitecoinCore:0.14.2/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
 2603:6000:b840:5300::9|9333|/LitecoinCore:0.17.1/|10796|2603:6000::/32|US|arin|2016-12-02|TWC-10796-MIDWEST, US
@@ -1336,6 +1335,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.237.186|9333|/LitecoinCore:0.13.2(bitcore)/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.237.187|10841|/CounosXCore:0.17.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.240.82|10841|/CounosXCore:0.17.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.216.240.84|11963|/CounosCoinCore:0.15.4/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.240.86|10841|/CounosXCore:0.17.2/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.242.53|13853|/LitecoinCore:0.16.3/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.250.34|10841|/CounosXCore:0.13.2(bitcore)/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
