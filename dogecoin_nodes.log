@@ -221,6 +221,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f98:ca00:5054:ff:fed4:763d|8155|/Shibetoshi:1.14.2/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:2f6b:5120:18ec:6718:f8b1:9e44|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:39d3:eb30:f9be:852a:ce3c:9d74|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1206:4547:17e0:75a3:e6fd:9d04:9805|22556|/Shibetoshi:1.14.2/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:121f:3a3f:0:38dd:64cf:380c:7886|22556|/Shibetoshi:1.10.0/|3303|2a02:1218::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -294,7 +295,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.210.34.62|2556|/Shibetoshi:1.14.2/|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.255.87.121|22556|/Shibetoshi:1.14.2/|16276|51.254.0.0/15|FR|ripencc|1993-09-01|OVH, FR
 51.38.167.39|64222|/Shibetoshi:1.14.2/|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
-51.38.57.53|22556|/Shibetoshi:1.14.2/|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.38.57.53|22556|/Shibetoshi:1.14.2/
 51.75.55.212|22556|/Shibetoshi:1.10.0/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.79.70.128|22556|/Shibetoshi:1.14.2/|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 51.89.40.32|22557|/Shibetoshi:1.14.2/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -363,7 +364,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.5.11|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.54.11|22556|/Shibetoshi:1.14.2/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.208.3.195|22556|/Shibetoshi:1.14.0/|39572|88.208.0.0/18|NL|ripencc|2005-10-24|ADVANCEDHOSTERS-AS, NL
-88.99.0.106|22556|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.103.51|22556|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.245.54|22556|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.48.7|9003|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
@@ -379,6 +379,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.130.220.87|22556|/Shibetoshi:1.14.2/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.177.228.169|22557|/Shibetoshi:1.14.2/|200185|94.177.224.0/21|IT|ripencc|2008-08-14|XANDMAIL-ASN, DE
 94.23.2.215|22556|/Shibetoshi:1.14.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+95.111.230.55|22556|/Shibetoshi:1.14.2/|51167|95.111.230.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.168.164.216|22556|/Shibetoshi:1.14.2/|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.168.164.219|22445|/Pandoshi:3.0.7.2/|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.216.118.33|22556|/Shibetoshi:1.14.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
