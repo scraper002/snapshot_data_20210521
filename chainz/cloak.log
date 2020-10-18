@@ -33,6 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.166.108.94|/KlausFuchs:2.2.2.2/|60018|33588|184.166.0.0/15|US|arin|2010-07-28|BRESNAN-33588, US
 185.69.244.180|/KlausFuchs:2.2.2.2/|60018|51265|185.69.244.0/22|AT|ripencc|2014-09-12|MASSRESPONSE-AS2, AT
 185.69.244.213|/KlausFuchs:2.2.2.2/|60018|51265|185.69.244.0/22|AT|ripencc|2014-09-12|MASSRESPONSE-AS2, AT
+186.86.33.162|/SidneyReilly:0.7.8/|60018|10620|186.86.32.0/22|CO|lacnic|2009-05-19|Telmex Colombia S.A., CO
 188.193.71.29|/KlausFuchs:2.2.2.2/|60018|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
 190.96.1.19|/KlausFuchs:2.2.2.1/|60018|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 193.56.252.188|/KlausFuchs:2.2.2.2/|60018|16247|193.56.252.0/24|AU|ripencc|2018-07-17|M247 M247 Ltd, Metronet (UK) Limited & Venus Business Communications Ltd trading as M247, GB
@@ -68,7 +69,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.195.42.12|/KlausFuchs:2.2.2.2/|60018|6830|62.195.0.0/16|NL|ripencc|2000-10-10|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 62.73.104.115|/KlausFuchs:2.2.2.2/|60018|8866|62.73.104.0/22|BG|ripencc|2001-06-22|BTC-AS BULGARIA, BG
 64.44.80.188|/KlausFuchs:2.2.2.2/|60018|20278|64.44.80.0/21|US|arin|2017-02-21|NEXEON, US
-65.74.83.2|/KlausFuchs:2.2.2.2/|60018|8047|65.74.0.0/17|US|arin|2002-09-04|GCI, US
 66.252.38.172|/KlausFuchs:2.2.2/|60018|11847|66.252.32.0/20|US|arin|2002-04-05|OTT, US
 66.252.52.36|/KlausFuchs:2.2.2/|60018|11847|66.252.48.0/21|US|arin|2002-04-05|OTT, US
 66.41.163.241|/KlausFuchs:2.2.2.2/|60018|7922|66.41.0.0/16|US|arin|2000-11-07|COMCAST-7922, US
@@ -101,6 +101,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.196.53.58|/KlausFuchs:2.2.2.1/|60018|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 81.185.220.22|/KlausFuchs:2.2.2.2/|60018|12626|81.185.0.0/16|FR|ripencc|2002-12-30|AS12626, FR
 81.221.150.148|/KlausFuchs:2.2.2.2/|60018|1836|81.221.0.0/16|CH|ripencc|2002-11-26|GREEN green.ch AG Autonomous System, CH
+82.72.161.64|/KlausFuchs:2.2.2.1/|60018|33915|82.72.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
 83.201.76.85|/KlausFuchs:2.2.2.2/|60018|3215|83.201.0.0/16|FR|ripencc|2003-12-12|France Telecom - Orange, FR
 83.247.116.245|/KlausFuchs:2.2.2.2/|60018|12414|83.247.0.0/17|NL|ripencc|2004-05-18|NL-SOLCON SOLCON, NL
 84.29.153.208|/KlausFuchs:2.2.2.2/|60018|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
@@ -112,7 +113,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.181.28.241|/KlausFuchs:2.2.2/|60018|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.57.7.174|/KlausFuchs:2.2.2.2/|60018|43754|86.57.4.0/22|IR|ripencc|2010-01-08|ASIATECH, IR
 88.134.86.109|/KlausFuchs:2.2.2.2/|60018|3209|88.134.0.0/16|DE|ripencc|2005-10-31|VODANET International IP-Backbone of Vodafone, DE
-89.187.171.131|/KlausFuchs:2.2.2.2/|60018|60068|89.187.170.0/23|CZ|ripencc|2006-04-28|CDN77, GB
 89.211.158.144|/KlausFuchs:2.2.2.2/|60018|42298|89.211.144.0/20|QA|ripencc|2006-04-20|GCC-MPLS-PEERING GCC MPLS peering, QA
 90.161.86.34|/KlausFuchs:2.2.2.2/|60018|12479|90.161.64.0/19|ES|ripencc|2006-09-12|UNI2-AS, ES
 91.121.184.82|/KlausFuchs:2.2.2.1/|60018|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
@@ -122,7 +122,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.214.44.142|/KlausFuchs:2.2.2.2/|60018|51430|91.214.44.0/24|LU|ripencc|2009-05-18|ALTUS, NL
 91.65.250.58|/KlausFuchs:2.2.2/|60018|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 92.111.14.232|/KlausFuchs:2.2.2.2/|60018|6830|92.110.0.0/15|NL|ripencc|2007-10-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
-92.152.120.93|/KlausFuchs:2.2.2.2/|60018|3215|92.152.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 93.227.177.2|/KlausFuchs:2.2.2.2/|60018|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.45.95.49|/KlausFuchs:2.2.2.2/|60018|12874|93.44.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 95.168.164.215|/KlausFuchs:2.2.2.2/|60018|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
