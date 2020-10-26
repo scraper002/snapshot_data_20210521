@@ -8,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.4.171.3|/NBitcoin:5.0.49/|70012|7922|107.4.0.0/15|US|arin|2010-06-29|COMCAST-7922, US
 108.54.104.16|/LitecoinCore:0.18.1/|70015|701|108.54.0.0/16|US|arin|2009-06-05|UUNET, US
 109.60.16.170|/LitecoinCore:0.15.1/|70015|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
+115.195.71.171|/LitecoinCore:0.17.1/|70015|4134|115.192.0.0/11|CN|apnic|2008-09-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.203.61.61|/LitecoinCore:0.17.1/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -17,7 +18,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 129.205.124.116|/loaf-android:175/|70015|37148|129.205.124.0/24|NG|afrinic|2015-09-14|globacom-as, NG
-134.249.164.70|/LitecoinCore:0.18.1/|70015|15895|134.249.0.0/16|UA|ripencc|2011-11-07|KSNET-AS, UA
 138.68.60.56|/LitecoinCore:0.15.1/|70015|14061|138.68.48.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.99.71.203|/NBitcoin:5.0.49/|70012|264160|138.99.68.0/22|BR|lacnic|2015-03-19|PRYMUS PROVEDOR DE ACESSO A REDES TELECOM LTDA, BR
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -48,7 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.26.62.195|/NBitcoin:5.0.49/|70012|30036|173.26.48.0/20|US|arin|2008-05-19|MEDIACOM-ENTERPRISE-BUSINESS, US
 174.2.162.187|/FutureBit-ApolloCore:0.17.1/|70015|6327|174.2.160.0/22|CA|arin|2008-11-19|SHAW, CA
 176.62.39.69|/Satoshi:0.13.2/|70015|34362|176.62.36.0/22|HR|ripencc|2011-06-08|VOLJATEL-HR-AS Zagreb, HR
-177.38.215.71|/LitecoinCore:0.18.1/|70015|262411|177.38.212.0/22|BR|lacnic|2011-11-16|Force Telecom Ltda, BR
+177.38.215.71|/LitecoinCore:0.18.1/|70015|262411|177.38.215.0/24|BR|lacnic|2011-11-16|Force Telecom Ltda, BR
 177.40.62.112|/NBitcoin:5.0.49/|70012|18881|177.40.32.0/19|BR|lacnic|2011-03-02|TELEFONICA BRASIL S.A, BR
 177.93.244.14|/NBitcoin:5.0.49/|70012|52828|177.93.240.0/21|BR|lacnic|2014-05-19|Netpal Telecom, BR
 178.222.137.9|/NBitcoin:5.0.49/|70012|8400|178.222.0.0/16|RS|ripencc|2010-03-31|TELEKOM-AS, RS
@@ -127,6 +127,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.39.243.49|/CodemyCoinCore:0.14.2/|70015|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 60.49.95.61|/NBitcoin:5.0.49/|70012|4788|60.49.64.0/18|MY|apnic|2004-06-07|TMNET-AS-AP TM Net, Internet Service Provider, MY
+61.244.1.76|/litecoinj:0.15.2-SNAPSHOT/|70002|10103|61.244.0.0/22|HK|apnic|2004-04-15|HKBN-AS-AP HK Broadband Network Ltd., HK
 62.197.243.38|/NBitcoin:5.0.49/|70012|16160|62.197.192.0/18|SK|ripencc|2002-07-22|SWAN Bratislava, Slovakia, SK
 63.247.147.166|/LitecoinCore:0.18.1/|70015|30221|63.247.144.0/20|US|arin|2007-04-11|T3COM, US
 68.108.186.52|/NBitcoin:5.0.49/|70012|22773|68.108.128.0/18|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -146,7 +147,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.117.104.240|/LitecoinCore:0.17.1/|70015|29555|85.117.104.0/24|KZ|ripencc|2005-03-24|ALTEL-AS, KZ
 85.174.197.35|/LitecoinCore:0.14.2/|70015|12389|85.174.192.0/19|RU|ripencc|2004-12-22|ROSTELECOM-AS, RU
 85.248.177.72|/LitecoinCore:0.17.1/|70015|5578|85.248.0.0/16|SK|ripencc|2005-01-20|AS-BENESTRA Bratislava, Slovak Republic, SK
-86.29.165.68|/NBitcoin:5.0.49/|70012|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 87.120.65.155|/Satoshi:0.13.2/|70015|43561|87.120.65.0/24|BG|ripencc|2005-07-12|NET1-AS, BG
 87.65.228.153|/NBitcoin:5.0.49/|70012|5432|87.64.0.0/14|BE|ripencc|2005-05-19|PROXIMUS-ISP-AS, BE
 90.38.225.159|/bitcore:1.1.0/|70003|3215|90.38.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
