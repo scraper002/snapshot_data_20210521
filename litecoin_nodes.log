@@ -1,7 +1,6 @@
 # https://blockchair.com/ and whois results
 # Litecoin
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.100.174.120|9333|/LitecoinCore:0.17.1/|56300|101.100.174.0/24|SG|apnic|2010-12-22|MYREPUBLIC-SG MyRepublic Ltd., SG
 101.201.237.225|9333|/LitecoinCore:0.17.1/|37963|101.201.0.0/16|CN|apnic|2011-01-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 103.231.191.7|9333|/LitecoinCore:0.16.0/|17831|103.231.191.0/24|SG|apnic|2014-05-16|CENTERHOP-SG 8 Burn Road#15-13, Trivex, SG
 104.131.72.243|9333|/LitecoinCore:0.18.1/|14061|104.131.64.0/18|US|arin|2014-06-02|DIGITALOCEAN-ASN, US
@@ -20,6 +19,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.172.93.215|9333|/LitecoinCore:0.17.1/|852|108.172.0.0/16|CA|arin|2012-02-01|ASN852, CA
 108.200.255.200|9333|/LitecoinCore:0.18.1/|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
 108.51.75.217|9333|/LitecoinCore:0.18.1/|701|108.51.0.0/16|US|arin|2009-06-05|UUNET, US
+109.12.99.127|9333|/LitecoinCore:0.14.2/|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
 109.145.84.33|9333|/LitecoinCore:0.18.1/|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
 109.236.81.138|59333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.84.141|9333|/LitecoinCore:0.16.2/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
@@ -477,11 +477,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:1828:1b33::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8:1800::/38|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4400:2b00::1c:b05|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:ea0c:71f4:4ef8:7d0c:1251|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
-2002:2627:cd06::2627:cd06|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
+2002:2627:cd06::2627:cd06|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
+2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|6939|2002::/16||other||HURRICANE, US
-2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
+2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
+2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:d3:9f40:3500:42:e6ff:fe72:c8c4|9333|/FutureBit-ApolloCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
 202.187.252.250|9333|/LitecoinCore:0.18.1/|9930|202.186.0.0/15|MY|apnic|1996-10-29|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
@@ -572,7 +572,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2600:8801:2d00:3650:0:242:ac11:2|9333|/LitecoinCore:0.18.1/|22773|2600:8801::/33|US|arin|2014-07-16|ASN-CXA-ALL-CCI-22773-RDC, US
 2601:144:8100:8085:223:24ff:fe37:98e1|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:18d:4600:43f1:20e7:b3ff:fecf:a99|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
-2601:1c0:c780:1a71:e9e9:574c:5727:54fd|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:3c4:4300:bf80:5db6:70d8:8f5:4855|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:3c7:8204:5980::a871|9333|/LitecoinCore:0.14.2/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:407:4100:1d45:3564:222b:30a8:d49f|9333|/LitecoinCore:0.15.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
