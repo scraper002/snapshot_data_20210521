@@ -4,7 +4,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.55.53.173|/NBitcoin:5.0.49/|70012|18403|1.55.53.0/24|VN|apnic|2010-05-26|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
 104.236.136.96|/Node:0.8.7.2/|70002|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 104.236.57.24|/Node:0.8.7.2/|70002|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
-107.92.56.133|/WalletKit:0.1.0/|70015|20057|107.92.56.0/22|US|arin|2011-02-04|ATT-MOBILITY-LLC-AS20057, US
 109.166.129.166|/NBitcoin:5.0.49/|70012|8953|109.166.128.0/17|RO|ripencc|2009-10-22|ASN-ORANGE-ROMANIA, RO
 109.183.21.135|/litecoinj:0.15.2-SNAPSHOT/|70002|12767|109.183.0.0/17|CZ|ripencc|2009-09-29|PRAGONET-AS, CZ
 109.252.59.25|/LitecoinCore:0.18.1/|70015|25513|109.252.0.0/16|RU|ripencc|2009-12-07|ASN-MGTS-USPD, RU
@@ -15,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.202.35.157|/LitecoinCore:0.17.1/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+120.228.229.148|/LitecoinCore:0.17.1/|70015|56047|120.228.229.0/24|CN|apnic|2008-04-14|CMNET-HUNAN-AP China Mobile communications corporation, CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.58.3.225|/LitecoinCore:0.17.1/|70015|4771|122.58.0.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 123.212.145.38|/NBitcoin:5.0.49/|70012|9318|123.212.0.0/14|KR|apnic|2007-02-09|SKB-AS SK Broadband Co Ltd, KR
@@ -54,6 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.98.248.5|/DigitaleuroCore:0.16.3/|70015|3209|188.96.0.0/12|DE|ripencc|2009-01-20|VODANET International IP-Backbone of Vodafone, DE
 189.150.240.129|/NBitcoin:5.0.49/|70012|8151|189.150.240.0/22|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
 189.50.154.204|/NBitcoin:5.0.49/|70012|28331|189.50.154.0/23|BR|lacnic|2007-08-03|PaintWeb Internet Ltda, BR
+190.74.200.105|/NBitcoin:5.0.49/|70012|8048|190.74.192.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
 191.186.242.127|/NBitcoin:5.0.49/|70012|28573|191.186.240.0/20|BR|lacnic|2013-11-14|CLARO S.A., BR
 191.205.100.122|/NBitcoin:5.0.49/|70012|27699|191.205.0.0/16|BR|lacnic|2013-11-18|TELEFONICA BRASIL S.A, BR
 191.221.206.147|/NBitcoin:5.0.49/|70012|8167|191.221.192.0/18|BR|lacnic|2013-12-11|Brasil Telecom S/A - Filial Distrito Federal, BR
@@ -93,7 +94,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.144.233.176|/LitecoinCore:0.16.0/|70015|8075|51.144.0.0/15|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
 51.154.3.9|/NBitcoin:5.0.49/|70012|15796|51.154.0.0/16|CH|ripencc|1993-09-01|SALT-, CH
 51.89.161.144|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
-51.89.161.145|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.43.255.93|/LitecoinCore:0.17.1/|70015|16509|52.40.0.0/14|US|arin|2015-09-02|AMAZON-02, US
@@ -108,7 +108,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.120.122.114|/LitecoinCore:0.17.1/|70015|25229|77.120.96.0/19|UA|ripencc|2006-11-24|VOLIA-AS, UA
 78.141.210.46|/DigitaleuroCore:0.16.3/|70015|20473|78.141.208.0/20|FR|ripencc|2007-07-30|AS-CHOOPA, US
 78.90.220.111|/NBitcoin:5.0.49/|70012|35141|78.90.220.0/24|BG|ripencc|2007-06-27|MEGALAN, BG
-79.165.32.141|/bitcore:1.1.0/|70003|8615|79.165.0.0/16|RU|ripencc|2007-07-25|CNT-AS Moscow, Russia, RU
 80.68.232.55|/NBitcoin:5.0.49/|70012|49242|80.68.232.0/21|PL|ripencc|2001-06-11|INTERNETUNION1, PL
 82.102.19.132|/bitcore:1.1.0-exodus2/|70003|9009|82.102.19.0/24|MT|ripencc|2003-12-29|M247, GB
 83.39.253.75|/bitcore:1.1.0-exodus2/|70003|3352|83.39.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
@@ -117,6 +116,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.80.224.230|/NBitcoin:5.0.49/|70012|31127|88.80.224.0/19|SK|ripencc|2005-12-02|SATRO, SK
 89.144.198.48|/bitcore:1.1.0-exodus2/|70003|8447|89.144.192.0/18|AT|ripencc|2006-01-30|TELEKOM-AT A1 Telekom Austria AG, AT
 90.112.165.46|/NBitcoin:5.0.49/|70012|3215|90.112.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
+91.43.46.129|/NBitcoin:5.0.49/|70012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.202.179.219|/NBitcoin:5.0.49/|70012|2527|92.202.0.0/15|JP|apnic|2007-10-17|SO-NET Sony Network Communications Inc., JP
 93.35.242.248|/NBitcoin:5.0.49/|70012|12874|93.34.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 94.134.179.140|/WalletKit:0.1.0/|70015|8881|94.134.179.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
