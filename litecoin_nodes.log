@@ -140,7 +140,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.98.64|9333|/LitecoinCore:0.17.1/|51167|144.91.98.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.99.72|11081|/Worldcoin Business Center:3.0.0/|51167|144.91.98.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 145.239.0.161|9333|/LitecoinCore:0.18.1/|16276|145.239.0.0/16|FR|ripencc|1993-08-03|OVH, FR
-145.239.119.218|8533|/LitecoinCore:0.18.1/
+145.239.119.218|8533|/LitecoinCore:0.18.1/|16276|145.239.0.0/16|FR|ripencc|1993-08-03|OVH, FR
 145.239.253.105|9333|/LitecoinCore:0.17.1/|16276|145.239.0.0/16|FR|ripencc|1993-08-03|OVH, FR
 146.148.54.236|9333|/LitecoinCore:0.16.3/|15169|146.148.0.0/17|US|arin|2014-03-26|GOOGLE, US
 146.66.167.208|9333|/LitecoinCore:0.17.1/|42893|146.66.160.0/19|RU|ripencc|2011-07-12|NWLINK-AS, RU
@@ -455,7 +455,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:c:b81::|9333|/LitecoinCore:0.15.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:470:142:5::45|9333|/LitecoinCore:0.18.1/|22989|2001:470:142::/48|US|arin|2001-03-22|FREEASINFREEDOM, US
 2001:470:7d79::4|9333|/LitecoinCore:0.17.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
-2001:678:cc8::1:10:88|20010|/LitecoinCore:0.18.1/|41427|2001:678:cc8::/48|SI|ripencc|2020-03-19|MARC-NET_AS, SI
 2001:67c:2b0:db32:0:1:2ffe:aaf3|9333|/LitecoinCore:0.16.3/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
 2001:7d0:8431:2701:222:7ff:fefa:fbfc|9333|/LitecoinCore:0.18.1/|3249|2001:7d0::/32|EE|ripencc|2002-05-16|ESTPAK, EE
 2001:8b0:1a6:0:a6bf:1ff:fe50:8dcd|9333|/LitecoinCore:0.17.1/|20712|2001:8b0::/32|GB|ripencc|2002-08-20|AS20712 Andrews & Arnold Ltd, GB
@@ -609,7 +608,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:13b:bd6::2|9333|/LitecoinCore:0.13.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:13b:cc5::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:140:3254::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:140:6150::2|9333|/LitecoinCore:0.17.1/
+2a01:4f8:140:6150::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:140:708a::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:141:2045::c60b:ca19|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:141:40d8::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -764,7 +763,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.18.5.249|49333|/LitecoinCore:0.17.1/|16509|3.16.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.20.167.215|49333|/LitecoinCore:0.17.1/|16509|3.20.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.250.68.69|5001|/LitecoinCore:0.17.1/|16509|3.248.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-31.134.184.233|9333|/LitecoinCore:0.18.1/|42668|31.134.128.0/18|RU|ripencc|2011-05-12|NEVALINK-AS, RU
 31.172.182.51|9333|/LitecoinCore:0.16.3/|50481|31.172.176.0/20|PL|ripencc|2012-01-23|FIBERTECH, PL
 31.18.122.117|9333|/LitecoinCore:0.18.1/|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 31.25.241.224|10333|/LitecoinCore:0.16.3/|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
@@ -1146,7 +1144,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.106.148|9333|/LitecoinCore:0.13.2(bitcore)/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.106.168|9333|/LitecoinCore:0.13.2(bitcore)/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.106.183|9209|/WecoinCore:0.13.3.2/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
-82.221.107.123|9209|/WecoinCore:0.13.3.2/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.210|9209|/WecoinCore:0.13.3.2(bitcore)/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.65|9209|/WecoinCore:0.13.3.2/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.107.83|7107|/FlashcoinCore:0.13.3.2/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
@@ -1156,6 +1153,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.65.33.15|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.67.247.11|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.135.197.109|9333|/LitecoinCore:0.18.1/|8881|83.135.192.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
+83.144.91.226|9333|/LitecoinCore:0.18.1/|6830|83.144.64.0/19|PL|ripencc|2004-01-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 83.167.27.4|9333|/LitecoinCore:0.17.1/|28890|83.167.16.0/20|RU|ripencc|2004-06-14|INSYS-AS INSYS ISP, RU
 83.221.211.116|10333|/LitecoinCore:0.16.3/|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 83.242.96.21|9333|/LitecoinCore:0.17.1/|49181|83.242.96.0/24|RU|ripencc|2012-03-12|GCX-AS Zhukovskiy-1, RU
@@ -1202,7 +1200,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.133.68.65|9333|/LitecoinCore:0.18.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.212.75.6|9333|/LitecoinCore:0.18.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
-89.232.51.154|9333|/LitecoinCore:0.17.1/|16010|89.232.32.0/19|GE|ripencc|2006-05-01|MAGTICOMAS Caucasus-Online, GE
 89.38.98.43|3786|/LitecoinCore:0.17.1/|49981|89.38.96.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.39.104.167|9333|/LitecoinCore:0.17.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.39.107.22|9333|/LitecoinCore:0.18.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
