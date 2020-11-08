@@ -65,9 +65,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.99.186.49|/Blackcoin More:2.13.2.6/|70013|3209|188.96.0.0/12|DE|ripencc|2009-01-20|VODANET International IP-Backbone of Vodafone, DE
 194.28.28.119|/Blackcoin More:2.13.2.6/|70013|50911|194.28.28.0/23|RU|ripencc|2010-04-19|AS-ELECTRON, RU
 194.59.249.21|/Blackcoin More:2.13.2.6/|70013|9009|194.59.249.0/24|RO|ripencc|2018-07-31|M247, GB
+195.154.253.8|???|0|12876|195.154.0.0/16|FR|ripencc|1996-08-27|Online SAS, FR
 2.82.239.33|/Satoshi:1.2.4/|60019|3243|2.80.0.0/14|PT|ripencc|2010-04-29|MEO-RESIDENCIAL, PT
 203.129.54.204|/Blackcoin More:2.13.2.6/|70013|7545|203.129.48.0/21|AU|apnic|2010-06-11|TPG-INTERNET-AP TPG Telecom Limited, AU
-203.219.71.181|/BlackCoin:1.2.5.2/|60019|7545|203.219.71.0/24|AU|apnic|2002-08-12|TPG-INTERNET-AP TPG Telecom Limited, AU
+203.219.71.181|/BlackCoin:1.2.5.2/|60019||||||
 208.110.70.10|/BlackCoin:1.2.5.2/|60019|32097|208.110.64.0/19|US|arin|2006-03-17|WII, US
 208.123.18.170|/Blackcoin More:2.13.2.6/|70013|16904|208.123.0.0/18|US|arin|2006-05-30|ARVIG, US
 212.20.230.76|/Blackcoin More:2.13.2.3/|70013|12703|212.20.224.0/19|GB|ripencc|1999-09-24|PULSANT-AS, GB
@@ -76,7 +77,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.155.219.166|/BlackCoin:1.2.5.2/|60019|25840|216.155.216.0/21|US|arin|2005-06-03|CASCADE-ACCESS-LLC-CA-ESTOR1, US
 24.45.6.135|/Blackcoin More:2.13.2.6/|70013|6128|24.44.0.0/14|US|arin|2001-05-01|CABLE-NET-1, US
 24.50.224.41|/Blackcoin More:2.13.2.6/|70013|14638|24.50.224.0/21|US|arin|2010-05-10|LCPRL, US
-27.154.108.64|/Satoshi:1.2.5/|60019|4134|27.152.0.0/13|CN|apnic|2010-03-26|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 3.121.247.139|/Blackcoin More:2.13.2.6/|70013|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.131.193.240|/Blackcoin More:2.13.2.6/|70013|202717|31.131.192.0/22|RU|ripencc|2011-06-09|TELESET, RU
 37.201.146.50|/BlackCoin:1.2.5.2/|60019|6830|37.201.128.0/17|DE|ripencc|2012-03-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -94,6 +94,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 58.164.246.44|/Blackcoin More:2.13.2.2/|70013|1221|58.160.0.0/12|AU|apnic|2005-05-30|ASN-TELSTRA Telstra Corporation Ltd, AU
 60.108.92.175|/Blackcoin More:2.13.2.6/|70013|17676|60.108.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 61.141.255.144|/Blackcoin More:2.13.2.6/|70013|4134|61.140.0.0/14|CN|apnic|1999-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+61.141.255.187|/Blackcoin More:2.13.2.6/|70013|4134|61.140.0.0/14|CN|apnic|1999-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 67.87.182.50|/Blackcoin More:2.13.2.6/|70013|6128|67.80.0.0/13|US|arin|2001-11-09|CABLE-NET-1, US
 68.184.93.61|/Satoshi:1.2.4/|60019|20115|68.184.80.0/20|US|arin|2002-12-31|CHARTER-20115, US
 68.96.170.4|/Blackcoin More:2.13.2.6/|70013|22773|68.96.160.0/19|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -112,7 +113,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.81.177.247|/BlackCoin:1.2.5.2/|60019|12389|78.81.176.0/20|RU|ripencc|2007-03-27|ROSTELECOM-AS, RU
 79.178.15.165|/Blackcoin More:2.13.2.6/|70013|8551|79.178.15.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 79.212.0.131|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.212.15.82|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.212.16.16|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.212.16.221|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.212.17.34|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.239.231.39|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.239.236.173|/Blackcoin More:2.13.2.6/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
