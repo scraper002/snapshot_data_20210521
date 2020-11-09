@@ -98,6 +98,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.33.38.240|22556|/Shibetoshi:1.14.2/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.63.71.183|22557|/Shibetoshi:1.14.0/|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 179.43.174.203|22556|/Shibetoshi:1.14.2/|51852|179.43.128.0/18|PA|lacnic|2013-11-12|PLI-AS, CH
+181.45.232.209|22556|/Shibetoshi:1.14.2/|27747|181.45.224.0/20|AR|lacnic|2013-12-16|Telecentro S.A., AR
 184.17.72.187|22556|/Shibetoshi:1.14.2/|5650|184.16.0.0/14|US|arin|2009-09-22|FRONTIER-FRTR, US
 184.59.60.65|22556|/Shibetoshi:1.14.2/|10796|184.59.0.0/18|US|arin|2009-12-08|TWC-10796-MIDWEST, US
 185.151.240.219|22556|/Shibetoshi:1.14.2/|49505|185.151.240.0/23|RU|ripencc|2016-05-13|SELECTEL, RU
@@ -156,7 +157,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.24.109.234|22556|/Shibetoshi:1.14.2/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.32.230.216|22556|/Shibetoshi:1.14.2/|60781|212.32.224.0/19|NL|ripencc|1999-09-20|LEASEWEB-NL-AMS-01 Netherlands, NL
 212.32.230.219|22556|/Shibetoshi:1.14.0/|60781|212.32.224.0/19|NL|ripencc|1999-09-20|LEASEWEB-NL-AMS-01 Netherlands, NL
-212.32.231.162|22556|/Shibetoshi:1.14.2/|60781|212.32.224.0/19|NL|ripencc|1999-09-20|LEASEWEB-NL-AMS-01 Netherlands, NL
 212.51.144.42|22556|/Shibetoshi:1.14.2/|13030|212.51.144.0/20|CH|ripencc|2008-05-06|INIT7, CH
 212.92.101.189|22557|/Shibetoshi:1.14.2/|49505|212.92.101.0/24|RU|ripencc|1999-11-03|SELECTEL, RU
 212.99.226.35|9050|/Shibetoshi:1.14.2/|29100|212.99.224.0/19|DK|ripencc|2003-04-10|BROADCOM, DK
@@ -174,7 +174,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:6180:0:d1::7a9:4001|22556|/Shibetoshi:1.14.2/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|22445|/Pandoshi:3.0.7.1/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8902::f03c:91ff:fe7b:172e|22445|/Pandoshi:3.0.7.1/|63949|2400:8902::/32|US|apnic|2016-08-05|LINODE-AP Linode, LLC, US
-2409:8a50:7812:8380:a82c:30fc:3095:6a35|22556|/Shibetoshi:1.14.2/|56047|2409:8a50::/32|CN|apnic|2011-08-23|CMNET-HUNAN-AP China Mobile communications corporation, CN
 2409:8a55:e55:3390:9155:125e:a9b8:2dc5|22556|/Shibetoshi:1.14.2/|56040|2409:8a55::/32|CN|apnic|2011-08-23|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 2600:3c00::f03c:91ff:fe89:52a0|22556|/Shibetoshi:1.10.0/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:3c01::f03c:91ff:fe48:3cd3|22556|/Shibetoshi:1.14.2/|63949|2600:3c01::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
@@ -239,7 +238,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.48.117.214|22556|/Shibetoshi:1.14.0/|60781|37.48.64.0/18|NL|ripencc|2012-01-24|LEASEWEB-NL-AMS-01 Netherlands, NL
 38.39.205.6|22556|/Shibetoshi:1.14.2/|40676|38.39.205.0/24|US|arin|1991-04-16|AS40676, US
 39.106.194.12|22556|/Shibetoshi:1.14.2/|37963|39.106.0.0/15|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-39.48.86.112|22556|/Shibetoshi:1.14.2/|17557|39.48.0.0/17|PK|apnic|2011-03-28|PKTELECOM-AS-PK Pakistan Telecommunication Company Limited, PK
 39.97.160.158|30002|/Shibetoshi:1.14.2/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 39.98.55.229|22556|/Shibetoshi:1.14.0/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 45.228.112.139|22556|/Shibetoshi:1.14.2/|267060|45.228.112.0/23|BR|lacnic|2017-12-07|Jspnet servicos de comunicacoes multimidia eireli, BR
