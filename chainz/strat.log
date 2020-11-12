@@ -90,6 +90,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.37.63.250|StratisNode:3.0.8 (70012)|70012|2856|217.32.0.0/12|GB|ripencc|2000-09-20|BT-UK-AS BTnet UK Regional network, GB
 217.7.52.43|StratisNode:3.0.5 (70012)|70012|3320|217.0.0.0/13|DE|ripencc|2000-07-28|DTAG Internet service provider operations, DE
 24.125.253.128|StratisNode:3.0.5 (70012)|70012|7922|24.125.0.0/16|US|arin|2001-09-10|COMCAST-7922, US
+24.132.197.199|StratisNode:3.0.5 (70012)|70012|6830|24.132.128.0/17|NL|ripencc|2000-01-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 24.189.87.238|StratisNode:3.0.8 (70012)|70012|6128|24.188.0.0/14|US|arin|1999-07-29|CABLE-NET-1, US
 24.2.93.105|StratisNode:3.0.5 (70012)|70012|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.201.122.229|StratisNode:3.0.8 (70012)|70012|5769|24.201.64.0/18|CA|arin|1999-04-15|VIDEOTRON, CA
@@ -139,7 +140,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.6.71.118|StratisNode:3.0.8 (70012)|70012|22773|68.6.68.0/22|US|arin|2001-11-12|ASN-CXA-ALL-CCI-22773-RDC, US
 68.99.231.4|StratisNode:3.0.8 (70012)|70012|22773|68.99.192.0/18|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 70.82.95.74|StratisNode:3.0.8 (70012)|70012|5769|70.82.64.0/18|CA|arin|2004-07-14|VIDEOTRON, CA
-71.120.140.25|StratisNode:3.0.5 (70012)|70012||||||
+71.120.140.25|StratisNode:3.0.5 (70012)|70012|701|71.120.128.0/17|US|arin|2005-01-18|UUNET, US
 71.146.99.9|/Stratis:2.0.0.5/|70000|7018|71.146.0.0/15|US|arin|2005-01-11|ATT-INTERNET4, US
 73.169.241.54|StratisNode:3.0.8 (70012)|70012|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.216.97.91|StratisNode:3.0.8 (70012)|70012|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -158,7 +159,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.114.134.135|StratisNode:3.0.8 (70012)|70012|8374|77.112.0.0/14|PL|ripencc|2006-12-22|PLUSNET Plus network operator in Poland, PL
 77.219.5.47|???|0|1257|77.216.0.0/14|SE|ripencc|2007-02-09|TELE2, EU
 77.79.252.184|StratisNode:3.0.8 (70012)|70012|200094|77.79.252.0/22|PL|ripencc|2007-03-14|PHU_MIROLAN_MIROSLAW_WECLAW, PL
-77.9.74.183|StratisNode:3.0.7 (70012)|70012|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 78.101.227.101|StratisNode:3.0.8 (70012)|70012|42298|78.101.224.0/20|QA|ripencc|2007-05-22|GCC-MPLS-PEERING GCC MPLS peering, QA
 78.141.208.209|StratisNode:3.0.5 (70012)|70012|20473|78.141.208.0/20|FR|ripencc|2007-07-30|AS-CHOOPA, US
 78.47.66.142|StratisNode:3.0.6 (70012)|70012|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
@@ -205,7 +205,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.136.209.168|StratisNode:3.0.8 (70012)|70012|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.171.110.63|???|0|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.248.150.144|StratisNode:3.0.0 (70012)|70012|3215|86.248.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-86.254.16.142|StratisNode:3.0.8 (70012)|70012|3215|86.254.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.83.78.169|/Stratis:2.0.0.2/|70000|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 86.86.1.205|/Stratis:2.0.0.2/|70000|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 86.86.140.253|StratisNode:3.0.8 (70012)|70012|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
@@ -214,7 +213,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.147.212.168|StratisNode:3.0.8 (70012)|70012|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.214.214.101|StratisNode:3.0.5 (70012)|70012|13127|87.208.0.0/13|NL|ripencc|2005-06-02|VERSATEL AS for the Trans-European Tele2 IP Transport backbone, NL
 88.202.177.218|StratisNode:3.0.5 (70012)|70012|13213|88.202.176.0/23|GB|ripencc|2005-11-22|UK2NET-AS, GB
-88.64.184.252|StratisNode:3.0.8 (70012)|70012|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
 89.10.227.34|Blockcore:1.0.14(STRAT;70013)|70013|15659|89.10.0.0/15|NO|ripencc|2006-06-29|NEXTGENTEL NEXTGENTEL Autonomous System, NO
 89.26.241.77|StratisNode:3.0.8 (70012)|70012|5626|89.26.128.0/17|PT|ripencc|2006-06-12|ONI Internet Service Provider, PT
 89.66.168.245|/Stratis:2.0.0.3/|70000|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
