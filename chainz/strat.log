@@ -35,7 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.181.203.39|StratisNode:3.0.8 (70012)|70012|7477|180.181.192.0/19|AU|apnic|2010-10-18|TEREDONN-AS-AP SkyMesh Pty Ltd, AU
 183.225.235.243|StratisNode:3.0.7 (70012)|70012|9808|183.225.128.0/17|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 185.61.2.51|StratisNode:3.0.8 (70012)|70012|5466|185.61.0.0/22|IE|ripencc|2014-06-13|EIRCOM Internet House, IE
-188.154.159.196|StratisNode:3.0.8 (70012)|70012|6730|188.154.0.0/15|CH|ripencc|2009-05-08|SUNRISE, CH
+188.154.159.196|StratisNode:3.0.8 (70012)|70012||||||
 188.192.121.123|/Stratis:2.0.0.3/|70000|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
 188.194.25.126|StratisNode:3.0.6 (70012)|70012|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
 188.221.143.82|/Stratis:2.0.0.5/|70000|5607|188.220.0.0/14|GB|ripencc|2009-05-26|BSKYB-BROADBAND-AS, GB
@@ -85,6 +85,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.47.142.1|/Stratis:2.0.0.5/|70000|27017|50.47.128.0/19|US|arin|2010-09-24|ZIPLY-FIBER-LEGACY-ASN, US
 51.210.114.183|StratisNode:3.0.6 (70012)|70012|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.54.14.27|/Stratis:2.0.0.3/|70000|14618|52.54.0.0/15|US|arin|2015-09-02|AMAZON-AES, US
+52.73.66.214|StratisNode:3.0.8 (70012)|70012|14618|52.72.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
 60.141.45.80|StratisNode:3.0.8 (70012)|70012|17676|60.141.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.241.75.30|StratisNode:3.0.5 (70012)|70012|7545|60.241.75.0/24|AU|apnic|2005-06-01|TPG-INTERNET-AP TPG Telecom Limited, AU
 61.245.128.3|StratisNode:3.0.8 (70012)|70012|4764|61.245.128.0/22|AU|apnic|2010-07-07|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -152,7 +153,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.246.90.106|StratisNode:3.0.8 (70012)|70012|3215|86.246.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.83.78.169|/Stratis:2.0.0.2/|70000|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 86.86.1.205|/Stratis:2.0.0.2/|70000|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
-87.123.191.147|StratisNode:3.0.8 (70012)|70012|8881|87.123.176.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.214.214.101|StratisNode:3.0.8 (70012)|70012|13127|87.208.0.0/13|NL|ripencc|2005-06-02|VERSATEL AS for the Trans-European Tele2 IP Transport backbone, NL
 88.116.139.164|/Stratis:2.0.0.3/|70000|8447|88.116.0.0/15|AT|ripencc|2005-09-16|TELEKOM-AT A1 Telekom Austria AG, AT
 88.99.48.7|StratisNode:3.0.6 (70012)|70012|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
@@ -165,7 +165,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.117.153.206|StratisNode:3.0.8 (70012)|70012|8881|92.117.128.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.255.247.56|StratisNode:3.0.8 (70012)|70012|41661|92.255.246.0/23|RU|ripencc|2007-12-28|ERTH-CHEL-AS, RU
 93.194.88.230|StratisNode:3.0.5 (70012)|70012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.222.80.14|StratisNode:3.0.8 (70012)|70012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.235.150.27|StratisNode:3.0.8 (70012)|70012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.13.197.88|StratisNode:3.0.8 (70012)|70012|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 94.157.209.182|StratisNode:3.0.8 (70012)|70012|50266|94.157.0.0/16|NL|ripencc|2008-09-03|TMOBILE-THUIS, NL
