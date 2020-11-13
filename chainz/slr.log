@@ -2,6 +2,7 @@
 # SolarCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.0.209.177|/Satoshi:2.1.8/|70005|23969|1.0.208.0/23|TH|apnic|2011-04-08|TOT-NET TOT Public Company Limited, TH
+101.116.140.222|/Satoshi:2.1.8/|70005|133612|101.116.128.0/18|AU|apnic|2010-12-14|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
 103.137.14.188|/Satoshi:2.1.8/|70005|137409|103.137.14.0/23|AU|apnic|2019-03-19|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.35.83.85|/Satoshi:2.1.8/|70005|134503|103.35.80.0/22|AU|apnic|2015-08-14|FLASH-FIBRES-AS-AP Flash Fibres, AU
 105.184.235.238|/Satoshi:2.1.8/|70005|37457|105.184.0.0/16|ZA|afrinic|2013-11-18|Telkom-Internet, ZA
@@ -17,7 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.0.52.179|/Satoshi:2.1.8/|70005|54614|135.0.0.0/18|CA|arin|2012-03-19|CIKTELECOM-CABLE, CA
 139.162.244.34|/Satoshi:2.1.8/|70005|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 141.101.156.147|/Satoshi:2.1.8/|70005|55286|141.101.156.0/24|NL|ripencc|2011-06-23|SERVER-MANIA, CA
-144.48.36.28|/Satoshi:2.1.8/|70005|136557|144.48.36.0/24|IN|apnic|2016-04-07|HOST-AS-AP Host Universal Pty Ltd, AU
+146.0.189.41|/Satoshi:2.1.8/|70005|6661|146.0.128.0/18|LU|ripencc|2011-07-07|EPT-LU Entreprise des P. et T. Luxembourg, LU
 162.243.214.120|/Satoshi:2.1.8/|70005|14061|162.243.192.0/18|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 163.158.146.148|/Satoshi:2.1.8/|70005|15435|163.158.0.0/16|NL|ripencc|1992-09-01|KABELFOON DELTA Fiber Nederland, NL
 166.70.167.105|/Satoshi:2.1.8/|70005|6315|166.70.0.0/16|US|arin|1997-02-19|XMISSION, US
@@ -35,7 +36,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 193.124.136.10|/Satoshi:2.1.8/|70005|51402|193.124.136.0/21|DE|ripencc|1993-09-01|COM-IN, DE
 193.27.14.157|/Satoshi:2.1.8/|70005|9009|193.27.14.0/24|AU|ripencc|2018-04-25|M247, GB
-194.71.217.66|/Satoshi:2.1.8/|70005|197595|194.71.217.0/24|SE|ripencc|1994-07-15|OBENETWORK Obenetwork AB, SE
 194.71.217.70|/Satoshi:2.1.8/|70005|197595|194.71.217.0/24|SE|ripencc|1994-07-15|OBENETWORK Obenetwork AB, SE
 194.71.217.72|/Satoshi:2.1.8/|70005|197595|194.71.217.0/24|SE|ripencc|1994-07-15|OBENETWORK Obenetwork AB, SE
 194.71.217.76|/Satoshi:2.1.8/|70005|197595|194.71.217.0/24|SE|ripencc|1994-07-15|OBENETWORK Obenetwork AB, SE
@@ -49,6 +49,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.85.12.40|/Satoshi:2.1.8/|70005|6327|24.85.12.0/22|CA|arin|2001-07-12|SHAW, CA
 31.127.77.64|/Satoshi:2.1.8/|70005|12576|31.127.0.0/16|GB|ripencc|2010-11-25|EE Ltd, GB
 31.150.115.56|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
+37.72.47.38|/Satoshi:2.1.8/|70005|24945|37.72.40.0/21|UA|ripencc|2012-01-26|ASN-VNTP, UA
 40.117.251.125|/Satoshi:2.1.8/|70005|8075|40.112.0.0/13|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
 45.248.78.164|/Satoshi:2.1.8/|70005|136557|45.248.78.0/24|AU|apnic|2016-05-04|HOST-AS-AP Host Universal Pty Ltd, AU
 46.125.249.57|/Satoshi:2.1.8/|70005|8412|46.124.0.0/15|AT|ripencc|2010-05-31|TMA Rennweg 97-99, AT
@@ -89,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.114.7.24|/Satoshi:2.1.8/|70005|33915|80.114.0.0/18|NL|ripencc|2001-07-25|TNF-AS, NL
 80.144.47.24|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.147.129.194|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
-80.229.13.28|/Satoshi:2.1.8/|70005|6871|80.229.0.0/16|GB|ripencc|2003-10-17|PLUSNET UK Internet Service Provider, GB
 80.56.164.54|/Satoshi:2.1.8/|70005|6830|80.56.0.0/16|NL|ripencc|2001-05-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 81.11.182.32|/Satoshi:2.1.8/|70005|5432|81.11.128.0/17|BE|ripencc|2002-05-13|PROXIMUS-ISP-AS, BE
 81.234.184.187|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
