@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 131.255.112.244|/NBitcoin:5.0.49/|70012|264487|131.255.112.0/22|BR|lacnic|2014-11-25|SpeedBOL Ultra Banda Larga, BR
 139.180.172.199|/LitecoinCore:0.18.1/|70015|20473|139.180.160.0/20|US|apnic|1993-04-08|AS-CHOOPA, US
+139.218.136.140|/bitcore:1.1.0/|70003|9443|139.218.128.0/20|AU|apnic|2011-03-08|VOCUS-RETAIL-AU Vocus Retail, AU
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -47,7 +48,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.255.204.124|/LitecoinCore:0.18.1/|70015|63949|173.255.192.0/20|US|arin|2010-08-27|LINODE-AP Linode, LLC, US
 174.198.2.183|/NBitcoin:5.0.49/|70012|22394|174.198.0.0/18|US|arin|2008-12-16|CELLCO, US
 177.229.72.98|/NBitcoin:5.0.49/|70012|13999|177.229.64.0/19|MX|lacnic|2013-02-20|Mega Cable, S.A. de C.V., MX
-178.128.107.221|/loaf-android:175/|70015|14061|178.128.96.0/20|NL|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 180.198.98.13|/NBitcoin:5.0.49/|70012|18126|180.198.0.0/16|JP|apnic|2009-09-18|CTCX Chubu Telecommunications Company, Inc., JP
 185.136.159.2|/LitecoinCore:0.17.1/|70015|29066|185.136.156.0/22|GB|ripencc|2016-02-01|VELIANET-AS velia.net Internetdienste GmbH, DE
@@ -76,7 +76,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.167.79.43|/LitecoinCore:0.16.3/|70015|13173|213.167.64.0/19|GB|ripencc|2000-04-06|FORESHORE-AS, GB
 217.66.159.47|/LitecoinCore:0.18.1/|70015|8359|217.66.152.0/21|RU|ripencc|2003-06-30|MTS, RU
 219.100.37.240|/NBitcoin:5.0.49/|70012|36599|219.100.37.0/24|JP|apnic|2002-03-07|SOFTETHER-AMERICA, US
-220.253.95.15|/NBitcoin:5.0.49/|70012|7545|220.253.88.0/21|AU|apnic|2004-06-25|TPG-INTERNET-AP TPG Telecom Limited, AU
 221.222.152.38|/LitecoinCore:0.17.1/|70015|4808|221.222.128.0/18|CN|apnic|2003-11-19|CHINA169-BJ China Unicom Beijing Province Network, CN
 222.69.201.204|/LitecoinCore:0.14.2/|70015|4812|222.69.0.0/16|CN|apnic|2003-10-24|CHINANET-SH-AP China Telecom (Group), CN
 24.218.66.183|/LitecoinCore:0.17.1/|70015|7922|24.218.0.0/16|US|arin|1999-01-14|COMCAST-7922, US
@@ -102,7 +101,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 5.124.79.99|/loaf-android:175/|70015|44244|5.124.64.0/20|IR|ripencc|2012-06-29|IRANCELL-AS, IR
-5.129.156.3|/bitcore:1.1.0-exodus2/|70003||||||
+5.129.156.3|/bitcore:1.1.0-exodus2/|70003|31200|5.129.128.0/19|RU|ripencc|2012-06-29|NTK IPv6 customers, RU
 5.79.65.110|/LitecoinCore:0.16.3/|70015|60781|5.79.64.0/18|NL|ripencc|2012-06-14|LEASEWEB-NL-AMS-01 Netherlands, NL
 51.144.233.176|/LitecoinCore:0.16.0/|70015|8075|51.144.0.0/15|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
 51.210.220.135|/LitecoinCore:0.18.1/|70015|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
