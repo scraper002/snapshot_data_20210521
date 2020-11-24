@@ -21,6 +21,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.62.229.19|22556|/Shibetoshi:1.14.2/|37963|116.62.128.0/17|CN|apnic|2007-03-29|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 118.200.109.246|22556|/Shibetoshi:1.10.0/|9506|118.200.0.0/16|SG|apnic|2007-10-19|SINGTEL-FIBRE Singtel Fibre Broadband, SG
 119.224.111.25|22445|/Pandoshi:3.0.6.2/|9790|119.224.0.0/17|NZ|apnic|2008-02-26|VOCUSGROUPNZ VocusGroup, NZ
+119.23.30.242|22556|/Shibetoshi:1.14.2/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.78.123.67|22556|/Shibetoshi:1.14.0/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.79.73.146|22556|/Shibetoshi:1.14.2/|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.150.81.198|22556|/Shibetoshi:1.10.0/|4766|121.144.0.0/13|KR|apnic|2006-04-07|KIXS-AS-KR Korea Telecom, KR
@@ -73,7 +74,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.104.178.96|22445|/Pandoshi:3.0.7.1/|63949|172.104.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.117.15.132|22556|/Shibetoshi:1.10.0/|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
 172.245.245.8|22445|/Pandoshi:3.0.7.2/|36352|172.245.244.0/22|US|arin|2013-04-22|AS-COLOCROSSING, US
-173.171.118.255|22556|/Shibetoshi:1.14.2/|33363|173.168.0.0/14|US|arin|2009-04-14|BHN-33363, US
 173.176.184.54|22556|/Shibetoshi:1.14.2/|5769|173.176.128.0/18|CA|arin|2009-04-27|VIDEOTRON, CA
 173.199.71.160|22556|/Shibetoshi:1.14.0/|20473|173.199.70.0/23|US|arin|2010-09-29|AS-CHOOPA, US
 173.212.197.63|22556|/Shibetoshi:1.14.2/|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
@@ -144,7 +144,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:608:641::1|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 2002:2501:cd11::2501:cd11|8333|/Shibetoshi:1.14.0/|6939|2002::/16||other||HURRICANE, US
-2002:2627:cd06::2627:cd06|22556|/Shibetoshi:1.14.2/|6939|2002::/16||other||HURRICANE, US
 2002:4e81:efb3::4e81:efb3|22556|/Shibetoshi:1.14.2/|6939|2002::/16||other||HURRICANE, US
 2003:c6:9716:6000:219:99ff:fe50:edc2|22556|/Shibetoshi:1.14.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 2003:c8:bf1c:5801:4ecc:6aff:fef6:bb10|22556|/Shibetoshi:1.14.0/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
@@ -201,6 +200,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:162:3104::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|11333|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:173:2765::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:24ef::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:528d::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:1c0c:5d7f::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
