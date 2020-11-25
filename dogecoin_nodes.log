@@ -22,6 +22,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.200.109.246|22556|/Shibetoshi:1.10.0/|9506|118.200.0.0/16|SG|apnic|2007-10-19|SINGTEL-FIBRE Singtel Fibre Broadband, SG
 119.224.111.25|22445|/Pandoshi:3.0.6.2/|9790|119.224.0.0/17|NZ|apnic|2008-02-26|VOCUSGROUPNZ VocusGroup, NZ
 119.23.30.242|22556|/Shibetoshi:1.14.2/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+120.153.52.159|22556|/Shibetoshi:1.10.0/|1221|120.152.0.0/14|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
 120.78.123.67|22556|/Shibetoshi:1.14.0/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.79.73.146|22556|/Shibetoshi:1.14.2/|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.150.81.198|22556|/Shibetoshi:1.10.0/|4766|121.144.0.0/13|KR|apnic|2006-04-07|KIXS-AS-KR Korea Telecom, KR
@@ -159,7 +160,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.24.109.234|22556|/Shibetoshi:1.14.2/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.32.230.216|22556|/Shibetoshi:1.14.2/|60781|212.32.224.0/19|NL|ripencc|1999-09-20|LEASEWEB-NL-AMS-01 Netherlands, NL
 212.32.230.219|22556|/Shibetoshi:1.14.2/|60781|212.32.224.0/19|NL|ripencc|1999-09-20|LEASEWEB-NL-AMS-01 Netherlands, NL
-212.32.231.162|22556|/Shibetoshi:1.14.2/|60781|212.32.224.0/19|NL|ripencc|1999-09-20|LEASEWEB-NL-AMS-01 Netherlands, NL
 212.51.144.42|22556|/Shibetoshi:1.14.2/|13030|212.51.144.0/20|CH|ripencc|2008-05-06|INIT7, CH
 212.92.101.189|22557|/Shibetoshi:1.14.2/|49505|212.92.101.0/24|RU|ripencc|1999-11-03|SELECTEL, RU
 212.99.226.35|9050|/Shibetoshi:1.14.2/|29100|212.99.224.0/19|DK|ripencc|2003-04-10|BROADCOM, DK
@@ -200,11 +200,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:13b:17e5::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:13b:bd6::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:140:6150::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:160:8048::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:161:60a7::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:162:3104::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|11333|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:173:2765::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:24ef::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:528d::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:1c0c:5d7f::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -222,6 +222,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:cb00:f98:ca00:5054:ff:fed4:763d|8155|/Shibetoshi:1.14.2/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e34:ec29:e8d0:3884:86b6:a4d:815b|22556|/Shibetoshi:1.14.0/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ef66:9d40:3c06:b91c:4658:9cb2|22556|/Shibetoshi:1.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:2f6b:5120:a10f:38c1:f30e:1d5c|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:39d3:eb30:a8e9:17cb:3a4b:7b2a|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1206:4547:56b0:74e2:6054:630a:ecb8|22556|/Shibetoshi:1.14.2/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::2a|22556|/Shibetoshi:1.14.2/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:c207:2015:2082::1|23476|/Shibetoshi:1.14.2/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -347,6 +349,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.200.205.30|22554|/Shibetoshi:1.14.2/|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
 82.211.130.137|22556|/Shibetoshi:1.14.2/|16010|82.211.128.0/18|GE|ripencc|2011-02-21|MAGTICOMAS Caucasus-Online, GE
 82.221.128.31|8344|/Shibetoshi:1.10.0/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
+83.157.62.179|22556|/Shibetoshi:1.14.2/|12322|83.152.0.0/13|FR|ripencc|2004-01-23|PROXAD, FR
 83.221.211.116|22556|/Shibetoshi:1.14.0/|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 85.13.237.25|22556|/Shibetoshi:1.10.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
 85.13.237.26|22556|/Shibetoshi:1.10.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
@@ -360,7 +363,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.230.142|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.5.11|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.208.3.195|22556|/Shibetoshi:1.14.0/|39572|88.208.0.0/18|NL|ripencc|2005-10-24|ADVANCEDHOSTERS-AS, NL
-88.99.0.106|22556|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.103.51|22556|/Shibetoshi:1.10.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.71.139|9003|/Shibetoshi:1.14.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 90.89.181.90|22556|/Shibetoshi:1.14.2/|3215|90.89.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
