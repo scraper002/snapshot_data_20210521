@@ -8,7 +8,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.237.86.54|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|16066|109.237.80.0/20|UA|ripencc|2010-10-08|TEST-, UA
 109.60.45.89|/Satoshi:0.20.1/Peercoin:0.10.0(v0.10.0ppc.rc3 Scarab)/|70015|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
 109.95.145.198|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|50467|109.95.144.0/21|PL|ripencc|2009-12-30|BESKID-MEDIA-AS, PL
-113.104.211.209|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|4134|113.96.0.0/12|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.246.70.57|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|4808|114.246.64.0/18|CN|apnic|2008-06-24|CHINA169-BJ China Unicom Beijing Province Network, CN
 116.202.132.28|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 119.123.199.56|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|4134|119.120.0.0/13|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -35,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.198.20.222|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|22394|174.198.0.0/18|US|arin|2008-12-16|CELLCO, US
 176.9.145.156|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 178.114.247.44|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-03309a938 Strider)/|70015|8437|178.114.240.0/20|AT|ripencc|2010-01-12|UTA-AS, AT
+178.176.218.46|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31163|178.176.218.0/24|RU|ripencc|2010-01-22|MF-KAVKAZ-AS, RU
 178.185.92.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12389|178.185.64.0/18|RU|ripencc|2010-02-03|ROSTELECOM-AS, RU
 178.49.167.228|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31200|178.49.128.0/17|RU|ripencc|2009-12-28|NTK IPv6 customers, RU
 178.63.71.183|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
@@ -69,7 +69,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.94.52.55|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|36352|23.94.48.0/21|US|arin|2013-08-16|AS-COLOCROSSING, US
 23.97.222.172|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8075|23.96.0.0/14|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 24.151.91.131|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|20115|24.151.0.0/17|US|arin|2000-01-05|CHARTER-20115, US
-24.177.236.144|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015||||||
+24.177.236.144|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|20115|24.177.224.0/20|US|arin|2003-10-28|CHARTER-20115, US
 24.4.68.254|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.76.93.35|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6327|24.76.92.0/22|CA|arin|2000-12-15|SHAW, CA
 31.20.213.145|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|50266|31.20.0.0/16|NL|ripencc|2011-03-25|TMOBILE-THUIS, NL
@@ -103,7 +103,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.126.112.68|/Satoshi:0.20.1/Peercoin:0.10.0(v0.10.0ppc.rc3 Scarab)/|70015|701|71.126.64.0/18|US|arin|2005-01-18|UUNET, US
 74.3.186.34|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|63052|74.3.186.0/24|CA|arin|2009-05-20|AS-CBBC, CA
 74.58.8.196|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|5769|74.58.0.0/18|CA|arin|2006-03-02|VIDEOTRON, CA
-75.118.114.96|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12083|75.118.112.0/21|US|arin|2006-11-02|WOW-INTERNET, US
 76.19.183.59|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
 77.4.124.214|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 78.46.18.218|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
@@ -119,7 +118,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.14.242.77|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24961|85.14.192.0/18|DE|ripencc|2005-04-14|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 86.150.38.76|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 88.99.235.240|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-89.179.187.30|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8402|89.178.0.0/15|RU|ripencc|2006-03-22|CORBINA-AS OJSC _Vimpelcom_, RU
+89.179.187.30|/Satoshi:0.20.0/Peercoin:0.10.0(v0.10.0ppc.rc2 Scarab)/|70015|8402|89.178.0.0/15|RU|ripencc|2006-03-22|CORBINA-AS OJSC _Vimpelcom_, RU
 89.187.140.130|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|35592|89.187.128.0/19|CZ|ripencc|2006-04-28|COOLHOUSING-AS Vinohradska 190, CZ
 89.217.102.30|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6730|89.217.0.0/16|CH|ripencc|2006-06-26|SUNRISE, CH
 89.247.254.220|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8881|89.247.254.0/24|DE|ripencc|2006-05-04|VERSATEL, DE
