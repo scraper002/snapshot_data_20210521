@@ -21,7 +21,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.103.179.126|/Satoshi:2.1.8/|70005|25668|172.103.128.0/17|CA|arin|2015-06-22|CIPHERKEY, CA
 178.118.185.194|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.197.248.48|/Satoshi:2.1.8/|70005|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
-183.90.52.164|/Satoshi:2.1.8/|70005|55430|183.90.52.0/24|SG|apnic|2009-11-16|STARHUB-NGNBN Starhub Ltd, SG
 184.94.190.79|/Satoshi:2.1.8/|70005|25914|184.94.176.0/20|CA|arin|2011-05-02|QCC-AS, CA
 185.220.100.242|/Satoshi:2.1.8/|70005|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.53.157.189|/Satoshi:2.1.8/|70005|9063|185.53.156.0/22|DE|ripencc|2014-04-11|SAARGATE-AS VSE NET GmbH, DE
@@ -48,7 +47,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.89.162.203|/Satoshi:2.1.8/|70005|33363|50.88.0.0/15|US|arin|2011-02-01|BHN-33363, US
 51.144.254.155|/Satoshi:2.1.8/|70005|8075|51.144.0.0/15|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
 58.178.231.177|/Satoshi:2.1.8/|70005|9443|58.178.224.0/21|AU|apnic|2005-06-15|VOCUS-RETAIL-AU Vocus Retail, AU
-58.182.44.70|/Satoshi:2.1.8/|70005|55430|58.182.0.0/18|SG|apnic|2005-06-15|STARHUB-NGNBN Starhub Ltd, SG
 62.65.223.35|/Satoshi:2.1.8/|70005|13272|62.65.192.0/18|EE|ripencc|2002-02-21|STARMAN, EE
 67.1.194.140|/Satoshi:2.1.8/|70005|209|67.0.0.0/13|US|arin|2001-07-26|CENTURYLINK-US-LEGACY-QWEST, US
 68.58.38.25|/Satoshi:2.1.8/|70005|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
@@ -66,11 +64,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.253.136.66|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.253.49.101|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.140.61.152|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.220.208.18|/Satoshi:2.1.8/|70005|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, EU
 80.229.13.28|/Satoshi:2.1.8/|70005|6871|80.229.0.0/16|GB|ripencc|2003-10-17|PLUSNET UK Internet Service Provider, GB
 80.32.54.186|/Satoshi:2.1.8/|70005|3352|80.32.0.0/16|ES|ripencc|2001-11-12|TELEFONICA_DE_ESPANA, ES
 81.170.217.202|/Satoshi:2.1.8/|70005|8473|81.170.128.0/17|SE|ripencc|2003-05-12|BAHNHOF http://www.bahnhof.net/, SE
 81.242.25.230|/Satoshi:2.1.8/|70005|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
+83.134.166.170|/Satoshi:2.1.8/|70005|5432|83.134.0.0/16|BE|ripencc|2004-01-22|PROXIMUS-ISP-AS, BE
 83.77.245.130|/Satoshi:2.1.8/|70005|3303|83.77.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
 84.188.210.226|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.192.254.254|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
@@ -84,7 +84,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.14.228.115|/Satoshi:2.1.8/|70005|5089|86.14.0.0/15|GB|ripencc|2005-03-29|NTL, GB
 86.145.203.105|/Satoshi:2.1.8/|70005|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.206.234.101|/Satoshi:2.1.8/|70005|3215|86.206.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-86.84.135.104|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, EU
 87.123.17.151|/Satoshi:2.1.8/|70005|8881|87.123.16.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.198.116|/Satoshi:2.1.8/|70005|8881|87.123.198.0/24|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.20.18|/Satoshi:2.1.8/|70005|8881|87.123.16.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
@@ -96,6 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.246.63.216|/Satoshi:2.1.8/|70005|8881|89.246.56.0/21|DE|ripencc|2006-05-04|VERSATEL, DE
 91.182.96.13|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.187.66.75|/Satoshi:2.1.8/|70005|6752|91.187.64.0/22|AD|ripencc|2006-11-17|ANDORRA Andorra Telecom, AD
+91.56.85.185|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.154.251.184|/Satoshi:2.1.8/|70005|3215|92.154.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.85.8.53|/Satoshi:2.1.8/|70005|9050|92.85.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.211.223.35|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
