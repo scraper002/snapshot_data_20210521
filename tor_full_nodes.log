@@ -584,7 +584,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.255.161.167|51852|141.255.160.0/21|CH|ripencc|2011-07-06|PLI-AS, CH
 141.255.165.102|51852|141.255.160.0/21|CH|ripencc|2011-07-06|PLI-AS, CH
 141.255.166.142|51852|141.255.160.0/21|CH|ripencc|2011-07-06|PLI-AS, CH
-141.255.166.150
+141.255.166.150|51852|141.255.160.0/21|CH|ripencc|2011-07-06|PLI-AS, CH
 141.255.166.189|51852|141.255.160.0/21|CH|ripencc|2011-07-06|PLI-AS, CH
 141.70.125.232|553|141.70.0.0/16|DE|ripencc|1992-11-18|BELWUE BelWue-Koordination, EU
 141.98.10.59|209605|141.98.10.0/24|LT|ripencc|2019-01-10|HOSTBALTIC, LT
@@ -628,7 +628,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.232.165|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 143.106.73.35|53187|143.106.0.0/16|BR|lacnic|1990-03-26|UNIVERSIDADE ESTADUAL DE CAMPINAS, BR
 143.107.229.120|28571|143.107.0.0/16|BR|lacnic|1990-03-26|UNIVERSIDADE DE SAO PAULO, BR
-143.107.229.210|28571|143.107.0.0/16|BR|lacnic|1990-03-26|UNIVERSIDADE DE SAO PAULO, BR
+143.107.229.210
 143.110.156.24|14061|143.110.144.0/20|US|arin|2020-01-17|DIGITALOCEAN-ASN, US
 143.178.111.120|50266|143.178.0.0/17|NL|ripencc|1990-10-01|TMOBILE-THUIS, NL
 143.202.161.75|52423|143.202.161.0/24|CR|lacnic|2015-10-16|Data Miners S.A. ( Racknation.cr ), CR
@@ -911,7 +911,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.35.91.41|14061|161.35.80.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
 161.53.160.104|2108|161.53.0.0/16|HR|ripencc|1993-09-01|CARNET-AS J.Marohnica 5, 10000 Zagreb, HR
 161.97.103.237|51167|161.97.102.0/23|DE|ripencc|1992-06-23|CONTABO, DE
-161.97.117.252
+161.97.117.252|51167|161.97.116.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.132.157|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.67.106|51167|161.97.66.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.70.137|51167|161.97.70.0/23|DE|ripencc|1992-06-23|CONTABO, DE
@@ -1393,10 +1393,10 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.17.171.102|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
 178.17.171.124|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
 178.17.171.197|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
-178.17.171.25|43289|178.17.160.0/20|MD|ripencc|2010-03-23|TRABIA, MD
-178.17.171.39|43289|178.17.160.0/20|MD|ripencc|2010-03-23|TRABIA, MD
+178.17.171.25|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
+178.17.171.39|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
 178.17.171.5|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
-178.17.171.55|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
+178.17.171.55|43289|178.17.160.0/20|MD|ripencc|2010-03-23|TRABIA, MD
 178.17.171.78|43289|178.17.171.0/24|MD|ripencc|2010-03-23|TRABIA, MD
 178.17.173.26|43289|178.17.160.0/20|MD|ripencc|2010-03-23|TRABIA, MD
 178.17.174.10|43289|178.17.160.0/20|MD|ripencc|2010-03-23|TRABIA, MD
@@ -1601,7 +1601,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.100.87.241|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
 185.100.87.242|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
 185.100.87.243|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
-185.100.87.244|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
+185.100.87.244
 185.100.87.251|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
 185.100.87.41|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
 185.100.87.61|200651|185.100.87.0/24|RO|ripencc|2015-05-15|FLOKINET, SC
@@ -1615,7 +1615,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.107.70.202|43350|185.107.68.0/22|NL|ripencc|2015-07-03|NFORCE, NL
 185.107.71.41|43350|185.107.68.0/22|NL|ripencc|2015-07-03|NFORCE, NL
 185.107.83.1|43350|185.107.80.0/22|NL|ripencc|2015-07-03|NFORCE, NL
-185.109.64.191|24800|185.109.64.0/22|DK|ripencc|2015-07-15|BORNFIBER, DK
+185.109.64.191
 185.109.91.126|24800|185.109.88.0/22|DK|ripencc|2015-07-15|BORNFIBER, DK
 185.11.146.95|49349|185.11.146.0/24|NL|ripencc|2012-11-29|DOTSI, PT
 185.11.167.118|33876|185.11.164.0/22|PT|ripencc|2012-11-29|FLESK-AS, PT
@@ -1716,7 +1716,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.150.117.226|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
 185.150.117.23|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
 185.150.117.234|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
-185.150.117.242
+185.150.117.242|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
 185.150.117.244|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
 185.150.117.245|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
 185.150.117.248|16125|185.150.116.0/22|LT|ripencc|2016-05-03|CHERRYSERVERS1-AS, LT
@@ -2097,7 +2097,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.86.150.58|52173|185.86.150.0/24|LV|ripencc|2015-02-03|MAKONIX, LV
 185.86.151.168|43513|185.86.151.0/24|LV|ripencc|2015-02-03|NANO-AS, LV
 185.86.5.223|29262|185.86.5.0/24|TR|ripencc|2015-01-28|IDEALHOSTING, TR
-185.90.60.73|9009|185.90.60.0/24|GB|ripencc|2015-03-03|M247, GB
+185.90.60.73
 185.90.61.218|136258|185.90.61.0/24|GB|ripencc|2015-03-03|ONEPROVIDER-AS BrainStorm Network, Inc, CA
 185.90.61.219|136258|185.90.61.0/24|GB|ripencc|2015-03-03|ONEPROVIDER-AS BrainStorm Network, Inc, CA
 185.90.61.220|136258|185.90.61.0/24|GB|ripencc|2015-03-03|ONEPROVIDER-AS BrainStorm Network, Inc, CA
@@ -2356,7 +2356,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.218.118.214|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
 193.218.118.235|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
 193.218.118.240|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
-193.218.118.241
+193.218.118.241|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
 193.218.118.242|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
 193.218.118.243|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
 193.218.118.244|207656|193.218.118.0/24|UA|ripencc|2019-10-16|EPINATURA, UA
@@ -2740,7 +2740,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.249.230.73|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
 199.249.230.74|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
 199.249.230.75|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
-199.249.230.78
+199.249.230.78|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
 199.249.230.79|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
 199.249.230.80|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
 199.249.230.81|62744|199.249.230.0/24|US|arin|1994-06-07|QUINTEX, US
@@ -2892,7 +2892,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:08d8:1801:010c:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:021b:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:028d:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-2001:08d8:1801:803a:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|ONEANDONE-AS Brauerstrasse 48, DE
+2001:08d8:1801:803a:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:828b:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:82ca:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08e0:146d:0050:0000:0000:0000:0030|8758|2001:8e0::/32|CH|ripencc|2002-09-12|IWAY, CH
@@ -3284,12 +3284,12 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.186.218.74|6830|212.186.128.0/17|AT|ripencc|1999-03-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 212.186.71.38|6830|212.186.0.0/17|AT|ripencc|1999-03-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 212.21.66.6|44716|212.21.64.0/19|DE|ripencc|1998-07-16|DHOSTING-NET, DE
-212.227.164.197|8560|212.227.0.0/16|DE|ripencc|1998-09-10|ONEANDONE-AS Brauerstrasse 48, DE
-212.227.165.251|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-212.227.200.133|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-212.227.204.115|8560|212.227.0.0/16|DE|ripencc|1998-09-10|ONEANDONE-AS Brauerstrasse 48, DE
+212.227.164.197|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+212.227.165.251|8560|212.227.0.0/16|DE|ripencc|1998-09-10|ONEANDONE-AS Brauerstrasse 48, DE
+212.227.200.133|8560|212.227.0.0/16|DE|ripencc|1998-09-10|ONEANDONE-AS Brauerstrasse 48, DE
+212.227.204.115|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.204.82|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-212.227.8.137|8560|212.227.0.0/16|DE|ripencc|1998-09-10|ONEANDONE-AS Brauerstrasse 48, DE
+212.227.8.137|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.230.140.65|15704|212.230.140.0/24|ES|ripencc|2000-09-14|AS15704, ES
 212.232.29.101|47692|212.232.24.0/21|AT|ripencc|2010-03-15|NESSUS, AT
 212.237.100.250|60876|212.237.96.0/20|DK|ripencc|1998-09-25|GIGABIT-, DK
@@ -3431,9 +3431,9 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.160.251.63|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.255.113|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.255.217|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-217.160.28.238|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.28.238|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
 217.160.29.212|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-217.160.40.194|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
+217.160.40.194|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.57.194|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.57.47|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.170.204.126|34989|217.170.192.0/20|NO|ripencc|2009-02-11|SERVETHEWORLD-AS, NO
@@ -3803,7 +3803,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f298:0005:101d:f816:3eff:fe2f:277e|26347|2607:f298:5::/48|US|arin|2007-12-19|DREAMHOST-AS, US
 2607:f298:0005:101d:f816:3eff:feb8:28ae|26347|2607:f298:5::/48|US|arin|2007-12-19|DREAMHOST-AS, US
 2607:f598:f001:0000:0000:0000:0000:0033|397715|2607:f598:f001::/48|US|arin|2008-07-22|KPFA, US
-2607:f8f8:0630:0b34:0000:0000:0000:002a|23033|2607:f8f8::/32|US|arin|2009-03-31|WOW, US
+2607:f8f8:0630:0b34:0000:0000:0000:002a
 2610:01c0:0000:0005:0000:0000:0000:0131|11403|2610:1c0::/32|US|arin|2007-04-11|NYINTERNET, US
 2620:0007:6001:0000:0000:0000:0000:0106|62744|2620:7:6001::/48|US|arin|2016-09-14|QUINTEX, US
 2620:0007:6001:0000:0000:0000:0000:0108|62744|2620:7:6001::/48|US|arin|2016-09-14|QUINTEX, US
@@ -4025,7 +4025,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a00:c6c0:0000:0151:0003:0000:0000:0145|47172|2a00:c6c0::/48|NL|ripencc|2012-03-23|GREENHOST, NL
 2a00:da00:1800:819a:0000:0000:0000:0001|8560|2a00:da00::/32|GB|ripencc|2011-01-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2a00:da00:1800:81b1:0000:0000:0000:0001|8560|2a00:da00::/32|GB|ripencc|2011-01-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-2a00:da00:1800:8272:0000:0000:0000:0001|8560|2a00:da00::/32|GB|ripencc|2011-01-26|ONEANDONE-AS Brauerstrasse 48, DE
+2a00:da00:1800:8272:0000:0000:0000:0001|8560|2a00:da00::/32|GB|ripencc|2011-01-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2a00:dcc0:dead:b2e0:0000:0000:0000:0001|34971|2a00:dcc0:dead::/48|IT|ripencc|2012-04-16|PDDA-AS, IT
 2a00:dcc0:dead:ba3e:0000:0000:0000:0001|34971|2a00:dcc0:dead::/48|IT|ripencc|2012-04-16|PDDA-AS, IT
 2a00:e140:0000:0000:0000:0000:0000:0034|198161|2a00:e140::/32|CZ|ripencc|2012-04-18|CZ-SUAS, CZ
@@ -4909,7 +4909,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.145.200.109|18978|38.145.200.0/22|US|arin|1991-04-16|ENZUINC-, US
 38.145.200.110|18978|38.145.200.0/22|US|arin|1991-04-16|ENZUINC-, US
 38.145.200.111|18978|38.145.200.0/22|US|arin|1991-04-16|ENZUINC-, US
-38.145.200.112|18978|38.145.200.0/22|US|arin|1991-04-16|ENZUINC-, US
+38.145.200.112
 38.147.122.250|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
 38.147.122.251|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
 38.147.122.252|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
@@ -4978,7 +4978,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.153.160.133|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
 45.153.160.134|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
 45.153.160.135|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
-45.153.160.136|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
+45.153.160.136
 45.153.160.137|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
 45.153.160.138|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
 45.153.160.139|212906|45.153.160.0/24|CZ|ripencc|2019-09-13|MONEROJ-CA, NL
@@ -5488,7 +5488,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.9.60.4|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.68.49|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.82.76|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
-5.9.98.43
+5.9.98.43|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 50.115.165.158|32875|50.115.160.0/20|US|arin|2011-09-16|VIRP, US
 50.116.12.36|63949|50.116.12.0/24|US|arin|2011-08-30|LINODE-AP Linode, LLC, US
 50.116.37.141|63949|50.116.32.0/20|US|arin|2011-08-30|LINODE-AP Linode, LLC, US
@@ -5634,7 +5634,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.158.152.93|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.158.154.112|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.158.154.122|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
-51.158.165.212|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
+51.158.165.212
 51.158.165.51|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.158.166.230|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.158.170.28|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
@@ -6287,8 +6287,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.126.185.193|35699|74.126.184.0/21|ES|ripencc|2007-04-03|ADAMOEU-AS Adamo Telecom Iberia S.A., ES
 74.207.231.186|63949|74.207.224.0/20|US|arin|2009-01-14|LINODE-AP Linode, LLC, US
 74.207.242.7|63949|74.207.242.0/24|US|arin|2009-01-14|LINODE-AP Linode, LLC, US
-74.208.120.64|8560|74.208.0.0/16|US|arin|2006-11-22|ONEANDONE-AS Brauerstrasse 48, DE
-74.208.31.32|8560|74.208.0.0/16|US|arin|2006-11-22|ONEANDONE-AS Brauerstrasse 48, DE
+74.208.120.64|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+74.208.31.32|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 74.215.52.77|6181|74.215.0.0/17|US|arin|2007-01-19|FUSE-NET, US
 74.82.47.194|6939|74.82.0.0/18|US|arin|2008-07-22|HURRICANE, US
 74.83.2.146|6181|74.83.0.0/17|US|arin|2008-07-23|FUSE-NET, US
@@ -6365,11 +6365,11 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.57.19.191|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 77.58.250.110|6830|77.58.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 77.6.70.90|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
-77.68.125.206|8560|77.68.0.0/17|GB|ripencc|2007-02-07|ONEANDONE-AS Brauerstrasse 48, DE
+77.68.125.206|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 77.68.7.233|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-77.68.7.99|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+77.68.7.99|8560|77.68.0.0/17|GB|ripencc|2007-02-07|ONEANDONE-AS Brauerstrasse 48, DE
 77.68.88.20|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-77.68.9.198|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+77.68.9.198|8560|77.68.0.0/17|GB|ripencc|2007-02-07|ONEANDONE-AS Brauerstrasse 48, DE
 77.68.94.106|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 77.70.28.38|35141|77.70.28.0/24|BG|ripencc|2007-02-21|MEGALAN, BG
 77.70.63.220|35141|77.70.63.0/24|BG|ripencc|2007-02-21|MEGALAN, BG
@@ -6677,12 +6677,12 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.161.50.30|3265|82.161.0.0/16|NL|ripencc|2003-07-14|XS4ALL-NL Amsterdam, NL
 82.164.239.154|2119|82.164.0.0/16|NO|ripencc|2003-07-28|TELENOR-NEXTEL Telenor Norge AS, NO
 82.165.103.72|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.115.166|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
-82.165.122.222|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.20.161|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.115.166|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.165.122.222|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.20.161|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.206.196|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.67.222|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.68.165|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.68.165|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.70.65|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.73.97|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.169.130.61|1136|82.169.128.0/19|NL|ripencc|2003-08-29|KPN KPN National, EU
@@ -6706,9 +6706,9 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.131.71|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.139.190|50613|82.221.139.0/24|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.141.96|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
-82.223.11.85|8560|82.223.0.0/16|ES|ripencc|2003-12-22|ONEANDONE-AS Brauerstrasse 48, DE
-82.223.139.79|8560|82.223.0.0/16|ES|ripencc|2003-12-22|ONEANDONE-AS Brauerstrasse 48, DE
-82.223.14.245|8560|82.223.0.0/16|ES|ripencc|2003-12-22|ONEANDONE-AS Brauerstrasse 48, DE
+82.223.11.85|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.223.139.79|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.223.14.245|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.223.17.164|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.223.205.133|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.223.21.74|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -6993,8 +6993,8 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.100.251.171|16086|87.100.128.0/17|FI|ripencc|2005-09-13|DNA, FI
 87.103.241.202|12389|87.103.240.0/20|RU|ripencc|2005-10-20|ROSTELECOM-AS, RU
 87.104.84.101|204274|87.104.64.0/18|DK|ripencc|2005-07-18|DK-AURA-AS, DK
-87.106.126.195|8560|87.106.0.0/16|DE|ripencc|2005-08-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-87.106.193.56|8560|87.106.0.0/16|DE|ripencc|2005-08-10|ONEANDONE-AS Brauerstrasse 48, DE
+87.106.126.195|8560|87.106.0.0/16|DE|ripencc|2005-08-10|ONEANDONE-AS Brauerstrasse 48, DE
+87.106.193.56|8560|87.106.0.0/16|DE|ripencc|2005-08-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 87.110.237.171|12578|87.110.0.0/16|LV|ripencc|2005-09-12|APOLLO-AS Latvia, LV
 87.118.110.113|31103|87.118.64.0/18|DE|ripencc|2005-10-04|KEYWEB-AS, DE
 87.118.112.136|31103|87.118.64.0/18|DE|ripencc|2005-10-04|KEYWEB-AS, DE
@@ -7113,7 +7113,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.31.186|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.4.50|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.61.201|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.76.10|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.76.10
 88.99.86.9|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.93.80|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.97.214|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
@@ -7378,7 +7378,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.249.248.160|20845|92.249.128.0/17|HU|ripencc|2007-11-15|DIGICABLE, HU
 92.252.17.166|9145|92.252.0.0/17|DE|ripencc|2007-11-26|EWETEL Cloppenburger Strasse 310, DE
 92.255.176.138|41843|92.255.176.0/20|RU|ripencc|2007-12-28|ERTH-OMSK-AS, RU
-92.255.207.89|41668|92.255.192.0/20|RU|ripencc|2007-12-28|ERTH-KAZAN-AS, RU
+92.255.207.89
 92.32.37.83|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 92.34.129.232|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 92.34.132.198|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
@@ -7441,7 +7441,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.237.154.169|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.25.179.236|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
 93.31.13.163|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
-93.40.7.94|12874|93.40.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
+93.40.7.94
 93.41.149.117|12874|93.41.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
 93.43.210.199|12874|93.43.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
 93.56.117.22|12874|93.56.0.0/14|IT|ripencc|2008-02-25|FASTWEB, IT
