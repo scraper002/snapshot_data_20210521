@@ -13,13 +13,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.172.181|/BlockchainBaracuda:0.18.1.3/|80010|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 144.91.77.184|/BlockchainBaracuda:0.18.1.3/|80010|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.183|/BlockchainBaracuda:0.18.1.3/|80010|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
-149.172.125.239|/BlockchainBaracuda:0.18.1.99/|80010|6830|149.172.0.0/17|DE|ripencc|2011-08-03|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
+149.172.125.239|/BlockchainBaracuda:0.18.1.99/|80010||||||
 161.97.133.242|/BlockchainBaracuda:0.18.1.3/|80010|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.158.229|/BlockchainBaracuda:0.18.1.3/|80010|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.158.9|/BlockchainBaracuda:0.18.1.3/|80010|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 165.73.111.92|/BlockchainBaracuda:0.18.1.3/|80010|37611|165.73.0.0/17|ZA|afrinic|2017-06-02|Afrihost, ZA
 167.86.106.11|/BlockchainBaracuda:0.18.1.3/|80010|51167|167.86.106.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.124.242|/BlockchainBaracuda:0.18.1.3/|80010|51167|167.86.124.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.86.85.58|/BlockchainBaracuda:0.18.2/|80010|51167|167.86.84.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 178.63.11.230|/BlockchainBaracuda:0.18.1.3/|80010|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 183.7.179.132|/BlockchainBaracuda:0.18.1.3/|80010|4134|183.0.0.0/10|CN|apnic|2009-10-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 185.118.164.191|/BlockchainBaracuda:0.18.1.3/|80010|44493|185.118.164.0/22|RU|ripencc|2015-09-23|CHELYABINSK-SIGNAL-AS, RU
@@ -39,7 +40,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.36.237.163|/BlockchainBaracuda:0.18.1.3/|80010|35913|193.36.237.0/24|DE|ripencc|2018-07-12|DEDIPATH-LLC, US
 193.70.35.154|/BlockchainBaracuda:0.18.2/|80010|16276|193.70.0.0/17|FR|ripencc|1993-09-01|OVH, FR
 193.87.75.150|/BlockchainBaracuda:0.18.1.3/|80010|2607|193.87.0.0/16|SK|ripencc|1993-09-01|SANET Slovak Academic Network, SK
-195.201.164.117|/BlockchainBaracuda:0.18.1.3/|80010|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 203.198.146.232|/BlockchainBaracuda:0.18.1.3/|80010|4760|203.198.144.0/20|HK|apnic|2000-07-12|HKTIMS-AP HKT Limited, HK
 207.180.216.182|/BlockchainBaracuda:0.18.1.3/|80010|51167|207.180.216.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 213.59.123.116|/BlockchainBaracuda:0.18.1.3/|80010|35913|213.59.123.0/24|RU|ripencc|2000-02-24|DEDIPATH-LLC, US
@@ -70,6 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.28.132.34|/BlockchainBaracuda:0.18.1.99/|80010|39586|46.28.128.0/21|RU|ripencc|2010-07-22|SATURNTELECOM, RU
 46.4.88.116|/BlockchainBaracuda:0.18.1.3/|80010|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.88.120|/BlockchainBaracuda:0.18.1.3/|80010|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
+46.4.88.76|/BlockchainBaracuda:0.18.1.3/|80010|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 47.186.224.245|/BlockchainBaracuda:0.18.1.3/|80010|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.244.175.33|/Veles-AgedAmnesia:0.17.1.2/|80010|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 49.233.222.235|/BlockchainBaracuda:0.18.1.3/|80010|45090|49.233.192.0/18|CN|apnic|2010-11-26|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -110,7 +111,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.19.132.255|/BlockchainBaracuda:0.18.2/|80010|35807|94.19.0.0/16|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
 95.217.137.100|/BlockchainBaracuda:0.18.1.3/|80010|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.50.222|/BlockchainBaracuda:0.18.1.3/|80010|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.70.48|/BlockchainBaracuda:0.18.1.3/|80010|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.79.131|/BlockchainBaracuda:0.18.1.3/|80010|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.79.132|/BlockchainBaracuda:0.18.1.3/|80010|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.95.236|/BlockchainBaracuda:0.18.1.3/|80010|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
