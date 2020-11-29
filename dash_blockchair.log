@@ -3,7 +3,7 @@
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.248.134.139|9999|/Dash Core:0.16.1.1/|9318|1.248.0.0/13|KR|apnic|2010-07-19|SKB-AS SK Broadband Co Ltd, KR
 100.24.175.208|9999|/Dash Core:0.16.1.1/|14618|100.24.0.0/13|US|arin|2018-01-10|AMAZON-AES, US
-100.24.78.251|9999|/Dash Core:0.15.0/
+100.24.78.251|9999|/Dash Core:0.15.0/|14618|100.24.0.0/13|US|arin|2018-01-10|AMAZON-AES, US
 100.25.58.16|9999|/Dash Core:0.16.1.1/|14618|100.24.0.0/13|US|arin|2018-01-10|AMAZON-AES, US
 101.100.174.138|9999|/Dash Core:0.16.1.1/|56300|101.100.174.0/24|SG|apnic|2010-12-22|MYREPUBLIC-SG MyRepublic Ltd., SG
 101.37.136.202|9999|/Dash Core:0.15.0/|37963|101.37.128.0/17|CN|apnic|2010-12-14|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -52,7 +52,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.207.150.233|9999|/Dash Core:0.16.1.1/|20473|104.207.148.0/22|US|arin|2014-10-01|AS-CHOOPA, US
 104.207.151.131|9999|/Dash Core:0.15.0/|20473|104.207.148.0/22|US|arin|2014-10-01|AS-CHOOPA, US
 104.218.48.213|9999|/Dash Core:0.16.0.1/|19318|104.218.48.0/21|US|arin|2014-10-02|IS-AS-1, US
-104.218.48.217|9999|/Dash Core:0.16.0.1/|19318|104.218.48.0/21|US|arin|2014-10-02|IS-AS-1, US
+104.218.48.217|9999|/Dash Core:0.16.0.1/
 104.218.48.218|9999|/Dash Core:0.16.0.1/|19318|104.218.48.0/21|US|arin|2014-10-02|IS-AS-1, US
 104.218.48.222|9999|/Dash Core:0.16.0.1/|19318|104.218.48.0/21|US|arin|2014-10-02|IS-AS-1, US
 104.218.49.100|9999|/Dash Core:0.16.0.1/|19318|104.218.48.0/21|US|arin|2014-10-02|IS-AS-1, US
@@ -492,7 +492,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.88.182|9999|/Dash Core:0.16.0.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.88.183|9999|/Dash Core:0.16.0.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.88.184|9999|/Dash Core:0.15.0/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-135.181.88.186|9999|/Dash Core:0.15.0/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+135.181.88.186|9999|/Dash Core:0.15.0/
 135.181.88.192|9999|/Dash Core:0.15.0/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.88.193|9999|/Dash Core:0.16.0.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.88.196|9999|/Dash Core:0.16.0.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -954,7 +954,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.80.5.238|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 151.80.5.240|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 151.80.5.242|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
-151.80.5.243|9999|/Dash Core:0.15.0/
+151.80.5.243|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 151.80.5.244|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 151.80.5.245|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 151.80.5.247|9999|/Dash Core:0.15.0/|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
@@ -1100,7 +1100,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.72.161|9999|/Dash Core:0.15.0/|14061|159.65.64.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.8.2|9999|/Dash Core:0.15.0/|14061|159.65.0.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.80.72|9999|/Dash Core:0.15.0/|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
-159.65.83.218|9999|/Dash Core:0.14.0/
+159.65.83.218|9999|/Dash Core:0.14.0/|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.84.39|9999|/Dash Core:0.16.1.1/|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.92.42|9999|/Dash Core:0.16.1.1/|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.93.174|9999|/Dash Core:0.16.1.1/|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
@@ -1486,7 +1486,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.87.132|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.87.133|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.87.134|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
-168.119.87.135|9999|/Dash Core:0.16.1.1/
+168.119.87.135|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.87.136|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.87.137|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.87.192|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
@@ -1767,7 +1767,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.33.189.141|9999|/Dash Core:0.16.1.1/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.33.189.142|9999|/Dash Core:0.16.1.1/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.33.189.143|9999|/Dash Core:0.16.1.1/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
-178.33.189.144|9999|/Dash Core:0.15.0/
+178.33.189.144|9999|/Dash Core:0.15.0/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.33.189.145|9999|/Dash Core:0.15.0/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.33.189.146|9999|/Dash Core:0.15.0/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.33.189.147|9999|/Dash Core:0.16.1.1/|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
@@ -1850,7 +1850,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.236.77|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.62.238.233|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.62.239.152|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
-178.62.241.193|9999|/Dash Core:0.15.0/
+178.62.241.193|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.62.244.17|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.62.244.66|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.62.245.231|9999|/Dash Core:0.15.0/|14061|178.62.192.0/18|EU|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
@@ -2264,7 +2264,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.166.176.153|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.176.154|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.176.155|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
-188.166.176.157|9999|/Dash Core:0.16.0.1/
+188.166.176.157|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.176.159|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.176.16|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.176.160|9999|/Dash Core:0.16.0.1/|14061|188.166.176.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
@@ -2379,7 +2379,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.166.47.162|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.47.219|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.47.223|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
-188.166.47.232|9999|/Dash Core:0.15.0/
+188.166.47.232|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.5.179|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.5.202|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.50.34|9999|/Dash Core:0.15.0/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
@@ -2469,7 +2469,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.226.185.203|9999|/Dash Core:0.15.0/|14061|188.226.128.0/17|EU|ripencc|2009-07-09|DIGITALOCEAN-ASN, US
 188.226.196.182|9999|/Dash Core:0.15.0/|14061|188.226.128.0/17|EU|ripencc|2009-07-09|DIGITALOCEAN-ASN, US
 188.226.225.170|9999|/Dash Core:0.16.1.1/|14061|188.226.128.0/17|EU|ripencc|2009-07-09|DIGITALOCEAN-ASN, US
-188.40.137.108|9999|/Dash Core:0.16.0.1/|24940|188.40.0.0/16|DE|ripencc|2009-04-23|HETZNER-AS, DE
 188.40.178.64|9999|/Dash Core:0.16.1.1/|24940|188.40.0.0/16|DE|ripencc|2009-04-23|HETZNER-AS, DE
 188.40.178.65|9999|/Dash Core:0.16.1.1/|24940|188.40.0.0/16|DE|ripencc|2009-04-23|HETZNER-AS, DE
 188.40.178.66|9999|/Dash Core:0.16.1.1/|24940|188.40.0.0/16|DE|ripencc|2009-04-23|HETZNER-AS, DE
@@ -2795,7 +2794,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.135.82.72|9999|/Dash Core:0.15.0/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
 194.135.83.183|9999|/Dash Core:0.15.0/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
 194.135.83.189|9999|/Dash Core:0.16.1/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
-194.135.83.204|9999|/Dash Core:0.15.0/
+194.135.83.204|9999|/Dash Core:0.15.0/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
 194.135.83.254|9999|/Dash Core:0.16.1/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
 194.135.83.60|9999|/Dash Core:0.15.0/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
 194.135.83.76|9999|/Dash Core:0.15.0/|62282|194.135.80.0/20|LT|ripencc|1995-02-06|RACKRAY UAB Rakrejus, LT
@@ -3124,7 +3123,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.129.63.194|9999|/Dash Core:0.16.0.1/|12876|212.129.0.0/18|FR|ripencc|1999-03-15|Online SAS, FR
 212.129.63.9|9999|/Dash Core:0.14.0.2/|12876|212.129.0.0/18|FR|ripencc|1999-03-15|Online SAS, FR
 212.227.201.203|9999|/Dash Core:0.16.1.1/|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-212.227.203.175|9999|/Dash Core:0.16.1.1/|8560|212.227.0.0/16|DE|ripencc|1998-09-10|ONEANDONE-AS Brauerstrasse 48, DE
+212.227.203.175|9999|/Dash Core:0.16.1.1/|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.72.222|9999|/Dash Core:0.15.0/|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.237.24.218|9999|/Dash Core:0.12.2.3/|31034|212.237.0.0/18|IT|ripencc|1998-09-25|ARUBA-ASN, IT
 212.237.24.47|9999|/Dash Core:0.15.0/|31034|212.237.0.0/18|IT|ripencc|1998-09-25|ARUBA-ASN, IT
@@ -3143,7 +3142,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.24.101.44|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.101.97|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.102.136|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
-212.24.103.149|9999|/Dash Core:0.16.1.1/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
+212.24.103.149|9999|/Dash Core:0.16.1.1/
 212.24.103.167|9999|/Dash Core:0.16.1/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.103.173|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.103.195|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
@@ -3174,7 +3173,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.24.108.124|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.108.158|9999|/Dash Core:0.16.1/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.108.28|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
-212.24.108.96|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
+212.24.108.96|9999|/Dash Core:0.15.0/
 212.24.109.106|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.109.17|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
 212.24.109.186|9999|/Dash Core:0.15.0/|62282|212.24.96.0/20|LT|ripencc|1999-08-16|RACKRAY UAB Rakrejus, LT
@@ -3256,13 +3255,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.189.151.203|9999|/Dash Core:0.16.0.1/|7489|216.189.150.0/23|US|arin|2014-08-29|HOSTUS-GLOBAL-AS HostUS, HK
 216.189.151.207|9999|/Dash Core:0.16.0.1/|7489|216.189.150.0/23|US|arin|2014-08-29|HOSTUS-GLOBAL-AS HostUS, HK
 216.189.151.94|9999|/Dash Core:0.16.0.1/|7489|216.189.150.0/23|US|arin|2014-08-29|HOSTUS-GLOBAL-AS HostUS, HK
-217.160.11.97|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.160.15.66|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.160.172.126|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.160.173.19|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.160.246.76|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.160.27.232|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|ONEANDONE-AS Brauerstrasse 48, DE
-217.160.60.123|9999|/Dash Core:0.16.1.1/
+217.160.11.97|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.15.66|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.172.126|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.173.19|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.246.76|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.27.232|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.60.123|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.61.113|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.64.246|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.66.245|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -3502,7 +3501,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.226.117.38|9999|/Dash Core:0.16.1.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 3.226.60.5|9999|/Dash Core:0.16.1.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 3.226.89.132|9999|/Dash Core:0.16.1.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
-3.228.148.118|9999|/Dash Core:0.16.1.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
+3.228.148.118|9999|/Dash Core:0.16.1.1/
 3.228.251.250|9999|/Dash Core:0.15.0/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 3.229.96.32|9999|/Dash Core:0.16.1.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 3.23.131.214|9999|/Dash Core:0.16.0.1/|16509|3.20.0.0/14|US|arin|2017-12-20|AMAZON-02, US
@@ -3553,7 +3552,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.196.25.210|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.196.56.244|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.197.28.169|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
-34.198.120.110|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
+34.198.120.110|9999|/Dash Core:0.16.1.1/
 34.198.13.49|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.199.169.225|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.199.183.106|9999|/Dash Core:0.16.1.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
@@ -3754,7 +3753,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.32.158.164|9999|/Dash Core:0.15.0/|20473|45.32.152.0/21|US|arin|2015-02-17|AS-CHOOPA, US
 45.32.159.48|9999|/Dash Core:0.15.0/|20473|45.32.152.0/21|US|arin|2015-02-17|AS-CHOOPA, US
 45.32.16.236|9999|/Dash Core:0.16.1.1/|20473|45.32.16.0/21|US|arin|2015-02-17|AS-CHOOPA, US
-45.32.162.229|9999|/Dash Core:0.16.1.1/|20473|45.32.160.0/20|US|arin|2015-02-17|AS-CHOOPA, US
+45.32.162.229|9999|/Dash Core:0.16.1.1/
 45.32.164.56|9999|/Dash Core:0.15.0/|20473|45.32.160.0/20|US|arin|2015-02-17|AS-CHOOPA, US
 45.32.176.120|9999|/Dash Core:0.16.0.1/|20473|45.32.176.0/21|US|arin|2015-02-17|AS-CHOOPA, US
 45.32.176.145|9999|/Dash Core:0.16.0.1/|20473|45.32.176.0/21|US|arin|2015-02-17|AS-CHOOPA, US
@@ -3897,7 +3896,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.113.4|9999|/Dash Core:0.16.1.1/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.114.107|9999|/Dash Core:0.16.1.1/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.114.80|9999|/Dash Core:0.15.0/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
-45.76.115.243|9999|/Dash Core:0.15.0/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
+45.76.115.243|9999|/Dash Core:0.15.0/
 45.76.115.245|9999|/Dash Core:0.16.1.1/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.124.35|9999|/Dash Core:0.15.0/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.125.86|9999|/Dash Core:0.15.0/|20473|45.76.112.0/20|US|arin|2015-04-24|AS-CHOOPA, US
@@ -3924,7 +3923,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.205.140|9999|/Dash Core:0.16.1.1/|20473|45.76.192.0/19|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.206.183|9999|/Dash Core:0.16.1.1/|20473|45.76.192.0/19|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.209.197|9999|/Dash Core:0.15.0/|20473|45.76.192.0/19|US|arin|2015-04-24|AS-CHOOPA, US
-45.76.209.220|9999|/Dash Core:0.16.0.1/
+45.76.209.220|9999|/Dash Core:0.16.0.1/|20473|45.76.192.0/19|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.21.109|9999|/Dash Core:0.16.1.1/|20473|45.76.16.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.211.99|9999|/Dash Core:0.14.0.5/|20473|45.76.192.0/19|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.212.166|9999|/Dash Core:0.16.0.1/|20473|45.76.192.0/19|US|arin|2015-04-24|AS-CHOOPA, US
@@ -4278,7 +4277,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.9.143.40|9999|/Dash Core:0.15.0(14xJWEEGAx88)/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.151.49|8633|/Dash Core:0.14.0.1/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.152.77|9999|/Dash Core:0.16.0.1/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
-5.9.193.19|9999|/Dash Core:0.15.0/
+5.9.193.19|9999|/Dash Core:0.15.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.200.125|9999|/Dash Core:0.14.0.5/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.233.76|9999|/Dash Core:0.16.0.1/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.37.135|9999|/Dash Core:0.16.1.1/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -4513,7 +4512,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.36.166.111|9999|/Dash Core:0.14.0.1/|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.36.172.184|9999|/Dash Core:0.16.1/|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.37.130.10|9999|/Dash Core:0.16.0.1/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.37.176.241|9999|/Dash Core:0.16.0.1/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
+54.37.176.241|9999|/Dash Core:0.16.0.1/
 54.37.19.157|9999|/Dash Core:0.15.0/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.37.199.224|9999|/Dash Core:0.15.0/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.37.199.225|9999|/Dash Core:0.16.0.1/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
@@ -4550,7 +4549,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.86.21.207|9999|/Dash Core:0.16.1.1/|14618|54.86.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
 54.86.234.197|9999|/Dash Core:0.16.1.1/|14618|54.86.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
 54.87.205.68|9999|/Dash Core:0.15.0/|14618|54.87.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
-54.87.213.211|9999|/Dash Core:0.16.1.1/
+54.87.213.211|9999|/Dash Core:0.16.1.1/|14618|54.87.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
 54.87.229.132|9999|/Dash Core:0.16.1.1/|14618|54.87.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
 54.87.81.113|9999|/Dash Core:0.15.0/|14618|54.87.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
 54.88.18.7|9999|/Dash Core:0.16.1.1/|14618|54.88.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
@@ -4881,7 +4880,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 8.3.29.190|9999|/Dash Core:0.16.0.1/|20473|8.3.29.0/24|US|arin|1992-12-01|AS-CHOOPA, US
 8.9.36.84|9999|/Dash Core:0.16.1.1/|20473|8.9.36.0/23|US|arin|1992-12-01|AS-CHOOPA, US
 80.100.30.50|9999|/Dash Core:0.16.1/|3265|80.100.0.0/15|NL|ripencc|2001-07-16|XS4ALL-NL Amsterdam, NL
-80.101.109.52|9999|/Dash Core:0.14.0.2/|3265|80.100.0.0/15|NL|ripencc|2001-07-16|XS4ALL-NL Amsterdam, NL
+80.101.109.52|9999|/Dash Core:0.14.0.2/
 80.208.225.182|9999|/Dash Core:0.16.1/|62282|80.208.224.0/21|LT|ripencc|2001-12-12|RACKRAY UAB Rakrejus, LT
 80.208.225.90|9999|/Dash Core:0.15.0/|62282|80.208.224.0/21|LT|ripencc|2001-12-12|RACKRAY UAB Rakrejus, LT
 80.208.227.232|9999|/Dash Core:0.15.0/|62282|80.208.224.0/21|LT|ripencc|2001-12-12|RACKRAY UAB Rakrejus, LT
@@ -4926,27 +4925,27 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.2.95.136|9999|/Dash Core:0.15.0/|20712|81.2.64.0/18|GB|ripencc|2002-04-03|AS20712 Andrews & Arnold Ltd, GB
 81.25.55.49|9999|/Dash Core:0.16.1.1/|8905|81.25.48.0/20|RU|ripencc|2006-02-27|DIGIT1-AS Digit One Moscow Network, RU
 82.117.166.77|9999|/Dash Core:0.14.0/|31036|82.117.160.0/19|RU|ripencc|2004-02-10|NEWTELESYSTEMS, RU
-82.165.101.183|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
-82.165.124.138|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.101.183|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.165.124.138|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.160.100|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.163.63|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
-82.165.18.137|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.165.18.137|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
 82.165.18.58|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.18.87|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.184.47|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
-82.165.19.117|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.165.19.117|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
 82.165.202.215|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.206.77|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
 82.165.68.155|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
-82.165.69.149|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.69.149|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.70.254|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.71.54|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.165.73.53|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.76.29|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.76.73|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
-82.165.77.56|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.78.183|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.96.155|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.165.76.29|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.76.73|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.165.77.56|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.78.183|9999|/Dash Core:0.15.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
+82.165.96.155|9999|/Dash Core:0.16.1.1/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|ONEANDONE-AS Brauerstrasse 48, DE
 82.196.0.191|9999|/Dash Core:0.16.0.1/|14061|82.196.0.0/20|NL|ripencc|2003-10-27|DIGITALOCEAN-ASN, US
 82.196.1.10|9999|/Dash Core:0.15.0/|14061|82.196.0.0/20|NL|ripencc|2003-10-27|DIGITALOCEAN-ASN, US
 82.196.11.140|9999|/Dash Core:0.16.0.1/|14061|82.196.0.0/20|NL|ripencc|2003-10-27|DIGITALOCEAN-ASN, US
@@ -5059,7 +5058,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.211.21.245|9999|/Dash Core:0.16.1.1/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
 82.211.21.246|9999|/Dash Core:0.16.1.1/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
 82.211.21.247|9999|/Dash Core:0.15.0/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
-82.211.21.248|9999|/Dash Core:0.15.0/
+82.211.21.248|9999|/Dash Core:0.15.0/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
 82.211.21.25|9999|/Dash Core:0.16.1.1/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
 82.211.21.26|9999|/Dash Core:0.16.1.1/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
 82.211.21.27|9999|/Dash Core:0.16.1.1/|31400|82.211.0.0/18|DE|ripencc|2003-10-10|ACCELERATED-IT, DE
@@ -5401,7 +5400,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.209.241.239|9999|/Dash Core:0.16.1.1/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.24|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.240|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
-85.209.241.241|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
+85.209.241.241|9999|/Dash Core:0.15.0/
 85.209.241.242|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.243|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.244|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
@@ -5554,7 +5553,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.255.1.65|9999|/Dash Core:0.16.0.1/|24806|85.255.0.0/20|PL|ripencc|2005-02-17|INTERNET-CZ Ktis 2, 384 03 Ktis, CZ
 85.93.91.154|9999|/Dash Core:0.14.0.5(bitcore)/|8972|85.93.91.0/24|DE|ripencc|2004-12-08|GD-EMEA-DC-SXB1, DE
 87.106.126.146|9999|/Dash Core:0.15.0/|8560|87.106.0.0/16|DE|ripencc|2005-08-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-87.106.127.227|9999|/Dash Core:0.16.1.1/|8560|87.106.0.0/16|DE|ripencc|2005-08-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+87.106.127.227|9999|/Dash Core:0.16.1.1/|8560|87.106.0.0/16|DE|ripencc|2005-08-10|ONEANDONE-AS Brauerstrasse 48, DE
 87.106.152.233|9999|/Dash Core:0.16.1.1/|8560|87.106.0.0/16|DE|ripencc|2005-08-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 87.106.194.110|9999|/Dash Core:0.16.1.1/|8560|87.106.0.0/16|DE|ripencc|2005-08-10|ONEANDONE-AS Brauerstrasse 48, DE
 87.117.253.55|9999|/Dash Core:0.16.0.1/|20860|87.117.192.0/18|GB|ripencc|2005-09-29|IOMART-AS, GB
@@ -5644,7 +5643,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.115.26.186|20016|/Dash Core:0.16.1.1/|16125|93.115.24.0/21|LT|ripencc|2007-12-21|CHERRYSERVERS1-AS, LT
 93.186.202.30|9999|/Dash Core:0.15.0/|24961|93.186.192.0/20|DE|ripencc|2008-07-02|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 93.90.194.198|9999|/Dash Core:0.16.1.1/|8560|93.90.192.0/20|GB|ripencc|2008-04-23|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-93.90.203.85|9999|/Dash Core:0.15.0/|8560|93.90.192.0/20|GB|ripencc|2008-04-23|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+93.90.203.85|9999|/Dash Core:0.15.0/|8560|93.90.192.0/20|GB|ripencc|2008-04-23|ONEANDONE-AS Brauerstrasse 48, DE
 93.90.205.77|9999|/Dash Core:0.16.1.1/|8560|93.90.192.0/20|GB|ripencc|2008-04-23|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 94.130.129.84|9999|/Dash Core:0.14.0.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.148.238|9999|/Dash Core:0.16.0.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
