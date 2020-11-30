@@ -31,7 +31,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.61.183.37|9513|/Satoshi:0.8.7.2/|20473|108.61.180.0/22|US|arin|2010-12-08|AS-CHOOPA, US
 109.12.99.127|9333|/LitecoinCore:0.18.1/|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
 109.149.19.229|9333|/LitecoinCore:0.18.1/|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
-109.236.81.138|59333|/LitecoinCore:0.15.1/
+109.236.81.138|59333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.84.141|9333|/LitecoinCore:0.16.2/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.88.130|9333|/LitecoinCore:0.17.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.88.245|9333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
@@ -44,7 +44,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.229.127.66|9333|/LitecoinCore:0.17.1/|45090|111.229.64.0/18|CN|apnic|2009-07-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 112.54.13.221|9333|/LitecoinCore:0.17.1/|56044|112.54.0.0/20|CN|apnic|2008-12-15|CMNET-AS-LIAONING China Mobile communications corporation, CN
 112.74.45.139|9333|/LitecoinCore:0.17.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-115.68.190.124|9333|/LitecoinCore:0.16.3/|38700|115.68.128.0/17|KR|apnic|2008-07-15|SMILESERV-AS-KR SMILESERV, KR
 116.124.133.186|20010|/LitecoinCore:0.15.1/|9318|116.124.0.0/16|KR|apnic|2007-05-21|SKB-AS SK Broadband Co Ltd, KR
 116.202.0.237|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.202.100.25|9333|/LitecoinCore:0.13.2(bitcore)/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -59,6 +58,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.18.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.162.199|9333|/LitecoinCore:0.17.1/|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -604,7 +604,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5300:203:2fac::|9333|/LitecoinCore:0.16.3/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:203:53a6::|9333|/LitecoinCore:0.17.1(bitcore)/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:60:2218::|9333|/LitecoinCore:0.15.0.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
-2607:5300:60:980c::|28653|/LitecoinCore:0.18.1/
+2607:5300:60:980c::|28653|/LitecoinCore:0.18.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:60:ee2::1|9333|/LitecoinCore:0.18.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:61:60::|9333|/LitecoinCore:0.17.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5600:5ab:1053:d1c3:6969::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
@@ -1200,7 +1200,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.133.68.65|9333|/LitecoinCore:0.18.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.212.75.6|9333|/LitecoinCore:0.18.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
-89.240.205.230|9333|/LitecoinCore:0.18.1/|13285|89.240.0.0/16|GB|ripencc|2006-04-27|OPALTELECOM-AS TalkTalk Communications Limited, GB
 89.38.98.43|3786|/LitecoinCore:0.17.1/|49981|89.38.96.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.39.104.167|9333|/LitecoinCore:0.17.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.39.107.22|9333|/LitecoinCore:0.18.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
@@ -1244,7 +1243,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.111.228.34|56969|/DigitaleuroCore:0.16.3/|51167|95.111.228.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.242.5|8801|/Satoshi:0.8.7.4/|51167|95.111.242.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.251.230|9333|/LitecoinCore:0.17.1/|51167|95.111.250.0/23|DE|ripencc|2008-12-30|CONTABO, DE
-95.152.24.232|9333|/LitecoinCore:0.18.1/|12389|95.152.0.0/18|RU|ripencc|2009-02-04|ROSTELECOM-AS, RU
 95.154.90.99|9333|/LitecoinCore:0.16.3/|44724|95.154.90.0/24|RU|ripencc|2009-02-24|OCTOPUSNET-AS, RU
 95.163.71.126|9333|/LitecoinCore:0.15.1/|12695|95.163.64.0/18|RU|ripencc|2008-12-30|DINET-AS, RU
 95.168.164.216|9333|/LitecoinCore:0.18.1/|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
@@ -1312,6 +1310,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.91.182|9333|/LitecoinCore:0.17.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.79.35.133|10333|/LitecoinCore:0.18.1/|42682|95.79.0.0/16|RU|ripencc|2008-12-10|ERTH-NNOV-AS, RU
 96.126.123.143|9333|/LitecoinCore:0.18.1/|63949|96.126.112.0/20|US|arin|2011-05-06|LINODE-AP Linode, LLC, US
+96.230.12.114|9333|/Satoshi:0.8.6.1/|701|96.230.0.0/16|US|arin|2006-12-29|UUNET, US
 96.234.42.12|9333|/LitecoinCore:0.18.1/|701|96.234.0.0/17|US|arin|2006-12-29|UUNET, US
 96.249.252.98|9333|/LitecoinCore:0.18.1/|701|96.249.224.0/19|US|arin|2006-12-29|UUNET, US
 96.60.192.128|1337|/DefcoinCore:1.0.0/|4181|96.60.192.0/20|US|arin|2008-02-21|TDS-AS, US
