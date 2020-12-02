@@ -56,6 +56,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.18.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.17.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.162.199|9333|/LitecoinCore:0.17.1/|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -263,7 +264,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.56.238.189|9333|/LitecoinCore:0.18.1/|701|173.56.0.0/16|US|arin|2008-10-09|UUNET, US
 173.72.18.211|9333|/LitecoinCore:0.18.1/|701|173.72.0.0/17|US|arin|2008-08-11|UUNET, US
 173.76.80.162|9333|/FutureBit-ApolloCore:0.17.1/|701|173.76.0.0/16|US|arin|2008-08-11|UUNET, US
-173.82.46.189|9432|/Satoshi:0.8.6.5/|35916|173.82.0.0/16|US|arin|2008-11-14|MULTA-ASN1, US
 173.94.183.76|9333|/LitecoinCore:0.18.1/|11426|173.92.0.0/14|US|arin|2008-09-05|TWC-11426-CAROLINAS, US
 174.141.220.253|9333|/FutureBit-ApolloCore:0.17.1/|21928|174.141.208.0/20|US|arin|2010-02-16|T-MOBILE-AS21928, US
 174.49.159.176|9333|/LitecoinCore:0.15.0.1/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
@@ -469,7 +469,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:e68:5419:9b49:5cd0:f2ff:fe95:845f|9333|/LitecoinCore:0.18.1/|4788|2001:e68::/32|MY|apnic|2004-02-24|TMNET-AS-AP TM Net, Internet Service Provider, MY
 2001:e68:5420:8428:5ca7:d381:c5d1:7333|9333|/LitecoinCore:0.18.1/|4788|2001:e68::/32|MY|apnic|2004-02-24|TMNET-AS-AP TM Net, Internet Service Provider, MY
 2001:f40:908:ea0c:c800:d116:881:1d79|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
-2001:ff0:100:3d:254d:9d30:df09:3712|9333|/LitecoinCore:0.17.1/|9824|2001:ff0::/37|JP|apnic|2005-03-29|JTCL-JP-AS Jupiter Telecommunication Co. Ltd, JP
 2002:2627:cd06::2627:cd06|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
 2002:2f5a:562a::2f5a:562a|9333|/LitecoinCore:0.14.2/|6939|2002::/16||other||HURRICANE, US
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
@@ -563,6 +562,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.54.140.56|9333|/FutureBit-ApolloCore:0.17.1/|4181|24.54.140.0/23|US|arin|2009-04-28|TDS-AS, US
 24.6.92.181|9333|/LitecoinCore:0.17.1/|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 2400:2651:4740:3200:3c16:b942:4712:eb86|9333|/LitecoinCore:0.18.1/|17676|2400:2000::/20|JP|apnic|2005-07-12|GIGAINFRA Softbank BB Corp., JP
+2400:6180:0:d0::f3c:e001|1945|/CEPOTCore:0.16.3/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:6180:0:d1::635:b001|9333|/LitecoinCore:0.17.1/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|33666|/CypherfunkCore:0.15.2/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2403:4800:2406:5d00:1411:faa8:ff43:35bb|9333|/LitecoinCore:0.14.2/|9443|2403:4800::/32|AU|apnic|2008-08-22|VOCUS-RETAIL-AU Vocus Retail, AU
@@ -713,6 +713,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:20d7::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2186::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:176a::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -814,7 +815,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 39.97.98.238|9333|/LitecoinCore:0.17.1/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 39.98.93.159|9333|/LitecoinCore:0.16.3/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 40.71.41.208|9333|/LitecoinCore:0.17.1/|8075|40.68.0.0/14|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
-42.148.150.79|9333|/LitecoinCore:0.17.1/|9824|42.148.0.0/16|JP|apnic|2011-02-11|JTCL-JP-AS Jupiter Telecommunication Co. Ltd, JP
 44.225.254.244|9333|/LitecoinCore:0.18.1/|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.11.183.189|9333|/LitecoinCore:0.18.1/|207408|45.11.183.0/24|DE|ripencc|2019-04-29|SERVINGA-, EE
 45.252.250.223|9333|/LitecoinCore:0.17.1/|63760|45.252.248.0/22|VN|apnic|2016-06-02|AZDIGI-AS-VN AZDIGI Corporation, VN
@@ -1087,7 +1087,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.76.74.234|9333|/FutureBit-ApolloCore:0.17.1/|11351|74.76.0.0/14|US|arin|2006-03-27|TWC-11351-NORTHEAST, US
 75.143.168.29|9333|/FutureBit-ApolloCore:0.17.1/|20115|75.143.160.0/19|US|arin|2006-07-17|CHARTER-20115, US
 75.156.89.85|9333|/LitecoinCore:0.17.1/|852|75.156.0.0/17|CA|arin|2006-08-01|ASN852, CA
-75.159.253.81|9333|/LitecoinCore:0.18.1/|852|75.159.0.0/16|CA|arin|2006-08-01|ASN852, CA
 75.161.6.183|9333|/FutureBit-ApolloCore:0.17.1/|209|75.161.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 75.174.40.26|9333|/LitecoinCore:0.18.1/|209|75.174.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 75.40.189.179|9333|/LitecoinCore:0.17.1/|7018|75.40.0.0/14|US|arin|2006-02-28|ATT-INTERNET4, US
