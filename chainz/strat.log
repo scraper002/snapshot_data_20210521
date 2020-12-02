@@ -11,6 +11,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.131.130.215|StratisNode:3.0.8 (70012)|70012|4766|125.128.0.0/13|KR|apnic|2005-08-23|KIXS-AS-KR Korea Telecom, KR
 134.101.206.179|/Stratis:2.0.0.3/|70000|15943|134.101.128.0/17|DE|ripencc|1989-05-22|WTNET-AS wilhelm.tel GmbH, DE
 136.53.38.113|???|0|16591|136.53.32.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
+14.203.223.168|StratisNode:3.0.8 (70012)|70012|7545|14.203.223.0/24|AU|apnic|2010-09-14|TPG-INTERNET-AP TPG Telecom Limited, AU
 142.93.140.208|/Stratis:2.0.0.5/|70000|14061|142.93.128.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 144.139.65.230|???|0|1221|144.139.0.0/16|AU|apnic|1990-12-10|ASN-TELSTRA Telstra Corporation Ltd, AU
 145.40.32.198|/Stratis:2.0.0.3/|70000|49808|145.40.32.0/19|AT|ripencc|1993-09-01|POWERSPEED-AS, AT
@@ -51,6 +52,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.137.72.15|Breeze:1.1.12|70000|51825|213.137.72.0/24|IL|ripencc|2000-03-23|TELZAR-ASN, IL
 213.154.231.39|StratisNode:3.0.5 (70012)|70012|12859|213.154.224.0/19|NL|ripencc|2003-01-29|NL-BIT BIT BV, NL
 213.208.129.50|/Stratis:2.0.0.5/|70000|1764|213.208.128.0/19|AT|ripencc|2000-03-24|NEXTLAYER-AS, AT
+217.103.0.100|/Stratis:2.0.0.3/|70000|6830|217.103.0.0/17|NL|ripencc|2000-12-05|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 217.122.238.24|StratisNode:3.0.5 (70012)|70012|33915|217.122.0.0/15|NL|ripencc|2000-12-19|TNF-AS, NL
 217.240.239.70|/Stratis:2.0.0.5/|70000|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.245.171.233|/Stratis:2.0.0.3/|70000|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -64,7 +66,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.135.26.29|???|0|56983|31.135.16.0/20|PL|ripencc|2011-06-22|SWIDMAN-AS, PL
 31.161.194.47|/Stratis:2.0.0.3/|70000|1136|31.160.0.0/15|NL|ripencc|2011-02-16|KPN KPN National, EU
 31.185.13.203|/Stratis:2.0.0.5/|70000|41344|31.185.8.0/21|RU|ripencc|2011-03-15|VOL-AS, RU
-34.255.35.42|???|0|16509|34.248.0.0/13|US|arin|2016-09-12|AMAZON-02, US
 37.160.13.221|/Stratis:2.0.0.3/|70000|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 41.176.39.22|/Stratis:2.0.0.5/|70000|36992|41.176.32.0/20|EG|afrinic|2007-07-05|ETISALAT-MISR, EG
 45.56.142.234|/Stratis:2.0.0.5/|70000|32181|45.56.142.0/24|US|arin|2015-01-27|ASN-GIGENET, US
@@ -116,13 +117,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.203.250.231|/Stratis:2.0.0.5/|70000|16086|82.203.128.0/17|FI|ripencc|2003-10-23|DNA, FI
 82.32.229.205|???|0|5089|82.32.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.48.137.240|/Stratis:2.0.0.3/|70000|3269|82.48.0.0/16|IT|ripencc|2003-08-07|ASN-IBSNAZ, IT
-82.77.218.160|/Stratis:2.0.0.5/|70000|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
+82.72.189.123|StratisNode:3.0.8 (70012)|70012|33915|82.72.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
+82.77.218.175|/Stratis:2.0.0.5/|70000|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
 82.83.205.232|/Stratis:2.0.0.3/|70000|3209|82.82.0.0/15|DE|ripencc|2003-05-26|VODANET International IP-Backbone of Vodafone, DE
 83.83.13.250|/Stratis:2.0.0.3/|70000|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 83.86.182.120|StratisNode:3.0.8 (70012)|70012|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.157.223.213|/Stratis:2.0.0.5/|70000|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.114.17|StratisNode:3.0.8 (70012)|70012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.186.125.242|/Stratis:2.0.0.2/|70000|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.52.131.51|StratisNode:3.0.8 (70012)|70012|3212|84.52.128.0/18|SI|ripencc|2004-11-01|TELEMACH Broadband Access & Carrier Services, SI
 84.54.153.122|StratisNode:3.0.8 (70012)|70012|29084|84.54.153.0/24|BG|ripencc|2004-11-10|COMNET-AS, BG
 85.127.44.145|???|0|6830|85.126.0.0/15|AT|ripencc|2005-02-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 85.147.76.149|/Stratis:2.0.0.5/|70000|33915|85.147.0.0/17|NL|ripencc|2004-10-06|TNF-AS, NL
@@ -145,10 +148,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.22.92.146|Breeze:1.1.12|70000|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.233.239.39|StratisNode:3.0.4 (70012)|70012|49848|91.233.239.0/24|RU|ripencc|2011-12-20|SVYAZ-AS, RU
 91.53.92.110|StratisNode:3.0.8 (70012)|70012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.63.124.213|StratisNode:3.0.4 (70012)|70012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.106.22.27|/Stratis:2.0.0.3/|70000|3303|92.106.0.0/16|CH|ripencc|2007-09-28|SWISSCOM Swisscom (Switzerland) Ltd, CH
 92.109.36.61|StratisNode:3.0.8 (70012)|70012|6830|92.108.0.0/15|NL|ripencc|2007-10-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 93.238.192.79|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.196.210|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+95.165.168.232|StratisNode:3.0.5 (70012)|70012|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
 95.217.78.168|/Stratis:2.0.0.5/|70000|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.90.217.157|/Stratis:2.0.0.3/|70000|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.252.76|/Stratis:2.0.0.5/|70000|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
