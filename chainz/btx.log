@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.202.55.2|/Odarhom:0.90.9.6/|80008|20473|144.202.48.0/20|US|arin|2018-02-05|AS-CHOOPA, US
 149.129.48.32|/Odarhom:0.90.9.6/|80008|45102|149.129.32.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 149.129.49.176|/Odarhom:0.90.9.6/|80008|45102|149.129.32.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
-149.129.54.149|/Odarhom:0.90.9.6/|80008|45102|149.129.32.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 149.129.56.201|/Odarhom:0.90.9.6/|80008|45102|149.129.32.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 149.129.57.175|/Odarhom:0.90.9.6/|80008|45102|149.129.32.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 149.129.73.164|/Odarhom:0.90.9.6/|80008|45102|149.129.64.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -35,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.132.245.131|/Odarhom:0.90.9.5/|80008|197540|45.132.244.0/22|DE|ripencc|2019-07-24|NETCUP-AS netcup GmbH, DE
 45.77.181.131|/Odarhom:0.90.9.6/|80008|20473|45.77.176.0/21|US|arin|2015-04-24|AS-CHOOPA, US
 45.9.62.240|/Odarhom:0.90.9.5/|80008|197540|45.9.60.0/22|DE|ripencc|2019-04-17|NETCUP-AS netcup GmbH, DE
+45.90.4.226|/Odarhom:0.90.9.5/|80008|197540|45.90.4.0/22|DE|ripencc|2019-06-21|NETCUP-AS netcup GmbH, DE
 58.8.5.161|/Odarhom:0.90.9.6/|80008|17552|58.8.0.0/18|TH|apnic|2005-02-08|TRUEONLINE-AS-AP True Online, TH
 62.171.139.192|/Odarhom:0.90.9.6/|80008|51167|62.171.138.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 77.20.176.42|/Odarhom:0.90.9.6/|80008|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
@@ -43,8 +43,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 8.210.135.81|/Odarhom:0.90.9.6/|80008|45102|8.210.128.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 8.210.137.165|/Odarhom:0.90.9.6/|80008|45102|8.210.128.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 8.210.139.59|/Odarhom:0.90.9.6/|80008|45102|8.210.128.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
-8.210.2.176|/Odarhom:0.90.9.6/|80008|45102|8.210.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 8.210.39.245|/Odarhom:0.90.9.6/|80008|45102|8.210.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+8.210.39.247|/Odarhom:0.90.9.6/|80008|45102|8.210.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 8.210.85.187|/Odarhom:0.90.9.6/|80008|45102|8.210.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 80.135.117.126|/Odarhom:0.90.9.6/|80008|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 87.190.52.75|/Odarhom:0.90.9.7/|80008|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
@@ -53,4 +53,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.179.244.106|/Odarhom:0.90.9.6/|80008|20473|95.179.240.0/20|NL|ripencc|2009-01-22|AS-CHOOPA, US
 95.216.112.67|/Odarhom:0.90.9.7/|80008|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.161.79|/Odarhom:0.90.9.6/|80008|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.189.118|/Odarhom:0.90.9.5/|80008|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
