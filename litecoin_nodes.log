@@ -22,6 +22,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.37.196.244|1337|/DefcoinCore:1.0.0/|36077|104.37.196.0/24|CA|arin|2014-07-02|DYNAMICHOSTINGBIZ, CA
 104.37.196.26|10332|/DefcoinCore:1.0.0/|36077|104.37.196.0/24|CA|arin|2014-07-02|DYNAMICHOSTINGBIZ, CA
 106.52.177.16|38333|/LitecoinCore:0.17.1/|45090|106.52.176.0/20|CN|apnic|2011-04-06|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+107.129.162.76|9333|/LitecoinCore:0.18.1/|7018|107.128.0.0/12|US|arin|2013-10-23|ATT-INTERNET4, US
 107.150.52.74|7107|/FlashcoinCore:0.13.3/|33387|107.150.32.0/19|US|arin|2013-12-03|NOCIX, US
 107.190.47.97|9933|/LitecoinCore:0.16.3/|5645|107.190.32.0/20|CA|arin|2014-04-25|TEKSAVVY, CA
 107.223.161.13|9333|/LitecoinCore:0.17.1/|7018|107.208.0.0/12|US|arin|2012-04-25|ATT-INTERNET4, US
@@ -605,7 +606,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5300:61:60::|9333|/LitecoinCore:0.17.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5600:5ab:1053:d1c3:6969::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:5600:5ab:1337:b075:1::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
-2804:14c:43:23d9:d7e:b87c:4529:6407|9333|/LitecoinCore:0.18.1/|28573|2804:14c:40::/44|BR|lacnic|2012-02-10|CLARO S.A., BR
 2806:103e:27:6a94:b506:d0c4:1d7d:4ba4|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
 2a00:1370:812d:3da0:7c45:8049:f4c2:e548|9333|/LitecoinCore:0.18.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
 2a00:1838:2a:1500:c429:c2b9:203:7884|11333|/LitecoinCore:0.18.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
@@ -735,13 +735,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d005:240:5054:ff:fe0a:2f76|9333|/LitecoinCore:0.13.2(bitcore)/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:7c8:d009:c0:5054:ff:fe20:aef3|9333|/LitecoinCore:0.18.1/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f98:ca00:5054:ff:fed4:763d|9555|/LitecoinCore:0.18.1/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
+2a01:e0a:1fe:1590:5580:74bc:6ee5:60ab|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:373:dad0:1169:a531:ef93:3a64|9333|/LitecoinCore:0.17.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:cc:add0:d2ee:c942:5c61:40e9|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ec16:6140:1988:267b:1876:378e|9333|/LitecoinCore:0.16.3/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:2433:9460:40:eefc:12df:14b1|9333|/LitecoinCore:0.18.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e35:2f6b:5120:20a5:d9f9:7e54:36e4|9333|/LitecoinCore:0.16.3/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
-2a02:587:d407:8a00:df:64ee:c953:69a9|9333|/LitecoinCore:0.18.1/|6799|2a02:587:c000::/34|GR|ripencc|2008-07-03|OTENET-GR Athens - Greece, GR
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:8070:4180:7800:1f55:1d85:f4e2:418|9333|/LitecoinCore:0.18.1/|6830|2a02:8070::/32|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -921,7 +922,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.245.85.73|61236|/DigitaleuroCore:0.16.3/|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 50.34.91.57|9333|/FutureBit-ApolloCore:0.17.1/|27017|50.34.0.0/16|US|arin|2010-09-24|ZIPLY-FIBER-LEGACY-ASN, US
 50.5.9.168|9333|/FutureBit-ApolloCore:0.17.1/|6181|50.5.0.0/17|US|arin|2010-09-09|FUSE-NET, US
-50.72.179.35|9333|/LitecoinCore:0.14.2/|6327|50.72.176.0/22|CA|arin|2010-10-28|SHAW, CA
 50.72.45.183|9333|/LitecoinCore:0.18.1/|6327|50.72.44.0/22|CA|arin|2010-10-28|SHAW, CA
 50.79.57.65|9333|/LitecoinCore:0.17.1/|7922|50.76.0.0/14|US|arin|2011-01-06|COMCAST-7922, US
 51.144.233.176|9333|/LitecoinCore:0.16.0/|8075|51.144.0.0/15|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -1077,6 +1077,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.131.154.120|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.180.5.106|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.188.232.19|9333|/LitecoinCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.209.140.38|9333|/LitecoinCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.21.138.78|9333|/FutureBit-ApolloCore:0.17.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.225.8.164|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.242.77.243|9333|/Satoshi:0.13.2/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -1191,6 +1192,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.149.100|9333|/LitecoinCore:0.17.1/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.150.13|9333|/LitecoinCore:0.16.3/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 88.99.71.139|9002|/LitecoinCore:0.16.3/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.72.217|9333|/LitecoinCore:0.13.2/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.133.68.65|9333|/LitecoinCore:0.18.1/|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
 89.212.75.6|9333|/LitecoinCore:0.18.1/|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2, d.o.o., SI
