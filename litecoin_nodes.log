@@ -172,7 +172,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 148.251.69.164|9333|/LitecoinCore:0.17.1/|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
 148.251.75.194|9333|/LitecoinCore:0.18.1/|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
 149.129.33.240|8335|/LitecoinCore:0.17.1/|45102|149.129.32.0/19|SG|apnic|1991-04-12|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
-149.210.226.74|10333|/LitecoinCore:0.17.1/|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 149.248.13.187|9333|/LitecoinCore:0.16.3/|20473|149.248.0.0/19|US|arin|2018-07-03|AS-CHOOPA, US
 149.28.39.130|9333|/LitecoinCore:0.16.3/|20473|149.28.32.0/19|US|arin|2018-05-04|AS-CHOOPA, US
 149.56.132.49|7107|/FlashcoinCore:0.13.3.2(bitcore)/|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
@@ -376,6 +375,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.166.173.215|9333|/LitecoinCore:0.13.2(bitcore)/|14061|188.166.168.0/21|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.247.24|9333|/LitecoinCore:0.16.3/|14061|188.166.240.0/20|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.166.4.21|9333|/LitecoinCore:0.13.2(bitcore)/|14061|188.166.0.0/18|NL|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
+188.191.110.4|9333|/Satoshi:0.8.7.1/|43310|188.191.96.0/20|UA|ripencc|2011-02-23|LVS-AS, UA
 188.214.128.107|9333|/LitecoinCore:0.18.1/|16125|188.214.128.0/21|LT|ripencc|2009-05-08|CHERRYSERVERS1-AS, LT
 188.214.128.192|9333|/LitecoinCore:0.18.1/|16125|188.214.128.0/21|LT|ripencc|2009-05-08|CHERRYSERVERS1-AS, LT
 188.40.137.108|9333|/LitecoinCore:0.18.1/|24940|188.40.0.0/16|DE|ripencc|2009-04-23|HETZNER-AS, DE
@@ -468,14 +468,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:1828:1b33::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8:1800::/38|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:4400:2b00::1c:b05|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
+2001:e68:5419:9b49:5cd0:f2ff:fe95:845f|9333|/LitecoinCore:0.18.1/|4788|2001:e68::/32|MY|apnic|2004-02-24|TMNET-AS-AP TM Net, Internet Service Provider, MY
 2001:f40:908:ea0c:c800:d116:881:1d79|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 2001:ff0:100:3d:254d:9d30:df09:3712|9333|/LitecoinCore:0.17.1/|9824|2001:ff0::/37|JP|apnic|2005-03-29|JTCL-JP-AS Jupiter Telecommunication Co. Ltd, JP
 2002:2627:cd06::2627:cd06|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
 2002:2f5a:562a::2f5a:562a|9333|/LitecoinCore:0.14.2/|6939|2002::/16||other||HURRICANE, US
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:5fd3:8a6e::5fd3:8a6e|8334|/LitecoinCore:0.15.1/|6939|2002::/16||other||HURRICANE, US
-2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
-2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:c7f7:1874::c7f7:1874|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
 2003:cb:8715:b902:aaa1:59ff:fe1e:4e75|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
@@ -604,6 +603,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2800:bf0:86:134a:810b:5532:ea59:3b95|9333|/LitecoinCore:0.18.1/|52257|2800:bf0:86::/48|EC|lacnic|2011-12-07|Telconet S.A, EC
 2806:103e:27:6a94:b506:d0c4:1d7d:4ba4|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
 2a00:1370:812d:3da0:7c45:8049:f4c2:e548|9333|/LitecoinCore:0.18.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
+2a00:1370:8131:9f8:2497:9fc1:cfcc:6f35|9333|/LitecoinCore:0.17.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
 2a00:1838:2a:1500:c429:c2b9:203:7884|11333|/LitecoinCore:0.18.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
 2a00:1838:36:17::38cb|9333|/LitecoinCore:0.15.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
 2a00:1838:36:5d::bae2|9333|/LitecoinCore:0.15.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
@@ -740,7 +740,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:1206:4547:56b0:55c0:829:30c4:ef81|9333|/LitecoinCore:0.18.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
-2a02:8070:4180:7800:1f55:1d85:f4e2:418|9333|/LitecoinCore:0.18.1/|6830|2a02:8070::/32|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:0:3829::1|9333|/LitecoinCore:0.16.0/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2012:1570::1|9333|/LitecoinCore:0.14.2/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -1310,7 +1309,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 97.89.234.64|9333|/FutureBit-ApolloCore:0.17.1/|20115|97.89.224.0/20|US|arin|2007-03-21|CHARTER-20115, US
 97.92.0.182|9333|/LitecoinCore:0.18.1/|20115|97.92.0.0/19|US|arin|2007-03-21|CHARTER-20115, US
 98.217.124.239|9333|/LitecoinCore:0.18.1/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
-98.221.218.86|9333|/LitecoinCore:0.18.1/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.234.185.70|9333|/LitecoinCore:0.18.1/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.248.132.32|9333|/LitecoinCore:0.17.1(ChP)/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.29.195.204|9333|/LitecoinCore:0.18.1/|10796|98.29.0.0/16|US|arin|2007-11-02|TWC-10796-MIDWEST, US
