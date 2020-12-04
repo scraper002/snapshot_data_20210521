@@ -2,7 +2,6 @@
 # Stratis
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.8.7.248|/Stratis:2.0.0.3/|70000|701|100.8.0.0/16|US|arin|2010-12-28|UUNET, US
-104.188.232.219|StratisNode:3.0.7 (70012)|70012|7018|104.176.0.0/12|US|arin|2014-08-12|ATT-INTERNET4, US
 104.5.60.32|/Stratis:2.0.0.3/|70000|7018|104.0.0.0/12|US|arin|2014-01-16|ATT-INTERNET4, US
 104.62.160.66|StratisNode:3.0.8 (70012)|70012|7018|104.48.0.0/12|US|arin|2014-05-06|ATT-INTERNET4, US
 109.182.179.204|/Stratis:2.0.0.5/|70000|5603|109.182.128.0/17|SI|ripencc|2009-09-25|SIOL-NET Telekom Slovenije d.d., SI
@@ -81,6 +80,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.120.197.60|/Stratis:2.0.0.5/|70000|9009|37.120.197.0/24|RO|ripencc|2012-02-13|M247, GB
 37.63.14.237|StratisNode:3.0.0 (70012)|70012|8717|37.63.0.0/20|BG|ripencc|2012-01-23|SPECTRUMNET, BG
 46.125.249.117|StratisNode:3.0.8 (70012)|70012|8412|46.124.0.0/15|AT|ripencc|2010-05-31|TMA Rennweg 97-99, AT
+46.223.148.147|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.149.182|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.163.107|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.163.114|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -155,10 +155,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.116.139.164|/Stratis:2.0.0.3/|70000|8447|88.116.0.0/15|AT|ripencc|2005-09-16|TELEKOM-AT A1 Telekom Austria AG, AT
 88.9.136.241|???|0|3352|88.9.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
 88.90.62.169|/Stratis:2.0.0.5/|70000|2119|88.88.0.0/13|NO|ripencc|2005-11-25|TELENOR-NEXTEL Telenor Norge AS, NO
-89.10.227.34|/Blockcore:1.0.15(STRAT;70013)/|70013|15659|89.10.0.0/15|NO|ripencc|2006-06-29|NEXTGENTEL NEXTGENTEL Autonomous System, NO
 89.247.195.57|/Stratis:2.0.0.2/|70000|8881|89.247.192.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.248.253.22|/Stratis:2.0.0.3/|70000|41670|89.248.240.0/20|CZ|ripencc|2006-07-14|HKFREE-AS, CZ
-89.34.98.99|StratisNode:3.0.7 (70012)|70012|25369|89.34.96.0/22|GB|ripencc|2005-11-29|BANDWIDTH-AS, GB
 90.145.167.61|/Stratis:2.0.0.5/|70000|29396|90.145.0.0/16|NL|ripencc|2006-11-17|EUROFIBER-UNET EUROFIBER, NL
 91.121.110.119|/Stratis:2.0.0.3/|70000|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.141.193.42|StratisNode:3.0.8 (70012)|70012|31615|91.141.128.0/17|NL|ripencc|2007-11-06|TMO-NL-AS, NL
@@ -169,7 +167,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.207.251.239|StratisNode:3.0.4 (70012)|70012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.195.183|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.196.201|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-94.168.107.66|/Stratis:2.0.0.3/|70000|6830|94.168.0.0/17|NL|ripencc|2008-08-28|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 94.175.118.148|???|0|5089|94.175.0.0/16|GB|ripencc|2008-08-28|NTL, GB
 95.164.54.98|StratisNode:3.0.5 (70012)|70012|29632|95.164.0.0/16|GI|ripencc|2008-12-31|NASSIST-AS, GI
 95.165.168.232|StratisNode:3.0.5 (70012)|70012|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
