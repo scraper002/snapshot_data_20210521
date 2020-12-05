@@ -9,6 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.182.179.204|/Stratis:2.0.0.5/|70000|5603|109.182.128.0/17|SI|ripencc|2009-09-25|SIOL-NET Telekom Slovenije d.d., SI
 112.199.236.157|/Stratis:2.0.0.3/|70000|4773|112.199.192.0/18|SG|apnic|2009-02-17|MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore, SG
 116.126.141.21|/Stratis:2.0.0.5/|70000|9318|116.126.0.0/16|KR|apnic|2007-05-21|SKB-AS SK Broadband Co Ltd, KR
+116.202.129.35|StratisNode:3.0.8 (70012)|70012|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.102.74.197|StratisNode:3.0.5 (70012)|70012|7545|118.102.74.0/24|AU|apnic|2007-09-04|TPG-INTERNET-AP TPG Telecom Limited, AU
 122.155.165.14|StratisNode:3.0.8 (70012)|70012|9335|122.155.160.0/19|TH|apnic|2007-01-08|CAT-CLOUD-AP CAT Telecom Public Company Limited, TH
 134.101.156.220|/Stratis:2.0.0.3/|70000|15943|134.101.128.0/17|DE|ripencc|1989-05-22|WTNET-AS wilhelm.tel GmbH, DE
@@ -103,6 +104,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.210.114.183|StratisNode:3.0.3 (70012)|70012|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.214.17|???|0|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.54.14.27|/Stratis:2.0.0.3/|70000|14618|52.54.0.0/15|US|arin|2015-09-02|AMAZON-AES, US
+60.141.45.80|StratisNode:3.0.8 (70012)|70012|17676|60.141.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 62.182.65.33|/Stratis:2.0.0.2/|70000|196638|62.182.64.0/21|UA|ripencc|2011-02-18|PROMTELECOM-AS, UA
 62.216.203.198|/Stratis:2.0.0.3/|70000|8767|62.216.192.0/19|DE|ripencc|2005-04-20|MNET-AS Germany, DE
 62.216.207.233|/Stratis:2.0.0.3/|70000|8767|62.216.192.0/19|DE|ripencc|2005-04-20|MNET-AS Germany, DE
@@ -140,7 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.131.168.125|/Stratis:2.0.0.5/|70000|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.186.125.242|/Stratis:2.0.0.2/|70000|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.187.65.216|StratisNode:3.0.8 (70012)|70012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.193.110.92|StratisNode:3.0.8 (70012)|70012|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.203.56.209|???|0|31122|84.203.0.0/16|IE|ripencc|2004-05-24|DIGIWEB-AS, IE
 84.26.153.151|StratisNode:3.0.8 (70012)|70012|33915|84.24.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 85.147.76.149|/Stratis:2.0.0.5/|70000|33915|85.147.0.0/17|NL|ripencc|2004-10-06|TNF-AS, NL
@@ -153,7 +154,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.116.139.164|/Stratis:2.0.0.3/|70000|8447|88.116.0.0/15|AT|ripencc|2005-09-16|TELEKOM-AT A1 Telekom Austria AG, AT
 88.134.6.63|???|0|3209|88.134.0.0/16|DE|ripencc|2005-10-31|VODANET International IP-Backbone of Vodafone, DE
 89.10.227.34|/Blockcore:1.0.15(STRAT;70013)/|70013|15659|89.10.0.0/15|NO|ripencc|2006-06-29|NEXTGENTEL NEXTGENTEL Autonomous System, NO
-89.247.195.57|/Stratis:2.0.0.2/|70000|8881|89.247.192.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.248.253.22|/Stratis:2.0.0.3/|70000|41670|89.248.240.0/20|CZ|ripencc|2006-07-14|HKFREE-AS, CZ
 90.145.167.61|/Stratis:2.0.0.5/|70000|29396|90.145.0.0/16|NL|ripencc|2006-11-17|EUROFIBER-UNET EUROFIBER, NL
 90.191.26.195|/Stratis:2.0.0.5/|70000|3249|90.190.0.0/15|EE|ripencc|2006-11-14|ESTPAK, EE
@@ -167,6 +167,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.206.7.146|/Stratis:2.0.0.2/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.195.183|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.201.106|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+95.112.14.122|???|0|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
 95.164.54.98|StratisNode:3.0.5 (70012)|70012|29632|95.164.0.0/16|GI|ripencc|2008-12-31|NASSIST-AS, GI
 95.165.168.232|StratisNode:3.0.5 (70012)|70012|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
 95.217.78.168|/Stratis:2.0.0.5/|70000|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
