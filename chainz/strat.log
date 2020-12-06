@@ -44,7 +44,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.161.200.226|Breeze:1.1.12|70000|12768|178.161.200.0/22|RU|ripencc|2010-02-02|ER-TELECOM-AS, RU
 178.195.164.233|/Stratis:2.0.0.3/|70000|3303|178.194.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
 178.200.22.125|/Stratis:2.0.0.3/|70000|6830|178.200.0.0/15|DE|ripencc|2010-03-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
-178.25.122.56|/Stratis:2.0.0.2/|70000|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 178.25.127.36|/Stratis:2.0.0.2/|70000|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 178.55.140.43|/Stratis:2.0.0.5/|70000|16086|178.55.0.0/16|FI|ripencc|2010-01-19|DNA, FI
 18.185.70.77|???|0|16509|18.184.0.0/15|US|arin|2018-06-29|AMAZON-02, US
@@ -72,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.208.129.50|/Stratis:2.0.0.5/|70000|1764|213.208.128.0/19|AT|ripencc|2000-03-24|NEXTLAYER-AS, AT
 213.232.87.88|StratisNode:3.0.8 (70012)|70012|49981|213.232.87.0/24|DE|ripencc|2018-12-07|WORLDSTREAM, NL
 216.67.24.167|StratisNode:3.0.8 (70012)|70012|7782|216.67.0.0/17|US|arin|2005-03-09|ALSK-7782, US
+217.101.124.228|/Stratis:2.0.0.2/|70000|33915|217.101.0.0/17|NL|ripencc|2000-12-05|TNF-AS, NL
 217.122.238.24|StratisNode:3.0.5 (70012)|70012|33915|217.122.0.0/15|NL|ripencc|2000-12-19|TNF-AS, NL
 217.240.239.70|/Stratis:2.0.0.5/|70000|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.245.171.233|/Stratis:2.0.0.3/|70000|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -82,11 +82,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.247.148.64|/Stratis:2.0.0.3/|70000|20115|24.247.144.0/20|US|arin|2000-07-14|CHARTER-20115, US
 24.42.132.146|StratisNode:3.0.5 (70012)|70012|12083|24.42.128.0/18|US|arin|2008-07-14|WOW-INTERNET, US
 24.71.249.84|/Stratis:2.0.0.2/|70000|6327|24.71.248.0/22|CA|arin|1996-06-03|SHAW, CA
-27.75.40.157|StratisNode:3.0.8 (70012)|70012|7552|27.75.40.0/21|VN|apnic|2010-04-27|VIETEL-AS-AP Viettel Group, VN
 3.112.138.57|StratisNode:3.0.6 (70012)|70012|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.135.26.29|???|0|56983|31.135.16.0/20|PL|ripencc|2011-06-22|SWIDMAN-AS, PL
 31.185.13.164|/Stratis:2.0.0.5/|70000|41344|31.185.8.0/21|RU|ripencc|2011-03-15|VOL-AS, RU
 37.113.186.202|StratisNode:3.0.8 (70012)|70012|41661|37.113.184.0/22|RU|ripencc|2012-02-09|ERTH-CHEL-AS, RU
+37.162.160.227|/Stratis:2.0.0.3/|70000|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.163.30.173|/Stratis:2.0.0.3/|70000|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 41.176.108.54|/Stratis:2.0.0.5/|70000|36992|41.176.104.0/21|EG|afrinic|2007-07-05|ETISALAT-MISR, EG
 46.223.148.147|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -158,7 +158,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.53.92.110|StratisNode:3.0.8 (70012)|70012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.106.22.27|/Stratis:2.0.0.3/|70000|3303|92.106.0.0/16|CH|ripencc|2007-09-28|SWISSCOM Swisscom (Switzerland) Ltd, CH
 92.242.243.156|/Stratis:2.0.0.5/|70000|44377|92.242.224.0/19|HR|ripencc|2008-01-09|MTNET-AS MAGIC-NET, HR
-93.12.66.205|???|0|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
 93.206.7.146|/Stratis:2.0.0.2/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.195.64|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.201.106|/Stratis:2.0.0.3/|70000|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
