@@ -574,6 +574,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:8901::f03c:91ff:fe92:4ea0|33666|/CypherfunkCore:0.15.2/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2403:2700:4001::93|9333|/LitecoinCore:0.18.1/|38500|2403:2700:4001::/48|ID|apnic|2012-02-22|CROSSNET-AS-ID PT. Cross Network Indonesia, ID
 2403:4800:2406:5d00:1411:faa8:ff43:35bb|9333|/LitecoinCore:0.14.2/|9443|2403:4800::/32|AU|apnic|2008-08-22|VOCUS-RETAIL-AU Vocus Retail, AU
+2409:8a38:122e:1860:f4e9:526a:b584:5491|9333|/LitecoinCore:0.14.2/|9808|2409:8a38::/32|CN|apnic|2011-08-23|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 240e:345:b87:6100:95c5:7380:6839:3bc4|9333|/LitecoinCore:0.18.1/|4134|240e:344::/30|CN|apnic|2011-12-14|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 240f:109:420c:1:f5b6:4d09:86cf:5d0b|9333|/LitecoinCore:0.18.1/|2516|240f:100::/24|JP|apnic|2017-10-27|KDDI KDDI CORPORATION, JP
 2600:1700:daa:90::44|9333|/LitecoinCore:0.18.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
@@ -609,7 +610,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2800:bf0:86:134a:810b:5532:ea59:3b95|9333|/LitecoinCore:0.18.1/|52257|2800:bf0:86::/48|EC|lacnic|2011-12-07|Telconet S.A, EC
 2804:14c:43:23d9:6103:d1ad:acf6:45c2|9333|/LitecoinCore:0.18.1/|28573|2804:14c:40::/44|BR|lacnic|2012-02-10|CLARO S.A., BR
 2806:103e:27:6a94:b506:d0c4:1d7d:4ba4|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
-2806:2f0:90c0:cf06:2157:bb8a:bfb:2ddf|9333|/LitecoinCore:0.18.1/|17072|2806:2f0:90c0::/47|MX|lacnic|2012-10-11|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
 2a00:1370:812d:7940:fd68:d7f:5105:b56b|9333|/LitecoinCore:0.17.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
 2a00:1838:2a:1500:c429:c2b9:203:7884|11333|/LitecoinCore:0.18.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
 2a00:1838:36:17::38cb|9333|/LitecoinCore:0.15.1/|43317|2a00:1838::/32|RU|ripencc|2009-12-09|FISHNET-AS, RU
@@ -849,6 +849,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.4.80.152|9333|/LitecoinCore:0.17.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.81.176|9333|/LitecoinCore:0.18.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.87.133|9333|/LitecoinCore:0.18.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
+47.108.73.231|9333|/LitecoinCore:0.18.1/|37963|47.108.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.112.105.55|9333|/LitecoinCore:0.16.3/|37963|47.112.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.116.28.219|9333|/LitecoinCore:0.16.3/|37963|47.116.0.0/17|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.133.76.59|9333|/FutureBit-ApolloCore:0.17.1/|20115|47.132.0.0/15|US|arin|2017-11-27|CHARTER-20115, US
@@ -879,10 +880,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.74.132|9333|/LitecoinCore:0.17.1/|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.77.232|9333|/LitecoinCore:0.17.1/|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.92.134.60|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.92.248.231|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.93.113.174|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.93.161.68|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.93.219.20|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.93.26.31|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.93.77.195|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.94.151.212|9333|/LitecoinCore:0.18.1(LTC1)/|37963|47.94.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1040,7 +1039,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.253.165.206|9333|/FutureBit-ApolloCore:0.17.1/|23473|66.253.164.0/23|US|arin|2003-08-08|PAVLOVMEDIA, US
 66.27.69.145|9333|/LitecoinCore:0.17.1/|20001|66.27.0.0/16|US|arin|2000-10-06|TWC-20001-PACWEST, US
 67.166.137.58|9333|/FutureBit-ApolloCore:0.17.1/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
-67.173.129.34|9333|/LitecoinCore:0.18.1/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
 67.183.29.123|9333|/LitecoinCore:0.16.3/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
 67.2.217.126|9333|/LitecoinCore:0.18.1/|209|67.2.0.0/16|US|arin|2001-07-26|CENTURYLINK-US-LEGACY-QWEST, US
 67.207.91.29|9333|/Satoshi:0.13.2/|14061|67.207.80.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
@@ -1127,6 +1125,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.129.221.31|9333|/LitecoinCore:0.17.1/|20860|78.129.128.0/17|GB|ripencc|2007-04-18|IOMART-AS, GB
 78.141.210.46|56969|/DigitaleuroCore:0.16.3/|20473|78.141.208.0/20|FR|ripencc|2007-07-30|AS-CHOOPA, US
 78.20.135.129|9333|/LitecoinCore:0.18.1/|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
+78.224.88.92|9333|/LitecoinCore:0.18.1/|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.44.250.93|9333|/LitecoinCore:0.18.1/|6830|78.44.0.0/16|CZ|ripencc|2007-04-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 78.46.254.164|9333|/LitecoinCore:0.17.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.46.43.59|9333|/LitecoinCore:0.18.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
