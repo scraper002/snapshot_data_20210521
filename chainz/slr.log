@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.63.141.12|/Satoshi:2.1.8/|70005|3303|188.63.0.0/16|CH|ripencc|2009-03-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
 192.190.19.60|/Satoshi:2.1.8/|70005|174|192.190.19.0/24|CA|arin|2019-07-12|COGENT-174, US
 193.187.91.210|/Satoshi:2.1.8/|70005|197595|193.187.91.0/24|SE|ripencc|2018-07-19|OBENETWORK Obenetwork AB, SE
+2.138.25.138|/Satoshi:2.1.8/|70005|3352|2.138.0.0/16|ES|ripencc|2010-11-05|TELEFONICA_DE_ESPANA, ES
 2.28.6.222|/Satoshi:2.1.8/|70005|12576|2.28.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 203.10.91.91|/Satoshi:2.1.8/|70005|58698|203.10.91.0/24|AU|apnic|1994-12-15|UOW-AU 1 northfields av, AU
 203.173.4.83|/Satoshi:2.1.8/|70005|7545|203.173.0.0/21|AU|apnic|2000-02-01|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -58,7 +59,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.100.112.51|/Satoshi:2.1.8/|70005|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.176.77.120|/Satoshi:2.1.8/|70005|20001|76.176.0.0/16|US|arin|2006-07-26|TWC-20001-PACWEST, US
 77.21.248.120|/Satoshi:2.1.8/|70005|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
-77.22.250.130|/Satoshi:2.1.8/|70005|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 78.158.148.15|/Satoshi:2.1.8/|70005|8544|78.158.148.0/24|CY|ripencc|2007-09-05|NSP-INTL Transit AS for PrimeTel (AS16229), SpiderNet (AS5425) and NetWay (AS30916) traffic, CY
 78.21.47.183|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 78.21.83.123|/Satoshi:2.1.8/|70005|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
@@ -80,7 +80,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.146.89.39|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.192.176.61|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.197.89.149|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
-84.66.191.97|/Satoshi:2.1.8/|70005|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 84.72.195.149|/Satoshi:2.1.8/|70005|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 85.146.244.250|/Satoshi:2.1.8/|70005|33915|85.146.192.0/18|NL|ripencc|2004-10-06|TNF-AS, NL
 85.222.21.70|/Satoshi:2.1.8/|70005|6830|85.222.0.0/18|PL|ripencc|2005-02-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -89,6 +88,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.138.144.94|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.171.199.36|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.186.100.224|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
+87.67.79.21|/Satoshi:2.1.8/|70005|5432|87.64.0.0/14|BE|ripencc|2005-05-19|PROXIMUS-ISP-AS, BE
 88.147.17.114|/Satoshi:2.1.8/|70005|35612|88.147.0.0/17|IT|ripencc|2006-01-06|NGI-AS, IT
 88.19.253.0|/Satoshi:2.1.8/|70005|3352|88.19.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
 88.198.92.47|/Satoshi:2.1.8/|70005|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -98,6 +98,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.56.72.244|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.116.248.105|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.157.244.207|/Satoshi:2.1.8/|70005|3215|92.157.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
+93.230.107.227|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.111.22.24|/Satoshi:2.1.8/|70005|47377|94.111.0.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
 94.175.92.70|/Satoshi:2.1.8/|70005|5089|94.175.0.0/16|GB|ripencc|2008-08-28|NTL, GB
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
