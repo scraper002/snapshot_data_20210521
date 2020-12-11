@@ -65,8 +65,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.135.26.29|???|0|56983|31.135.16.0/20|PL|ripencc|2011-06-22|SWIDMAN-AS, PL
 31.223.55.184|StratisNode:3.0.8 (70012)|70012|12735|31.223.55.0/24|TR|ripencc|2011-05-13|ASTURKNET, TR
 37.161.130.197|/Stratis:2.0.0.3/|70000|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
+37.163.1.77|/Stratis:2.0.0.3/|70000|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.163.51.107|/Stratis:2.0.0.3/|70000|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
-37.248.157.57|StratisNode:3.0.8 (70012)|70012|8374|37.248.0.0/15|PL|ripencc|2012-04-18|PLUSNET Plus network operator in Poland, PL
 46.223.148.147|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.163.107|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 46.223.163.93|/Stratis:2.0.0.3/|70000|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
@@ -89,6 +89,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.170.19.217|/Stratis:2.0.0.3/|70000|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
 68.144.97.205|???|0|6327|68.144.96.0/19|CA|arin|2002-06-03|SHAW, CA
 68.147.184.178|???|0|6327|68.147.184.0/22|CA|arin|2002-06-03|SHAW, CA
+68.39.240.83|StratisNode:3.0.5 (70012)|70012|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
 71.146.99.9|/Stratis:2.0.0.5/|70000|7018|71.146.0.0/15|US|arin|2005-01-11|ATT-INTERNET4, US
 73.189.8.250|/Stratis:2.0.0.3/|70000|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.239.43.28|/Stratis:2.0.0.3/|70000|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -123,6 +124,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.116.139.164|/Stratis:2.0.0.3/|70000|8447|88.116.0.0/15|AT|ripencc|2005-09-16|TELEKOM-AT A1 Telekom Austria AG, AT
 88.212.177.132|StratisNode:3.0.8 (70012)|70012|56329|88.212.176.0/21|GB|ripencc|2005-12-15|GIGACLEAR, GB
 88.74.70.173|StratisNode:3.0.8 (70012)|70012|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
+89.10.227.34|/Blockcore:1.0.15(STRAT;70013)/|70013|15659|89.10.0.0/15|NO|ripencc|2006-06-29|NEXTGENTEL NEXTGENTEL Autonomous System, NO
 89.248.253.22|/Stratis:2.0.0.3/|70000|41670|89.248.240.0/20|CZ|ripencc|2006-07-14|HKFREE-AS, CZ
 91.121.110.119|/Stratis:2.0.0.3/|70000|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.54.190.175|/Stratis:2.0.0.3/|70000|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
@@ -137,7 +139,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.168.107.66|/Stratis:2.0.0.3/|70000|6830|94.168.0.0/17|NL|ripencc|2008-08-28|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), AT
 95.217.78.168|/Stratis:2.0.0.5/|70000|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.90.217.156|/Stratis:2.0.0.3/|70000|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
-95.90.220.50|/Stratis:2.0.0.3/|70000|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.251.250|StratisNode:3.0.8 (70012)|70012|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.252.76|/Stratis:2.0.0.5/|70000|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.21.175.64|StratisNode:3.0.8 (70012)|70012|5769|96.21.128.0/18|CA|arin|2007-10-30|VIDEOTRON, CA
