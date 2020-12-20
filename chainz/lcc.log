@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.84.131|/LitecoinCashCore:0.16.1.3/|70015|51167|144.91.84.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.183|/LitecoinCashCore:0.16.1.2/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 149.224.224.47|/LitecoinCashCore:0.16.1.3/|70015|15943|149.224.128.0/17|DE|ripencc|1993-09-01|WTNET-AS wilhelm.tel GmbH, DE
-149.56.155.28|/LitecoinCashCore:0.16.1.1/|70015||||||
+149.56.155.28|/LitecoinCashCore:0.16.1.1/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 149.56.185.63|/LitecoinCashCore:0.16.1.3/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 154.29.131.78|/LitecoinCashCore:0.16.1.3/|70015|174|154.24.0.0/13|US|arin|1992-02-05|COGENT-174, US
 155.4.47.153|/LitecoinCashCore:0.15.0.1/|70015|8473|155.4.0.0/16|NO|ripencc|1991-10-30|BAHNHOF http://www.bahnhof.net/, SE
@@ -70,7 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 205.251.139.169|/LitecoinCashCore:0.16.1.3/|70015|11042|205.251.136.0/21|US|arin|2009-08-21|NTHL, US
 207.201.203.254|/LitecoinCashCore:0.15.0.1/|70015|40805|207.201.202.0/23|US|arin|1996-09-17|JMF-WAVEFLY, US
 208.14.28.114|/LitecoinCashCore:0.15.0.1/|70015|20042|208.14.24.0/21|US|arin|1996-03-13|GRAYSON-COLLIN-COMMUNICATIONS, US
-209.107.196.199|/LitecoinCashCore:0.16.1.3/|70015|33438|209.107.196.0/24|US|arin|2009-04-16|HIGHWINDS2, US
 209.242.9.134|/LitecoinCashCore:0.15.0.1/|70015|10692|209.242.0.0/18|US|arin|1998-06-05|DLS-LITH, US
 212.124.7.71|/LitecoinCashCore:0.16.1.3/|70015|12389|212.124.7.0/24|RU|ripencc|2008-05-29|ROSTELECOM-AS, RU
 212.20.230.76|/LitecoinCashCore:0.16.1.1/|70015|12703|212.20.224.0/19|GB|ripencc|1999-09-24|PULSANT-AS, GB
@@ -95,6 +94,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.145.194.37|/LitecoinCashCore:0.16.1.3/|70015|9299|49.145.192.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.195.228.151|/LitecoinCashCore:0.15.0.1/|70015|4804|49.195.128.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 49.228.67.211|/LitecoinCashCore:0.16.1.3/|70015|133481|49.228.64.0/22|TH|apnic|2010-11-25|AIS-FIBRE-AS-AP AIS Fibre, TH
+49.228.8.220|/LitecoinCashCore:0.16.1.3/|70015|133481|49.228.8.0/22|TH|apnic|2010-11-25|AIS-FIBRE-AS-AP AIS Fibre, TH
 49.228.8.99|/LitecoinCashCore:0.16.1.3/|70015|133481|49.228.8.0/22|TH|apnic|2010-11-25|AIS-FIBRE-AS-AP AIS Fibre, TH
 5.141.84.130|/LitecoinCashCore:0.16.1.3/|70015|12389|5.141.84.0/23|RU|ripencc|2012-07-03|ROSTELECOM-AS, RU
 5.149.252.189|/LitecoinCashCore:0.16.1.2/|70015|201525|5.149.252.0/23|BG|ripencc|2012-07-18|HZ-CA-AS, BG
@@ -109,7 +109,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.128.53.242|/LitecoinCashCore:0.16.1.3/|70015|26077|52.128.53.0/24|US|arin|2016-02-18|NEXTLINK-TEXAS, US
 52.144.112.222|/LitecoinCashCore:0.16.1.3/|70015|63242|52.144.112.0/21|US|arin|2016-08-29|AS-CMN-LS, US
 52.39.232.122|/LitecoinCashCore:0.16.1.1/|70015|16509|52.36.0.0/14|US|arin|2015-09-02|AMAZON-02, US
-54.68.86.241|/LitecoinCashCore:0.16.1.3/|70015|16509|54.68.0.0/15|US|arin|2014-06-20|AMAZON-02, US
 62.171.163.7|/LitecoinCashCore:0.16.1.3/|70015|51167|62.171.162.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.197.209.102|/LitecoinCashCore:0.16.1.2/|70015|5578|62.197.192.0/18|SK|ripencc|2002-07-22|AS-BENESTRA Bratislava, Slovak Republic, SK
 62.197.243.123|/LitecoinCashCore:0.16.1.2/|70015|5578|62.197.192.0/18|SK|ripencc|2002-07-22|AS-BENESTRA Bratislava, Slovak Republic, SK
@@ -138,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.114.200.197|/LitecoinCashCore:0.16.1.3/|70015|33363|75.114.192.0/18|US|arin|2006-07-14|BHN-33363, US
 75.85.163.65|/LitecoinCashCore:0.16.1.3/|70015|20001|75.84.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 76.119.86.168|/LitecoinCashCore:0.16.1.3/|70015|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
-76.233.65.222|/LitecoinCashCore:0.15.0.1/|70015|7018|76.232.0.0/14|US|arin|2006-09-15|ATT-INTERNET4, US
 79.114.5.237|/LitecoinCashCore:0.16.1.2/|70015|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 80.143.213.247|/LitecoinCashCore:0.16.1.3/|70015|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.219.190.80|/LitecoinCashCore:0.16.1.1/|70015|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -170,6 +168,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.145.218.243|/LitecoinCashCore:0.16.1.2/|70015|29396|90.145.0.0/16|NL|ripencc|2006-11-17|EUROFIBER-UNET EUROFIBER, NL
 91.20.26.124|/LitecoinCashCore:0.16.1.1/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.52.202.192|/LitecoinCashCore:0.16.1.1/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+92.119.17.145|/LitecoinCashCore:0.16.1.3/|70015|62240|92.119.17.0/24|GB|ripencc|2019-03-08|CLOUVIDER Clouvider - Global ASN, GB
 92.119.17.52|/LitecoinCashCore:0.16.1.3/|70015|62240|92.119.17.0/24|GB|ripencc|2019-03-08|CLOUVIDER Clouvider - Global ASN, GB
 92.38.186.18|/LitecoinCashCore:0.16.1.1/|70015|202422|92.38.186.0/24|LU|ripencc|2008-02-08|GHOST, LU
 93.51.186.180|/LitecoinCashCore:0.16.1.3/|70015|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
