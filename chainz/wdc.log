@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 137.74.29.117|/LitecoinCore:0.17.1/|70015|16276|137.74.0.0/16|FR|ripencc|1988-11-23|OVH, FR
 138.68.59.62|/WorldcoinFoundation:0.8.6.2/|75000|14061|138.68.48.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.68.73.224|/LitecoinCore:0.18.1UASFSegWitBIP148/|70015|14061|138.68.64.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
+139.59.111.217|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
@@ -29,6 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.2.165.130|/LitecoinCore:0.18.1/|70015|855|159.2.160.0/20|CA|arin|2016-11-02|CANET-ASN-4, CA
 159.2.165.130|/LitecoinCore:0.18.1/|70208|855|159.2.160.0/20|CA|arin|2016-11-02|CANET-ASN-4, CA
 159.65.92.134|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
+159.65.98.250|/btcwire:0.5.0/btccrawlgo:1.0.0/|70015|14061|159.65.96.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 162.214.64.229|/LitecoinCore:0.16.2/|70015|46606|162.214.64.0/21|US|arin|2013-05-22|UNIFIEDLAYER-AS-1, US
 162.243.12.248|/WorldcoinFoundation:0.8.6.2/|75000|14061|162.243.0.0/17|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -63,7 +65,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.98.162.54|/WorldcoinFoundation:0.8.7.5/|70002|12406|212.98.162.0/24|BY|ripencc|1999-09-17|BN-AS Belarussian data communication service provider., BY
 216.213.170.114|/LitecoinCore:0.17.1/|70015|56329|216.213.128.0/18|GB|ripencc|1999-04-06|GIGACLEAR, GB
 217.182.172.117|/LitecoinCore:0.15.1/|70015|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
-27.153.4.98|/LitecoinCore:0.14.2/|70015|4134|27.152.0.0/13|CN|apnic|2010-03-26|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 3.114.211.253|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.133.174.237|/LitecoinCore:0.17.1/|70015|16509|3.132.0.0/14|US|arin|2018-06-25|AMAZON-02, US
@@ -124,7 +125,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.99.90.189|/LitecoinCore:0.17.1/|70015|6661|83.99.0.0/17|LU|ripencc|2004-01-20|EPT-LU Entreprise des P. et T. Luxembourg, LU
 87.99.115.32|/WorldcoinFoundation:0.8.7.5/|70002|30838|87.99.112.0/21|PL|ripencc|2006-03-01|TELPOL, PL
 91.195.80.26|/LitecoinCore:0.16.0/|70015|50673|91.195.80.0/24|NL|ripencc|2007-09-03|SERVERIUS-AS, NL
-91.206.16.214|/WorldcoinFoundation:0.8.7.5/|70002|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 92.200.30.193|/LitecoinCore:0.18.1/|70015|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.200.30.193|/LitecoinCore:0.18.1/|70208|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 94.130.71.31|/LitecoinCore:0.18.1/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
@@ -132,6 +132,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.64.166.185|/LitecoinCore:0.18.1/|70015|6799|94.64.0.0/16|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
 94.64.166.185|/LitecoinCore:0.18.1/|70208|6799|94.64.0.0/16|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
 95.111.236.159|/LitecoinCore:0.17.1/|70015|51167|95.111.236.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.148.52.111|/Satoshi:0.8.5.1/|70002|12576|95.148.0.0/16|GB|ripencc|2009-01-19|EE Ltd, GB
 95.169.182.28|/LitecoinCore:0.17.1/|70015|31103|95.169.176.0/21|DE|ripencc|2009-01-29|KEYWEB-AS, DE
 95.216.172.255|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.227.168|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
