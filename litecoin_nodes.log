@@ -274,6 +274,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.94.183.76|9333|/LitecoinCore:0.18.1/|11426|173.92.0.0/14|US|arin|2008-09-05|TWC-11426-CAROLINAS, US
 174.141.220.253|9333|/FutureBit-ApolloCore:0.17.1/|21928|174.141.208.0/20|US|arin|2010-02-16|T-MOBILE-AS21928, US
 174.49.159.176|9333|/LitecoinCore:0.15.0.1/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
+174.51.122.180|9333|/FutureBit-ApolloCore:0.17.1/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 175.118.126.20|19334|/LitecoinCore:0.17.1/|9318|175.112.0.0/13|KR|apnic|2009-12-17|SKB-AS SK Broadband Co Ltd, KR
 175.141.20.137|9333|/LitecoinCore:0.18.1/|4788|175.141.0.0/18|MY|apnic|2010-01-08|TMNET-AS-AP TM Net, Internet Service Provider, MY
 176.126.167.10|9333|/LitecoinCore:0.18.1/|59684|176.126.167.0/24|KG|ripencc|2012-09-14|ASHOSTER, KG
@@ -554,7 +555,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.84.186.68|9333|/LitecoinCore:0.18.1/|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 220.135.81.163|9333|/LitecoinCore:0.18.1/|3462|220.135.64.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
 223.198.8.27|9333|/Satoshi:0.8.6.2/|4134|223.198.0.0/15|CN|apnic|2010-08-02|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-23.102.77.31|9333|/LitecoinCore:0.16.3/|8075|23.102.0.0/16|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 23.112.250.126|9333|/LitecoinCore:0.16.3/|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
 23.233.55.92|9333|/LitecoinCore:0.18.1/|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
 23.239.10.171|9333|/LitecoinCore:0.17.1/|63949|23.239.8.0/21|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
@@ -576,7 +576,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:6180:0:d1::635:b001|9333|/LitecoinCore:0.17.1/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|33666|/CypherfunkCore:0.15.2/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2402:1f00:8000:1bc::|9333|/LitecoinCore:0.18.1/|16276|2402:1f00:8000::/40|HK|apnic|2011-10-04|OVH, FR
-2403:2700:4001::93|9333|/LitecoinCore:0.18.1/|38500|2403:2700:4001::/48|ID|apnic|2012-02-22|CROSSNET-AS-ID PT. Cross Network Indonesia, ID
 2403:4800:2406:5d00:1411:faa8:ff43:35bb|9333|/LitecoinCore:0.14.2/|9443|2403:4800::/32|AU|apnic|2008-08-22|VOCUS-RETAIL-AU Vocus Retail, AU
 2403:6200:8872:cb72:4a0:d981:6010:c8f2|9333|/Satoshi:0.8.5.1/|45758|2403:6200::/32|TH|apnic|2010-07-14|TRIPLETNET-AS-AP Triple T Internet/Triple T Broadband, TH
 2409:8a0c:a2f:be90:954b:bf6b:efe5:fc72|9333|/LitecoinCore:0.18.1/|56042|2409:8a0c::/32|CN|apnic|2011-08-23|CMNET-SHANXI-AP China Mobile communications corporation, CN
@@ -959,6 +958,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.75.126.152|7107|/FlashcoinCore:0.13.3.2/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.47.161|9333|/LitecoinCore:0.17.1/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.55.212|9333|/LitecoinCore:0.16.3/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.75.68.116|7107|/FlashcoinCore:0.13.3.2(bitcore)/|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.77.152.209|9333|/LitecoinCore:0.16.3/|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.77.203.183|7107|/FlashcoinCore:0.13.3.2/|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.79.146.140|7107|/FlashcoinCore:0.13.3.2/|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
@@ -1015,6 +1015,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.38.81.76|8801|/LitecoinCore:0.14.2/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.38.82.57|9333|/LitecoinCore:0.17.1/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.39.183.70|9333|/LitecoinCore:0.13.2(bitcore)/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
+54.39.243.49|9335|/LitecoinCore:0.18.1/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
 54.39.37.34|9333|/LitecoinCore:0.17.1/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
 54.39.50.172|9333|/LitecoinCore:0.16.3/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
 54.93.111.235|9333|/LitecoinCore:0.16.3/|16509|54.93.64.0/18|US|arin|2013-11-25|AMAZON-02, US
