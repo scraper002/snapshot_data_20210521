@@ -27,7 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.137.189.221|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 178.112.65.97|/Satoshi:2.1.8/|70005|25255|178.112.0.0/14|AT|ripencc|2010-01-12|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 178.113.92.38|/Satoshi:2.1.8/|70005|25255|178.112.0.0/14|AT|ripencc|2010-01-12|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
-178.117.115.177|/Satoshi:2.1.8/|70005||||||
+178.117.115.177|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.25.119.92|/Satoshi:2.1.8/|70005|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 180.150.83.59|/Satoshi:2.1.8/|70005|4764|180.150.82.0/23|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
 185.220.101.200|/Satoshi:2.1.8/|70005|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
@@ -83,6 +83,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.233.243.136|/Satoshi:2.1.8/|70005|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.236.224.54|/Satoshi:2.1.8/|70005|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 79.100.143.120|/Satoshi:2.1.8/|70005|8866|79.100.140.0/22|BG|ripencc|2007-11-09|BTC-AS BULGARIA, BG
+79.192.176.39|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.200.43.217|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.202.87.240|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.208.90.19|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -110,7 +111,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.145.127.171|/Satoshi:2.1.8/|70005|50266|85.144.0.0/15|NL|ripencc|2004-10-06|TMOBILE-THUIS, NL
 85.146.244.250|/Satoshi:2.1.8/|70005|33915|85.146.192.0/18|NL|ripencc|2004-10-06|TNF-AS, NL
 85.148.95.34|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
-85.149.128.237|/Satoshi:2.1.8/|70005|5390|85.149.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.2.95.56|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 85.3.198.126|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 86.134.128.230|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
@@ -125,13 +125,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.92.47|/Satoshi:2.1.8/|70005|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.217.224.76|/Satoshi:2.1.8/|70005|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 89.244.191.171|/Satoshi:2.1.8/|70005|8881|89.244.176.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
-89.246.57.75|/Satoshi:2.1.8/|70005|8881|89.246.56.0/21|DE|ripencc|2006-05-04|VERSATEL, DE
 90.105.130.174|/Satoshi:2.1.8/|70005|3215|90.105.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.169.84.11|/Satoshi:2.1.8/|70005|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
 91.179.119.36|/Satoshi:2.1.8/|70005|5432|91.176.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.62.3.80|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.185.213.105|/Satoshi:2.1.8/|70005|12479|92.185.208.0/21|FR|ripencc|2007-07-12|UNI2-AS, ES
-93.42.39.185|/Satoshi:2.1.8/|70005||||||
+93.42.39.185|/Satoshi:2.1.8/|70005|12874|93.42.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
 94.175.92.70|/Satoshi:2.1.8/|70005|5089|94.175.0.0/16|GB|ripencc|2008-08-28|NTL, GB
 94.224.134.55|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
