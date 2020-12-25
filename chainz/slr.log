@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.10.228.163|/Satoshi:2.1.8/|70005|23969|1.10.224.0/20|TH|apnic|2011-04-08|TOT-NET TOT Public Company Limited, TH
 101.143.47.152|/Satoshi:2.1.8/|70005|17511|101.140.0.0/14|JP|apnic|2010-12-22|OPTAGE OPTAGE Inc., JP
-104.238.58.92|/Satoshi:2.1.8/|70005|29802|104.238.58.0/24|US|arin|2014-12-03|HVC-AS, US
+104.238.59.200|/Satoshi:2.1.8/|70005|27589|104.238.59.0/24|US|arin|2014-12-03|MOJOHOST, US
 107.150.95.12|/Satoshi:2.1.8/|70005|197328|107.150.95.0/24|US|ripencc|2013-12-09|INETLTD, TR
 109.226.169.152|/Satoshi:2.1.8/|70005|21032|109.226.128.0/18|DE|ripencc|2010-01-27|TELTA-AS, DE
 113.170.182.191|/Satoshi:2.1.8/|70005|45899|113.170.176.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
@@ -34,6 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.15.178.13|/Satoshi:2.1.8/|70005|12810|212.15.160.0/19|HR|ripencc|2002-10-09|VIPNET-AS 3G/GSM and Internet Service Provider, HR
 212.204.164.64|/Satoshi:2.1.8/|70005|33915|212.204.160.0/19|NL|ripencc|1999-06-29|TNF-AS, NL
 213.119.47.89|/Satoshi:2.1.8/|70005|6848|213.118.0.0/15|BE|ripencc|2000-09-07|TELENET-AS, BE
+213.127.14.199|/Satoshi:2.1.8/|70005|6830|213.127.0.0/17|NL|ripencc|1999-09-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 213.34.121.253|/Satoshi:2.1.8/|70005|33915|213.34.112.0/20|NL|ripencc|1999-09-16|TNF-AS, NL
 217.234.71.137|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.235.93.243|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -69,7 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.220.25.145|/Satoshi:2.1.8/|70005|22773|72.220.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 74.81.88.66|/Satoshi:2.1.8/|70005|11042|74.81.88.0/21|US|arin|2008-08-05|NTHL, US
 75.71.5.12|/Satoshi:2.1.8/|70005|7922|75.64.0.0/13|US|arin|2006-07-07|COMCAST-7922, US
-76.100.112.51|/Satoshi:2.1.8/|70005|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 77.103.136.234|/Satoshi:2.1.8/|70005|5089|77.103.0.0/16|GB|ripencc|2006-10-18|NTL, GB
 77.117.140.87|/Satoshi:2.1.8/|70005|25255|77.116.0.0/14|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 77.168.30.28|/Satoshi:2.1.8/|70005|1136|77.168.0.0/14|NL|ripencc|2006-11-02|KPN KPN National, NL
@@ -101,7 +101,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.2.95.56|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 85.222.21.70|/Satoshi:2.1.8/|70005|6830|85.222.0.0/18|PL|ripencc|2005-02-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 85.3.198.126|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
-86.27.85.157|/Satoshi:2.1.8/|70005|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 86.84.135.104|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.122.200.205|/Satoshi:2.1.8/|70005|8881|87.122.192.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.133.24.77|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
@@ -116,6 +115,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.37.135.7|/Satoshi:2.1.8/|70005|12874|93.37.128.0/17|IT|ripencc|2008-02-25|FASTWEB, IT
 94.110.32.194|/Satoshi:2.1.8/|70005|47377|94.110.32.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
 94.175.92.70|/Satoshi:2.1.8/|70005|5089|94.175.0.0/16|GB|ripencc|2008-08-28|NTL, GB
+94.212.64.175|/Satoshi:2.1.8/|70005|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.226.144.184|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
 95.116.136.40|/Satoshi:2.1.8/|70005|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
