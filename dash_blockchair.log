@@ -300,6 +300,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.178.158.10|9999|/Dash Core:0.15.0/|37963|118.178.128.0/17|CN|apnic|2007-10-18|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 118.190.205.45|9999|/Dash Core:0.16.0.1/|37963|118.190.128.0/17|CN|apnic|2007-10-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 118.31.39.61|9999|/Dash Core:0.16.1.1/|37963|118.31.0.0/17|CN|apnic|2007-08-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+118.31.59.151|9999|/Dash Core:0.16.1.1/|37963|118.31.0.0/17|CN|apnic|2007-08-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 118.34.186.144|9999|/Dash Core:0.14.0.2/|4766|118.32.0.0/13|KR|apnic|2007-08-03|KIXS-AS-KR Korea Telecom, KR
 119.23.30.242|9999|/Dash Core:0.15.0/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.35.152|15333|/Dash Core:0.16.0.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1540,7 +1541,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.171.238|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.185.98|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.228.155|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
-168.119.241.149|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.241.53|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.54.138|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.59.100|9999|/Dash Core:0.16.1.1/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
@@ -3507,7 +3507,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.160.11.97|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.15.66|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.172.126|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-217.160.173.19|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+217.160.173.19|9999|/Dash Core:0.16.1.1/
 217.160.246.76|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.27.232|9999|/Dash Core:0.15.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.160.60.123|9999|/Dash Core:0.16.1.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -4415,7 +4415,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.30.189.188|9999|/Dash Core:0.16.0.1/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
 46.30.189.189|9999|/Dash Core:0.15.0/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
 46.30.189.19|9999|/Dash Core:0.16.0.1/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
-46.30.189.20|9999|/Dash Core:0.15.0/
+46.30.189.20|9999|/Dash Core:0.15.0/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
 46.30.189.21|9999|/Dash Core:0.15.0/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
 46.30.189.23|9999|/Dash Core:0.15.0/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
 46.30.189.25|9999|/Dash Core:0.15.0/|31400|46.30.189.0/24|DE|ripencc|2018-06-14|ACCELERATED-IT, DE
@@ -4947,6 +4947,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.227.38.196|9999|/Dash Core:0.16.1.1/|14061|64.227.32.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 64.227.76.128|9999|/Dash Core:0.15.0/|14061|64.227.64.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 64.227.97.247|9999|/Dash Core:0.16.0.1/|14061|64.227.96.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
+64.53.196.76|9999|/Dash Core:0.14.0.3/|12083|64.53.196.0/22|US|arin|2002-05-28|WOW-INTERNET, US
 66.151.242.154|9999|/Dash Core:0.14.0/|63018|66.151.242.0/24|US|arin|2001-07-13|DEDICATED, US
 66.152.161.107|9999|/Dash Core:0.15.0/|35916|66.152.160.0/19|US|arin|2006-05-10|MULTA-ASN1, US
 66.172.12.86|9999|/Dash Core:0.16.0.1/|11051|66.172.12.0/24|US|arin|2001-09-20|CYBERVERSE, US
@@ -5020,6 +5021,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.207.91.29|9999|/Dash Core:0.12.2.3/|14061|67.207.80.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 67.211.214.187|9999|/Dash Core:0.15.0/|19318|67.211.208.0/20|US|arin|2015-11-12|IS-AS-1, US
 67.211.216.2|9999|/Dash Core:0.16.0.1/|19318|67.211.208.0/20|US|arin|2015-11-12|IS-AS-1, US
+67.220.31.149|9999|/Dash Core:0.16.1.1/|10242|67.220.0.0/19|US|arin|2008-01-03|USINTERNET, US
 68.183.10.201|9999|/Dash Core:0.16.1.1/|14061|68.183.0.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 68.183.10.203|9999|/Dash Core:0.15.0/|14061|68.183.0.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 68.183.112.107|9999|/Dash Core:0.16.1.1/|14061|68.183.112.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
@@ -6017,7 +6019,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.176.236.252|9999|/Dash Core:0.15.0/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
 94.176.238.10|9999|/Dash Core:0.15.0/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
 94.176.238.11|9999|/Dash Core:0.15.0/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
-94.176.238.14|9999|/Dash Core:0.15.0/
+94.176.238.14|9999|/Dash Core:0.15.0/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
 94.176.238.15|9999|/Dash Core:0.15.0/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
 94.176.238.16|9999|/Dash Core:0.16.1.1/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
 94.176.238.201|9999|/Dash Core:0.16.1.1/|62282|94.176.232.0/21|LT|ripencc|2008-08-14|RACKRAY UAB Rakrejus, LT
