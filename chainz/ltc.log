@@ -7,6 +7,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.10.156.31|/LitecoinCore:0.18.1/|70015|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
 116.202.51.248|/EasticoinCore:0.14.2/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.160.45.116|/LitecoinCore:0.18.1/|70015|24560|122.160.44.0/22|IN|apnic|2006-12-19|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -46,7 +47,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.83.195.184|/BitcoinKit:0.1.0/|70015|11232|184.83.0.0/16|US|arin|2017-09-11|MIDCO-NET, US
 185.125.204.94|/loaf-android:175/|70015|25369|185.125.204.0/22|GB|ripencc|2015-11-11|BANDWIDTH-AS, GB
 185.195.232.250|/NBitcoin:5.0.49/|70012|39351|185.195.232.0/24|SE|ripencc|2017-03-22|ESAB-AS, SE
-185.64.40.54|/LitecoinCore:0.18.1/|70015|201727|185.64.40.0/22|CZ|ripencc|2014-07-16|AS_BUBAKOV, CZ
 186.185.16.229|/BitcoinKit:0.1.0/|70015|6306|186.185.16.0/20|VE|lacnic|2010-09-24|TELEFONICA VENEZOLANA, C.A., VE
 188.131.162.86|/btc-seeder:0.0001/|70013|45090|188.131.160.0/20|CN|apnic|2009-04-14|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 188.147.57.96|/Satoshi:0.8.5.1/|70002|12912|188.146.0.0/15|PL|ripencc|2009-04-01|TM, PL
@@ -60,7 +60,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.82.251.36|/LitecoinCore:0.18.1/|70015|7545|193.82.248.0/22|AU|apnic|1995-04-19|TPG-INTERNET-AP TPG Telecom Limited, AU
 195.162.8.139|/LitecoinCore:0.18.1/|70015|44622|195.162.8.0/23|RU|ripencc|2008-11-27|MTK-MOSINTER-AS, RU
 196.221.245.216|/LitecoinCore:0.17.1/|70015|24835|196.221.244.0/22|EG|afrinic|2006-01-25|RAYA-AS, EG
-202.69.11.224|/loaf-android:175/|70015|24499|202.69.11.0/24|PK|apnic|2004-11-15|TPP-AS-PK Telenor Pakistan, PK
+201.160.206.225|/NBitcoin:5.0.49/|70012|28509|201.160.204.0/22|MX|lacnic|2006-05-05|Cablemas Telecomunicaciones SA de CV, MX
 202.95.172.89|/NBitcoin:5.0.49/|70012|18075|202.95.160.0/20|JP|apnic|2002-03-11|HICAT Chupicom Hiroshima Corp., JP
 203.198.146.232|/LitecoinCore:0.18.1/|70015|4760|203.198.144.0/20|HK|apnic|2000-07-12|HKTIMS-AP HKT Limited, HK
 204.228.147.42|/LitecoinCore:0.18.1/|70015|6315|204.228.128.0/19|US|arin|2020-01-31|XMISSION, US
@@ -76,7 +76,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.182.229.147|/litecoinj:0.15.2-SNAPSHOT/|70002|16509|35.182.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 35.228.53.132|/LitecoinCore:0.17.1/|70015|15169|35.228.0.0/14|US|arin|2017-09-29|GOOGLE, US
 36.226.34.139|/LitecoinCore:0.18.1/|70015|3462|36.226.0.0/16|TW|apnic|2011-01-20|HINET Data Communication Business Group, TW
-37.248.161.217|/loaf-android:175/|70015|8374|37.248.0.0/15|PL|ripencc|2012-04-18|PLUSNET Plus network operator in Poland, PL
 45.114.172.123|/LitecoinCore:0.16.3/|70015|63888|45.114.172.0/24|HK|apnic|2015-04-07|TISP-AS TISP LIMITED, HK
 45.148.16.146|/BitcoinKit:0.1.0/|70015|197595|45.148.16.0/24|SE|ripencc|2019-09-02|OBENETWORK Obenetwork AB, SE
 46.47.48.107|/LitecoinCore:0.15.1/|70015|50477|46.47.48.0/24|RU|ripencc|2010-10-07|SV-EN-AS, RU
@@ -123,6 +122,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.107.104.243|/LitecoinCore:0.18.1/|70015|9009|86.107.104.0/24|RO|ripencc|2005-04-18|M247, GB
 86.120.130.29|/NBitcoin:5.0.49/|70012|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 87.148.47.104|/NBitcoin:5.0.49/|70012|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
+95.216.122.133|/CounosXCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.96.167|/LitecoinCore:0.16.3/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.35.32|/LitecoinCore:0.18.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 99.228.41.13|/LitecoinCore:0.14.2/|70015|812|99.228.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
