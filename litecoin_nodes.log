@@ -584,6 +584,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2403:2700:4001::93|9333|/LitecoinCore:0.18.1/|38500|2403:2700:4001::/48|ID|apnic|2012-02-22|CROSSNET-AS-ID PT. Cross Network Indonesia, ID
 2403:6200:8878:ea21:2d03:5613:72e3:def2|9333|/LitecoinCore:0.18.1/|45758|2403:6200::/32|TH|apnic|2010-07-14|TRIPLETNET-AS-AP Triple T Internet/Triple T Broadband, TH
 2409:8a3c:b12:b260:35e6:f81a:8202:21e6|9333|/LitecoinCore:0.18.1/|24444|2409:8a3c::/32|CN|apnic|2011-08-23|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
+240b:10:2782:5800:dea6:32ff:feb4:6e0e|9610|/LitecoinCore:0.18.1/|2516|240b::/26|JP|apnic|2010-09-24|KDDI KDDI CORPORATION, JP
 240e:345:b8d:f900:e5af:8807:d141:bd90|9333|/LitecoinCore:0.18.1/|4134|240e:344::/30|CN|apnic|2011-12-14|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 240e:390:8b9:71d0:35c0:91a0:e53a:a45e|9333|/LitecoinCore:0.14.2/|4134|240e:390::/29|CN|apnic|2011-12-14|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 240f:109:420c:1:f5b6:4d09:86cf:5d0b|9333|/LitecoinCore:0.18.1/|2516|240f:100::/24|JP|apnic|2017-10-27|KDDI KDDI CORPORATION, JP
@@ -886,7 +887,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.187.75.84|9333|/FutureBit-ApolloCore:0.17.1/|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.196.131.158|9333|/LitecoinCore:0.17.1/|5650|47.196.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.220.151.161|9333|/FutureBit-ApolloCore:0.17.1/|19108|47.220.0.0/14|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
-47.220.165.234|9333|/Satoshi:0.8.7.5/|19108|47.220.0.0/14|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 47.242.220.246|59060|/LitecoinCore:0.18.1/|45102|47.242.0.0/16|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.242.229.153|9333|/LitecoinCore:0.18.1/|45102|47.242.0.0/16|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.244.173.169|9333|/LitecoinCore:0.17.1/|45102|47.244.128.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -1165,7 +1165,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.251.235.248|9333|/LitecoinCore:0.18.1/|6830|77.250.0.0/15|NL|ripencc|2007-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 77.37.156.166|9333|/LitecoinCore:0.18.1/|42610|77.37.128.0/17|RU|ripencc|2007-03-21|NCNET-AS, RU
 77.57.204.50|9333|/LitecoinCore:0.18.1/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-77.68.128.24|9333|/LitecoinCore:0.18.1/|43557|77.68.128.0/17|DK|ripencc|2007-02-07|ASEMNET, DK
 77.72.144.197|9333|/LitecoinCore:0.18.1/|20857|77.72.144.0/21|NL|ripencc|2012-08-08|TRANSIP-AS Amsterdam, the Netherlands, NL
 77.95.36.184|7999|/DigitalcoinV3.0:4.0.2/|34119|77.95.32.0/21|GB|ripencc|2007-05-29|WILDCARD-AS Wildcard UK Limited, GB
 78.129.165.63|9333|/LitecoinCore:0.18.1/|20860|78.129.128.0/17|GB|ripencc|2007-04-18|IOMART-AS, GB
@@ -1213,7 +1212,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.65.33.15|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.67.247.11|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.135.198.2|9333|/LitecoinCore:0.18.1/|8881|83.135.192.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
-83.144.91.226|9333|/LitecoinCore:0.18.1/|6830|83.144.64.0/19|PL|ripencc|2004-01-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 83.221.211.116|10333|/LitecoinCore:0.16.3/|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 83.242.96.21|9333|/LitecoinCore:0.17.1/|50955|83.242.96.0/24|RU|ripencc|2012-03-12|AHOST-AS, RU
 83.242.96.22|9333|/LitecoinCore:0.17.1/|50955|83.242.96.0/24|RU|ripencc|2012-03-12|AHOST-AS, RU
