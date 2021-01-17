@@ -37,6 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.136.204.49|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|4788|175.136.192.0/18|MY|apnic|2010-01-08|TMNET-AS-AP TM Net, Internet Service Provider, MY
 181.231.142.167|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|10481|181.231.128.0/19|AR|lacnic|2013-10-30|Telecom Argentina S.A., AR
 181.41.40.216|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|11816|181.41.40.0/22|AW|lacnic|2012-07-06|SetarNet, AW
+183.225.235.95|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9808|183.225.128.0/17|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 185.220.100.246|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.50.24.12|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|198610|185.50.24.0/24|RU|ripencc|2014-03-12|BEGET-AS, RU
 185.50.24.19|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|198610|185.50.24.0/24|RU|ripencc|2014-03-12|BEGET-AS, RU
@@ -49,7 +50,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.176.85.108|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|9009|193.176.85.0/24|RO|ripencc|2018-10-25|M247, GB
 195.50.206.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3249|195.50.192.0/19|EE|ripencc|1997-04-16|ESTPAK, EE
 195.91.237.179|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8331|195.91.128.0/17|RU|ripencc|1997-08-01|RINET-AS Cronyx Plus Ltd, RU
-196.112.150.172|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|36925|196.112.128.0/17|MA|afrinic|2016-01-21|ASMedi, MA
 207.148.21.111|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|20473|207.148.16.0/20|US|arin|2017-12-01|AS-CHOOPA, US
 210.33.45.134|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|4538|210.33.0.0/16|CN|apnic|1996-09-04|ERX-CERNET-BKB China Education and Research Network Center, CN
 212.85.236.29|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|198144|212.85.236.0/23|ES|ripencc|2000-05-19|RONDA, ES
@@ -100,7 +100,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.222.223.41|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.222.92.46|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.108.64.53|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-82.120.104.238|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-9416112 Strider)/|70015|3215|82.120.0.0/16|FR|ripencc|2003-10-21|France Telecom - Orange, FR
 82.173.98.109|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|13127|82.173.0.0/16|NL|ripencc|2003-09-29|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 82.174.154.197|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|50266|82.174.0.0/16|NL|ripencc|2003-09-29|TMOBILE-THUIS, NL
 82.69.83.55|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|13037|82.68.0.0/14|GB|ripencc|2003-04-28|ZEN-AS Zen Internet - UK, GB
@@ -111,6 +110,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.82.216.244|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|1136|84.80.0.0/13|NL|ripencc|2004-03-17|KPN KPN National, NL
 85.10.240.178|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|85.10.192.0/18|DE|ripencc|2005-02-23|HETZNER-AS, DE
 86.71.89.29|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
+87.168.148.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.79.237.229|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 88.166.210.68|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-03309a938 Strider)/|70015|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 89.1.218.78|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
