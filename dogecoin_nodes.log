@@ -216,7 +216,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:4b:4cdc::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:c010:e78::1|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:7c8:d002:318:5054:ff:febe:cbb1|22556|/Shibetoshi:1.14.2/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
-2a01:e34:ec29:e8d0:11f1:8dc1:16c1:a99c|22556|/Shibetoshi:1.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ef66:9d40:9915:d92e:fb8c:2e40|22556|/Shibetoshi:1.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:2f6b:5120:de60:88b9:5b1f:fb17|22556|/Shibetoshi:1.14.2/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1206:4547:56b0:89c7:825e:7a60:afa1|22556|/Shibetoshi:1.14.2/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -263,6 +262,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.28.107.182|22556|/Shibetoshi:1.14.0/|197019|46.28.104.0/21|CZ|ripencc|2010-07-22|WEDOS, CZ
 46.28.204.21|18509|/Shibetoshi:1.14.2/|197988|46.28.200.0/21|CH|ripencc|2011-08-05|SOLARCOM, CH
 46.4.80.152|22556|/Shibetoshi:1.14.2/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
+46.92.108.32|22556|/Shibetoshi:1.10.0/|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.105.112.160|22335|/Shibetoshi:1.5.0/|37963|47.105.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.107.179.171|22335|/Shibetoshi:1.5.0/|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.13.218.55|22556|/Shibetoshi:1.14.2/|20115|47.13.128.0/17|US|arin|2017-11-27|CHARTER-20115, US
@@ -383,7 +383,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.115.124.32|22556|/Shibetoshi:1.10.0/|33915|80.115.64.0/18|NL|ripencc|2001-07-25|TNF-AS, NL
 80.65.23.139|22554|/Shibetoshi:1.14.0/|31257|80.65.16.0/21|RU|ripencc|2004-03-18|ORIONNET-NET, RU
 80.73.4.89|22556|/Shibetoshi:1.10.0/|13188|80.73.4.0/24|UA|ripencc|2001-06-15|TRIOLAN, UA
-81.110.68.57|22556|/Shibetoshi:1.14.2/|5089|81.110.0.0/15|GB|ripencc|2002-06-14|NTL, GB
 81.167.108.211|22556|/Shibetoshi:1.14.2/|29695|81.166.0.0/15|NO|ripencc|2005-01-04|ALTIBOX_AS Norway, NO
 81.38.36.205|22556|/Shibetoshi:1.14.2/|3352|81.38.0.0/16|ES|ripencc|2002-02-15|TELEFONICA_DE_ESPANA, ES
 81.89.111.4|22556|/Shibetoshi:1.14.2/|35366|81.89.96.0/20|DE|ripencc|2008-02-27|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
@@ -406,8 +405,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.25.202.57|22556|/Shibetoshi:1.10.0/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 85.250.108.91|22556|/Shibetoshi:1.10.0/|1680|85.250.0.0/16|IL|ripencc|2005-01-25|NV-ASN CELLCOM ltd., IL
 86.135.199.135|22556|/Shibetoshi:1.10.0/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.15.92.139|22556|/Shibetoshi:1.14.2/|5089|86.14.0.0/15|GB|ripencc|2005-03-29|NTL, GB
 86.190.115.109|22556|/Shibetoshi:1.14.2/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.45.179.14|22556|/Shibetoshi:1.14.2/|5466|86.40.0.0/13|IE|ripencc|2005-03-31|EIRCOM Internet House, IE
 86.70.37.132|22556|/Shibetoshi:1.10.0/|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
 86.9.119.18|22556|/Shibetoshi:1.14.2/|5089|86.9.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 88.198.230.142|22556|/Shibetoshi:1.10.0/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -459,7 +458,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 97.85.227.133|22556|/Shibetoshi:1.10.0/|20115|97.85.192.0/18|US|arin|2007-03-21|CHARTER-20115, US
 98.11.225.192|22556|/Shibetoshi:1.14.2/|11351|98.10.0.0/15|US|arin|2007-01-29|TWC-11351-NORTHEAST, US
 98.116.48.69|22556|/Shibetoshi:1.10.0/|701|98.116.0.0/16|US|arin|2008-04-02|UUNET, US
-98.214.96.80|22445|/Pandoshi:3.0.5.6/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.236.110.28|22556|/Shibetoshi:1.10.0/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.255.89.197|22556|/Shibetoshi:1.14.2/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 99.46.90.145|22556|/Shibetoshi:1.14.2/|7018|99.32.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
