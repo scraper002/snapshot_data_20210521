@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.70.170.244|/Blocknet:4.3.1/|70713|10143|115.70.168.0/21|AU|apnic|2008-07-22|EXETEL-AS-AP Exetel Pty Ltd, AU
 116.202.35.157|/Blocknet:4.3.1/|70713|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.187.130|/Blocknet:4.3.1/|70713|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.86.160.121|/Blocknet:4.3.1/|70713|55430|116.86.128.0/18|SG|apnic|2007-05-18|STARHUB-NGNBN Starhub Ltd, SG
 119.246.237.107|/Blocknet:4.3.1/|70713|9269|119.246.192.0/18|HK|apnic|2008-03-07|HKBN-AS-AP Hong Kong Broadband Network Ltd., HK
 121.99.129.139|/Blocknet:4.3.2/|70713|9790|121.98.0.0/15|NZ|apnic|2010-08-26|VOCUSGROUPNZ VocusGroup, NZ
 129.130.54.229|/Blocknet:4.3.1/|70713|2701|129.130.0.0/16|US|arin|1987-12-04|KSU-NET, US
@@ -137,6 +138,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.185.139.107|/Blocknet:4.3.1/|70713|16509|54.184.0.0/15|US|arin|2013-11-25|AMAZON-02, US
 54.37.197.64|/Blocknet:4.3.1/|70713|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.88.138.10|/Blocknet:4.3.1/|70713|14618|54.88.0.0/16|US|arin|2013-11-25|AMAZON-AES, US
+61.239.240.67|/Blocknet:4.3.1/|70713|9269|61.239.192.0/18|HK|apnic|2003-11-10|HKBN-AS-AP Hong Kong Broadband Network Ltd., HK
 61.75.61.129|/Blocknet:4.3.1/|70713|4766|61.72.0.0/13|KR|apnic|2000-12-12|KIXS-AS-KR Korea Telecom, KR
 62.171.146.255|/Blocknet:4.3.1/|70713|51167|62.171.146.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 64.113.32.29|/Blocknet:4.3.1/|70713|15154|64.113.32.0/20|US|arin|2001-08-07|SBBSNET, US
@@ -174,7 +176,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.225.191.245|/Blocknet:4.3.1/|70713|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.112.137.211|/Blocknet:4.3.1/|70713|33915|80.112.128.0/19|NL|ripencc|2001-07-25|TNF-AS, NL
 80.217.96.47|/Blocknet:4.3.1/|70713|39651|80.216.0.0/15|SE|ripencc|2002-03-06|COMHEM-SWEDEN, SE
-80.219.230.119|/Blocknet:4.2.0/|70713|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 80.221.147.106|/Blocknet:4.3.1/|70713|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
 80.57.195.122|/Blocknet:4.3.1/|70713|6830|80.57.0.0/16|NL|ripencc|2001-05-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 81.108.248.180|/Blocknet:4.3.1/|70713|5089|81.108.0.0/15|GB|ripencc|2002-06-14|NTL, GB
@@ -188,7 +189,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.156.88.89|/Blocknet:4.2.0/|70713|12322|83.152.0.0/13|FR|ripencc|2004-01-23|PROXAD, FR
 83.99.245.20|/Blocknet:4.3.1/|70713|24651|83.99.128.0/17|LV|ripencc|2004-01-27|LVBALTICOM-AS, LV
 84.180.128.219|/Blocknet:4.3.1/|70713|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.30.81.80|/Blocknet:4.3.1/|70713|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 84.65.213.140|/Blocknet:4.3.1/|70713|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 84.91.133.59|/Blocknet:4.3.1/|70713|13156|84.90.0.0/15|PT|ripencc|2004-05-12|AS13156 Palmela, PT
 85.10.49.190|/Blocknet:4.3.1/|70713|29485|85.10.48.0/20|HR|ripencc|2005-02-18|AMIS, HR
@@ -227,7 +227,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.90.198.47|/Blocknet:4.3.1/|70713|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.249.215|/Blocknet:4.3.1/|70713|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.242.23.57|/Blocknet:4.3.1/|70713|701|96.242.0.0/16|US|arin|2006-12-29|UUNET, US
-96.250.212.49|/Blocknet:4.3.1/|70713|701|96.250.0.0/16|US|arin|2006-12-29|UUNET, US
 96.40.161.106|/Blocknet:4.2.0/|70713|20115|96.40.128.0/18|US|arin|2007-12-19|CHARTER-20115, US
 96.53.177.43|/Blocknet:4.3.1/|70713|6327|96.53.176.0/22|CA|arin|2008-01-07|SHAW, CA
 97.73.101.102|/Blocknet:4.3.1/|70713|6621|97.73.100.0/22|US|arin|2007-08-03|HNS-DIRECPC, US
