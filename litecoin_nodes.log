@@ -66,7 +66,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.78.127.243|9333|/LitecoinCore:0.16.3/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.79.166.145|9333|/LitecoinCore:0.14.2/|37963|120.79.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.122.95.75|9333|/Satoshi:0.8.6.2/|9534|121.122.0.0/17|MY|apnic|2007-02-27|MAXIS-AS1-AP Binariang Berhad, MY
-121.254.153.200|9333|/LitecoinCore:0.17.1/|3786|121.254.128.0/17|KR|apnic|2006-05-29|LGDACOM LG DACOM Corporation, KR
 122.116.42.140|9333|/LitecoinCore:0.17.1/|3462|122.116.0.0/16|TW|apnic|2006-07-31|HINET Data Communication Business Group, TW
 124.148.46.54|9333|/LitecoinCore:0.18.1/|7545|124.148.32.0/19|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
 124.182.98.207|9333|/FutureBit-ApolloCore:0.17.1/|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
@@ -622,6 +621,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5600:5ab:1053:d1c3:6969::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:5600:5ab:1337:b075:1::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:f2c0:e4ba:1201:5c0c:9c67:9b47:1e2c|9333|/LitecoinCore:0.17.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
+2800:200:e840:67dc::1|9333|/LitecoinCore:0.18.1/|12252|2800:200:e840::/44|PE|lacnic|2008-04-11|America Movil Peru S.A.C., PE
 2800:484:b282:5da0:99c6:1747:150e:21a2|9333|/LitecoinCore:0.18.1/|10620|2800:484:b200::/40|CO|lacnic|2016-12-23|Telmex Colombia S.A., CO
 2800:4b0:4506:97b1:6405:c221:fc3c:bbfe|9333|/LitecoinCore:0.18.1/|12252|2800:4b0:4506::/48|PE|lacnic|2010-05-28|America Movil Peru S.A.C., PE
 2804:14d:4c86:809b:218:deff:fe6f:2847|9333|/LitecoinCore:0.18.1/|28573|2804:14d:4c86::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
@@ -761,7 +761,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:1810:50d:cf00:91c7:ef9:7f5f:bcad|9333|/LitecoinCore:0.18.1/|6848|2a02:1800::/24|BE|ripencc|2010-02-25|TELENET-AS, BE
 2a02:2168:a11:2cca::1|9333|/LitecoinCore:0.18.1/|42610|2a02:2168::/32|RU|ripencc|2010-07-15|NCNET-AS, RU
-2a02:6b66:6a7c:0:7190:39e3:7e56:cbd2|9333|/LitecoinCore:0.17.1/|201838|2a02:6b60::/29|GB|ripencc|2014-05-30|ASN-COMMUNITYFIBRE, GB
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:0:3829::1|9333|/LitecoinCore:0.16.0/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -1161,7 +1160,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.137.69.175|9333|/LitecoinCore:0.14.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.175.125.210|9333|/LitecoinCore:0.16.3/|9125|79.175.64.0/18|RS|ripencc|2007-11-12|ORIONTELEKOM-AS, RS
 79.181.88.203|9333|/LitecoinCore:0.17.1/|8551|79.181.88.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
-79.193.112.240|9333|/LitecoinCore:0.18.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.193.120.50|9333|/LitecoinCore:0.18.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.71.244.98|9333|/LitecoinCore:0.14.2/|9105|79.70.0.0/15|GB|ripencc|2007-06-19|TISCALI-UK TalkTalk Communications Limited, GB
 79.98.159.7|9333|/LitecoinCore:0.16.3/|44065|79.98.152.0/21|CZ|ripencc|2007-11-06|NETAIR-AS, CZ
 8.131.54.186|9333|/LitecoinCore:0.18.1(LTC1)/|37963|8.131.0.0/16|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
