@@ -26,9 +26,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.4.2.159|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4713|118.0.0.0/12|JP|apnic|2007-08-01|OCN NTT Communications Corporation, JP
 118.8.207.129|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4713|118.0.0.0/12|JP|apnic|2007-08-01|OCN NTT Communications Corporation, JP
 119.173.3.103|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|9824|119.173.0.0/17|JP|apnic|2008-02-26|JTCL-JP-AS Jupiter Telecommunication Co. Ltd, JP
+119.230.7.77|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17511|119.228.0.0/14|JP|apnic|2008-02-28|OPTAGE OPTAGE Inc., JP
 121.116.205.168|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4713|121.112.0.0/13|JP|apnic|2006-07-07|OCN NTT Communications Corporation, JP
 121.3.120.203|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|2527|121.2.0.0/15|JP|apnic|2006-11-27|SO-NET Sony Network Communications Inc., JP
-122.223.104.60|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|2519|122.223.0.0/16|JP|apnic|2006-08-02|VECTANT ARTERIA Networks Corporation, JP
 124.208.49.198|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.011gd137e269/|70002|2516|124.208.0.0/16|JP|apnic|2006-04-06|KDDI KDDI CORPORATION, JP
 124.45.160.105|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|9595|124.45.0.0/16|JP|apnic|2007-09-20|XEPHION NTT-ME Corporation, JP
 125.2.175.142|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|2510|125.2.0.0/15|JP|apnic|2005-11-25|INFOWEB FUJITSU LIMITED, JP
@@ -123,7 +123,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 60.125.124.49|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.125.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.125.48.252|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.125.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.128.184.160|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.128.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
-60.137.236.156|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.137.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.56.133.95|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17511|60.56.0.0/16|JP|apnic|2004-06-15|OPTAGE OPTAGE Inc., JP
 60.67.231.65|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|17676|60.67.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.67.95.131|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.67.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
@@ -149,6 +148,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.82.4.255|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 89.133.99.45|???|0|6830|89.132.0.0/15|HU|ripencc|2006-01-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 89.155.253.123|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|2860|89.155.192.0/18|PT|ripencc|2006-02-07|NOS_COMUNICACOES, PT
+89.187.161.35|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|60068|89.187.160.0/23|CZ|ripencc|2006-04-28|CDN77 (^_^)/, GB
 90.165.108.200|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|12479|90.165.108.0/22|ES|ripencc|2006-09-12|UNI2-AS, ES
 91.113.1.253|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|8447|91.112.0.0/14|AT|ripencc|2006-09-04|A1TELEKOM-AT A1 Telekom Austria AG, AT
 91.113.22.123|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|8447|91.112.0.0/14|AT|ripencc|2006-09-04|A1TELEKOM-AT A1 Telekom Austria AG, AT
