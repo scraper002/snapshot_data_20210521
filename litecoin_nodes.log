@@ -431,6 +431,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:19f0:5001:32a0:ec4:7aff:fe8e:f839|8553|/LitecoinCore:0.18.1/|20473|2001:19f0:5000::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:5:90f:5400:1ff:fe7b:166f|9333|/LitecoinCore:0.15.1/|20473|2001:19f0::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:7001:5f06:5400:2ff:fef1:5ca5|9333|/LitecoinCore:0.17.1/|20473|2001:19f0:7000::/38|US|arin|2004-11-08|AS-CHOOPA, US
+2001:1c04:2b16:3900:9197:40a3:91e1:13f2|9333|/LitecoinCore:0.18.1/|33915|2001:1c00::/24|NL|ripencc|2004-05-10|TNF-AS, NL
 2001:4060:4419:1::61|9027|/Satoshi:0.8.6.2/|6772|2001:4060::/32|CH|ripencc|2004-07-06|IMPNET-AS, CH
 2001:41d0:1:767d::1|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:1:9420::|9335|/LitecoinCore:0.14.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
@@ -766,8 +767,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d009:c0:5054:ff:fe20:aef3|9333|/LitecoinCore:0.18.1/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:cb00:f25:f570:90c1:d009:173b:b3|9333|/LitecoinCore:0.18.1/|3215|2a01:cb00::/30|FR|ripencc|2005-12-30|France Telecom - Orange, FR
 2a01:e0a:1a6:2a00:291e:203b:3cee:7bfa|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
-2a01:e0a:249:d780:d0d6:e5a4:3a08:615|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:373:dad0:8831:66fb:88df:b747|9333|/LitecoinCore:0.17.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e0a:3f6:4b30:d53c:c766:9826:8e27|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:edc1:9190:102e:6359:1438:e00|9333|/LitecoinCore:0.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:2429:f580:3c53:6f41:5eae:a747|9333|/LitecoinCore:0.18.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
@@ -1134,6 +1135,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.76.74.234|9333|/FutureBit-ApolloCore:0.17.1/|11351|74.76.0.0/14|US|arin|2006-03-27|TWC-11351-NORTHEAST, US
 75.154.127.9|9333|/LitecoinCore:0.18.1/|852|75.154.64.0/18|CA|arin|2006-08-01|ASN852, CA
 75.156.89.85|9333|/LitecoinCore:0.17.1/|852|75.156.0.0/17|CA|arin|2006-08-01|ASN852, CA
+75.159.253.81|9333|/LitecoinCore:0.18.1/|852|75.159.0.0/16|CA|arin|2006-08-01|ASN852, CA
 75.161.7.7|9333|/FutureBit-ApolloCore:0.17.1/|209|75.161.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 75.174.239.21|9333|/LitecoinCore:0.18.1/|209|75.174.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 75.40.189.179|9333|/LitecoinCore:0.17.1/|7018|75.40.0.0/14|US|arin|2006-02-28|ATT-INTERNET4, US
@@ -1143,6 +1145,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.100.121.19|9333|/LitecoinCore:0.18.1/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.103.7.22|9333|/LitecoinCore:0.17.1(opreturn.net)/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.112.56.76|9333|/LitecoinCore:0.18.1/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
+76.167.148.205|9333|/LitecoinCore:0.18.1/|20001|76.166.0.0/15|US|arin|2006-07-26|TWC-20001-PACWEST, US
 76.186.208.250|9333|/FutureBit-ApolloCore:0.17.1/|11427|76.184.0.0/14|US|arin|2006-07-26|TWC-11427-TEXAS, US
 76.230.156.129|9333|/LitecoinCore:0.18.1/|7018|76.224.0.0/13|US|arin|2006-09-15|ATT-INTERNET4, US
 76.30.62.156|9333|/LitecoinCore:0.16.3/|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
@@ -1155,7 +1158,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.120.122.22|9333|/LitecoinCore:0.17.1/|25229|77.120.96.0/19|UA|ripencc|2006-11-24|VOLIA-AS, UA
 77.251.235.248|9333|/LitecoinCore:0.18.1/|6830|77.250.0.0/15|NL|ripencc|2007-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 77.37.156.166|9333|/LitecoinCore:0.18.1/|42610|77.37.128.0/17|RU|ripencc|2007-03-21|NCNET-AS, RU
-77.56.5.67|9333|/LitecoinCore:0.18.1/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 77.57.204.50|9333|/LitecoinCore:0.18.1/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 77.72.144.197|9333|/LitecoinCore:0.18.1/|20857|77.72.144.0/21|NL|ripencc|2012-08-08|TRANSIP-AS Amsterdam, the Netherlands, NL
 77.95.36.184|7999|/DigitalcoinV3.0:4.0.2/|34119|77.95.32.0/21|GB|ripencc|2007-05-29|WILDCARD-AS Wildcard UK Limited, GB
@@ -1206,8 +1208,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.133.174|9333|/LitecoinCore:0.18.1/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.25.248.170|9333|/LitecoinCore:0.18.1/|5089|82.24.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.28.186.158|9333|/LitecoinCore:0.17.1/|5089|82.28.0.0/14|GB|ripencc|2003-02-28|NTL, GB
-82.34.92.100|9333|/LitecoinCore:0.18.1/|5089|82.34.0.0/16|GB|ripencc|2003-01-31|NTL, GB
-82.43.76.212|9333|/Satoshi:0.8.6.1/|5089|82.43.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.65.134.3|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.33.15|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.67.247.11|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
