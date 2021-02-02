@@ -10,6 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.198.9.136|/Feathercoin:0.19.1/|70016|7545|114.198.8.0/21|AU|apnic|2008-06-25|TPG-INTERNET-AP TPG Telecom Limited, AU
 114.221.137.214|/Feathercoin:0.19.1/|70016|4134|114.216.0.0/13|CN|apnic|2008-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 115.132.10.28|/Feathercoin:0.19.1/|70016|4788|115.132.0.0/18|MY|apnic|2008-08-05|TMNET-AS-AP TM Net, Internet Service Provider, MY
+115.133.87.217|/Feathercoin:0.19.1/|70016|4788|115.133.64.0/18|MY|apnic|2008-08-05|TMNET-AS-AP TM Net, Internet Service Provider, MY
 122.59.15.39|/Feathercoin:0.16.0/|70015|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 124.157.91.222|/Feathercoin:0.19.1/|70016|24324|124.157.64.0/19|NZ|apnic|2006-04-04|KORDIA-TRANSIT-AS-AP Kordia Limited, NZ
 13.66.199.164|/Feathercoin:0.16.3/|70015|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -60,7 +61,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 208.103.115.62|/Feathercoin:0.17.0.1/|70016|33154|208.103.112.0/20|US|arin|2008-09-18|DQECOM, US
 208.180.220.104|/Feathercoin:0.13.3/|70015|19108|208.180.192.0/19|US|arin|1999-05-07|SUDDENLINK-COMMUNICATIONS, US
 209.94.191.213|/litecoin-seeder:0.01/|70002|396426|209.94.191.0/24|US|arin|1997-07-14|CYBERONEDATA, US
-213.231.9.124|/Feathercoin:0.19.1/|70016|34661|213.231.0.0/18|UA|ripencc|2008-02-07|BREEZE-NETWORK, UA
 213.67.108.21|/Feathercoin:0.19.1/|70016|3301|213.64.0.0/14|SE|ripencc|1999-11-12|TELIANET-SWEDEN Telia Company, SE
 217.122.241.193|/Feathercoin:0.19.1/|70016|33915|217.122.0.0/15|NL|ripencc|2000-12-19|TNF-AS, NL
 217.155.198.217|/Feathercoin:0.13.0/|70015|13037|217.155.0.0/16|GB|ripencc|2002-07-03|ZEN-AS Zen Internet - UK, GB
@@ -130,16 +130,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.65.55.137|/Feathercoin:0.19.1/|70016|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 84.75.49.226|/Feathercoin:0.18.2/|70016|6830|84.74.0.0/15|CH|ripencc|2004-04-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 85.214.189.248|/Feathercoin:0.19.1/|70016|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
-86.131.26.70|/Feathercoin:0.13.0/|70015|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.17.228.180|/Feathercoin:0.19.1/|70016|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
-86.179.93.26|/Feathercoin:0.13.0/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.58.36.105|/Feathercoin:0.18.3(Omni:0.9.0)/|70016|3212|86.58.0.0/17|SI|ripencc|2005-04-26|TELEMACH Broadband Access & Carrier Services, SI
 88.107.9.130|/Feathercoin:0.19.1/|70016|9105|88.106.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.156.138.86|/Feathercoin:0.19.1/|70016|29314|88.156.136.0/21|PL|ripencc|2006-01-19|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
 89.151.46.206|/Feathercoin:0.19.1/|70016|29314|89.151.0.0/18|PL|ripencc|2006-03-22|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
 89.216.155.168|/Feathercoin:0.19.1/|70016|31042|89.216.128.0/17|RS|ripencc|2006-06-21|SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o., RS
 90.205.239.19|/Feathercoin:0.19.1/|70016|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
-91.121.184.82|/Feathercoin:0.17.0.1/|70016|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.134.191.55|/Feathercoin:0.19.1/|70016|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
 92.30.72.34|/Feathercoin:0.19.1/|70016|13285|92.30.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 92.40.184.150|/Feathercoin:0.19.1/|70016|206067|92.40.184.0/23|GB|ripencc|2007-11-21|H3GUK, GB
