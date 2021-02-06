@@ -16,7 +16,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.70.208.17|/LitecoinCore:0.18.1/|70015|10143|115.70.192.0/18|AU|apnic|2008-07-22|EXETEL-AS-AP Exetel Pty Ltd, AU
 116.202.51.248|/EasticoinCore:0.14.2/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 117.247.75.88|/LitecoinCore:0.17.1/|70015|9829|117.247.64.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
-118.112.73.3|/Satoshi:0.10.2.2/|70003|4134|118.112.0.0/13|CN|apnic|2007-09-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.68.122.23|/NBitcoin:5.0.49/|70012|18403|118.68.122.0/24|VN|apnic|2007-08-08|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
@@ -28,6 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.148.3.218|/LitecoinCore:0.18.1/|70015|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
 138.197.10.67|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|138.197.0.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 139.162.123.52|/MyCoinCore:0.14.2/|70015|63949|139.162.96.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
+139.193.190.104|/NBitcoin:5.0.49/|70012|23700|139.193.160.0/19|ID|apnic|2011-03-30|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.169.78.254|/loaf-android:175/|70015|852|142.169.0.0/16|CA|arin|1993-10-18|ASN852, CA
@@ -106,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.94.191.213|/litecoin-seeder:0.01/|70002|396426|209.94.191.0/24|US|arin|1997-07-14|CYBERONEDATA, US
 212.64.58.71|/LitecoinCore:0.13.2(bitcore)/|70015|45090|212.64.48.0/20|CN|apnic|1998-08-17|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 213.132.238.250|/LitecoinCore:0.18.1/|70015|3225|213.132.236.0/22|KW|ripencc|2002-07-17|GULFNET-KUWAIT, KW
-217.118.90.249|/loaf-android:175/|70015|16345|217.118.90.0/24|RU|ripencc|2003-06-10|BEE-AS Russia, RU
 217.199.132.246|/LitecoinCore:0.18.1/|70015|21196|217.199.128.0/21|SI|ripencc|2001-05-08|EPN-BA-AS Fra Angela Zvizdovica 1 71000 Sarajevo Bosnia and Herzegovina, SI
 23.129.64.204|/BitcoinKit:0.1.0/|70015|396507|23.129.64.0/24|US|arin|2017-07-19|EMERALD-ONION, US
 23.17.82.202|/WalletKit:0.1.0/|70015|852|23.17.0.0/16|CA|arin|2011-09-29|ASN852, CA
@@ -122,6 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.175.175.49|/LitecoinCore:0.16.0/|70015|14618|35.168.0.0/13|US|arin|2016-08-09|AMAZON-AES, US
 37.120.211.213|/BitcoinKit:0.1.0/|70015|9009|37.120.211.0/24|RO|ripencc|2012-02-13|M247, GB
 37.204.24.51|/LitecoinCore:0.17.1/|70015|42610|37.204.0.0/16|RU|ripencc|2012-03-27|NCNET-AS, RU
+37.214.74.58|/WalletKit:0.1.0/|70015|6697|37.214.72.0/22|BY|ripencc|2012-03-30|BELPAK-AS BELPAK, BY
 41.13.110.71|/LitecoinCore:0.18.1/|70015|29975|41.13.96.0/19|ZA|afrinic|2007-11-26|VODACOM-, ZA
 41.79.219.201|/Satoshi:0.8.7.5/|70002|37424|41.79.219.0/24|BJ|afrinic|2012-02-23|Spacetel, BJ
 41.90.116.134|/BitcoinKit:0.1.0/|70015|37061|41.90.96.0/19|KE|afrinic|2009-11-16|Safaricom, KE
@@ -152,6 +152,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.89.40.32|/LitecoinCore:0.17.1/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.1.121.8|/LitecoinCore:0.18.1/|70015|14618|52.0.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
+52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.221.89.244|/LitecoinCore:0.17.1/|70015|16509|52.220.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 54.39.10.164|/LitecoinCore:0.15.1/|70015|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
