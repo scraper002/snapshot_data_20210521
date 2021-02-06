@@ -21,6 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.136.149.137|/Satoshi:2.1.8/|70005|13046|141.136.128.0/18|HR|ripencc|2011-06-29|ASN-ISKON HEP, HR
 143.131.6.96|/Satoshi:2.1.8/|70005|36492|143.131.6.0/24|US|arin|2019-09-27|GOOGLEWIFI, US
 144.138.172.77|/Satoshi:2.1.8/|70005|135887|144.138.172.0/24|AU|apnic|1990-12-10|TELSTRA-BELONG-AP Belong (Telstra Corporation), AU
+151.51.148.161|/Satoshi:2.1.8/|70005|1267|151.51.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 156.67.132.58|/Satoshi:2.1.8/|70005|42652|156.67.128.0/20|DE|ripencc|1992-03-27|DELUNET, DE
 162.243.214.120|/Satoshi:2.1.8/|70005|14061|162.243.192.0/18|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.248.239.178|/Satoshi:2.1.8/|70005|40317|162.248.236.0/22|US|arin|2013-11-25|PEOPLESCOMMUNICATIONS, US
@@ -67,7 +68,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 58.178.231.177|/Satoshi:2.1.8/|70005|9443|58.178.224.0/21|AU|apnic|2005-06-15|VOCUS-RETAIL-AU Vocus Retail, AU
 60.227.142.166|/Satoshi:2.1.8/|70005|1221|60.224.0.0/13|AU|apnic|2004-07-28|ASN-TELSTRA Telstra Corporation Ltd, AU
 62.163.190.23|/Satoshi:2.1.8/|70005|6830|62.163.128.0/17|NL|ripencc|2000-11-27|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-63.152.1.181|/Satoshi:2.1.8/|70005|209|63.144.0.0/12|US|arin|2000-07-12|CENTURYLINK-US-LEGACY-QWEST, US
 65.242.59.210|/Satoshi:2.1.8/|70005|701|65.240.0.0/13|US|arin|2002-02-13|UUNET, US
 66.61.208.202|/Satoshi:2.1.8/|70005|11426|66.61.192.0/18|US|arin|2001-01-03|TWC-11426-CAROLINAS, US
 68.205.97.213|/Satoshi:2.1.8/|70005|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
@@ -90,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.192.182.219|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.200.43.217|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.200.60.47|/Satoshi:2.1.8/|70005|5432|80.200.0.0/15|BE|ripencc|2001-11-08|PROXIMUS-ISP-AS, BE
-80.249.83.129|/Satoshi:2.1.8/|70005|12406|80.249.80.0/20|BY|ripencc|2008-10-15|BN-AS Belarussian data communication service provider., BY
 80.56.164.54|/Satoshi:2.1.8/|70005|6830|80.56.0.0/16|NL|ripencc|2001-05-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 80.57.240.179|/Satoshi:2.1.8/|70005|6830|80.57.0.0/16|NL|ripencc|2001-05-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 81.140.160.244|/Satoshi:2.1.8/|70005|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
@@ -107,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.135.243.97|/Satoshi:2.1.8/|70005|8257|85.135.192.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
 85.2.95.56|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 85.253.101.115|/Satoshi:2.1.8/|70005|13272|85.253.0.0/16|EE|ripencc|2005-02-10|STARMAN, EE
-85.3.198.126|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 86.160.15.226|/Satoshi:2.1.8/|70005|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.250.107.96|/Satoshi:2.1.8/|70005|3215|86.250.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 87.115.171.14|/Satoshi:2.1.8/|70005|6871|87.115.0.0/16|GB|ripencc|2005-07-29|PLUSNET UK Internet Service Provider, GB
@@ -119,6 +117,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.122.111.50|/Satoshi:2.1.8/|70005|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.198.92.47|/Satoshi:2.1.8/|70005|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.206.186.115|/Satoshi:2.1.8/|70005|28854|88.206.184.0/21|SE|ripencc|2005-12-14|NAVABNET-SWEDEN, SE
+88.217.224.76|/Satoshi:2.1.8/|70005|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 89.244.92.108|/Satoshi:2.1.8/|70005|8881|89.244.80.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 91.142.17.47|/Satoshi:2.1.8/|70005|21013|91.142.16.0/20|AT|ripencc|2006-10-10|ITANDTEL-AS Wels, AT
 91.182.96.13|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
