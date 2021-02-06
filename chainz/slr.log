@@ -40,7 +40,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 193.187.91.208|/Satoshi:2.1.8/|70005|197595|193.187.91.0/24|SE|ripencc|2018-07-19|OBENETWORK Obenetwork AB, SE
 2.25.3.123|/Satoshi:2.1.8/|70005|12576|2.25.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
-2.31.55.0|/Satoshi:2.1.8/|70005|12576|2.31.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 2.58.44.249|/Satoshi:2.1.8/|70005|9009|2.58.44.0/24|RO|ripencc|2019-03-21|M247, GB
 213.168.118.132|/Satoshi:2.1.8/|70005|8422|213.168.64.0/18|DE|ripencc|2001-02-23|NETCOLOGNE, DE
 213.96.77.232|/Satoshi:2.1.8/|70005|3352|213.96.0.0/16|ES|ripencc|2000-01-03|TELEFONICA_DE_ESPANA, ES
@@ -52,6 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.10.172.59|/Satoshi:2.1.8/|70005|6830|31.10.128.0/18|CH|ripencc|2011-04-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 31.13.188.132|/Satoshi:2.1.8/|70005|9009|31.13.188.0/24|RO|ripencc|2018-06-12|M247, GB
 31.150.120.13|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
+37.120.215.228|/Satoshi:2.1.8/|70005|9009|37.120.215.0/24|RO|ripencc|2012-02-13|M247, GB
 37.24.158.5|/Satoshi:2.1.8/|70005|6830|37.24.128.0/17|DE|ripencc|2011-12-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 45.72.198.110|/Satoshi:2.1.8/|70005|5645|45.72.128.0/17|CA|arin|2015-04-16|TEKSAVVY, CA
 46.166.139.111|/Satoshi:2.1.8/|70005|43350|46.166.136.0/21|NL|ripencc|2010-12-16|NFORCE, NL
@@ -70,7 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.163.190.23|/Satoshi:2.1.8/|70005|6830|62.163.128.0/17|NL|ripencc|2000-11-27|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 65.242.59.210|/Satoshi:2.1.8/|70005|701|65.240.0.0/13|US|arin|2002-02-13|UUNET, US
 66.61.208.202|/Satoshi:2.1.8/|70005|11426|66.61.192.0/18|US|arin|2001-01-03|TWC-11426-CAROLINAS, US
-68.205.97.213|/Satoshi:2.1.8/|70005|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
 70.176.43.120|/Satoshi:2.1.8/|70005|22773|70.176.0.0/16|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
 73.131.193.252|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.181.156.126|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -97,6 +96,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.234.184.187|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 81.83.5.50|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
 82.119.88.211|/Satoshi:2.1.8/|70005|197184|82.119.88.0/23|BG|ripencc|2004-02-16|ORBITAL-AS, BG
+82.197.204.14|/Satoshi:2.1.8/|70005|25596|82.197.192.0/19|NL|ripencc|2003-11-11|CAMBRIUM-AS, NL
 82.20.19.211|/Satoshi:2.1.8/|70005|5089|82.20.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.95.149.103|/Satoshi:2.1.8/|70005|3265|82.92.0.0/14|NL|ripencc|2003-11-25|XS4ALL-NL Amsterdam, NL
@@ -124,7 +124,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.19.116.178|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.36.188.187|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.67.39.21|/Satoshi:2.1.8/|70005|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 91.86.4.207|/Satoshi:2.1.8/|70005|47377|91.86.0.0/16|BE|ripencc|2006-08-15|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
 92.157.244.207|/Satoshi:2.1.8/|70005|3215|92.157.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.16.137.89|/Satoshi:2.1.8/|70005|13285|92.16.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
