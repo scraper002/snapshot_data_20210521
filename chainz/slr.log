@@ -10,6 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.111.96.51|/Satoshi:2.1.8/|70005|6752|109.111.96.0/22|AD|ripencc|2009-11-24|ANDORRA Andorra Telecom, AD
 109.146.82.64|/Satoshi:2.1.8/|70005|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
 109.226.164.109|/Satoshi:2.1.8/|70005|21032|109.226.128.0/18|DE|ripencc|2010-01-27|TELTA-AS, DE
+109.69.221.132|/Satoshi:2.1.8/|70005|6696|109.69.220.0/22|BE|ripencc|2009-10-19|VERIXI, BE
 109.89.92.192|/Satoshi:2.1.8/|70005|12392|109.89.80.0/20|BE|ripencc|2009-09-01|ASBRUTELE VOO, BE
 110.141.179.238|/Satoshi:2.1.8/|70005|1221|110.140.0.0/15|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 119.18.2.201|/Satoshi:2.1.8/|70005|4764|119.18.2.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -62,7 +63,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.87.214.196|/Satoshi:2.1.8/|70005|9009|45.87.214.0/24|RO|ripencc|2019-06-17|M247, GB
 46.166.139.111|/Satoshi:2.1.8/|70005|43350|46.166.136.0/21|NL|ripencc|2010-12-16|NFORCE, NL
 46.223.162.42|/Satoshi:2.1.8/|70005|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-46.5.17.75|/Satoshi:2.1.8/|70005|6830|46.5.0.0/17|DE|ripencc|2010-09-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 46.55.167.50|/Satoshi:2.1.8/|70005|51582|46.55.128.0/18|BG|ripencc|2010-10-01|DCC-, BG
 5.12.30.127|/Satoshi:2.1.8/|70005|8708|5.12.0.0/14|RO|ripencc|2012-04-27|RCS-RDS 73-75 Dr. Staicovici, RO
 5.69.163.136|/Satoshi:2.1.8/|70005|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
@@ -75,7 +75,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 59.17.52.194|/Satoshi:2.1.8/|70005|4766|59.16.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
 60.227.142.166|/Satoshi:2.1.8/|70005|1221|60.224.0.0/13|AU|apnic|2004-07-28|ASN-TELSTRA Telstra Corporation Ltd, AU
 60.242.183.164|/Satoshi:2.1.8/|70005|7545|60.242.183.0/24|AU|apnic|2006-03-29|TPG-INTERNET-AP TPG Telecom Limited, AU
-61.245.146.170|/Satoshi:2.1.8/|70005|4764|61.245.144.0/22|AU|apnic|2010-07-07|WIDEBAND-AS-AP Aussie Broadband, AU
 62.202.180.247|/Satoshi:2.1.8/|70005|3303|62.202.128.0/17|CH|ripencc|2000-10-18|SWISSCOM Swisscom (Switzerland) Ltd, CH
 65.242.59.210|/Satoshi:2.1.8/|70005|701|65.240.0.0/13|US|arin|2002-02-13|UUNET, US
 66.248.183.139|/Satoshi:2.1.8/|70005|14434|66.248.183.0/24|VI|arin|2004-02-26|VIPNAS1, VI
@@ -119,6 +118,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.149.21.135|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.194.129.19|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 85.1.180.240|/Satoshi:2.1.8/|70005|3303|85.0.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
+85.16.220.85|/Satoshi:2.1.8/|70005|9145|85.16.0.0/16|DE|ripencc|2005-03-07|EWETEL Cloppenburger Strasse 310, DE
 85.2.95.56|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 85.222.21.70|/Satoshi:2.1.8/|70005|6830|85.222.0.0/18|PL|ripencc|2005-02-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 85.3.198.126|/Satoshi:2.1.8/|70005|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -131,6 +131,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.123.48.57|/Satoshi:2.1.8/|70005|8881|87.123.48.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.132.149.99|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.158.136.169|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
+87.16.222.4|/Satoshi:2.1.8/|70005|3269|87.16.0.0/15|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 87.191.135.113|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.78.83.218|/Satoshi:2.1.8/|70005|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 88.198.92.47|/Satoshi:2.1.8/|70005|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
