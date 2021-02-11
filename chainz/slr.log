@@ -8,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.234.27.6|/Satoshi:2.1.8/|70005|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
 109.192.123.7|/Satoshi:2.1.8/|70005|6830|109.192.0.0/16|DE|ripencc|2009-10-06|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 109.215.48.26|/Satoshi:2.1.8/|70005|3215|109.215.0.0/17|FR|ripencc|2009-10-07|France Telecom - Orange, FR
+110.141.179.238|/Satoshi:2.1.8/|70005|1221|110.140.0.0/15|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 118.210.160.132|/Satoshi:2.1.8/|70005|7545|118.210.160.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
 119.17.130.82|/Satoshi:2.1.8/|70005|4764|119.17.128.0/22|AU|apnic|2007-12-03|WIDEBAND-AS-AP Aussie Broadband, AU
 119.18.0.196|/Satoshi:2.1.8/|70005|4764|119.18.0.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -51,7 +52,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.178.27.254|/Satoshi:2.1.8/|70005|55391|217.178.0.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
 217.234.73.95|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 218.214.207.232|/Satoshi:2.1.8/|70005|9443|218.214.200.0/21|AU|apnic|2003-06-19|VOCUS-RETAIL-AU Vocus Retail, AU
-23.129.64.228|/Satoshi:2.1.8/|70005|396507|23.129.64.0/24|US|arin|2017-07-19|EMERALD-ONION, US
 23.95.207.214|/Satoshi:2.1.8/|70005|36352|23.95.207.0/24|US|arin|2013-08-16|AS-COLOCROSSING, US
 24.117.130.196|/Satoshi:2.1.8/|70005|11492|24.117.130.0/24|US|arin|1996-09-25|CABLEONE, US
 24.211.62.92|/Satoshi:2.1.8/|70005|11426|24.211.32.0/19|US|arin|2001-06-29|TWC-11426-CAROLINAS, US
@@ -60,7 +60,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.209.34.124|/Satoshi:2.1.8/|70005|6830|37.209.0.0/18|DE|ripencc|2012-03-29|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 37.72.40.191|/Satoshi:2.1.8/|70005|24945|37.72.40.0/21|UA|ripencc|2012-01-26|ASN-VNTP, UA
 43.249.199.18|/Satoshi:2.1.8/|70005|132449|43.249.199.0/24|NZ|apnic|2014-10-14|WIRELESSNATION-NZ Wireless Nation, NZ
-45.248.77.100|/Satoshi:2.1.8/|70005|136557|45.248.77.0/24|AU|apnic|2016-05-04|HOST-AS-AP Host Universal Pty Ltd, AU
 46.142.75.219|/Satoshi:2.1.8/|70005|8881|46.142.64.0/20|DE|ripencc|2010-11-25|VERSATEL, DE
 46.150.55.219|/Satoshi:2.1.8/|70005|3212|46.150.32.0/19|SI|ripencc|2010-11-03|TELEMACH Broadband Access & Carrier Services, SI
 46.223.162.42|/Satoshi:2.1.8/|70005|6830|46.223.128.0/17|DE|ripencc|2011-01-26|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -79,7 +78,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.147.243.203|/Satoshi:2.1.8/|70005|14618|54.144.0.0/14|US|arin|2014-10-23|AMAZON-AES, US
 58.178.231.177|/Satoshi:2.1.8/|70005|9443|58.178.224.0/21|AU|apnic|2005-06-15|VOCUS-RETAIL-AU Vocus Retail, AU
 58.182.4.231|/Satoshi:2.1.8/|70005|55430|58.182.0.0/18|SG|apnic|2005-06-15|STARHUB-NGNBN Starhub Ltd, SG
-60.227.142.166|/Satoshi:2.1.8/|70005|1221|60.224.0.0/13|AU|apnic|2004-07-28|ASN-TELSTRA Telstra Corporation Ltd, AU
 60.234.169.193|/Satoshi:2.1.8/|70005|9790|60.234.0.0/16|NZ|apnic|2004-08-09|VOCUSGROUPNZ VocusGroup, NZ
 61.245.146.170|/Satoshi:2.1.8/|70005|4764|61.245.144.0/22|AU|apnic|2010-07-07|WIDEBAND-AS-AP Aussie Broadband, AU
 62.163.190.23|/Satoshi:2.1.8/|70005|6830|62.163.128.0/17|NL|ripencc|2000-11-27|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -146,6 +144,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.40.94.83|/Satoshi:2.1.8/|70005|3215|90.40.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.177.1.10|/Satoshi:2.1.8/|70005|5432|91.176.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.182.96.13|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
+91.19.116.178|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.221.89.145|/Satoshi:2.1.8/|70005|50467|91.221.88.0/23|PL|ripencc|2010-11-10|BESKID-MEDIA-AS, PL
 93.200.82.18|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.201.182.113|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
