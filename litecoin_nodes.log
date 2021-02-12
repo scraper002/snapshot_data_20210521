@@ -127,6 +127,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.4.119.11|9333|/LitecoinCore:0.16.3/|54600|142.4.96.0/19|US|arin|2012-07-12|PEGTECHINC, US
 142.4.209.205|9333|/LitecoinCore:0.18.1/|16276|142.4.192.0/19|CA|arin|2012-07-23|OVH, FR
 142.47.99.123|9333|/LitecoinCore:0.18.1/|31798|142.47.99.0/24|CA|arin|1990-03-26|DATACITY, CA
+142.90.35.186|9333|/Satoshi:0.8.6.1/|40788|142.90.0.0/18|CA|arin|2020-01-28|START-, CA
 142.93.116.106|9333|/LitecoinCore:0.16.0/|14061|142.93.112.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 142.93.227.177|9333|/LitecoinCore:0.17.1/|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 142.93.30.86|9333|/LitecoinCore:0.16.0/|14061|142.93.16.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
@@ -446,7 +447,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.62.10.221|9333|/LitecoinCore:0.18.1/|12389|2.62.0.0/17|RU|ripencc|2010-10-08|ROSTELECOM-AS, RU
 2.85.23.167|9333|/LitecoinCore:0.18.1/|6799|2.85.0.0/16|GR|ripencc|2010-05-12|OTENET-GR Athens - Greece, GR
 2001:0:53aa:64c:18e3:40c5:a764:cd6b|9333|/LitecoinCore:0.17.1/|6939|2001::/32||other||HURRICANE, US
-2001:16a2:7c6f:8d00::1|9333|/LitecoinCore:0.18.1/|25019|2001:16a2:7c00::/40|SA|ripencc|2003-12-19|SAUDINETSTC-AS, SA
 2001:19f0:5001:32a0:ec4:7aff:fe8e:f839|8553|/LitecoinCore:0.18.1/|20473|2001:19f0:5000::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:5:90f:5400:1ff:fe7b:166f|9333|/LitecoinCore:0.15.1/|20473|2001:19f0::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:19f0:7001:5f06:5400:2ff:fef1:5ca5|9333|/LitecoinCore:0.17.1/|20473|2001:19f0:7000::/38|US|arin|2004-11-08|AS-CHOOPA, US
@@ -573,6 +573,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.115.116.200|9333|/LitecoinCore:0.15.1/|30900|217.115.112.0/20|IE|ripencc|2003-12-24|WEBWORLD-AS t/a Web World Ireland, IE
 217.160.44.188|9333|/LitecoinCore:0.18.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.182.172.117|9333|/LitecoinCore:0.15.1/|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
+217.182.198.228|9333|/LitecoinCore:0.18.1/|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
 217.182.201.204|9333|/LitecoinCore:0.17.1/|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
 217.224.229.152|9333|/LitecoinCore:0.18.1/|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.69.15.197|6234|/LitecoinCore:0.18.1/|20473|217.69.0.0/20|US|ripencc|2000-11-16|AS-CHOOPA, US
@@ -599,7 +600,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:6180:0:d1::635:b001|9333|/LitecoinCore:0.18.1/|14061|2400:6180::/48|SG|apnic|2013-11-19|DIGITALOCEAN-ASN, US
 2400:8901::f03c:91ff:fe92:4ea0|33666|/CypherfunkCore:0.15.2/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2402:1f00:8000:1bc::|9333|/LitecoinCore:0.18.1/|16276|2402:1f00:8000::/40|HK|apnic|2011-10-04|OVH, FR
-2403:2700:4001::93|9333|/LitecoinCore:0.18.1/|38500|2403:2700:4001::/48|ID|apnic|2012-02-22|CROSSNET-AS-ID PT. Cross Network Indonesia, ID
 2404:2ac0:0:d::c|11081|/WorldcoinFoundation:0.8.7.5/|139699|2404:2ac0::/32|AU|apnic|2018-12-27|BRISBANETECHSERVICES-AS-AP Brisbane Tech Services, AU
 2409:8760:c80:a0:192:168:11:96|9333|/LitecoinCore:0.14.2/|9808|2409:8760::/32|CN|apnic|2011-08-23|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 2409:8a3c:b07:2060:24c3:1f48:9411:305a|9333|/LitecoinCore:0.18.1/|24444|2409:8a3c::/32|CN|apnic|2011-08-23|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
@@ -779,7 +779,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e0a:373:dad0:19bb:3577:fcaa:908d|9333|/LitecoinCore:0.17.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:5d8:f410:4cf7:3118:df28:672e|9333|/LitecoinCore:0.17.1/|12322|2a01:e0a:400::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:8af:7830:1d7c:5225:b8ec:e438|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
-2a01:e0a:95c:b0d0:80cf:505c:8c32:896|9333|/LitecoinCore:0.16.3/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ec03:2aa0:59a9:36aa:468c:7c85|9333|/LitecoinCore:0.18.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ecc2:e260:b9ce:e514:78a7:2a59|9333|/LitecoinCore:0.18.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:edc1:9190:102e:6359:1438:e00|9333|/LitecoinCore:0.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
@@ -896,6 +895,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.107.236.83|9333|/LitecoinCore:0.16.3/|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.108.73.231|9333|/LitecoinCore:0.18.1/|37963|47.108.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.112.105.55|9333|/LitecoinCore:0.16.3/|37963|47.112.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+47.113.204.35|9333|/LitecoinCore:0.18.1/|37963|47.113.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.116.28.219|9333|/LitecoinCore:0.16.3/|37963|47.116.0.0/17|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.133.76.59|9333|/FutureBit-ApolloCore:0.17.1/|20115|47.132.0.0/15|US|arin|2017-11-27|CHARTER-20115, US
 47.187.75.84|9333|/FutureBit-ApolloCore:0.17.1/|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -1063,7 +1063,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.112.9.119|9333|/LitecoinCore:0.17.1/|49981|62.112.8.0/22|NL|ripencc|1997-05-02|WORLDSTREAM, NL
 62.152.58.16|9679|/LitecoinCore:0.14.2/|3175|62.152.58.0/24|RU|ripencc|2008-02-25|CITYTELECOM-MSK, RU
 62.171.138.227|9333|/LitecoinCore:0.17.1/|51167|62.171.138.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.142.156|9333|/LitecoinCore:0.18.1/|51167|62.171.142.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.146.255|9333|/LitecoinCore:0.18.1/|51167|62.171.146.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.175.90|9333|/LitecoinCore:0.18.1/|51167|62.171.174.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.190.193|9333|/LitecoinCore:0.17.1/|51167|62.171.190.0/23|DE|ripencc|2000-08-18|CONTABO, DE
@@ -1292,7 +1291,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|9333|/LitecoinCore:0.18.1/|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
-91.239.130.62|8335|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 91.39.177.42|9333|/LitecoinCore:0.18.1/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.151.42.35|9333|/LitecoinCore:0.18.1/|3215|92.151.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
@@ -1302,7 +1300,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.32.45.229|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 92.33.191.207|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 92.53.89.123|9333|/LitecoinCore:0.17.1/|49505|92.53.89.0/24|RU|ripencc|2008-02-15|SELECTEL, RU
-92.89.143.222|9333|/LitecoinCore:0.18.1/|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
 93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
 93.197.33.155|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.213.128.223|9333|/LitecoinCore:0.18.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
