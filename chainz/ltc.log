@@ -24,6 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.236.189.14|/LitecoinCore:0.18.1/|70015|9829|117.236.176.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+119.18.1.34|/LitecoinCore:0.18.1/|70015|4764|119.18.0.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
 120.147.154.196|/LitecoinCore:0.18.1/|70015|1221|120.144.0.0/13|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.138.223.89|/loaf:2.1/|70015|4766|121.136.0.0/13|KR|apnic|2006-04-07|KIXS-AS-KR Korea Telecom, KR
@@ -34,7 +35,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.136.95|/LitecoinCore:0.18.1/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 138.197.157.31|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|138.197.144.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.68.25.61|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|138.68.16.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
-139.162.123.52|/MyCoinCore:0.14.2/|70015|63949|139.162.96.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.193.213.179|/loaf-android:175/|70015|23700|139.193.192.0/19|ID|apnic|2011-03-30|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -96,9 +96,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.210.130.24|/LitecoinCore:0.17.1/|70015|14618|18.208.0.0/13|US|arin|2019-10-07|AMAZON-AES, US
 18.234.128.245|/Dain:0.1.0/|70003|14618|18.232.0.0/14|US|arin|2019-10-07|AMAZON-AES, US
 180.214.233.16|/loaf-android:175/|70015|45727|180.214.233.0/24|ID|apnic|2009-10-07|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
-184.105.70.100|/LitecoinCore:0.17.1/|70015|6939|184.104.0.0/15|US|arin|2010-05-10|HURRICANE, US
 184.58.84.141|/LitecoinCore:0.18.1/|70015|10796|184.58.0.0/17|US|arin|2009-12-08|TWC-10796-MIDWEST, US
-185.141.63.163|/LitecoinCore:0.18.1/|70015|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.201.90.196|/LitecoinCore:0.16.3/|70015|48642|185.201.88.0/22|RU|ripencc|2017-05-01|KTEL-AS Ekaterinburg, Russia, RU
 185.220.101.129|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 185.220.101.142|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
@@ -139,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.59.173.55|/LitecoinCore:0.18.1/|70015|32244|209.59.128.0/18|US|arin|2004-07-27|LIQUIDWEB, US
 213.132.238.250|/LitecoinCore:0.18.1/|70015|3225|213.132.236.0/22|KW|ripencc|2002-07-17|GULFNET-KUWAIT, KW
 213.232.87.96|/LitecoinCore:0.18.1/|70015|49981|213.232.87.0/24|DE|ripencc|2018-12-07|WORLDSTREAM, NL
-213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 213.55.225.92|/BitcoinKit:0.1.0/|70015|15796|213.55.128.0/17|CH|ripencc|2000-10-12|SALT-, CH
 213.87.149.89|/bitcore:1.1.0/|70003|8359|213.87.128.0/19|RU|ripencc|2000-04-10|MTS, RU
 213.93.110.41|/LitecoinCore:0.18.1/|70015|6830|213.93.0.0/17|NL|ripencc|2000-05-09|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
