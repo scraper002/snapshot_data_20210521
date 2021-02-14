@@ -291,6 +291,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.55.158.230|9333|/FutureBit-ApolloCore:0.17.1/|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 174.86.182.42|9333|/Satoshi:0.8.7.2/|20115|174.86.0.0/16|US|arin|2009-02-23|CHARTER-20115, US
 175.118.126.20|19334|/LitecoinCore:0.17.1/|9318|175.112.0.0/13|KR|apnic|2009-12-17|SKB-AS SK Broadband Co Ltd, KR
+176.101.118.27|9333|/LitecoinCore:0.17.1/|5598|176.101.96.0/19|UA|ripencc|2011-11-07|NETLUX-AS Internet Service Provider, RU
 176.126.167.10|9333|/LitecoinCore:0.18.1/|59684|176.126.167.0/24|KG|ripencc|2012-09-14|ASHOSTER, KG
 176.153.71.38|9333|/LitecoinCore:0.14.2/|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 176.31.236.182|9333|/LitecoinCore:0.17.1/|16276|176.31.0.0/16|FR|ripencc|2011-05-20|OVH, FR
@@ -606,7 +607,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2409:8760:c80:a0:192:168:11:96|9333|/LitecoinCore:0.14.2/|9808|2409:8760::/32|CN|apnic|2011-08-23|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 2409:8a3c:b07:2060:24c3:1f48:9411:305a|9333|/LitecoinCore:0.18.1/|24444|2409:8a3c::/32|CN|apnic|2011-08-23|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 2409:8a55:3418:2450:584a:2f52:f841:86d0|9333|/Satoshi:0.8.5.1/|56040|2409:8a55::/32|CN|apnic|2011-08-23|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
-2409:8a55:410:4180:c86f:43db:693d:da69|9333|/LitecoinCore:0.14.2/|56040|2409:8a55::/32|CN|apnic|2011-08-23|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 240e:388:a4c5:f100:5c3a:6f3f:af46:eda7|9333|/LitecoinCore:0.16.3/|4812|240e:388::/32|CN|apnic|2011-12-14|CHINANET-SH-AP China Telecom (Group), CN
 240f:109:420c:1:f5b6:4d09:86cf:5d0b|9333|/LitecoinCore:0.18.1/|2516|240f:100::/24|JP|apnic|2017-10-27|KDDI KDDI CORPORATION, JP
 2600:1700:3901:28f:250:56ff:fe91:884e|9333|/LitecoinCore:0.18.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
@@ -779,6 +779,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e0a:3c0:3450:711b:4a19:245c:5d9d|9333|/LitecoinCore:0.16.3/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:5d8:f410:4cf7:3118:df28:672e|9333|/LitecoinCore:0.17.1/|12322|2a01:e0a:400::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:8af:7830:1d7c:5225:b8ec:e438|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e0a:95c:b0d0:8115:e01f:4764:fdf8|9333|/LitecoinCore:0.16.3/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ecc2:e260:46e:c656:946e:43d6|9333|/LitecoinCore:0.18.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:edc1:9190:102e:6359:1438:e00|9333|/LitecoinCore:0.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
@@ -1222,7 +1223,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.194.62.218|53179|/LitecoinCore:0.16.0/|5089|80.194.0.0/15|GB|ripencc|2001-09-26|NTL, GB
 80.242.124.21|9333|/LitecoinCore:0.17.1/|21107|80.242.112.0/20|BA|ripencc|2005-09-07|BLICNET-AS # BLIC.NET AS peering info, BA
 80.255.0.173|9333|/LitecoinCore:0.18.1/|201011|80.255.0.0/20|DE|ripencc|2009-04-16|NETZBETRIEB-GMBH, DE
-80.65.23.139|33666|/CypherfunkCore:0.15.2/|31257|80.65.16.0/21|RU|ripencc|2004-03-18|ORIONNET-NET, RU
+80.65.23.139|33666|/CypherfunkCore:0.15.2/|31257|80.65.16.0/21|RU|ripencc|2004-03-18|ORIONNET-KRK, RU
 80.79.114.34|9333|/LitecoinCore:0.17.1/|34702|80.79.112.0/20|EE|ripencc|2005-03-18|WAVECOM-AS, EE
 80.89.156.216|9333|/LitecoinCore:0.18.1/|21127|80.89.156.0/24|RU|ripencc|2001-10-02|ZSTTKAS Novosibirsk, Russia, RU
 81.177.160.24|9333|/LitecoinCore:0.16.3/|8342|81.177.160.0/20|RU|ripencc|2003-01-15|RTCOMM-AS, RU
@@ -1258,6 +1259,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.10.203.112|9333|/LitecoinCore:0.18.1/|24940|85.10.192.0/18|DE|ripencc|2005-02-23|HETZNER-AS, DE
 85.13.237.24|9333|/LitecoinCore:0.16.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
 85.15.179.171|56969|/DigitaleuroCore:0.16.3/|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
+85.175.191.95|9333|/Satoshi:0.8.6.2/|12389|85.175.176.0/20|RU|ripencc|2004-12-22|ROSTELECOM-AS, RU
 85.2.130.99|9333|/LitecoinCore:0.17.1/|3303|85.2.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom (Switzerland) Ltd, CH
 85.214.61.209|9333|/LitecoinCore:0.17.1/|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 85.215.9.88|9333|/LitecoinCore:0.16.0/|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
