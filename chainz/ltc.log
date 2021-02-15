@@ -29,6 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.17.14.75|/LitecoinCore:0.18.1/|70015|133612|120.17.0.0/18|AU|apnic|2008-03-07|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.138.223.89|/loaf:2.1/|70015|4766|121.136.0.0/13|KR|apnic|2006-04-07|KIXS-AS-KR Korea Telecom, KR
+123.16.253.95|/Satoshi:0.8.6.2/|70002|45899|123.16.240.0/20|VN|apnic|2007-01-11|VNPT-AS-VN VNPT Corp, VN
 124.148.21.35|/LitecoinCore:0.17.1/|70015|4739|124.148.20.0/22|AU|apnic|2006-03-02|INTERNODE-AS Internode Pty Ltd, AU
 124.170.195.218|/LitecoinCore:0.18.1/|70015|7545|124.170.192.0/20|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 128.0.137.246|/LitecoinCore:0.18.1/|70015|25513|128.0.128.0/20|RU|ripencc|2012-09-14|ASN-MGTS-USPD, RU
@@ -107,7 +108,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.122.5.9|/NBitcoin:5.0.49/|70012|28573|187.122.0.0/17|BR|lacnic|2010-03-01|CLARO S.A., BR
 187.19.28.143|/NBitcoin:5.0.49/|70012|28125|187.19.28.0/23|BR|lacnic|2008-12-12|Elo.Net Tecnologia Ltda. - ME, BR
 187.254.148.146|/NBitcoin:5.0.49/|70012|28523|187.254.144.0/20|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
-188.104.154.144|/NBitcoin:5.0.49/|70012|3209|188.96.0.0/12|DE|ripencc|2009-01-20|VODANET International IP-Backbone of Vodafone, DE
 188.131.162.86|/btc-seeder:0.0001/|70013|45090|188.131.160.0/20|CN|apnic|2009-04-14|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 188.165.213.18|/LitecoinCore:0.17.1/|70015|16276|188.165.0.0/16|FR|ripencc|2009-06-05|OVH, FR
 188.243.247.91|/NBitcoin:5.0.49/|70012|35807|188.242.0.0/15|RU|ripencc|2009-06-23|SKYNET-SPB-AS, RU
@@ -124,6 +124,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.86.175.180|/BitcoinKit:0.1.0/|70015|6799|2.86.0.0/16|GR|ripencc|2010-05-12|OTENET-GR Athens - Greece, GR
 200.95.200.155|/NBitcoin:5.0.49/|70012|61937|200.95.192.0/19|BR|lacnic|2014-06-09|Oquei Telecom Ltda EPP, BR
 201.140.135.53|/LitecoinCore:0.18.1/|70015|28502|201.140.132.0/22|MX|lacnic|2004-11-23|Alestra Innovacion Digital S de RL de CV, MX
+201.219.234.208|/BitcoinKit:0.1.0/|70015|52341|201.219.234.0/24|CL|lacnic|2014-05-26|WOM S.A., CL
 201.236.203.220|/litecoinj:0.15.2-SNAPSHOT/|70002|13489|201.236.192.0/18|CO|lacnic|2005-12-27|EPM Telecomunicaciones S.A. E.S.P., CO
 203.198.146.232|/LitecoinCore:0.18.1/|70015|4760|203.198.144.0/20|HK|apnic|2000-07-12|HKTIMS-AP HKT Limited, HK
 203.86.200.177|/btcwire:0.5.0/|70013|23655|203.86.200.0/21|NZ|apnic|2004-11-16|SNAP-NZ-AS Snap Internet Limited, NZ
@@ -188,7 +189,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 59.10.113.206|/LitecoinCore:0.18.1/|70015|4766|59.8.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 62.182.175.36|/LitecoinCore:0.18.1/|70015|31130|62.182.168.0/21|DK|ripencc|2008-04-01|NMNET, DK
-62.217.184.223|/LitecoinCore:0.18.1/|70015|41275|62.217.184.0/21|RU|ripencc|2002-04-10|LEALTA-AS Moscow, Russia, RU
 62.221.231.118|/NBitcoin:5.0.49/|70012|208988|62.221.228.0/22|DE|ripencc|2003-02-10|BUCHHOLZ-DIGITAL Buchholz Digital GmbH, DE
 64.225.4.210|/B2CCoinCore:0.16.3/|70015|14061|64.225.0.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 66.177.206.113|/NBitcoin:5.0.49/|70012|7922|66.176.0.0/15|US|arin|2001-10-01|COMCAST-7922, US
@@ -214,6 +214,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.2.21.197|/BitcoinKit:0.1.0/|70015|5089|82.0.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.36.130.53|/NBitcoin:5.0.49/|70012|5089|82.36.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 83.20.222.105|/NBitcoin:5.0.49/|70012|5617|83.16.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
+83.69.11.8|/LitecoinCore:0.17.1/|70015|21191|83.69.11.0/24|RU|ripencc|2004-05-21|ASN-SEVERTTK, RU
 83.86.227.100|/loaf:2.1/|70015|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.245.121.119|/LitecoinCore:0.16.0/|70015|5578|84.245.64.0/18|SK|ripencc|2005-03-16|AS-BENESTRA Bratislava, Slovak Republic, SK
 84.47.31.105|/Satoshi:0.8.5.1/|70002|6855|84.47.0.0/17|SK|ripencc|2004-10-12|SK-TELEKOM Slovak Telekom / T-Mobile CZ, SK
@@ -228,6 +229,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.80.187.187|/Node:0.8.7.2/|70002|63949|88.80.184.0/21|US|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
 89.151.179.12|/LitecoinCore:0.17.1/|70015|12389|89.151.128.0/18|RU|ripencc|2006-04-18|ROSTELECOM-AS, RU
 89.16.103.122|/LiteWallet:1.1/|70012|20485|89.16.103.0/24|RU|ripencc|2006-07-06|TRANSTELECOM Moscow, Russia, RU
+89.210.80.193|/NBitcoin:5.0.49/|70012|3329|89.210.80.0/20|GR|ripencc|2006-04-19|HOL-GR Athens, Greece, GR
 89.79.189.145|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 90.251.57.93|/BitcoinKit:0.1.0/|70015|5378|90.248.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 90.252.46.201|/LitecoinCore:0.18.1/|70015|5378|90.252.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
@@ -255,6 +257,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.96.5|/LitecoinCore:0.17.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.73.151.80|/LitecoinCore:0.18.1/|70015|12389|95.73.144.0/21|RU|ripencc|2008-11-28|ROSTELECOM-AS, RU
 95.87.226.56|/NBitcoin:5.0.49/|70012|43561|95.87.192.0/18|BG|ripencc|2009-02-12|NET1-AS, BG
+95.91.236.111|/LitecoinCore:0.17.1/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.244.141.13|/BitcoinKit:0.1.0/|70015|701|96.244.0.0/16|US|arin|2006-12-29|UUNET, US
 96.45.202.253|/LitecoinCore:0.16.3/|70015|21949|96.45.192.0/20|CA|arin|2009-10-23|BEANFIELD, CA
 98.198.80.43|/Satoshi:0.8.6.2/|70002|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
