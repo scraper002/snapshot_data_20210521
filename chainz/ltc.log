@@ -23,6 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.199.1.108|/LitecoinCore:0.18.1/|70015|38195|122.199.1.0/24|AU|apnic|2006-09-19|SUPERLOOP-AS-AP Superloop, AU
 122.58.6.241|/LitecoinCore:0.17.1/|70015|4771|122.58.0.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
+123.97.189.199|/Satoshi:0.13.2/|70015|4134|123.96.0.0/15|CN|apnic|2006-11-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 124.170.195.34|/LitecoinCore:0.18.1/|70015|7545|124.170.192.0/20|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 125.89.225.213|/Satoshi:0.13.2/|70015|4134|125.88.0.0/13|CN|apnic|2005-08-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 126.186.36.206|/loaf-android:175/|70015|17676|126.186.0.0/16|JP|apnic|2005-02-08|GIGAINFRA Softbank BB Corp., JP
@@ -100,7 +101,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.100.255|/LitecoinCore:0.18.1/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.101.148|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 185.227.75.168|/LitecoinCore:0.13.2(bitcore)/|70015|25596|185.227.72.0/22|NL|ripencc|2017-10-23|CAMBRIUM-AS, NL
-185.239.243.200|/LitecoinCore:0.18.1/|70015|213035|185.239.243.0/24|NL|ripencc|2018-01-05|SERVERION-AS Serverion B.V., NL
+185.239.243.200|/LitecoinCore:0.18.1/|70015|NA|NA|NL|ripencc|2018-01-05|NA
 186.29.71.37|/litecoinj:0.15.2-SNAPSHOT/|70002|19429|186.29.64.0/20|CO|lacnic|2009-06-08|ETB - Colombia, CO
 186.90.158.218|/loaf-android:175/|70015|8048|186.90.128.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 186.91.199.82|/NBitcoin:5.0.49/|70012|8048|186.91.192.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
@@ -141,7 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.73.150.21|/LitecoinCore:0.18.1/|70015|44901|212.73.150.0/24|CY|ripencc|2004-11-19|BELCLOUD, BG
 213.182.230.42|/NBitcoin:5.0.49/|70012|28919|213.182.224.0/19|AT|ripencc|2003-03-13|STWKUFSTEIN-AS Fischergries 2, AT
 213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
-217.118.90.149|/LitecoinCore:0.18.1/|70015|16345|217.118.90.0/24|RU|ripencc|2003-06-10|BEE-AS Russia, RU
 217.118.90.183|/LitecoinCore:0.18.1/|70015|16345|217.118.90.0/24|RU|ripencc|2003-06-10|BEE-AS Russia, RU
 217.118.90.185|/LitecoinCore:0.18.1/|70015|16345|217.118.90.0/24|RU|ripencc|2003-06-10|BEE-AS Russia, RU
 217.96.130.86|/NBitcoin:5.0.49/|70012|5617|217.96.0.0/16|PL|ripencc|2000-11-23|TPNET, PL
@@ -213,6 +213,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.148.183.63|/LiteWallet:1.1/|70012|13285|78.148.0.0/15|GB|ripencc|2007-05-10|OPALTELECOM-AS TalkTalk Communications Limited, GB
 78.180.101.32|/LitecoinCore:0.17.1/|70015|47331|78.180.96.0/21|TR|ripencc|2007-05-01|TTNET, TR
 78.40.68.168|/loaf-android:175/|70015|25222|78.40.68.0/22|NL|ripencc|2007-07-12|XANTIC-IP, NL
+78.44.250.93|/LitecoinCore:0.18.1/|70015|6830|78.44.0.0/16|CZ|ripencc|2007-04-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 79.120.70.47|/LitecoinCore:0.13.2/|70015|12714|79.120.0.0/17|RU|ripencc|2007-07-05|TI-AS Moscow, Russia, RU
 8.45.145.38|/WalletKit:0.1.0/|70015|13335|8.45.145.0/24|US|arin|1992-12-01|CLOUDFLARENET, US
 80.223.191.127|/LitecoinCore:0.18.1/|70015|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
@@ -223,6 +224,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.140.40.66|/LitecoinCore:0.17.1/|70015|39811|85.140.40.0/22|RU|ripencc|2004-12-13|MTSNET-FAR-EAST-AS An Autonomous System for the Far East divisions, RU
 85.16.232.58|/loaf-android:175/|70015|9145|85.16.0.0/16|DE|ripencc|2005-03-07|EWETEL Cloppenburger Strasse 310, DE
 86.121.199.81|/NBitcoin:5.0.49/|70012|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
+87.117.19.226|/LitecoinCore:0.18.1/|70015|21479|87.117.0.0/19|RU|ripencc|2005-09-20|ROSTOV-TELEGRAF-AS, RU
 88.112.7.64|/loaf-android:175/|70015|719|88.112.0.0/14|FI|ripencc|2005-08-24|ELISA-AS Helsinki, Finland, FI
 88.123.14.108|/LitecoinCore:0.18.1/|70015|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.230.48.201|/loaf-android:175/|70015|47331|88.230.48.0/21|TR|ripencc|2005-10-27|TTNET, TR
@@ -237,7 +239,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.72.5.80|/LitecoinCore:0.17.1/|70015|25229|93.72.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
 93.75.1.11|/LitecoinCore:0.18.1/|70015|25229|93.75.0.0/19|UA|ripencc|2008-04-04|VOLIA-AS, UA
 93.90.44.65|/LitecoinCore:0.14.2/|70015|12714|93.90.32.0/20|RU|ripencc|2008-04-16|TI-AS Moscow, Russia, RU
-94.244.36.73|/LitecoinCore:0.18.1/|70015|48278|94.244.0.0/18|UA|ripencc|2008-10-30|UKRDATACOM-NET-AS, UA
 94.66.58.3|/NBitcoin:5.0.49/|70012|6799|94.66.56.0/22|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
 95.161.223.232|/Satoshi:0.8.6.2/|70002|8492|95.161.192.0/19|RU|ripencc|2008-12-23|OBIT-AS _OBIT_ Ltd., RU
 95.179.180.199|/litecoinj:0.15.2-SNAPSHOT/|70002|20473|95.179.176.0/20|US|ripencc|2009-01-22|AS-CHOOPA, US
