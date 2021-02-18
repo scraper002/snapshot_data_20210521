@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.193.15.69|/Satoshi:0.13.2/|70015|4808|111.193.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 112.36.200.112|/Ufasoft Coin:0.76/|70002|24444|112.36.128.0/17|CN|apnic|2008-12-15|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 113.11.62.43|/bitcore:1.1.0/|70003|7565|113.11.56.0/21|BD|apnic|2008-09-23|BDCOM-BD Rangs Nilu Square, 5th Floor, House 75, Road 5/A, Dhanmondi R/A, Dhaka 1209, BD
+114.5.109.173|/loaf-android:175/|70015|4761|114.5.108.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 117.236.189.14|/LitecoinCore:0.18.1/|70015|9829|117.236.176.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -73,6 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.83.206|/loaf-android:175/|70015|21928|172.58.80.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.81.183.226|/LitecoinCore:0.17.1/|70015|174|172.81.176.0/21|CA|arin|2015-05-14|COGENT-174, US
 173.212.221.11|/LitecoinCore:0.18.1/|70015|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+173.56.15.171|/NBitcoin:5.0.49/|70012|701|173.56.0.0/16|US|arin|2008-10-09|UUNET, US
 173.82.46.189|/Satoshi:0.8.6.5/|70006|35916|173.82.0.0/16|US|arin|2008-11-14|MULTA-ASN1, US
 174.138.56.120|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|174.138.48.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 175.7.105.200|/Satoshi:0.8.5.1/|70002|4134|175.0.0.0/12|CN|apnic|2009-12-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -95,10 +97,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.190.115.224|/LitecoinCore:0.18.1/|70015|132199|180.190.112.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 183.80.26.123|/NBitcoin:5.0.49/|70012|18403|183.80.16.0/20|VN|apnic|2009-11-08|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
 183.89.221.50|/litecoinj:0.15.2-SNAPSHOT/|70002|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
+185.103.19.174|/LitecoinCore:0.17.1/|70015|39704|185.103.16.0/22|NL|ripencc|2015-06-04|CJ2-AS, NL
 185.112.82.231|/LitecoinCore:0.17.1/|70015|51765|185.112.82.0/24|CZ|ripencc|2015-08-05|CREANOVA-AS Oy Creanova Hosting Solutions Ltd., FI
 185.112.82.235|/LitecoinCore:0.17.1/|70015|51765|185.112.82.0/24|CZ|ripencc|2015-08-05|CREANOVA-AS Oy Creanova Hosting Solutions Ltd., FI
 185.16.209.206|/NBitcoin:5.0.49/|70012|199478|185.16.209.0/24|ES|ripencc|2013-01-24|RADIOCABLE-AS, ES
 185.186.52.239|/LitecoinCore:0.17.1/|70015|206397|185.186.52.0/24|GB|ripencc|2017-01-17|GENIUS-GUARD Genius Guard, GB
+185.206.38.188|/LitecoinCore:0.14.2/|70015|6876|185.206.36.0/22|UA|ripencc|2017-05-31|TENET-AS, UA
 185.220.100.255|/LitecoinCore:0.18.1/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.101.136|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 185.220.101.148|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
@@ -236,9 +240,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.31.47.137|/WalletKit:0.1.0/|70015|3215|90.31.0.0/18|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.240.142.228|/LitecoinCore:0.18.1/|70015|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.39.226.249|/LitecoinCore:0.18.1/|70015|20807|92.39.224.0/21|RU|ripencc|2008-03-05|CREDOLINK-ASN St.-Petersburg, RU
+92.40.203.58|/BitcoinKit:0.1.0/|70015|206067|92.40.202.0/23|GB|ripencc|2007-11-21|H3GUK, GB
 92.62.66.53|/BitcoinKit:0.1.0/|70015|29061|92.62.66.0/23|KG|ripencc|2008-01-22|SAIMANET-AS Chui 121, KG
 92.83.136.246|/LitecoinCore:0.18.1/|70015|9050|92.83.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.143.237.84|/NBitcoin:5.0.49/|70012|5391|93.143.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
+93.201.85.228|/WalletKit:0.1.0/|70015|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.72.5.80|/LitecoinCore:0.17.1/|70015|25229|93.72.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
 93.75.1.11|/LitecoinCore:0.18.1/|70015|25229|93.75.0.0/19|UA|ripencc|2008-04-04|VOLIA-AS, UA
 93.90.44.65|/LitecoinCore:0.14.2/|70015|12714|93.90.32.0/20|RU|ripencc|2008-04-16|TI-AS Moscow, Russia, RU
@@ -253,6 +259,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.42.252|/LitecoinCore:0.18.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.87.242|/LitecoinCore:0.17.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.96.5|/LitecoinCore:0.17.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.87.226.56|/NBitcoin:5.0.49/|70012|43561|95.87.192.0/18|BG|ripencc|2009-02-12|NET1-AS, BG
 96.45.202.253|/LitecoinCore:0.16.3/|70015|21949|96.45.192.0/20|CA|arin|2009-10-23|BEANFIELD, CA
 99.197.152.53|/LitecoinCore:0.18.1/|70015|7155|99.197.152.0/24|US|arin|2007-07-27|VIASAT-SP-BACKBONE, US
