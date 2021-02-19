@@ -4,6 +4,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.15.3.183|9333|/LitecoinCore:0.14.2/|701|100.15.0.0/16|US|arin|2010-12-28|UUNET, US
 101.185.108.124|9333|/FutureBit-ApolloCore:0.17.1/|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 101.186.163.69|9333|/FutureBit-ApolloCore:0.17.1/|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
+101.92.43.144|9333|/LitecoinCore:0.18.1/|4812|101.88.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom (Group), CN
 103.231.191.7|9333|/LitecoinCore:0.16.0/|17831|103.231.191.0/24|SG|apnic|2014-05-16|CENTERHOP-SG 8 Burn Road# 15-13, Trivex, SG
 103.243.173.210|9333|/LitecoinCore:0.18.1/|59210|103.243.173.0/24|SG|apnic|2013-10-15|PHOENIXNAP-AS-SG1 PhoenixNAP, SG
 103.243.173.214|9333|/LitecoinCore:0.18.1/|59210|103.243.173.0/24|SG|apnic|2013-10-15|PHOENIXNAP-AS-SG1 PhoenixNAP, SG
@@ -328,6 +329,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.63.52.205|9333|/LitecoinCore:0.17.1/|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.62.233|9333|/LitecoinCore:0.18.1/|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.75.156|9333|/LitecoinCore:0.17.1/|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
+178.78.97.187|9333|/LitecoinCore:0.18.1/|12390|178.78.64.0/18|GB|ripencc|2010-04-22|KINGSTON-UK-AS, GB
 18.140.67.33|9333|/LitecoinCore:0.17.1/|16509|18.140.0.0/15|US|arin|2019-10-07|AMAZON-02, US
 18.141.5.161|9333|/LitecoinCore:0.18.1/|16509|18.140.0.0/15|US|arin|2019-10-07|AMAZON-02, US
 18.156.63.12|9333|/LitecoinCore:0.18.1/|16509|18.156.0.0/14|US|arin|2019-10-07|AMAZON-02, US
@@ -633,6 +635,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:fd70:4a:babe:b00b:1e5:4604:8eb7|9333|/LitecoinCore:0.18.1/|1426|2607:fd70::/32|US|arin|2009-09-30|LIGHTWAVENET, US
 2800:200:e250:1e5b:14f1:784a:9bfe:ba34|9333|/LitecoinCore:0.18.1/|12252|2800:200:e250::/44|PE|lacnic|2008-04-11|America Movil Peru S.A.C., PE
 2804:14c:bbad:48be:49b4:5df6:1c0d:a3ea|9333|/LitecoinCore:0.18.1/|28573|2804:14c:bbad::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
+2804:1b2:82:df16:1cd0:c667:4253:dd80|7107|/FlashcoinCore:0.13.3/|18881|2804:1b2::/35|BR|lacnic|2015-07-06|TELEFONICA BRASIL S.A, BR
 2806:103e:27:1fc0:5557:99a9:a5ef:b66e|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
 2806:2f0:90c0:c102:2157:bb8a:bfb:2ddf|9333|/LitecoinCore:0.18.1/|17072|2806:2f0:90c0::/47|MX|lacnic|2012-10-11|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
 2a00:1828:a004:2::666|9333|/LitecoinCore:0.17.1/|34240|2a00:1828::/32|DE|ripencc|2009-12-08|MANITU, DE
@@ -738,12 +741,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2a:be3::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2a:c0d::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2a:c12::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2a:cd2::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:1bde::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2a:cd2::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2b:1bde::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:20d7::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2cd6::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/29|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2b:2cd6::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -946,6 +949,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.39.79.51|9333|/LitecoinCore:0.18.1/|16276|5.39.0.0/17|FR|ripencc|2012-05-15|OVH, FR
 5.45.96.170|9333|/LitecoinCore:0.18.1/|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 5.67.75.109|9333|/LitecoinCore:0.17.1/|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
+5.71.216.220|9333|/Satoshi:0.8.7.1/|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
 5.79.113.141|9333|/LitecoinCore:0.18.1/|60781|5.79.64.0/18|NL|ripencc|2012-06-14|LEASEWEB-NL-AMS-01 Netherlands, NL
 5.79.123.3|9333|/LitecoinCore:0.17.1/|60781|5.79.64.0/18|NL|ripencc|2012-06-14|LEASEWEB-NL-AMS-01 Netherlands, NL
 5.79.190.187|20500|/LitecoinCore:0.18.1/|8369|5.79.128.0/17|RU|ripencc|2012-06-13|INTERSVYAZ-AS 38-B, Komsomolsky prospekt, RU
@@ -1168,6 +1172,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.129.165.63|9333|/LitecoinCore:0.18.1/|20860|78.129.128.0/17|GB|ripencc|2007-04-18|IOMART-AS, GB
 78.129.221.31|9333|/LitecoinCore:0.17.1/|20860|78.129.128.0/17|GB|ripencc|2007-04-18|IOMART-AS, GB
 78.141.210.46|56969|/DigitaleuroCore:0.16.3/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
+78.44.250.93|9333|/LitecoinCore:0.18.1/|6830|78.44.0.0/16|CZ|ripencc|2007-04-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 78.46.189.221|9333|/LitecoinCore:0.18.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.46.254.164|9333|/LitecoinCore:0.17.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.46.43.59|9333|/LitecoinCore:0.18.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
@@ -1270,6 +1275,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.79.119.66|9333|/LitecoinCore:0.18.1/|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 90.127.113.189|9333|/LitecoinCore:0.18.1/|3215|90.127.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.191.134.191|9333|/LitecoinCore:0.18.1/|3249|90.190.0.0/15|EE|ripencc|2006-11-14|ESTPAK, EE
+90.202.133.16|9333|/Satoshi:0.8.5.1/|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
 90.90.48.242|9333|/LitecoinCore:0.16.3/|3215|90.90.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.121.163.195|9333|/LitecoinCore:0.14.2/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.121.249.167|9335|/LitecoinCore:0.17.1/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
@@ -1361,7 +1367,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.33.109|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.34.169|9333|/LitecoinCore:0.17.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.35.32|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.36.126|9333|/LitecoinCore:0.16.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.38.60|9333|/LitecoinCore:0.16.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.41.149|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.46.198|9333|/LitecoinCore:0.16.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
