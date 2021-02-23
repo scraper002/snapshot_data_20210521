@@ -23,6 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.76.51.39|/NBitcoin:5.0.49/|70012|7552|115.76.51.0/24|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
 116.203.55.105|/open-nodes:0.1/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.8.247.97|/Satoshi:0.13.2/|70015|4134|116.8.0.0/14|CN|apnic|2007-03-22|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+117.136.79.157|/BitcoinKit:0.1.0/|70015|56040|117.136.79.0/24|CN|apnic|2007-07-17|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 117.236.189.14|/LitecoinCore:0.18.1/|70015|9829|117.236.176.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -42,7 +43,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.255.221.221|/NBitcoin:5.0.49/|70012|28343|143.255.220.0/22|BR|lacnic|2015-11-23|Unifique Telecomunicacoes SA, BR
 144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 145.239.253.105|/LitecoinCore:0.17.1/|70015|16276|145.239.0.0/16|FR|ripencc|1993-08-03|OVH, FR
-146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
 146.198.4.64|/LitecoinCore:0.16.0/|70015|6871|146.198.0.0/16|US|arin|1991-02-28|PLUSNET UK Internet Service Provider, GB
 149.248.53.93|/DigitaleuroCore:0.16.3/|70015|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
 15.165.61.169|/RBTOCore:0.16.3/|70015|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
@@ -55,6 +55,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.98.250|/btcwire:0.5.0/btc-crawl-go:1.0.0/|70015|14061|159.65.96.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 161.35.53.66|/B2CCoinCore:0.16.3/|70015|14061|161.35.48.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
+162.118.7.169|/NBitcoin:5.0.49/|70012|13370|162.118.0.0/20|US|arin|2020-09-16|NWI, US
 162.197.203.86|/WalletKit:0.1.0/|70015|7018|162.192.0.0/12|US|arin|2013-03-01|ATT-INTERNET4, US
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -231,7 +232,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.140.7.16|/loaf-android:175/|70015|8359|85.140.0.0/21|RU|ripencc|2004-12-13|MTS, RU
 85.203.45.165|/bitcore:1.1.0-exodus2/|70003|9009|85.203.45.0/24|NL|ripencc|2005-01-12|M247, GB
 85.245.187.196|/bitcore:1.1.0-exodus2/|70003|3243|85.240.0.0/13|PT|ripencc|2004-01-03|MEO-RESIDENCIAL, PT
-86.121.199.81|/NBitcoin:5.0.49/|70012|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.238.143.200|/LitecoinCore:0.18.1/|70015|3215|86.238.128.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 87.117.19.226|/LitecoinCore:0.18.1/|70015|21479|87.117.0.0/19|RU|ripencc|2005-09-20|ROSTOV-TELEGRAF-AS, RU
 88.14.69.220|/LitecoinCore:0.16.0/|70015|3352|88.14.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
@@ -247,7 +247,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.233.49.2|/LiteWallet:1.4/|70012|57582|91.233.48.0/23|UA|ripencc|2011-12-02|ASAIRNET, UA
 91.240.142.228|/LitecoinCore:0.18.1/|70015|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.59.18.176|/LitecoinCore:0.18.1/|70015|12479|92.59.16.0/22|ES|ripencc|2007-11-19|UNI2-AS, ES
-94.5.214.122|/Satoshi:0.8.5.1/|70002|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 95.130.160.69|/NBitcoin:5.0.49/|70012|12611|95.130.160.0/21|DE|ripencc|2009-03-12|RKOM R-KOM Regensburger Telekommunikations GmbH & Co. KG, DE
 95.216.122.133|/CounosXCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.34.52|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
