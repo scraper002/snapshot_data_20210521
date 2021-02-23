@@ -19,6 +19,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.179|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|/LitecoinCore:0.18.1/|70015|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|/LitecoinCore:0.18.1/|70208|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+119.23.30.242|/LitecoinCore:0.18.1/|70015|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+119.23.30.242|/LitecoinCore:0.18.1/|70208|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.116.42.140|/LitecoinCore:0.17.1/|70015|3462|122.116.0.0/16|TW|apnic|2006-07-31|HINET Data Communication Business Group, TW
 122.171.41.197|/Worldcoin Business Center:3.1.0/|75000|24560|122.171.32.0/20|IN|apnic|2006-12-19|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
@@ -71,8 +73,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.79.210|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.88.120.13|/LitecoinCore:0.18.1/|70015|3842|167.88.120.0/22|US|arin|2014-03-31|RAMNODE, US
 167.88.120.13|/LitecoinCore:0.18.1/|70208|3842|167.88.120.0/22|US|arin|2014-03-31|RAMNODE, US
-167.99.179.226|/LitecoinCore:0.18.1/|70015|14061|167.99.176.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
-167.99.179.226|/LitecoinCore:0.18.1/|70208|14061|167.99.176.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 168.119.121.79|/LitecoinCore:0.18.1/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.121.79|/LitecoinCore:0.18.1/|70208|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.79.89|/LitecoinCore:0.18.1/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
@@ -109,6 +109,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.63.96|/LitecoinCore:0.17.1/|70015|16276|192.99.0.0/16|CA|arin|2013-06-17|OVH, FR
 195.154.164.127|/LitecoinCore:0.14.2/|70015|12876|195.154.0.0/16|FR|ripencc|1996-08-27|Online SAS, FR
 195.201.11.122|/LitecoinCore:0.17.1/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
+195.201.220.231|/btcwire:0.5.0/ltcd:0.20.1/|70013|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 198.98.58.244|/LitecoinCore:0.18.1/|70015|53667|198.98.48.0/20|US|arin|2012-07-05|PONYNET, US
 198.98.58.244|/LitecoinCore:0.18.1/|70208|53667|198.98.48.0/20|US|arin|2012-07-05|PONYNET, US
 199.247.24.116|/LitecoinCore:0.18.1/|70015|20473|199.247.24.0/21|US|ripencc|1996-04-09|AS-CHOOPA, US
@@ -266,7 +267,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.32.45.229|/LitecoinCore:0.18.1/|70208|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 94.130.71.31|/LitecoinCore:0.18.1/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.71.31|/LitecoinCore:0.18.1/|70208|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-95.106.198.18|/WorldcoinFoundation:0.8.7.5/|70002|12389|95.106.192.0/19|RU|ripencc|2009-05-04|ROSTELECOM-AS, RU
 95.216.0.251|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.11.57|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.118.33|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
