@@ -58,6 +58,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 117.248.61.184|9333|/Satoshi:0.8.6.2/|9829|117.248.48.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.162.199|9333|/LitecoinCore:0.17.1/|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -80,7 +81,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.231.205.209|9333|/LitecoinCore:0.17.1/|16509|13.230.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.237.232.32|9333|/LitecoinCore:0.17.1/|16509|13.236.0.0/14|US|arin|2019-10-01|AMAZON-02, US
 13.82.178.27|9333|/btcwire:0.5.0/ltcd:0.20.1/|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
-13.91.60.210|9333|/LitecoinCore:0.18.1/|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
 134.122.112.218|9333|/LitecoinCore:0.18.1/|14061|134.122.112.0/20|US|arin|2019-09-06|DIGITALOCEAN-ASN, US
 134.122.25.43|9333|/LitecoinCore:0.17.1/|14061|134.122.16.0/20|US|arin|2019-09-06|DIGITALOCEAN-ASN, US
 134.122.67.7|9333|/LitecoinCore:0.17.1/|14061|134.122.64.0/20|US|arin|2019-09-06|DIGITALOCEAN-ASN, US
@@ -767,7 +767,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e0a:8af:7830:1d7c:5225:b8ec:e438|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:95f:f2b0:619e:8e20:6864:b276|9333|/Satoshi:0.8.7.5/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
-2a02:1205:34d9:c3a0:28fc:f3ef:f828:f46e|9333|/LitecoinCore:0.18.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:1205:5026:ac90:7aca:39ff:febd:58a3|9333|/Satoshi:0.8.7.2/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:1206:4547:56b0:e8c3:70bc:bd46:adc2|9333|/LitecoinCore:0.18.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
@@ -860,6 +859,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.56.69.176|9333|/LitecoinCore:0.18.1/|63949|45.56.64.0/20|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 45.63.68.18|9333|/LitecoinCore:0.18.1/|20473|45.63.64.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 45.63.77.7|9333|/LitecoinCore:0.18.1/|20473|45.63.64.0/20|US|arin|2015-01-02|AS-CHOOPA, US
+45.63.87.246|9333|/LitecoinCore:0.18.1/|20473|45.63.80.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 45.77.136.193|9333|/LitecoinCore:0.15.1/|20473|45.77.136.0/22|US|arin|2015-04-24|AS-CHOOPA, US
 45.78.129.145|9333|/LitecoinCore:0.18.1/|11698|45.78.128.0/20|US|arin|2015-05-26|WIATEL, US
 45.79.170.139|33666|/CypherfunkCore:0.15.2/|63949|45.79.160.0/20|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
@@ -1199,7 +1199,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.133.174|9333|/LitecoinCore:0.18.1/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.28.186.158|9333|/LitecoinCore:0.18.1/|5089|82.28.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.43.189.207|9333|/Satoshi:0.8.6.2/|5089|82.43.0.0/16|GB|ripencc|2003-01-31|NTL, GB
-82.64.156.75|9333|/Satoshi:0.8.7.5/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.134.3|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.33.15|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.67.247.11|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
@@ -1273,7 +1272,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|9333|/LitecoinCore:0.18.1/|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.219.239.23|9333|/LitecoinCore:0.18.1/|56322|91.219.236.0/22|HU|ripencc|2010-10-27|SERVERASTRA-AS, HU
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
-91.23.159.42|9333|/LitecoinCore:0.17.1/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.23.147.204|9333|/LitecoinCore:0.17.1/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
 91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
@@ -1281,6 +1280,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
 92.53.89.123|9333|/LitecoinCore:0.17.1/|49505|92.53.89.0/24|RU|ripencc|2008-02-15|SELECTEL, RU
+92.89.143.222|9333|/LitecoinCore:0.18.1/|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
 93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
 93.189.145.169|9333|/LitecoinCore:0.17.1/|12555|93.189.144.0/21|RU|ripencc|2008-05-02|IMAQLIQ https://iqdata.center, RU
 93.214.247.129|9333|/LitecoinCore:0.18.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
