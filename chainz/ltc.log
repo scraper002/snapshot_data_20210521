@@ -13,6 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.142.168.53|/loaf-android:175/|70015|45727|114.142.168.0/24|ID|apnic|2017-02-03|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 116.203.55.105|/open-nodes:0.1/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.55.1.155|/LitecoinCore:0.18.1/|70015|4134|116.52.0.0/14|CN|apnic|2007-03-20|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+117.2.158.60|/NBitcoin:5.0.49/|70012|7552|117.2.158.0/24|VN|apnic|2007-05-21|VIETEL-AS-AP Viettel Group, VN
 118.137.169.33|/NBitcoin:5.0.49/|70012|23700|118.137.160.0/19|ID|apnic|2007-09-14|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -70,7 +71,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.108.201.14|/loaf-android:175/|70015|262691|179.108.200.0/22|BR|lacnic|2013-07-17|CONECTA LTDA., BR
 179.155.207.179|/NBitcoin:5.0.49/|70012|28573|179.155.192.0/19|BR|lacnic|2013-08-14|CLARO S.A., BR
 18.157.201.127|/NBitcoin:5.0.49/|70012|16509|18.156.0.0/14|US|arin|2019-10-07|AMAZON-02, US
-18.219.210.144|/LitecoinCore:0.18.1/|70015|16509|18.216.0.0/14|US|arin|2019-10-07|AMAZON-02, US
 18.234.128.245|/Dain:0.1.0/|70003|14618|18.232.0.0/14|US|arin|2019-10-07|AMAZON-AES, US
 180.241.252.85|/NBitcoin:5.0.49/|70012|7713|180.241.252.0/24|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 183.251.213.222|/Satoshi:0.13.2/|70015|9808|183.251.208.0/21|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
@@ -82,7 +82,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 186.225.189.112|/NBitcoin:5.0.49/|70012|262387|186.225.184.0/21|BR|lacnic|2013-05-14|Intermicro Ltda, BR
 187.189.248.64|/NBitcoin:5.0.49/|70012|17072|187.189.248.0/24|MX|lacnic|2011-12-08|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
 187.254.144.2|/NBitcoin:5.0.49/|70012|28523|187.254.144.0/20|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
-187.7.156.14|/NBitcoin:5.0.49/|70012|8167|187.7.128.0/18|BR|lacnic|2008-07-28|Brasil Telecom S/A - Filial Distrito Federal, BR
 188.131.162.86|/btc-seeder:0.0001/|70013|45090|188.131.160.0/20|CN|apnic|2009-04-14|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 188.163.51.79|/LitecoinCore:0.17.1/|70015|15895|188.163.0.0/17|UA|ripencc|2009-05-22|KSNET-AS, UA
 189.32.233.101|/NBitcoin:5.0.49/|70012|28573|189.32.192.0/18|BR|lacnic|2007-04-02|CLARO S.A., BR
@@ -102,6 +101,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.42.14|/RRMCoinCore:0.16.3/|70015|14061|206.189.32.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 209.93.152.171|/NBitcoin:5.0.49/|70012|6871|209.93.0.0/16|US|arin|1997-06-04|PLUSNET UK Internet Service Provider, GB
 212.5.37.74|/BitcoinKit:0.1.0/|70015|47849|212.5.32.0/21|BG|ripencc|2008-09-02|NETCOMLAN-AS, BG
+213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 217.66.159.221|/loaf-android:175/|70015|8359|217.66.152.0/21|RU|ripencc|2003-06-30|MTS, RU
 218.28.78.186|/LitecoinCore:0.18.1/|70015|4837|218.28.0.0/15|CN|apnic|2001-04-12|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 218.68.102.245|/NBitcoin:5.0.49/|70012|4837|218.68.0.0/15|CN|apnic|2001-06-28|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
@@ -133,7 +133,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 5.149.159.39|/LitecoinCore:0.18.1/|70015|56724|5.149.159.0/24|RU|ripencc|2012-07-17|TINCO, RU
 5.39.70.222|/LitecoinCore:0.18.1/|70015|16276|5.39.0.0/17|FR|ripencc|2012-05-15|OVH, FR
-51.75.68.116|/FlashcoinCore:0.13.3.2(bitcore)/|70015|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.161.144|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.77.254.217|/MindexcoinCore:0.18.1/|70015|16509|52.77.0.0/16|US|arin|1991-12-19|AMAZON-02, US
@@ -185,7 +184,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.34.52|/CounosXCore:0.17.2/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.5.31|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.162.57|/CounosXCore:0.17.2/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.87.226.56|/NBitcoin:5.0.49/|70012|43561|95.87.192.0/18|BG|ripencc|2009-02-12|NET1-AS, BG
 95.90.221.202|/LitecoinCore:0.17.1/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.2.191.34|/LitecoinCore:0.18.1/|70015|11232|96.2.0.0/16|US|arin|2007-01-08|MIDCO-NET, US
 97.89.234.64|/FutureBit-ApolloCore:0.17.1/|70015|20115|97.89.224.0/20|US|arin|2007-03-21|CHARTER-20115, US
