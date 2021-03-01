@@ -83,6 +83,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 189.226.107.248|/NBitcoin:5.0.49/|70012|8151|189.226.104.0/21|MX|lacnic|2007-09-05|Uninet S.A. de C.V., MX
 189.32.233.101|/NBitcoin:5.0.49/|70012|28573|189.32.192.0/18|BR|lacnic|2007-04-02|CLARO S.A., BR
 189.71.225.151|/NBitcoin:5.0.49/|70012|7738|189.71.192.0/18|BR|lacnic|2007-09-28|Telemar Norte Leste S.A., BR
+190.2.147.10|/LitecoinCore:0.17.1/|70015|49981|190.2.144.0/20|CW|lacnic|2006-04-28|WORLDSTREAM, NL
 191.185.49.61|/NBitcoin:5.0.49/|70012|28573|191.185.0.0/17|BR|lacnic|2013-11-14|CLARO S.A., BR
 191.5.193.78|/NBitcoin:5.0.49/|70012|262468|191.5.193.0/24|BR|lacnic|2014-01-23|Natel Telecom Ltda. - ME, BR
 191.55.81.186|/NBitcoin:5.0.49/|70012|53006|191.54.0.0/15|BR|lacnic|2014-06-02|ALGAR TELECOM S/A, BR
@@ -105,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.0.102.83|/MindexcoinCore:0.18.1/|70015|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-31.10.133.225|/LitecoinCore:0.18.1/|70015|6830|31.10.128.0/18|CH|ripencc|2011-04-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 37.146.57.222|/LitecoinCore:0.18.1/|70015|3216|37.146.48.0/20|RU|ripencc|2012-03-02|SOVAM-AS, RU
 37.222.95.79|/LitecoinCore:0.18.1/|70015|12430|37.222.0.0/15|ES|ripencc|2012-04-05|VODAFONE_ES, ES
 37.251.220.57|/loaf-android:175/|70015|8953|37.251.208.0/20|RO|ripencc|2012-04-18|ASN-ORANGE-ROMANIA, RO
@@ -116,6 +116,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 39.97.98.238|/LitecoinCore:0.17.1/|70015|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 41.113.186.136|/NBitcoin:5.0.49/|70012|16637|41.113.0.0/16|ZA|afrinic|2009-04-22|MTNNS-AS, ZA
 41.92.29.52|/loaf-android:175/|70015|36925|41.92.0.0/18|MA|afrinic|2009-10-06|ASMedi, MA
+45.91.101.18|/BitcoinKit:0.1.0/|70015|31400|45.91.100.0/22|DE|ripencc|2019-06-27|ACCELERATED-IT, DE
 46.39.51.16|/LitecoinCore:0.18.1/|70015|15582|46.39.32.0/19|RU|ripencc|2010-12-13|AKADO-STOLITSA-AS, RU
 47.75.77.191|/LitecoinCore:0.16.3/|70015|45102|47.75.0.0/17|US|arin|2016-03-17|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -125,7 +126,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 49.150.14.244|/LitecoinCore:0.18.1/|70015|9299|49.150.0.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.181.166.77|/LitecoinCore:0.18.1/|70015|4804|49.181.128.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
-5.149.159.39|/LitecoinCore:0.18.1/|70015|56724|5.149.159.0/24|RU|ripencc|2012-07-17|TINCO, RU
 5.39.70.222|/LitecoinCore:0.18.1/|70015|16276|5.39.0.0/17|FR|ripencc|2012-05-15|OVH, FR
 5.90.43.164|/NBitcoin:5.0.49/|70012|30722|5.88.0.0/13|IT|ripencc|2012-06-19|VODAFONE-IT-ASN, IT
 51.89.161.144|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -157,6 +157,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.244.18.227|/LitecoinCore:0.14.2/|70015|51645|84.244.16.0/22|RU|ripencc|2010-05-04|IRKUTSK-AS, RU
 85.140.113.219|/LitecoinCore:0.18.1/|70015|48124|85.140.112.0/23|RU|ripencc|2004-12-13|COMSTAR-REGIONS-TVER, RU
 85.249.40.56|/LitecoinCore:0.14.2/|70015|8402|85.249.32.0/19|RU|ripencc|2005-01-24|CORBINA-AS OJSC _Vimpelcom_, RU
+85.90.247.174|/LitecoinCore:0.18.1/|70015|63949|85.90.244.0/22|US|ripencc|2004-11-12|LINODE-AP Linode, LLC, US
 87.101.92.88|/BitcoinKit:0.1.0/|70015|9009|87.101.92.0/24|RO|ripencc|2018-08-22|M247, GB
 87.164.202.35|/loaf:2.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.165.114.195|/LitecoinCore:0.16.3/|70015|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
