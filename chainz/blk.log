@@ -8,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.173.237.207|/Blackcoin More:2.13.2.7/|70013|852|108.173.0.0/16|CA|arin|2012-02-01|ASN852, CA
 109.10.129.85|/Blackcoin More:2.13.2.7/|70013|15557|109.0.0.0/11|FR|ripencc|2009-08-13|LDCOMNET, FR
 110.87.116.234|/Blackcoin More:2.13.2.8/|70013|4134|110.80.0.0/13|CN|apnic|2009-04-02|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+113.104.208.119|/Blackcoin More:2.13.2.7/|70013|4134|113.96.0.0/12|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.139.2.194|/Blackcoin More:2.13.2.7/|70013|4134|114.138.0.0/15|CN|apnic|2008-06-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.202.132.28|/Blackcoin More:2.13.2.7/|70013|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.82.109|/Blackcoin More:2.13.2.7/|70013|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -47,6 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 189.136.118.218|/Blackcoin More:2.13.2.6/|70013|8151|189.136.112.0/20|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
 192.154.196.14|/Blackcoin More:2.13.2.7/|70013|64200|192.154.196.0/24|US|arin|2013-01-11|VIVIDHOSTING, US
 193.168.176.129|/Satoshi:1.2.5/|60019|48642|193.168.176.0/22|RU|ripencc|2018-12-11|KTEL-AS Ekaterinburg, Russia, RU
+198.2.88.6|/Blackcoin More:2.13.2.7/|70013|40788|198.2.64.0/18|CA|arin|2012-07-05|START-, CA
 2.223.125.114|/Satoshi:1.2.4/|60019|5607|2.216.0.0/13|GB|ripencc|2010-12-03|BSKYB-BROADBAND-AS, GB
 2.82.239.33|/Satoshi:1.2.4/|60019|3243|2.80.0.0/14|PT|ripencc|2010-04-29|MEO-RESIDENCIAL, PT
 2.93.38.217|/Blackcoin More:2.13.2.6/|70013|8402|2.93.38.0/24|RU|ripencc|2010-05-21|CORBINA-AS OJSC _Vimpelcom_, RU
@@ -57,7 +59,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.231.206.45|/Blackcoin More:2.13.2.7/|70013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 218.21.78.171|/Blackcoin More:2.13.2.6/|70013|4134|218.21.64.0/18|CN|apnic|2001-04-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 222.89.214.20|/Blackcoin More:2.13.2.7/|70013|4134|222.88.0.0/15|CN|apnic|2004-01-13|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-222.94.119.157|/Blackcoin More:2.13.2.7/|70013|4134|222.92.0.0/14|CN|apnic|2004-02-23|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 24.245.110.168|/Blackcoin More:2.13.2.7/|70013|11776|24.245.110.0/23|US|arin|2008-01-04|ATLANTICBB-JOHNSTOWN, US
 24.45.6.135|/Blackcoin More:2.13.2.6/|70013|6128|24.44.0.0/14|US|arin|2001-05-01|CABLE-NET-1, US
 27.29.245.110|/Blackcoin More:2.13.2.8/|70013|4134|27.16.0.0/12|CN|apnic|2010-03-18|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -66,7 +67,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.63.143.71|/Satoshi:1.2.4/|60019|4134|36.62.0.0/15|CN|apnic|2011-01-20|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 37.72.70.152|/Blackcoin More:2.13.2.7/|70013|13055|37.72.68.0/22|RU|ripencc|2012-01-26|CSVLG-AS, RU
 46.10.237.111|/Blackcoin More:2.13.2.8/|70013|8866|46.10.236.0/23|BG|ripencc|2010-09-13|BTC-AS BULGARIA, BG
-46.10.52.145|/Blackcoin More:2.13.2.7/|70013|8866|46.10.48.0/20|BG|ripencc|2010-09-13|BTC-AS BULGARIA, BG
 46.5.4.193|/Blackcoin More:2.13.2.7/|70013|6830|46.5.0.0/17|DE|ripencc|2010-09-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 49.184.231.9|/Blackcoin More:2.13.2.8/|70013|4804|49.184.128.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 61.141.252.217|/Blackcoin More:2.13.2.7/|70013|4134|61.140.0.0/14|CN|apnic|1999-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -115,7 +115,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.113.75.211|/BlackCoin:1.2.5.2/|60019|8447|91.112.0.0/14|AT|ripencc|2006-09-04|A1TELEKOM-AT A1 Telekom Austria AG, AT
 91.121.110.119|/Satoshi:1.2.5/|60019|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 92.116.173.142|/Blackcoin More:2.13.2.8/|70013|8881|92.116.128.0/18|DE|ripencc|2007-10-25|VERSATEL, DE
-92.116.21.27|/Blackcoin More:2.13.2.7/|70013|8881|92.116.16.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 93.177.73.74|/Blackcoin More:2.13.2.8/|70013|9009|93.177.73.0/24|RO|ripencc|2018-11-22|M247, GB
 93.228.208.117|/BlackCoin:1.2.5.2/|60019|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.228.222.34|/BlackCoin:1.2.5.2/|60019|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
