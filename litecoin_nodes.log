@@ -16,6 +16,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.2.96.26|9333|/LitecoinCore:0.18.1/|7018|104.0.0.0/12|US|arin|2014-01-16|ATT-INTERNET4, US
 104.225.250.101|1337|/DefcoinCore:1.0.0/|53340|104.225.248.0/22|US|arin|2014-11-03|FIBERHUB, US
 104.236.136.96|9331|/Node:0.8.7.2/|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
+104.247.226.49|9333|/LitecoinCore:0.18.1/|5645|104.247.224.0/19|CA|arin|2014-12-12|TEKSAVVY, CA
 104.248.144.99|9333|/LitecoinCore:0.13.2(bitcore)/|14061|104.248.144.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
 104.248.242.71|9333|/bcoin:v1.0.0-beta.15/|14061|104.248.240.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
 104.248.82.153|9333|/LitecoinCore:0.15.1/|14061|104.248.80.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
@@ -773,7 +774,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d001:1c1:5054:ff:feee:3e1a|9333|/LitecoinCore:0.15.1/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:7c8:d005:240:5054:ff:fe0a:2f76|9333|/LitecoinCore:0.13.2(bitcore)/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:e0a:385:21d0:498:d296:bf02:42ef|9333|/LitecoinCore:0.16.3/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
-2a01:e0a:3c0:3450:711b:4a19:245c:5d9d|9333|/LitecoinCore:0.16.3/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:8af:7830:1d7c:5225:b8ec:e438|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e35:243f:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e30::/28|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1205:34d9:c3a0:1121:761d:45a0:e875|9333|/LitecoinCore:0.18.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -817,6 +817,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.250.68.69|5001|/LitecoinCore:0.17.1/|16509|3.248.0.0/13|US|arin|2018-06-25|AMAZON-02, US
 31.14.201.156|9333|/LitecoinCore:0.18.1/|29119|31.14.200.0/21|ES|ripencc|2011-04-18|SERVIHOSTING-AS AireNetworks, ES
 31.18.127.132|9333|/LitecoinCore:0.18.1/|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
+31.24.176.172|11081|/WorldcoinFoundation:0.8.5.1/|43451|31.24.176.0/21|SK|ripencc|2011-02-25|RADIOLAN-SK-AS, SK
 31.25.241.206|9333|/LitecoinCore:0.17.1/|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
 31.25.241.224|10333|/LitecoinCore:0.16.3/|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
 32.214.183.114|9333|/LitecoinCore:0.17.1/|46690|32.208.0.0/12|US|arin|1990-05-30|SNET-FCC, US
@@ -895,6 +896,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.4.115.247|9333|/LitecoinCore:0.17.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.71.70|9333|/LitecoinCore:0.17.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.87.133|9333|/LitecoinCore:0.18.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
+46.85.116.136|9333|/LitecoinCore:0.18.1/|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.103.73.227|9333|/LitecoinCore:0.16.3/|37963|47.102.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.107.236.83|9333|/LitecoinCore:0.16.3/|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.108.73.231|9333|/LitecoinCore:0.18.1/|37963|47.108.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1209,6 +1211,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.241.215.211|9333|/LitecoinCore:0.13.2(bitcore)/|51167|80.241.215.0/24|DE|ripencc|2011-02-14|CONTABO, DE
 80.242.124.21|9333|/LitecoinCore:0.17.1/|21107|80.242.112.0/20|BA|ripencc|2005-09-07|BLICNET-AS # BLIC.NET AS peering info, BA
 80.255.0.173|9333|/LitecoinCore:0.18.1/|201011|80.255.0.0/20|DE|ripencc|2009-04-16|NETZBETRIEB-GMBH, DE
+80.65.196.226|11081|/WorldcoinFoundation:0.8.7.5/|25417|80.65.192.0/20|SE|ripencc|2001-05-15|LJUSNET-AS se.ljusnet Autonomous System, SE
 80.65.23.139|33666|/CypherfunkCore:0.15.2/|31257|80.65.16.0/21|RU|ripencc|2004-03-18|ORIONNET-KRK, RU
 80.79.114.34|9333|/LitecoinCore:0.17.1/|34702|80.79.112.0/20|EE|ripencc|2005-03-18|WAVECOM-AS, EE
 81.177.160.24|9333|/LitecoinCore:0.16.3/|8342|81.177.160.0/20|RU|ripencc|2003-01-15|RTCOMM-AS, RU
