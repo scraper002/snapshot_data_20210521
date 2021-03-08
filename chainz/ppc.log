@@ -2,9 +2,9 @@
 # PeerCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.100.129.5|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|133579|101.100.129.0/24|NZ|apnic|2010-12-22|MYREPNZ-AS-AP MYREPUBLIC LIMITED, NZ
-101.161.212.19|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 104.200.159.106|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|46562|104.200.159.0/24|US|arin|2014-09-16|PERFORMIVE, US
 104.54.203.174|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7018|104.48.0.0/12|US|arin|2014-05-06|ATT-INTERNET4, US
+107.152.42.126|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-1cbefe4 Strider)/|70015|11878|107.152.42.0/24|US|arin|2013-12-03|TZULO, US
 109.111.102.154|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6752|109.111.100.0/22|AD|ripencc|2009-11-24|ANDORRA Andorra Telecom, AD
 109.150.138.51|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
 109.237.86.54|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|16066|109.237.80.0/20|UA|ripencc|2010-10-08|TEST-, UA
@@ -57,7 +57,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.170.173.95|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31163|188.170.173.0/24|RU|ripencc|2009-06-24|MF-KAVKAZ-AS, RU
 192.222.229.98|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-1cbefe44d Strider)/|70015|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
 194.165.230.33|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12501|194.165.224.0/19|SE|ripencc|1996-02-09|NORRNOD ITS, SE
-195.138.71.80|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6876|195.138.64.0/19|UA|ripencc|1997-02-25|TENET-AS, UA
 195.154.184.48|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12876|195.154.0.0/16|FR|ripencc|1996-08-27|Online SAS, FR
 195.91.237.179|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8331|195.91.128.0/17|RU|ripencc|1997-08-01|RINET-AS Cronyx Plus Ltd, RU
 198.2.88.6|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|40788|198.2.64.0/18|CA|arin|2012-07-05|START-, CA
@@ -88,6 +87,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.55.250.221|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7992|24.55.192.0/18|CA|arin|2012-09-12|COGECOWAVE, CA
 24.57.162.146|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7992|24.57.0.0/16|CA|arin|2001-11-05|COGECOWAVE, CA
 3.121.247.139|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.250.10.16|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|16509|3.248.0.0/13|US|arin|2018-06-25|AMAZON-02, US
 36.71.234.181|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|7713|36.71.234.0/24|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 37.164.53.51|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.166.76.56|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
@@ -135,7 +135,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.134.225.48|/Satoshi:0.8.6/Peercoin:0.6.1(v0.6.1ppc)/|70001|6775|79.134.224.0/19|CH|ripencc|2007-10-24|FINK-TELECOM-SERVICES, CH
 79.135.192.31|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-1cbefe44d Strider)/|70015|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
 79.137.67.138|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.220.166.60|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.102.121.62|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12479|80.102.120.0/22|ES|ripencc|2001-07-17|UNI2-AS, ES
 80.138.246.76|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.169.175.185|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
