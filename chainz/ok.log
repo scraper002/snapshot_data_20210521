@@ -66,7 +66,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.121.247.139|/oktoshi:6.9.0.5/|60023|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.134.115.224|/oktoshi:5.0.0.3/|60022|16509|3.132.0.0/14|US|arin|2018-06-25|AMAZON-02, US
 31.40.218.121|/oktoshi:5.0.0.3/|60022|56630|31.40.216.0/22|LT|ripencc|2018-11-09|MELBICOM-EU-AS Melbikomas UAB, LT
-35.136.195.181|/oktoshi:6.9.0/|60023|33363|35.136.0.0/13|US|arin|2017-06-30|BHN-33363, US
+35.136.195.181|???|0|33363|35.136.0.0/13|US|arin|2017-06-30|BHN-33363, US
 37.152.224.53|/oktoshi:6.9.0.3/|60023|6871|37.152.192.0/18|GB|ripencc|2012-03-12|PLUSNET UK Internet Service Provider, GB
 43.228.156.154|/oktoshi:5.0.0.1/|60022|45671|43.228.156.0/24|PK|apnic|2015-01-05|AS45671-NET-AU Wholesale Services Provider, AU
 45.152.183.12|/oktoshi:5.0.0.3/|60022|9009|45.152.183.0/24|RO|ripencc|2019-09-12|M247, GB
@@ -76,7 +76,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.83.103.115|/oktoshi:5.0.0.2/|60022|204189|45.83.100.0/22|ES|ripencc|2019-05-27|VIDEOLUC, ES
 46.109.205.6|/oktoshi:6.9.0.5/|60023|12578|46.109.0.0/16|LV|ripencc|2010-07-21|APOLLO-AS Latvia, LV
 46.188.1.45|/oktoshi:5.0.0.3/|60022|8334|46.188.0.0/17|RU|ripencc|2010-11-24|CO-2COM-AS Moscow, RU
-46.91.88.102|/oktoshi:5.0.0.3/|60022|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.183.242.14|/oktoshi:5.0.0.1/|60022|5650|47.183.192.0/18|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.88.87.154|/oktoshi:6.9.0/|60023|45102|47.88.86.0/23|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 5.173.185.73|/oktoshi:6.9.0/|60023|39603|5.173.128.0/18|PL|ripencc|2012-07-30|P4NET P4 UMTS operator in Poland, PL
@@ -93,6 +92,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.118.182.246|/oktoshi:6.9.0.5/|60023|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.223.180.46|/oktoshi:6.9.0.3/|60023|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 77.168.21.14|/oktoshi:5.0.0.3/|60022|1136|77.168.0.0/14|NL|ripencc|2006-11-02|KPN KPN National, NL
+77.179.141.146|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.182.27.241|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.185.194.50|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.190.74.214|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
@@ -117,7 +117,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.192.95.183|/oktoshi:6.9.0.5/|60023|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.249.0.115|/oktoshi:5.0.0.5/|60022|1759|84.248.0.0/14|FI|ripencc|2004-06-02|TSF-IP-CORE Telia Finland Oyj, FI
 84.55.104.203|/oktoshi:6.9.0.3/|60023|33885|84.55.64.0/18|SE|ripencc|2004-11-18|OWNIT Katarinavagen 15, SE
-86.22.8.37|/oktoshi:5.0.0.3/|60022|5089|86.22.0.0/15|GB|ripencc|2005-03-29|NTL, GB
+86.22.8.37|???|0|5089|86.22.0.0/15|GB|ripencc|2005-03-29|NTL, GB
 86.45.85.114|/oktoshi:6.9.0/|60023|5466|86.40.0.0/13|IE|ripencc|2005-03-31|EIRCOM Internet House, IE
 86.72.78.94|/oktoshi:6.9.0.3/|60023|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
 88.11.8.253|/oktoshi:6.9.0.5/|60023|3352|88.11.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
@@ -125,6 +125,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.150.178.190|/oktoshi:6.9.0.3/|60023|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
 91.237.220.80|/oktoshi:6.9.0.5/|60023|51655|91.237.220.0/24|RU|ripencc|2012-03-30|ILIM-NET, CZ
 91.65.113.117|/oktoshi:6.9.0.3/|60023|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
+93.177.73.114|/oktoshi:6.9.0.5/|60023|9009|93.177.73.0/24|RO|ripencc|2018-11-22|M247, GB
 93.177.73.90|/oktoshi:6.9.0.5/|60023|9009|93.177.73.0/24|RO|ripencc|2018-11-22|M247, GB
 93.238.149.245|/oktoshi:5.0.0.3/|60022|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.159.93|/oktoshi:5.0.0.3/|60022|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
