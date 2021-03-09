@@ -46,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 181.42.18.232|/Blocknet:4.3.1/|70713|27651|181.42.16.0/21|CL|lacnic|2011-08-22|ENTEL CHILE S.A., CL
 182.253.89.228|/Blocknet:4.3.1/|70713|17451|182.253.88.0/23|ID|apnic|2010-05-10|BIZNET-AS-AP BIZNET NETWORKS, ID
 184.70.105.138|/Blocknet:4.2.0/|70713|6327|184.68.0.0/14|CA|arin|2010-01-15|SHAW, CA
+185.159.157.10|/Blocknet:4.3.1/|70713|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.159.157.9|/Blocknet:4.3.1/|70713|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.176.221.101|/Blocknet:4.3.1/|70713|39845|185.176.221.0/24|LV|ripencc|2016-11-08|LV-2CLOUD-ASN16, LV
 185.220.101.207|/Blocknet:4.3.1/|70713|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
@@ -64,7 +65,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.58.187.26|/Blocknet:4.3.2/|70713|46562|199.58.187.0/24|US|arin|2010-11-18|PERFORMIVE, US
 2.57.169.191|/Blocknet:4.3.0/|70713|7040|2.57.169.0/24|NL|ripencc|2019-03-19|NETMINDERS, CA
 2.57.169.212|/Blocknet:4.3.2/|70713|7040|2.57.169.0/24|NL|ripencc|2019-03-19|NETMINDERS, CA
-203.54.221.174|/Blocknet:4.3.2/|70713|1221|203.54.0.0/16|AU|apnic|1994-09-02|ASN-TELSTRA Telstra Corporation Ltd, AU
 209.250.246.90|/Blocknet:3.14.1/|70712|20473|209.250.240.0/21|US|ripencc|2006-06-08|AS-CHOOPA, US
 212.102.48.70|/Blocknet:4.3.2/|70713|60068|212.102.48.0/23|GB|ripencc|1999-06-10|CDN77 (^_^)/, GB
 213.127.13.227|/Blocknet:4.3.2/|70713|33915|213.127.0.0/17|NL|ripencc|1999-09-16|TNF-AS, NL
@@ -130,7 +130,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.187.101.176|/Blocknet:4.3.0/|70713|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 80.187.97.142|/Blocknet:4.2.0/|70713|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 80.219.230.119|/Blocknet:4.2.0/|70713|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-80.57.195.122|/Blocknet:4.3.2/|70713|33915|80.57.0.0/16|NL|ripencc|2001-05-16|TNF-AS, NL
 81.138.16.58|/Blocknet:4.3.2/|70713|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.148.243.93|/Blocknet:4.3.0/|70713|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 82.119.1.8|/Blocknet:4.3.1/|70713|20880|82.119.0.0/20|DE|ripencc|2004-02-16|TELECOLUMBUS, DE
@@ -143,7 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.151.206.43|/Blocknet:4.3.1/|70713|56329|83.151.200.0/21|GB|ripencc|2004-03-30|GIGACLEAR, GB
 83.41.206.22|/Blocknet:4.3.1/|70713|3352|83.41.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.180.80.137|/Blocknet:4.3.2/|70713|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.230.5.233|/Blocknet:4.3.1/|70713|719|84.230.0.0/15|FI|ripencc|2004-08-17|ELISA-AS Helsinki, Finland, FI
 84.30.81.80|/Blocknet:4.3.1/|70713|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 84.65.213.140|/Blocknet:4.3.1/|70713|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 84.86.46.198|/Blocknet:4.3.1/|70713|1136|84.80.0.0/13|NL|ripencc|2004-03-17|KPN KPN National, NL
@@ -155,7 +153,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.121.131.172|/Blocknet:4.3.2/|70713|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.121.150.196|/Blocknet:4.3.1/|70713|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.24.190.38|/Blocknet:4.3.1/|70713|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
-86.5.10.186|/Blocknet:4.3.1/|70713|5089|86.5.0.0/17|GB|ripencc|2005-03-29|NTL, GB
 86.5.46.28|/Blocknet:4.3.1/|70713|5089|86.5.0.0/17|GB|ripencc|2005-03-29|NTL, GB
 88.101.205.62|/Blocknet:4.3.1/|70713|5610|88.100.0.0/15|CZ|ripencc|2005-10-04|O2-CZECH-REPUBLIC, CZ
 89.212.119.170|/Blocknet:4.3.1/|70713|34779|89.212.64.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
