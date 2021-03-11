@@ -26,7 +26,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.105.182.91|/eMark:1.6.1.1/|60012|63949|172.105.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.105.212.138|/eMark:1.6.1.2/|60012|63949|172.105.192.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 174.58.42.47|/eMark:1.5.1/|60011|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
-176.100.225.202|/eMark:1.6.1.2/|60012|200738|176.100.225.0/24|ES|ripencc|2011-10-31|INTERFIBRA-AS, ES
 178.120.6.25|/eMark:1.6.1.2/|60012|6697|178.120.0.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.6.221.235|/eMark:1.6.1.2/|60012|3209|178.0.0.0/12|DE|ripencc|2010-01-12|VODANET International IP-Backbone of Vodafone, DE
 185.123.185.15|/eMark:1.5.1/|60011|43232|185.123.184.0/22|BY|ripencc|2015-10-28|TELEVID-AS16, BY
@@ -55,11 +54,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.252.221.246|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.42.133.66|/eMark:1.5.1/|60011|2856|217.32.0.0/12|GB|ripencc|2000-09-20|BT-UK-AS BTnet UK Regional network, GB
 217.87.128.154|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
+217.94.115.215|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 24.4.64.219|/eMark:1.5.1/|60011|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 46.101.235.143|/eMark:1.5.1/|60011|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.147.83.139|/eMark:1.5.1/|60011|42116|46.147.80.0/22|RU|ripencc|2010-10-13|ERTH-NCHLN-AS, RU
-46.232.249.107|???|0|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
+46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 46.39.248.238|/eMark:1.5.1/|60011|29124|46.39.248.0/23|RU|ripencc|2010-12-28|ISKRATELECOM-AS SEVEN-SKY, RU
 46.84.159.184|/eMark:1.6.1.2/|60012|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 5.44.169.35|/eMark:1.6.1.2/|60012|34757|5.44.168.0/23|RU|ripencc|2012-05-24|SIBSET-NSK-AS, RU
@@ -104,8 +104,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.141.121.234|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.141.122.85|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.151.109.131|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
+87.181.125.117|/eMark:1.6.1/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.212.227.6|/eMark:1.5.1/|60011|13127|87.212.0.0/15|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 88.126.202.24|/eMark:1.5.1/|60011|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
+88.130.153.40|/eMark:1.5.1/|60011|8881|88.130.153.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.217.39.114|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 88.217.44.166|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
@@ -117,12 +119,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.89.206.185|/eMark:1.4.1/|60010|6830|91.89.0.0/16|DE|ripencc|2006-07-28|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 92.201.45.125|/eMark:1.6.1.2/|60012|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 93.210.155.224|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.218.235.130|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.218.235.130|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.240.122.165|/eMark Android:1.0.0/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.0.16.86|/eMark:1.6.1.2/|60012|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
 94.134.32.36|/eMark:1.5.1/|60011|8881|94.134.32.0/20|DE|ripencc|2008-08-07|VERSATEL, DE
 94.134.92.104|/eMark:1.5.1/|60011|8881|94.134.92.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
-94.134.92.165|/eMark:1.5.1/|60011|8881|94.134.92.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
 95.217.78.79|/eMark:1.5.1/|60011|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.222.0.99|/eMark:1.6.1/|60012|6830|95.222.0.0/15|DE|ripencc|2009-03-24|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 95.38.3.82|/eMark:1.6.1.2/|60012|41881|95.38.0.0/21|IR|ripencc|2008-12-11|FANAVA-AS Fanava Group Communication Co., IR
