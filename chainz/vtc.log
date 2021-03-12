@@ -65,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.63.8.147|/Satoshi:0.17.1/|70015|6830|176.63.0.0/17|HU|ripencc|2011-06-08|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 177.131.178.69|/Satoshi:0.17.1/|70015|28210|177.131.160.0/19|BR|lacnic|2012-02-27|SUMICITY TELECOMUNICACOES S.A., BR
 179.118.219.101|/Satoshi:0.17.1/|70015|26599|179.116.0.0/14|BR|lacnic|2013-06-07|TELEFONICA BRASIL S.A, BR
+179.225.132.148|/Satoshi:0.17.1/|70015|26599|179.224.0.0/15|BR|lacnic|2012-11-14|TELEFONICA BRASIL S.A, BR
 179.7.194.121|/Satoshi:0.14.0/|70015|12252|179.7.192.0/22|PE|lacnic|2013-01-21|America Movil Peru S.A.C., PE
 183.253.24.139|/Satoshi:0.17.1/|70015|9808|183.253.0.0/16|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 185.204.1.182|/Satoshi:0.17.1/|70015|51765|185.204.1.0/24|CZ|ripencc|2017-05-17|CREANOVA-AS Oy Creanova Hosting Solutions Ltd., FI
@@ -105,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.78.254.183|/Satoshi:0.17.1/|70015|6327|24.78.252.0/22|CA|arin|2000-12-15|SHAW, CA
 34.195.124.95|/Satoshi:0.17.1/|70015|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 38.101.37.34|/Satoshi:0.17.1/|70015|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
-45.131.192.123|/Satoshi:0.17.1/|70015|29802|45.131.192.0/24|NL|ripencc|2019-07-22|HVC-AS, US
 45.50.21.144|/Satoshi:0.17.1/|70015|20001|45.48.0.0/14|US|arin|2015-01-06|TWC-20001-PACWEST, US
 45.88.105.26|/Satoshi:0.17.1/|70015|204601|45.88.105.0/24|NL|ripencc|2019-06-18|ON-LINE-DATA Server location - Netherlands, Dronten, NL
 46.175.74.235|/Satoshi:0.17.1/|70015|56347|46.175.64.0/20|UA|ripencc|2011-02-08|MEDIANA-AS, UA
@@ -184,7 +184,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.98.157.215|/Satoshi:0.17.1/|70015|5089|77.98.0.0/16|GB|ripencc|2006-10-18|NTL, GB
 78.116.124.29|/Satoshi:0.11.1/|70015|8228|78.112.0.0/12|FR|ripencc|2007-05-03|CEGETEL-AS, FR
 78.141.104.243|/Satoshi:0.17.1/|70015|15962|78.141.64.0/18|SK|ripencc|2007-07-13|OSK-DNI Slovakia, SK
-79.244.157.221|/Satoshi:0.17.1/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 81.10.136.240|/Satoshi:0.17.1/|70015|12605|81.10.128.0/17|AT|ripencc|2002-04-16|LIWEST-AT Linz, Austria, AT
 81.139.187.157|/Satoshi:0.17.1/|70015|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.153.168.24|/Satoshi:0.17.1/|70015|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
@@ -211,7 +210,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.210.2.87|/Satoshi:0.17.1/|70015|3329|89.210.0.0/20|GR|ripencc|2006-04-19|HOL-GR Athens, Greece, GR
 89.73.248.49|/Satoshi:0.17.1/|70015|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 89.75.42.185|/Satoshi:0.17.1/|70015|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-90.2.65.23|/Satoshi:0.17.1/|70015|3215|90.2.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.192.103.11|/Satoshi:0.17.1/|70015|51395|91.192.100.0/22|CH|ripencc|2007-02-15|AS-SOFTPLUS, CH
 91.90.126.28|/Satoshi:0.17.1/|70015|9009|91.90.126.0/24|RO|ripencc|2007-08-06|M247, GB
 92.238.124.81|/Satoshi:0.17.1/|70015|5089|92.238.0.0/15|GB|ripencc|2007-10-31|NTL, GB
