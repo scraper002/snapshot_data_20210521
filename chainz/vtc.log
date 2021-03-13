@@ -15,6 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.9.97.75|/Satoshi:0.17.1/|70015|24444|112.9.0.0/17|CN|apnic|2008-12-15|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 117.236.189.14|/Satoshi:0.14.0/|70015|9829|117.236.176.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 117.36.163.220|/Satoshi:0.17.1/|70015|4134|117.32.0.0/13|CN|apnic|2007-06-15|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+119.100.152.69|/Satoshi:0.17.1/|70015|4134|119.96.0.0/13|CN|apnic|2008-01-31|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 119.17.159.128|/Satoshi:0.11.1/|70015|4764|119.17.156.0/22|AU|apnic|2007-12-03|WIDEBAND-AS-AP Aussie Broadband, AU
 120.154.210.205|/Satoshi:0.17.1/|70015|1221|120.152.0.0/14|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
 124.149.253.15|/Satoshi:0.17.1/|70015|7545|124.149.248.0/21|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -66,7 +67,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.42.218.150|/Satoshi:0.17.1/|70015|10269|179.42.192.0/19|BZ|lacnic|2013-09-04|Belize Telemedia Limited, BZ
 180.150.31.175|/Satoshi:0.17.1/|70015|4764|180.150.28.0/22|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
 183.253.24.139|/Satoshi:0.17.1/|70015|9808|183.253.0.0/16|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
-185.204.1.182|/Satoshi:0.17.1/|70015|51765|185.204.1.0/24|CZ|ripencc|2017-05-17|CREANOVA-AS Oy Creanova Hosting Solutions Ltd., FI
 185.206.225.185|/Satoshi:0.17.1/|70015|9009|185.206.225.0/24|RO|ripencc|2017-06-06|M247, GB
 185.233.252.243|/Satoshi:0.17.1/|70015|204151|185.233.252.0/22|DK|ripencc|2017-11-27|KVIKNET-, DK
 185.250.205.205|/Satoshi:0.17.1(explorer.vertcoin.su)/|70015|204601|185.250.205.0/24|UA|ripencc|2018-03-21|ON-LINE-DATA Server location - Netherlands, Dronten, NL
@@ -166,6 +166,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.116.124.29|/Satoshi:0.11.1/|70015|8228|78.112.0.0/12|FR|ripencc|2007-05-03|CEGETEL-AS, FR
 78.141.104.243|/Satoshi:0.17.1/|70015|15962|78.141.64.0/18|SK|ripencc|2007-07-13|OSK-DNI Slovakia, SK
 79.142.69.179|/Satoshi:0.12.0/|70015|51430|79.142.69.0/24|NL|ripencc|2010-08-11|ALTUS, NL
+79.97.195.187|/Satoshi:0.17.1/|70015|6830|79.97.128.0/17|IE|ripencc|2007-10-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 81.10.136.240|/Satoshi:0.17.1/|70015|12605|81.10.128.0/17|AT|ripencc|2002-04-16|LIWEST-AT Linz, Austria, AT
 81.139.187.157|/Satoshi:0.17.1/|70015|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.153.168.24|/Satoshi:0.17.1/|70015|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
@@ -184,13 +185,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.42.137.210|/Satoshi:0.17.1/|70015|6830|84.42.128.0/17|CZ|ripencc|2004-09-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 86.13.193.214|/Satoshi:0.17.1/|70015|5089|86.13.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.183.21.72|/Satoshi:0.17.1/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-87.227.210.225|/Satoshi:0.17.1/|70015|29580|87.227.208.0/21|BG|ripencc|2005-07-12|HOMELAN-AS A1 EAD, BG
 87.92.36.192|/Satoshi:0.17.1/|70015|16086|87.92.0.0/14|FI|ripencc|2005-07-05|DNA, FI
 88.167.61.19|/Satoshi:0.17.1/|70015|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 89.115.137.183|/Satoshi:0.17.1/|70015|12353|89.114.0.0/15|PT|ripencc|2006-04-10|VODAFONE-PT Vodafone Portugal, PT
 89.187.140.130|/Satoshi:0.17.1/|70015|35592|89.187.140.0/23|CZ|ripencc|2006-04-28|COOLHOUSING-AS Vinohradska 190, CZ
 89.210.2.87|/Satoshi:0.17.1/|70015|3329|89.210.0.0/20|GR|ripencc|2006-04-19|HOL-GR Athens, Greece, GR
-89.73.248.49|/Satoshi:0.17.1/|70015|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 89.75.42.185|/Satoshi:0.17.1/|70015|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 91.200.160.108|/Satoshi:0.17.1/|70015|30822|91.200.160.0/22|UA|ripencc|2007-10-16|MAGEAL-AS, UA
 91.90.126.28|/Satoshi:0.17.1/|70015|9009|91.90.126.0/24|RO|ripencc|2007-08-06|M247, GB
