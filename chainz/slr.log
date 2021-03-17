@@ -39,10 +39,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.52.57.101|/Satoshi:2.1.8/|70005|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 176.58.225.113|/Satoshi:2.1.8/|70005|25472|176.58.224.0/22|GR|ripencc|2011-06-06|WIND-AS, GR
 178.118.183.73|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
-185.220.101.130|/Satoshi:2.1.8/|70005|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 185.38.131.181|/Satoshi:2.1.8/|70005|199736|185.38.128.0/22|ES|ripencc|2013-10-23|IGUANA-AS, ES
 185.4.79.17|/Satoshi:2.1.8/|70005|24904|185.4.76.0/22|FR|ripencc|2012-09-25|KWAOO K-NET SARL, FR
 187.194.105.6|/Satoshi:2.1.8/|70005|8151|187.194.104.0/23|MX|lacnic|2011-06-06|Uninet S.A. de C.V., MX
+188.137.85.215|/Satoshi:2.1.8/|70005|13000|188.137.80.0/20|PL|ripencc|2009-05-06|LEON-AS, PL
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 193.27.14.10|/Satoshi:2.1.8/|70005|9009|193.27.14.0/24|RO|ripencc|2018-04-25|M247, GB
 195.65.248.82|/Satoshi:2.1.8/|70005|3303|195.65.0.0/16|CH|ripencc|1997-01-20|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -127,7 +127,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.142.90.162|/Satoshi:2.1.8/|70005|16019|82.142.64.0/18|CZ|ripencc|2003-09-05|VODAFONE-CZ-AS, CZ
 82.64.238.178|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.134.235.221|/Satoshi:2.1.8/|70005|5432|83.134.0.0/16|BE|ripencc|2004-01-22|PROXIMUS-ISP-AS, BE
-83.135.169.191|/Satoshi:2.1.8/|70005|8881|83.135.168.0/21|DE|ripencc|2004-01-28|VERSATEL, DE
 83.79.3.180|/Satoshi:2.1.8/|70005|3303|83.79.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
 84.168.24.251|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.195.111.156|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
@@ -150,6 +149,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.247.255.104|/Satoshi:2.1.8/|70005|8881|89.247.255.0/24|DE|ripencc|2006-05-04|VERSATEL, DE
 89.38.114.4|/Satoshi:2.1.8/|70005|41110|89.38.114.0/23|DE|ripencc|2005-11-29|DSLMOBIL, DE
 90.116.236.14|/Satoshi:2.1.8/|70005|3215|90.116.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
+90.146.141.240|/Satoshi:2.1.8/|70005|12605|90.146.128.0/17|AT|ripencc|2006-11-23|LIWEST-AT Linz, Austria, AT
 90.21.215.117|/Satoshi:2.1.8/|70005|3215|90.21.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.106.184.165|/Satoshi:2.1.8/|70005|198930|91.106.128.0/18|DE|ripencc|2012-06-21|DE-VSM-ASN Peering, DE
 91.11.202.123|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
@@ -158,6 +158,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.199.167.66|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.208.100.20|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.37.135.7|/Satoshi:2.1.8/|70005|12874|93.37.128.0/17|IT|ripencc|2008-02-25|FASTWEB, IT
+94.106.155.76|/Satoshi:2.1.8/|70005|47377|94.106.128.0/17|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
 94.208.25.202|/Satoshi:2.1.8/|70005|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.226.147.247|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
