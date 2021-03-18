@@ -2,6 +2,7 @@
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.54.207.106|/NBitcoin:5.0.49/|70012|18403|1.54.207.0/24|VN|apnic|2010-05-26|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
+101.181.182.71|/LitecoinCore:0.18.1/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 102.129.73.179|/LitecoinCore:0.14.2/|70015|37451|102.129.73.0/24|CG|afrinic|2018-10-30|CongoTelecom, CG
 102.142.6.241|/BitcoinKit:0.1.0/|70015|36924|102.142.0.0/16|GA|afrinic|2018-03-26|GVA-Canalbox, BJ
 102.66.120.9|/NBitcoin:5.0.49/|70012|328471|102.66.120.0/22|ZA|afrinic|2019-04-19|Hero-Telecoms, ZA
@@ -64,7 +65,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.102.83.131|/LitecoinCore:0.18.1/|70015|27699|177.102.0.0/16|BR|lacnic|2011-09-29|TELEFONICA BRASIL S.A, BR
 177.12.45.103|/NBitcoin:5.0.49/|70012|28665|177.12.0.0/18|BR|lacnic|2010-12-03|Predlink Rede de Telecomuniccoes Ltda, BR
 177.12.48.120|/NBitcoin:5.0.49/|70012|28665|177.12.0.0/18|BR|lacnic|2010-12-03|Predlink Rede de Telecomuniccoes Ltda, BR
-177.138.182.113|/NBitcoin:5.0.49/|70012|27699|177.138.0.0/16|BR|lacnic|2012-03-23|TELEFONICA BRASIL S.A, BR
 177.152.86.111|/NBitcoin:5.0.49/|70012|52527|177.152.86.0/24|BR|lacnic|2014-01-17|IWNET TELECOM LTDA ME, BR
 177.152.86.149|/NBitcoin:5.0.49/|70012|52527|177.152.86.0/24|BR|lacnic|2014-01-17|IWNET TELECOM LTDA ME, BR
 177.155.139.210|/NBitcoin:5.0.49/|70012|53062|177.155.128.0/20|BR|lacnic|2012-08-29|GGNET TELECOMUNICACOES LTDA, BR
@@ -84,7 +84,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 181.43.225.37|/WalletKit:0.1.0/|70015|27651|181.43.224.0/21|CL|lacnic|2013-05-31|ENTEL CHILE S.A., CL
 185.220.101.200|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 185.220.101.206|/LitecoinCore:0.17.1/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
-185.220.101.215|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|ASMK, NL
 186.11.61.206|/WalletKit:0.1.0/|70015|27651|186.11.56.0/21|CL|lacnic|2010-07-14|ENTEL CHILE S.A., CL
 186.223.207.140|/NBitcoin:5.0.49/|70012|28573|186.223.192.0/20|BR|lacnic|2010-07-13|CLARO S.A., BR
 186.233.178.126|/NBitcoin:5.0.49/|70012|53209|186.233.176.0/21|BR|lacnic|2010-09-27|Mantiqueira Tecnologia Ltda., BR
@@ -117,7 +116,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.202.44.215|/NBitcoin:5.0.49/|70012|3209|2.200.0.0/14|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 200.123.58.142|/bitcore:1.1.0-exodus2/|70003|263834|200.123.58.0/24|AR|lacnic|2011-04-07|VILLA GESELL TELEVISION COMUNITARIA S.A., AR
 200.75.98.68|/loaf-android:175/|70015|21826|200.75.98.0/24|VE|lacnic|2001-10-02|Corporacion Telemic C.A., VE
-201.182.121.194|/NBitcoin:5.0.49/|70012|267517|201.182.121.0/24|BR|lacnic|2017-08-24|AVIAnet Telecom, BR
 201.208.121.128|/LitecoinCore:0.18.1/|70015|8048|201.208.96.0/19|VE|lacnic|2005-08-09|CANTV Servicios, Venezuela, VE
 201.240.196.143|/LitecoinCore:0.18.1/|70015|6147|201.240.0.0/16|PE|lacnic|2004-12-30|Telefonica del Peru S.A.A., PE
 201.246.119.232|/NBitcoin:5.0.49/|70012|7418|201.246.64.0/18|CL|lacnic|2004-09-08|TELEFONICA CHILE S.A., CL
@@ -154,6 +152,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.20.102.198|/LitecoinCore:0.18.1/|70015|12389|37.20.0.0/16|RU|ripencc|2011-12-21|ROSTELECOM-AS, RU
 38.142.252.2|/FutureBit-ApolloCore:0.17.1/|70015|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
 39.102.37.235|/LitecoinCore:0.18.1/|70015|37963|39.100.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+39.36.39.71|/LitecoinCore:0.18.1/|70015|17557|39.36.0.0/16|PK|apnic|2011-03-28|PKTELECOM-AS-PK Pakistan Telecommunication Company Limited, PK
 42.113.225.214|/NBitcoin:5.0.49/|70012|18403|42.113.225.0/24|VN|apnic|2011-02-10|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
 42.91.34.62|/LitecoinCore:0.16.3/|70015|4134|42.90.0.0/15|CN|apnic|2011-02-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 45.182.163.156|/NBitcoin:5.0.49/|70012|269281|45.182.163.0/24|BR|lacnic|2019-08-29|LEONARDO HOFFMANN EIRELI, BR
