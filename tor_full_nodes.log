@@ -400,7 +400,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 130.0.50.93|6876|130.0.32.0/19|UA|ripencc|2011-10-13|TENET-AS, UA
 130.149.14.31|680|130.149.0.0/16|DE|ripencc|1988-08-18|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 130.149.80.199|680|130.149.0.0/16|DE|ripencc|1988-08-18|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
-130.180.111.194|6830|130.180.0.0/17|DE|ripencc|2011-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+130.180.111.194|3209|130.180.0.0/17|DE|ripencc|2011-10-19|VODANET International IP-Backbone of Vodafone, DE
 130.180.63.150|6830|130.180.0.0/17|DE|ripencc|2011-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 130.180.89.146|6830|130.180.0.0/17|DE|ripencc|2011-10-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 130.193.15.186|29134|130.193.8.0/21|CZ|ripencc|2011-10-25|IGNUM-AS Czech Republic, CZ
@@ -1520,7 +1520,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.123.5.4|200019|176.123.0.0/21|MD|ripencc|2012-07-26|ALEXHOST, MD
 176.123.6.13|200019|176.123.0.0/21|MD|ripencc|2012-07-26|ALEXHOST, MD
 176.123.6.41|200019|176.123.0.0/21|MD|ripencc|2012-07-26|ALEXHOST, MD
-176.123.7.102|200019|176.123.0.0/21|MD|ripencc|2012-07-26|ALEXHOST, MD
+176.123.7.102|200019|176.123.7.0/24|MD|ripencc|2012-07-26|ALEXHOST, MD
 176.123.7.172|200019|176.123.0.0/21|MD|ripencc|2012-07-26|ALEXHOST, MD
 176.123.7.181|200019|176.123.7.0/24|MD|ripencc|2012-07-26|ALEXHOST, MD
 176.123.7.197|200019|176.123.7.0/24|MD|ripencc|2012-07-26|ALEXHOST, MD
@@ -4697,7 +4697,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:8010:67ae:0005:4f4e:c47d:1783:952d|13037|2a02:8010::/29|GB|ripencc|2011-03-25|ZEN-AS Zen Internet - UK, GB
 2a02:8070:63cb:2400:6e62:6dff:fe4c:29ea|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 2a02:8071:2200:0000:1849:8cd0:43a7:1913|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-2a02:8071:3ec1:0800:ba27:ebff:fe64:6704|3209|2a02:8070::/31|DE|ripencc|2011-09-13|VODANET International IP-Backbone of Vodafone, DE
+2a02:8071:3ec1:0800:ba27:ebff:fe64:6704|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 2a02:8071:41a2:b300:dea6:32ff:fe5a:4ba6|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 2a02:8109:8000:000d:b46b:61d2:be19:167b|3209|2a02:8100::/27|DE|ripencc|2011-02-03|VODANET International IP-Backbone of Vodafone, DE
 2a02:810c:0280:3d61:7cc0:ccff:feb8:2cb9|3209|2a02:8100::/27|DE|ripencc|2011-02-03|VODANET International IP-Backbone of Vodafone, DE
@@ -5315,7 +5315,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.191.226.238|57963|37.191.128.0/17|NO|ripencc|2012-03-21|LYNET-INTERNETT-AS, NO
 37.191.247.204|57963|37.191.128.0/17|NO|ripencc|2012-03-21|LYNET-INTERNETT-AS, NO
 37.200.99.251|34011|37.200.99.0/24|DE|ripencc|2012-03-22|GD-EMEA-DC-CGN1, DE
-37.201.137.207|6830|37.201.0.0/16|DE|ripencc|2012-03-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+37.201.137.207|3209|37.201.0.0/16|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
 37.204.140.5|42610|37.204.0.0/16|RU|ripencc|2012-03-27|NCNET-AS, RU
 37.204.20.190|42610|37.204.0.0/16|RU|ripencc|2012-03-27|NCNET-AS, RU
 37.205.8.191|24971|37.205.8.0/22|CZ|ripencc|2012-03-27|MASTER-AS Czech Republic / www.master.cz, CZ
@@ -6398,7 +6398,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.141.51.90|31103|62.141.48.0/20|DE|ripencc|2002-08-28|KEYWEB-AS, DE
 62.143.137.8|6830|62.143.0.0/16|DE|ripencc|2001-08-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 62.143.218.12|6830|62.143.0.0/16|DE|ripencc|2001-08-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-62.143.84.66|6830|62.143.0.0/16|DE|ripencc|2001-08-16|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+62.143.84.66|3209|62.143.0.0/16|DE|ripencc|2001-08-16|VODANET International IP-Backbone of Vodafone, DE
 62.149.2.188|15497|62.149.0.0/19|UA|ripencc|2000-07-13|COLOCALL Internet Data Center _ColoCALL_, UA
 62.151.180.62|8560|62.151.176.0/21|ES|ripencc|2000-11-21|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 62.168.3.212|5588|62.168.0.0/18|CZ|ripencc|1997-05-07|GTSCE GTS Central Europe / Antel Germany, CZ
@@ -6778,9 +6778,9 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.36.35.232|12389|78.36.32.0/19|RU|ripencc|2007-03-16|ROSTELECOM-AS, RU
 78.40.217.86|9123|78.40.217.0/24|RU|ripencc|2007-07-24|TIMEWEB-AS, RU
 78.42.134.160|6830|78.42.0.0/15|DE|ripencc|2007-03-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-78.42.155.140|6830|78.42.0.0/15|DE|ripencc|2007-03-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+78.42.155.140|3209|78.42.0.0/15|DE|ripencc|2007-03-23|VODANET International IP-Backbone of Vodafone, DE
 78.42.8.229|6830|78.42.0.0/15|DE|ripencc|2007-03-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-78.43.207.73|6830|78.42.0.0/15|DE|ripencc|2007-03-23|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+78.43.207.73|3209|78.42.0.0/15|DE|ripencc|2007-03-23|VODANET International IP-Backbone of Vodafone, DE
 78.44.250.93|6830|78.44.0.0/15|CZ|ripencc|2007-04-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 78.46.104.112|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.46.120.54|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
@@ -6815,7 +6815,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.82.180.2|2119|78.82.0.0/16|SE|ripencc|2007-04-10|TELENOR-NEXTEL Telenor Norge AS, NO
 78.82.248.120|2119|78.82.0.0/16|SE|ripencc|2007-04-10|TELENOR-NEXTEL Telenor Norge AS, NO
 78.94.141.180|6830|78.94.0.0/16|DE|ripencc|2007-07-20|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-78.94.141.202|6830|78.94.0.0/16|DE|ripencc|2007-07-20|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+78.94.141.202|3209|78.94.0.0/16|DE|ripencc|2007-07-20|VODANET International IP-Backbone of Vodafone, DE
 78.94.186.133|6830|78.94.0.0/16|DE|ripencc|2007-07-20|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 78.94.253.253|6830|78.94.0.0/16|DE|ripencc|2007-07-20|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 78.94.74.236|6830|78.94.0.0/16|DE|ripencc|2007-07-20|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -7159,7 +7159,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.0.54.175|5483|84.0.0.0/14|HU|ripencc|2004-09-17|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 84.113.179.53|6830|84.112.0.0/15|AT|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 84.114.118.134|6830|84.114.0.0/15|AT|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-84.118.114.133|3209|84.118.0.0/15|NL|ripencc|2004-04-07|VODANET International IP-Backbone of Vodafone, DE
+84.118.114.133|6830|84.118.0.0/15|NL|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 84.118.161.63|6830|84.118.0.0/15|NL|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 84.133.95.124|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.135.104.65|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -7286,7 +7286,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.214.95.94|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 85.214.97.206|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 85.215.88.244|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
-85.216.99.4|6830|85.216.0.0/17|DE|ripencc|2005-01-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+85.216.99.4|3209|85.216.0.0/17|DE|ripencc|2005-01-04|VODANET International IP-Backbone of Vodafone, DE
 85.222.216.59|208988|85.222.208.0/20|DE|ripencc|2005-03-22|BUCHHOLZ-DIGITAL Buchholz Digital GmbH, DE
 85.226.124.64|2119|85.224.0.0/13|SE|ripencc|2004-12-17|TELENOR-NEXTEL Telenor Norge AS, NO
 85.228.123.69|2119|85.224.0.0/13|SE|ripencc|2004-12-17|TELENOR-NEXTEL Telenor Norge AS, NO
