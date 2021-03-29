@@ -219,7 +219,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.0.211.61|9333|/LitecoinCore:0.18.1/|22612|162.0.211.0/24|US|arin|2020-09-03|NAMECHEAP-NET, US
 162.144.99.9|9333|/LitecoinCore:0.18.1/|46606|162.144.0.0/16|US|arin|2013-03-01|UNIFIEDLAYER-AS-1, US
 162.219.70.54|9333|/LitecoinCore:0.14.2/|33230|162.219.68.0/22|CA|arin|2013-08-12|AS-CROSS, CA
-162.239.104.200|9333|/FutureBit-ApolloCore:0.17.1/|7018|162.224.0.0/12|US|arin|2013-05-21|ATT-INTERNET4, US
 162.243.12.248|11081|/WorldcoinFoundation:0.8.6.2/|14061|162.243.0.0/17|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.62.21.32|9333|/LitecoinCore:0.17.1/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|9333|/LitecoinCore:0.18.1/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -472,9 +471,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:67c:2b0:db32:0:1:a763:f21f|9333|/LitecoinCore:0.18.1/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
 2001:7d0:8431:2701:222:7ff:fefa:fbfc|9333|/LitecoinCore:0.18.1/|3249|2001:7d0::/32|EE|ripencc|2002-05-16|ESTPAK, EE
 2001:8b0:13cf:e990:8f3:c8ff:fe71:54e8|9333|/LitecoinCore:0.18.1/|20712|2001:8b0::/32|GB|ripencc|2002-08-20|AS20712 Andrews & Arnold Ltd, GB
-2001:8f8:1723:822d:b51a:e1bf:62a4:7afa|9333|/LitecoinCore:0.18.1/|8966|2001:8f8::/32|AE|ripencc|2002-09-20|ETISALAT-AS P.O. Box 1150, Dubai, U, AE
 2001:b011:4009:107e:7db7:8fd2:84f3:9d58|9333|/LitecoinCore:0.17.1/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:800e:36cf:9169:df6d:a080:9ef1|9333|/LitecoinCore:0.17.1/|3462|2001:b011:8000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b030:2422::2475|9333|/LitecoinCore:0.18.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:1828:1b33::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8:1800::/38|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -602,6 +601,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2601:ca:8100:ef50:487d:2e04:949:e0ff|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2602:ff22:777::2715:8ec1|9333|/LitecoinCore:0.18.1/|63297|2602:ff22::/36|CA|arin|2016-10-27|PACIFIC-SERVERS, CA
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
+2603:6010:5647:dc79::a1b|9333|/LitecoinCore:0.18.1/|10796|2603:6010::/28|US|arin|2016-12-02|TWC-10796-MIDWEST, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
 2604:2dc0:100:12be::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
 2604:2dc0:200:11b7::|56969|/DigitaleuroCore:0.16.3/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
@@ -1260,9 +1260,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
 92.32.32.240|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 92.33.191.207|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
-92.52.32.61|9333|/Satoshi:0.13.2/|15962|92.52.0.0/18|SK|ripencc|2008-01-17|OSK-DNI Slovakia, SK
 92.89.143.222|9333|/LitecoinCore:0.18.1/|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
 93.103.20.210|9333|/LitecoinCore:0.18.1/|34779|93.103.0.0/19|SI|ripencc|2008-03-14|T-2-AS AS set propagated by T-2 d.o.o., SI
+93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
 93.189.145.169|9333|/LitecoinCore:0.17.1/|12555|93.189.144.0/21|RU|ripencc|2008-05-02|IMAQLIQ https://iqdata.center, RU
 93.197.33.85|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.228.1.246|9333|/LitecoinCore:0.18.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
