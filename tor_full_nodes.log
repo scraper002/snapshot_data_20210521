@@ -24,7 +24,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.212.70.118|55720|103.212.70.0/24|MY|apnic|2016-03-29|GIGABIT-MY Gigabit Hosting Sdn Bhd, MY
 103.227.99.72|24309|103.227.96.0/22|IN|apnic|2014-03-10|CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN
 103.228.53.155|55720|103.228.53.0/24|MY|apnic|2014-03-24|GIGABIT-MY Gigabit Hosting Sdn Bhd, MY
-103.233.206.22|133524|103.233.206.0/24|MM|apnic|2014-06-12|GTCL-AS-AP Global Technology Co., Ltd., MM
+103.233.206.22|NA|NA|MM|apnic|2014-06-12|NA
 103.234.220.195|9381|103.234.220.0/24|HK|apnic|2014-06-25|HKBNES-AS-AP HKBN Enterprise Solutions HK Limited, HK
 103.236.201.110|136052|103.236.201.0/24|ID|apnic|2015-09-01|IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID
 103.236.201.88|136052|103.236.201.0/24|ID|apnic|2015-09-01|IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID
@@ -3236,7 +3236,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:4c48:0002:8400:0000:0001:3fe5:cbb7|5483|2001:4c48::/32|HU|ripencc|2005-04-20|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 2001:4c48:0002:840b:0000:0000:c0de:f001|5483|2001:4c48::/32|HU|ripencc|2005-04-20|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 2001:4dd0:4e07:0000:65b8:2660:d911:837d|8422|2001:4dd0::/32|DE|ripencc|2005-11-28|NETCOLOGNE, DE
-2002:0564:799a:0000:0000:0000:0000:0001|6939|2002::/16||other||HURRICANE, US
+2002:0564:799a:0000:0000:0000:0000:0001|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:55d4:2a98:0000:000d:03ff:fe02:b206|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5875:84ca:0000:62d9:c7ff:fe60:edc4|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:ce3f:e590:0001:0001:0000:0000:0015|6939|2002::/16||other||HURRICANE, US
@@ -4580,10 +4580,10 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:7b40:d418:6d5c:0000:0000:0000:0001|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:8010:60a1:2013:0000:0000:0000:0001|13037|2a02:8010::/29|GB|ripencc|2011-03-25|ZEN-AS Zen Internet - UK, GB
 2a02:8010:67ae:0005:4f4e:c47d:1783:952d|13037|2a02:8010::/29|GB|ripencc|2011-03-25|ZEN-AS Zen Internet - UK, GB
-2a02:8070:63cb:2400:6e62:6dff:fe4c:29ea|3209|2a02:8070::/31|DE|ripencc|2011-09-13|VODANET International IP-Backbone of Vodafone, DE
+2a02:8070:63cb:2400:6e62:6dff:fe4c:29ea|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 2a02:8071:2200:0000:1849:8cd0:43a7:1913|3209|2a02:8070::/31|DE|ripencc|2011-09-13|VODANET International IP-Backbone of Vodafone, DE
-2a02:8071:3ec1:0800:ba27:ebff:fe64:6704|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-2a02:8071:41a2:b300:dea6:32ff:fe5a:4ba6|3209|2a02:8070::/31|DE|ripencc|2011-09-13|VODANET International IP-Backbone of Vodafone, DE
+2a02:8071:3ec1:0800:ba27:ebff:fe64:6704|3209|2a02:8070::/31|DE|ripencc|2011-09-13|VODANET International IP-Backbone of Vodafone, DE
+2a02:8071:41a2:b300:dea6:32ff:fe5a:4ba6|6830|2a02:8070::/31|DE|ripencc|2011-09-13|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 2a02:8109:8000:000d:b46b:61d2:be19:167b|3209|2a02:8100::/27|DE|ripencc|2011-02-03|VODANET International IP-Backbone of Vodafone, DE
 2a02:810c:0280:3d61:7cc0:ccff:feb8:2cb9|3209|2a02:8100::/27|DE|ripencc|2011-02-03|VODANET International IP-Backbone of Vodafone, DE
 2a02:8301:0000:000e:020c:29ff:fecf:4819|6830|2a02:8300::/28|CZ|ripencc|2011-08-08|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
