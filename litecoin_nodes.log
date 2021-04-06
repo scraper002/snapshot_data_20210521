@@ -68,7 +68,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 122.116.42.140|9333|/LitecoinCore:0.17.1/|3462|122.116.0.0/16|TW|apnic|2006-07-31|HINET Data Communication Business Group, TW
 124.148.32.212|9333|/LitecoinCore:0.18.1/|7545|124.148.32.0/19|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
 125.118.103.221|9333|/LitecoinCore:0.18.1/|4134|125.112.0.0/12|CN|apnic|2005-08-26|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-125.25.6.164|9333|/LitecoinCore:0.18.1/|23969|125.25.0.0/20|TH|apnic|2005-08-08|TOT-NET TOT Public Company Limited, TH
 128.199.69.208|9333|/LitecoinCore:0.18.1/|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.96.168|9333|/LitecoinCore:0.17.1/|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 129.97.243.18|9333|/LitecoinCore:0.16.3/|12093|129.97.0.0/16|CA|arin|1987-10-25|UWATERLOO, CA
@@ -323,6 +322,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.130.44.140|9333|/LitecoinCore:0.17.1/|210083|185.130.44.0/24|BZ|ripencc|2018-10-11|PRIVEX, BZ
 185.132.125.115|9333|/LitecoinCore:0.16.3/|202505|185.132.125.0/24|TR|ripencc|2015-12-22|NETBUDUR netbudur.com, TR
 185.138.8.45|9333|/LitecoinCore:0.15.1/|49253|185.138.8.0/24|RU|ripencc|2016-02-09|BRINGO-AS, RU
+185.141.63.163|8335|/LitecoinCore:0.18.1/|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.142.239.205|9333|/LitecoinCore:0.18.1/|174|185.142.239.0/24|SC|ripencc|2016-03-10|COGENT-174, US
 185.15.92.18|10993|/LitecoinCore:0.17.1/|25486|185.15.92.0/23|DE|ripencc|2013-01-10|LUN-AS Lightup Network Solutions GmbH & Co. KG, DE
 185.162.8.125|9333|/LitecoinCore:0.16.0/|21100|185.162.8.0/24|BG|ripencc|2016-08-04|ITLDC-NL, UA
@@ -360,6 +360,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.66.26.135|9333|/LitecoinCore:0.17.1/|210046|188.66.24.0/22|NL|ripencc|2018-07-05|QLOUDE, NL
 189.5.164.5|9333|/LitecoinCore:0.18.1/|28573|189.5.128.0/18|BR|lacnic|2006-09-06|CLARO S.A., BR
 190.2.130.27|9333|/LitecoinCore:0.17.1/|49981|190.2.128.0/20|CW|lacnic|2006-04-28|WORLDSTREAM, NL
+190.2.150.196|9333|/LitecoinCore:0.18.1/|49981|190.2.144.0/20|CW|lacnic|2006-04-28|WORLDSTREAM, NL
 192.184.90.115|9333|/LitecoinCore:0.18.1/|3842|192.184.88.0/21|US|arin|2013-05-28|RAMNODE, US
 192.34.62.27|9333|/LitecoinCore:0.16.0/|14061|192.34.62.0/24|US|arin|2012-11-20|DIGITALOCEAN-ASN, US
 192.95.33.106|9333|/LitecoinCore:0.18.1/|16276|192.95.0.0/18|CA|arin|2012-12-07|OVH, FR
@@ -827,6 +828,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.4.71.70|9333|/LitecoinCore:0.17.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.87.133|9333|/LitecoinCore:0.18.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.5.240.51|9333|/LitecoinCore:0.18.1/|3209|46.5.0.0/16|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
+46.59.65.178|9333|/LitecoinCore:0.18.1/|8473|46.59.0.0/17|SE|ripencc|2010-10-19|BAHNHOF http://www.bahnhof.net/, SE
 47.103.73.227|9333|/LitecoinCore:0.16.3/|37963|47.102.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.107.236.83|9333|/LitecoinCore:0.16.3/|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.108.73.231|9333|/LitecoinCore:0.18.1/|37963|47.108.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1179,6 +1181,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.171.79.176|9333|/LitecoinCore:0.18.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.172.255.128|9333|/LitecoinCore:0.18.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.91.36.212|9333|/LitecoinCore:0.18.1/|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
+87.176.181.71|9333|/LitecoinCore:0.18.1/|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.130.217.153|9333|/LitecoinCore:0.18.1/|8881|88.130.216.0/21|DE|ripencc|2005-10-17|VERSATEL, DE
 88.150.240.96|9333|/LitecoinCore:0.16.0/|20860|88.150.240.0/23|GB|ripencc|2006-01-31|IOMART-AS, GB
 88.198.10.239|9333|/LitecoinCore:0.18.1/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
