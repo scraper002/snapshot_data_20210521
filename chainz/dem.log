@@ -2,7 +2,6 @@
 # Deutsche eMark
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.237.7.211|/eMark:1.5.1/|60011|8774|109.237.4.0/22|RU|ripencc|2009-12-30|ETYPE, RU
-110.20.56.117|/eMark:1.5.1/|60011|4804|110.20.0.0/17|AU|apnic|2009-02-24|MPX-AS Microplex PTY LTD, AU
 112.141.27.176|/eMark:1.6.1.2/|60012|9443|112.141.0.0/16|AU|apnic|2009-02-11|VOCUS-RETAIL-AU Vocus Retail, AU
 117.20.64.116|/eMark:1.6.1.2/|60012|4764|117.20.64.0/22|AU|apnic|2007-06-18|WIDEBAND-AS-AP Aussie Broadband, AU
 122.59.3.47|/eMark:1.6.1.2/|60012|4771|122.59.0.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
@@ -42,6 +41,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.201.4.85|/eMark:1.5.1/|60011|3209|37.201.0.0/16|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
 37.247.71.9|/eMark:1.6.1.2/|60012|21413|37.247.64.0/19|DE|ripencc|2012-04-18|ENVIA-TEL-AS D-09114 Chemnitz, DE
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
+45.236.101.112|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRA(PATAGONIA DIGITAL), AR
 46.101.235.143|/eMark:1.5.1/|60011|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 47.155.229.146|/eMark:1.5.1/|60011|5650|47.152.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -88,7 +88,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.184.160.219|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.4.102.149|/eMark:1.5.0/|60011|3269|87.4.0.0/15|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 88.130.153.171|/eMark:1.5.1/|60011|8881|88.130.153.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
-88.152.184.52|/eMark:1.5.1/|60011|3209|88.152.0.0/16|DE|ripencc|2008-04-14|VODANET International IP-Backbone of Vodafone, DE
+88.152.184.52|/eMark:1.5.1/|60011|3209|88.152.0.0/15|DE|ripencc|2008-04-14|VODANET International IP-Backbone of Vodafone, DE
 88.204.18.3|/eMark:1.6.1.2/|60012|56981|88.204.16.0/21|RU|ripencc|2005-11-25|TOMSK-AS, RU
 88.217.35.242|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 88.217.46.26|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
@@ -112,6 +112,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.98.162.85|/eMark:1.6.1.2/|60012|16322|91.98.160.0/19|IR|ripencc|2006-09-11|PARSONLINE Tehran - IRAN, IR
 93.197.235.137|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.197.240.108|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.218.236.217|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.218.238.24|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.82.120.124|/eMark:1.6.1.2/|60012|8447|93.82.0.0/15|AT|ripencc|2008-02-08|A1TELEKOM-AT A1 Telekom Austria AG, AT
 94.134.92.51|/eMark:1.5.1/|60011|8881|94.134.92.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
@@ -120,7 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.255.26.205|/eMark Android:1.0.0/|60011|12389|94.255.26.0/24|RU|ripencc|2008-10-16|ROSTELECOM-AS, RU
 95.118.114.42|/eMark Android:1.0.0/|60011|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
 95.217.78.79|/eMark:1.5.1/|60011|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.222.0.99|/eMark:1.6.1/|60012|3209|95.222.0.0/15|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
+95.222.0.99|/eMark:1.6.1/|60012|3209|95.222.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.223.230.47|/eMark:1.6.1.2/|60012|3209|95.222.0.0/15|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.89.184.67|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.90.198.115|/eMark:1.4.1/|60010|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
