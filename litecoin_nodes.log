@@ -91,7 +91,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.112.124|9333|/LitecoinCore:0.17.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.136.95|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.178.210|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-135.181.211.44|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.41.17|9333|/LitecoinCore:0.13.2(bitcore)/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.94.218|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 136.144.230.61|9333|/LitecoinCore:0.13.2(bitcore)/|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
@@ -279,6 +278,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.77.68|9333|/LitecoinCore:0.17.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.78.227|9333|/LitecoinCore:0.18.1/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.86.53|9333|/LitecoinCore:0.14.2/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
+176.99.6.226|9333|/LitecoinCore:0.18.1/|49352|176.99.6.0/24|RU|ripencc|2012-06-26|LOGOL-AS, RU
 177.38.215.71|9333|/LitecoinCore:0.18.1/|262411|177.38.215.0/24|BR|lacnic|2011-11-16|Force Telecom Ltda, BR
 177.52.173.62|9333|/LitecoinCore:0.17.1/|263319|177.52.173.0/24|BR|lacnic|2014-03-06|JCR COMERCIO E SERVICOS DE TELECOMUNICACOES LTDA, BR
 178.128.166.156|9333|/LitecoinCore:0.18.1/|14061|178.128.160.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
@@ -411,6 +411,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:1008:2798::|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:2:5fd6::1|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:2:a012::|9333|/LitecoinCore:0.17.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
+2001:41d0:2:e5e7::|9333|/LitecoinCore:0.16.3/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:2:fdb6::|9333|/LitecoinCore:0.17.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:303:3e72::|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:303:4c49::|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
@@ -579,7 +580,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2601:ca:8100:ef50::79e5|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2602:ff22:777::2715:8ec1|9333|/LitecoinCore:0.18.1/|63297|2602:ff22::/36|CA|arin|2016-10-27|PACIFIC-SERVERS, CA
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
-2603:6010:5647:dc79::a1b|9333|/LitecoinCore:0.18.1/|10796|2603:6010::/28|US|arin|2016-12-02|TWC-10796-MIDWEST, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
 2604:2dc0:100:12be::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
 2604:2dc0:200:1137::|11081|/WorldcoinFoundation:0.8.7.5/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
@@ -677,7 +677,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:252:1b6f::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:252:3114::2|2431|/Satoshi:0.8.6.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:a0:14ec::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:a0:2239::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:a0:31ba::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:a0:50c2::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:c010:3095::1|9333|/LitecoinCore:0.16.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -721,7 +720,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d001:1c1:5054:ff:feee:3e1a|9333|/LitecoinCore:0.15.1/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:7c8:d005:240:5054:ff:fe0a:2f76|9333|/LitecoinCore:0.13.2(bitcore)/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:8b81:7c00:4900:c89f:86ce:7b69:a70e|9333|/LitecoinCore:0.18.1/|8821|2a01:8b80::/29|CH|ripencc|2011-06-23|TELEZUG WWZ Telekom AG (TELEZUG), CH
-2a01:e0a:213:11c0:6080:529c:1bac:c8ee|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e0a:213:11c0:e4f2:e651:46ae:38cf|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:5cc:17a0:8117:aa92:b199:7985|9333|/LitecoinCore:0.14.2/|12322|2a01:e0a:400::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:9e8:4800:447c:ff30:f434:7483|9333|/Satoshi:0.8.7.5/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ecbf:70b0:1e1b:dff:fe0b:236d|9333|/LitecoinCore:0.17.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
@@ -729,7 +728,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:2149:8650:9700:69b5:3a0:6900:f64a|9333|/LitecoinCore:0.18.1/|1241|2a02:2149:8000::/34|GR|ripencc|2010-07-15|FORTHNET-GR Forthnet, EU
 2a02:2f0c:3202:1d00:a865:ac25:84bb:5026|9333|/LitecoinCore:0.18.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
-2a02:6b66:6edf:0:1153:9c6f:ffd0:9421|9333|/LitecoinCore:0.17.1/|201838|2a02:6b60::/29|GB|ripencc|2014-05-30|ASN-COMMUNITYFIBRE, GB
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c206:1:4792::1|9333|/LitecoinCore:0.18.1/|51167|2a02:c206::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -1214,6 +1212,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.191.126.205|9333|/LitecoinCore:0.18.1/|3249|90.190.0.0/15|EE|ripencc|2006-11-14|ESTPAK, EE
 91.121.163.195|9333|/LitecoinCore:0.14.2/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.121.249.167|9335|/LitecoinCore:0.17.1/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
+91.121.67.125|9333|/LitecoinCore:0.18.1/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.152.120.228|9333|/LitecoinCore:0.18.1/|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.193.237.116|9333|/LitecoinCore:0.17.1/|42916|91.193.236.0/23|RU|ripencc|2007-05-09|IT-AS, RU
 91.206.16.214|9333|/LitecoinCore:0.18.1/|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
