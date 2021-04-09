@@ -2,6 +2,7 @@
 # DigiByte
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.124.107.36|/DigiByte:7.17.2/|70017|1221|1.120.0.0/13|AU|apnic|2010-05-18|ASN-TELSTRA Telstra Corporation Ltd, AU
+1.144.22.247|/digiwallet:1.0.0/|70017|1221|1.128.0.0/11|AU|apnic|2010-05-18|ASN-TELSTRA Telstra Corporation Ltd, AU
 1.72.2.202|/digiwallet:1.0.0/|70017|9605|1.72.2.0/23|JP|apnic|2010-07-01|DOCOMO NTT DOCOMO, INC., JP
 100.33.9.153|/digiwallet:1.0.0/|70017|701|100.33.0.0/16|US|arin|2010-12-28|UUNET, US
 102.65.48.127|/DigiByte:7.17.2/|70017|328453|102.65.0.0/16||other||Web-Africa-Networks-AS, ZA
@@ -12,7 +13,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.95.113.170|/DigiByte:7.17.2/|70017|134090|103.95.112.0/22|AU|apnic|2017-06-21|XINTEGRATION-AS-AP X INTEGRATION PTY LTD, AU
 104.218.124.239|/DigiByte:7.17.2/|70017|30466|104.218.124.0/24|CA|arin|2014-10-07|CAXD, CA
 104.244.225.19|/digiwallet:1.0.0/|70017|33576|104.244.225.0/24|JM|arin|2014-11-20|DIG001, JM
-105.212.102.64|/digiwallet:1.0.0/|70017|16637|105.208.0.0/12|ZA|afrinic|2012-10-09|MTNNS-AS, ZA
 106.192.10.98|???|0|45609|106.192.0.0/17|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
 106.76.121.61|/digiwallet:1.0.0/|70017|45271|106.76.96.0/19|IN|apnic|2011-04-06|ICLNET-AS-AP Idea Cellular Limited, IN
 107.213.91.83|/DigiByte:7.17.2/|70017|7018|107.208.0.0/12|US|arin|2012-04-25|ATT-INTERNET4, US
@@ -57,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 163.125.252.33|/DigiByte:7.17.2/|70017|17623|163.125.252.0/22|CN|apnic|2011-03-30|CNCGROUP-SZ China Unicom Shenzen network, CN
 163.125.64.75|/DigiByte:7.17.2/|70017|17623|163.125.64.0/22|CN|apnic|2011-03-30|CNCGROUP-SZ China Unicom Shenzen network, CN
 163.158.177.203|/DigiByte:7.17.2/|70017|15435|163.158.0.0/16|NL|ripencc|1992-09-01|KABELFOON DELTA Fiber Nederland, NL
+163.158.70.106|/DigiByte:7.17.2/|70017|15435|163.158.0.0/16|NL|ripencc|1992-09-01|KABELFOON DELTA Fiber Nederland, NL
 164.115.43.140|/DigiByte:7.17.2/|70017|9835|164.115.43.0/24|TH|apnic|1993-03-01|GITS-TH-AS-AP Government Information Technology Services, TH
 165.255.240.236|/DigiByte:7.17.2/|70017|37611|165.255.0.0/16|ZA|afrinic|2015-08-25|Afrihost, ZA
 165.255.74.38|/digiwallet:1.0.0/|70017|37611|165.255.0.0/16|ZA|afrinic|2015-08-25|Afrihost, ZA
@@ -128,7 +129,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.102.47.45|/DigiByte:7.17.2/|70017|60068|212.102.46.0/23|GB|ripencc|1999-06-10|CDN77 (^_^)/, GB
 213.149.51.74|/digiwallet:1.0.0/|70017|15994|213.149.51.0/24|HR|ripencc|2000-11-13|A1HR A1 Hrvatska d.o.o. Zagreb, Croatia, HR
 213.205.241.232|/digiwallet:1.0.0/|70017|12576|213.205.192.0/18|GB|ripencc|2002-11-07|EE Ltd, GB
-213.205.241.45|/digiwallet:1.0.0/|70017|12576|213.205.192.0/18|GB|ripencc|2002-11-07|EE Ltd, GB
 213.214.70.66|/DigiByte:7.17.2/|70017|43205|213.214.64.0/19|BG|ripencc|2009-04-22|BULSATCOM-BG-AS Sofia, BG
 213.46.8.92|/DigiByte:7.17.2/|70017|33915|213.46.0.0/17|NL|ripencc|1999-11-08|TNF-AS, NL
 213.47.176.173|/DigiByte:7.17.2/|70017|6830|213.47.128.0/18|AT|ripencc|1999-12-30|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -165,7 +165,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.101.235.143|/DigiByte:7.17.2/|70017|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.148.180.251|/DigiByte:7.17.2/|70017|204161|46.148.176.0/20|RU|ripencc|2010-11-23|TRITEL, RU
 46.23.35.70|/DigiByte:7.17.2/|70017|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
-46.230.129.199|/digiwallet:1.0.0/|70017|2116|46.230.128.0/20|NO|ripencc|2011-02-08|ASN-CATCHCOM, NO
 46.4.121.221|/DigiByte:7.17.2/|70017|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.80.156.45|/DigiByte:7.17.2/|70017|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.152.60.125|/DigiByte:7.17.2/|70017|5650|47.152.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -173,7 +172,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.187.128.129|/DigiByte:7.17.2/|70017|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 49.145.4.223|/digiwallet:1.0.0/|70017|9299|49.145.0.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.246.3|/DigiByte:7.17.2/|70017|9299|49.150.224.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-49.98.168.110|/digiwallet:1.0.0/|70017|9605|49.98.168.0/23|JP|apnic|2010-11-19|DOCOMO NTT DOCOMO, INC., JP
 5.115.80.234|/digiwallet:1.0.0/|70017|44244|5.115.80.0/20|IR|ripencc|2012-06-29|IRANCELL-AS, IR
 5.126.171.77|/digiwallet:1.0.0/|70017|44244|5.126.160.0/20|IR|ripencc|2012-06-29|IRANCELL-AS, IR
 5.181.233.28|/digiwallet:1.0.0/|70017|9009|5.181.233.0/24|RO|ripencc|2019-04-04|M247, GB
