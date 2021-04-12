@@ -319,12 +319,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 181.164.210.228|8532|/LitecoinCore:0.18.1/|7303|181.164.192.0/19|AR|lacnic|2011-12-28|Telecom Argentina S.A., AR
 183.110.220.210|30303|/LitecoinCore:0.18.1/|4766|183.104.0.0/13|KR|apnic|2009-11-04|KIXS-AS-KR Korea Telecom, KR
 183.156.98.104|9333|/LitecoinCore:0.18.1/|4134|183.128.0.0/11|CN|apnic|2009-11-04|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+183.27.181.252|9333|/LitecoinCore:0.18.1/|4134|183.0.0.0/10|CN|apnic|2009-10-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 184.103.161.123|9333|/FutureBit-ApolloCore:0.17.1/|209|184.103.0.0/16|US|arin|2010-04-06|CENTURYLINK-US-LEGACY-QWEST, US
 184.105.70.100|9333|/LitecoinCore:0.17.1/|6939|184.104.0.0/15|US|arin|2010-05-10|HURRICANE, US
 185.108.244.41|9333|/LitecoinCore:0.18.1/|21232|185.108.244.0/22|CH|ripencc|2015-07-14|GGAMAUR, CH
 185.130.44.138|9333|/LitecoinCore:0.18.1/|210083|185.130.44.0/24|BZ|ripencc|2018-10-11|PRIVEX, BZ
 185.130.44.140|9333|/LitecoinCore:0.17.1/|210083|185.130.44.0/24|BZ|ripencc|2018-10-11|PRIVEX, BZ
 185.138.8.45|9333|/LitecoinCore:0.15.1/|49253|185.138.8.0/24|RU|ripencc|2016-02-09|BRINGO-AS, RU
+185.141.63.163|8335|/LitecoinCore:0.18.1/|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.142.239.205|9333|/LitecoinCore:0.18.1/|174|185.142.239.0/24|SC|ripencc|2016-03-10|COGENT-174, US
 185.15.92.18|10993|/LitecoinCore:0.17.1/|25486|185.15.92.0/23|DE|ripencc|2013-01-10|LUN-AS Lightup Network Solutions GmbH & Co. KG, DE
 185.162.8.125|9333|/LitecoinCore:0.16.0/|21100|185.162.8.0/24|BG|ripencc|2016-08-04|ITLDC-NL, UA
@@ -461,7 +463,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.16.3/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:6010:207:c4d6:4ef9:2faa:e13f|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:186b:a933:9d18:93f5:be0|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
-2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5dbd:91a9::5dbd:91a9|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:6752:3667::6752:3667|9333|/LitecoinCore:0.14.2/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:6b97:80d3::6b97:80d3|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -720,6 +721,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:4a:1dee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1df0::2|11081|/Worldcoin Business Center:3.0.0/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:25c3::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:4a:4468::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:5421::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:c010:a7e::1|20084|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:c010:ce95::1|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1103,7 +1105,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.82.185.108|9333|/LitecoinCore:0.18.1/|20001|75.82.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 76.103.7.22|9333|/LitecoinCore:0.17.1(opreturn.net)/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.120.36.243|9333|/FutureBit-ApolloCore:0.17.1/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
-76.167.148.205|9333|/LitecoinCore:0.18.1/|20001|76.166.0.0/15|US|arin|2006-07-26|TWC-20001-PACWEST, US
 76.169.2.221|9333|/FutureBit-ApolloCore:0.17.1/|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
 76.186.208.250|9333|/FutureBit-ApolloCore:0.17.1/|11427|76.184.0.0/14|US|arin|2006-07-26|TWC-11427-TEXAS, US
 76.230.156.129|9333|/LitecoinCore:0.18.1/|7018|76.224.0.0/13|US|arin|2006-09-15|ATT-INTERNET4, US
