@@ -14,7 +14,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.208.233.66|/EinsteiniumCore:0.13.5/|70015|50923|178.208.224.0/20|RU|ripencc|2010-04-21|METRO-SET-AS Metroset Autonomous System, RU
 188.0.26.199|/EinsteiniumCore:0.13.5/|70015|57261|188.0.24.0/22|RU|ripencc|2011-08-17|YARTV-AS, RU
 188.143.140.154|/EinsteiniumCore:0.13.7/|70015|44050|188.143.128.0/19|RU|ripencc|2009-06-15|PIN-AS, RU
-188.22.17.223|/EinsteiniumCore:0.13.5/|70015|8447|188.20.0.0/14|AT|ripencc|2009-02-03|A1TELEKOM-AT A1 Telekom Austria AG, AT
 188.40.97.180|/EinsteiniumCore:0.13.7/|70015|24940|188.40.0.0/16|DE|ripencc|2009-04-23|HETZNER-AS, DE
 193.36.225.172|/EinsteiniumCore:0.13.5/|70015|395954|193.36.225.0/24|NL|ripencc|2019-10-09|LEASEWEB-USA-LAX-11, US
 196.50.198.176|/EinsteiniumCore:0.13.5/|70015|327782|196.50.192.0/18|ZA|afrinic|2017-03-01|METROFIBRE-NETWORX, ZA
@@ -22,10 +21,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.244.114.14|/EinsteiniumCore:0.13.5/|70015|30633|207.244.64.0/18|US|arin|1996-11-15|LEASEWEB-USA-WDC, US
 212.14.20.165|/EinsteiniumCore:0.13.5/|70015|8286|212.14.0.0/19|PL|ripencc|1998-02-23|ACI-EDU-AS ZUT ACI Educational AS, PL
 23.124.56.131|/EinsteiniumCore:0.13.7/|70015|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
+24.119.191.150|/EinsteiniumCore:0.13.5/|70015|11492|24.119.191.0/24|US|arin|2003-02-19|CABLEONE, US
 31.181.136.30|/EinsteiniumCore:0.13.48/|70015|12389|31.181.0.0/16|RU|ripencc|2011-03-24|ROSTELECOM-AS, RU
 38.87.49.98|/EinsteiniumCore:0.13.5/|70015|14877|38.87.49.0/24|US|arin|1991-04-16|PENNREN, US
 42.189.136.1|/EinsteiniumCore:0.13.5/|70015|4788|42.189.128.0/18|MY|apnic|2011-03-09|TMNET-AS-AP TM Net, Internet Service Provider, MY
 45.132.226.162|/EinsteiniumCore:0.13.5/|70015|206092|45.132.226.0/24|NL|ripencc|2019-07-24|SECFIREWALLAS, GB
+45.182.131.2|/EinsteiniumCore:0.13.5/|70015|269748|45.182.131.0/24|PY|lacnic|2019-08-09|MOSSO Y ASOCIADOS SOCIEDAD ANONIMA (CABLE DIGITAL DEL ESTE), PY
 46.172.12.211|/EinsteiniumCore:0.13.5/|70015|197023|46.172.12.0/22|RU|ripencc|2011-02-04|ASCOMTELTV MTS Belgorod branch, RU
 46.28.107.182|/EinsteiniumCore:0.13.7.1/|70015|197019|46.28.104.0/21|CZ|ripencc|2010-07-22|WEDOS, CZ
 46.4.121.221|/EinsteiniumCore:0.13.5/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
@@ -40,7 +41,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.157.65|/EinsteiniumCore:0.13.5/|70015|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 77.21.248.137|/EinsteiniumCore:0.13.5/|70015|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.220.213.193|/EinsteiniumCore:0.13.48/|70015|204601|77.220.213.0/24|NL|ripencc|2007-03-23|ON-LINE-DATA Server location - Netherlands, Dronten, NL
-77.27.128.20|/EinsteiniumCore:0.13.5/|70015|12334|77.27.128.0/18|ES|ripencc|2008-01-14|Galicia - Spain, ES
 77.78.36.131|/EinsteiniumCore:0.13.5/|70015|34569|77.78.0.0/18|BG|ripencc|2007-02-27|NETWORX-BG Online Direct, BG
 81.150.166.89|/EinsteiniumCore:0.13.5/|70015|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 83.85.202.142|/EinsteiniumCore:0.13.5/|70015|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
@@ -50,10 +50,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.133.231.109|/EinsteiniumCore:0.13.5/|70015|6830|89.132.0.0/14|HU|ripencc|2006-01-17|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 89.229.226.60|/EinsteiniumCore:0.13.5/|70015|21021|89.229.0.0/16|PL|ripencc|2006-04-21|MULTIMEDIA-AS Cable DTV Internet Voice Provider in Poland., PL
 90.145.69.130|/EinsteiniumCore:0.13.48/|70015|29396|90.145.0.0/16|NL|ripencc|2006-11-17|EUROFIBER-UNET EUROFIBER, NL
-90.188.117.224|/EinsteiniumCore:0.13.5/|70015|12389|90.188.112.0/21|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 93.170.114.215|/EinsteiniumCore:0.13.5/|70015|197520|93.170.114.0/23|CZ|ripencc|2008-03-20|UNIONCOM, GB
 93.40.225.254|/EinsteiniumCore:0.13.5/|70015|12874|93.40.192.0/18|IT|ripencc|2008-02-25|FASTWEB, IT
-93.92.199.239|/EinsteiniumCore:0.13.5/|70015|31376|93.92.192.0/21|RU|ripencc|2008-02-05|SMART-AS, RU
 94.111.210.117|/EinsteiniumCore:0.13.5/|70015|47377|94.111.192.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA KPN Belgium Business NV has been acquired by Mobistar, BE
 94.172.176.92|/EinsteiniumCore:0.13.5/|70015|6830|94.172.128.0/17|NL|ripencc|2008-08-28|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 95.168.164.215|/EinsteiniumCore:0.13.7/|70015|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL

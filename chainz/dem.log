@@ -9,6 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.162.155.117|/eMark:1.6.1.1/|60012|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 144.91.77.184|/eMark:1.6.1/|60012|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.55|/eMark:1.6.1/|60012|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
+158.69.22.207|/eMark:1.5.1/|60011|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 161.97.112.55|/eMark:1.6.1.1/|60012|51167|161.97.112.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 167.86.116.187|/eMark:1.6.1/|60012|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 172.104.125.110|/eMark:1.6.1.2/|60012|63949|172.104.96.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
@@ -19,7 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.191.252.13|/eMark:1.5.0/|60011|8447|178.188.0.0/14|AT|ripencc|2010-02-08|A1TELEKOM-AT A1 Telekom Austria AG, AT
 178.71.156.66|/eMark:1.5.1/|60011|12389|178.70.0.0/15|RU|ripencc|2010-01-05|ROSTELECOM-AS, RU
 185.157.191.2|/eMark:1.6.1/|60012|200323|185.157.191.0/24|RU|ripencc|2016-06-29|POI-FEBRAS-AS, RU
-185.211.159.153|/eMark Android:1.0.0/|60011|205638|185.211.159.0/24|RU|ripencc|2017-07-05|TINKOFF-AS, RU
+185.53.198.70|/eMark Android:1.0.0/|60011|8953|185.53.196.0/22|RO|ripencc|2014-04-14|ASN-ORANGE-ROMANIA, RO
 185.81.67.87|/eMark:1.6.1.2/|60012|16143|185.81.64.0/22|RU|ripencc|2014-12-15|RADIONET-AS, RU
 188.109.145.114|/eMark:1.6.1.2/|60012|3209|188.96.0.0/12|DE|ripencc|2009-01-20|VODANET International IP-Backbone of Vodafone, DE
 188.193.66.26|/eMark:1.5.1/|60011|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
@@ -33,7 +34,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.90.211.174|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
 198.27.70.189|/eMark:1.5.1/|60011|16276|198.27.64.0/18|CA|arin|2012-08-28|OVH, FR
 206.72.198.107|/eMark:1.6.1/|60012|19318|206.72.192.0/20|US|arin|2011-10-03|IS-AS-1, US
-207.35.139.100|/eMark:1.6.1.2/|60012|577|207.35.0.0/16|CA|arin|1996-01-23|BACOM, CA
 207.89.77.81|/eMark:1.5.1/|60011|58243|207.89.64.0/20|DE|ripencc|1996-03-27|TELEAG, DE
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.60.47.89|/eMark:1.6.1.2/|60012|12334|213.60.0.0/18|ES|ripencc|1999-09-01|Galicia - Spain, ES
@@ -63,6 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.231.47.137|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.133.154.9|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.133.159.3|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.143.199.52|/eMark:1.5.1/|60011|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.143.202.161|/eMark:1.5.1/|60011|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.187.118.191|/eMark:1.5.1/|60011|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 80.235.49.231|/eMark:1.5.1/|60011|3249|80.235.0.0/17|EE|ripencc|2001-10-11|ESTPAK, EE
@@ -74,6 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.135.136.0|/eMark:1.5.1/|60011|8881|83.135.128.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
 83.250.140.254|/eMark:1.5.0/|60011|39651|83.248.0.0/13|SE|ripencc|2004-03-04|COMHEM-SWEDEN, SE
 84.128.152.74|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.129.199.148|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.138.206.118|/eMark:1.5.1/|60011|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.138.206.41|/eMark:1.5.1/|60011|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.162.173.222|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -113,6 +115,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.134.41.38|/eMark:1.5.1/|60011|8881|94.134.32.0/20|DE|ripencc|2008-08-07|VERSATEL, DE
 94.134.92.88|/eMark:1.5.1/|60011|8881|94.134.92.0/24|DE|ripencc|2008-08-07|VERSATEL, DE
 94.139.162.127|/eMark:1.5.1/|60011|206065|94.139.160.0/21|IR|ripencc|2008-11-26|FDI, IR
+94.65.23.144|/eMark:1.6.1.2/|60012|6799|94.65.0.0/16|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
 95.217.78.79|/eMark:1.5.1/|60011|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.222.0.99|/eMark:1.6.1/|60012|3209|95.222.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.70.245.66|/eMark:1.6.1.2/|60012|12735|95.70.245.0/24|TR|ripencc|2008-11-26|ASTURKNET, TR
