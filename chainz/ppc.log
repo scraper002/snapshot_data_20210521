@@ -23,7 +23,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 122.249.180.103|???|0|4685|122.249.0.0/16|JP|apnic|2006-11-20|ASAHI-NET Asahi Net, JP
 125.168.40.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9443|125.168.0.0/16|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
 125.176.245.74|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|17858|125.176.0.0/14|KR|apnic|2005-09-12|POWERVIS-AS-KR LG POWERCOMM, KR
-129.227.96.82|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|21859|129.227.96.0/23|SG|apnic|1988-03-07|ZNET, US
 135.181.164.189|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.216.218|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.83.33|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -42,6 +41,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.219.176.244|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|32489|162.219.176.0/24|CA|arin|2013-08-15|AMANAHA-NEW, CA
 163.172.104.73|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-03309a9 Strider)/|70015|12876|163.172.0.0/16|GB|ripencc|1992-02-14|Online SAS, FR
 172.104.246.88|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|63949|172.104.224.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
+172.72.79.245|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|11426|172.72.0.0/14|US|arin|2015-04-06|TWC-11426-CAROLINAS, US
 172.98.89.56|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|46562|172.98.89.0/24|US|arin|2015-06-15|PERFORMIVE, US
 174.83.120.62|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|20115|174.83.0.0/17|US|arin|2009-02-23|CHARTER-20115, US
 176.206.187.222|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|1267|176.206.0.0/16|IT|ripencc|2011-09-05|ASN-WINDTRE IUNET, IT
@@ -133,7 +133,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.66.147.211|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|9105|79.66.0.0/15|GB|ripencc|2007-06-19|TISCALI-UK TalkTalk Communications Limited, GB
 80.108.64.53|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 80.89.156.216|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|21127|80.89.156.0/24|RU|ripencc|2001-10-02|ZSTTKAS Novosibirsk, Russia, RU
-81.169.175.185|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
+81.169.175.185|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015||||||
 81.187.16.25|/Satoshi:0.6.3/Peercoin:0.5.0/Peerunity:0.2.2(v0.2.2)/|60006|20712|81.187.0.0/16|GB|ripencc|2003-02-03|AS20712 Andrews & Arnold Ltd, GB
 82.12.201.83|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|5089|82.12.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.174.154.197|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|50266|82.174.0.0/16|NL|ripencc|2003-09-29|TMOBILE-THUIS, NL
@@ -153,6 +153,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.146.52.38|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12605|90.146.0.0/17|AT|ripencc|2006-11-23|LIWEST-AT Linz, Austria, AT
 91.115.241.180|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|8447|91.112.0.0/14|AT|ripencc|2006-09-04|A1TELEKOM-AT A1 Telekom Austria AG, AT
 91.150.178.190|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
+91.193.129.136|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|44894|91.193.129.0/24|UA|ripencc|2010-03-19|UCMA-AS, UA
+91.204.205.8|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|47830|91.204.204.0/22|PL|ripencc|2008-07-08|SKORPIO_PG-AS, PL
 91.64.49.42|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 92.117.35.76|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8881|92.117.32.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.171.190.49|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3215|92.171.0.0/16|FR|ripencc|2007-07-12|France Telecom - Orange, FR
