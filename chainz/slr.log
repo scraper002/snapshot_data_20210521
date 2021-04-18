@@ -17,6 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 147.161.126.89|/Satoshi:2.1.8/|70005|35699|147.161.64.0/18|ES|ripencc|1991-05-01|ADAMOEU-AS Adamo Telecom Iberia S.A., ES
 149.167.98.99|/Satoshi:2.1.8/|70005|135887|149.167.98.0/24|AU|apnic|1991-05-07|TELSTRA-BELONG-AP Belong (Telstra Corporation), AU
 151.18.37.242|/Satoshi:2.1.8/|70005|1267|151.18.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+151.36.220.178|/Satoshi:2.1.8/|70005|1267|151.36.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.82.8.38|/Satoshi:2.1.8/|70005|1267|151.82.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 161.97.96.19|/Satoshi:2.1.8/|70005|51167|161.97.96.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 162.156.64.105|/Satoshi:2.1.8/|70005|852|162.156.0.0/16|CA|arin|2013-03-07|ASN852, CA
@@ -78,7 +79,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.235.115.118|/Satoshi:2.1.8/|70005|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.144.254.155|/Satoshi:2.1.8/|70005|8075|51.144.0.0/15|GB|ripencc|1993-09-01|MICROSOFT-CORP-MSN-AS-BLOCK, US
 58.178.231.177|/Satoshi:2.1.8/|70005|9443|58.178.0.0/16|AU|apnic|2005-06-15|VOCUS-RETAIL-AU Vocus Retail, AU
-58.182.4.231|/Satoshi:2.1.8/|70005|55430|58.182.0.0/18|SG|apnic|2005-06-15|STARHUB-NGNBN Starhub Ltd, SG
 60.234.169.193|/Satoshi:2.1.8/|70005|9790|60.234.0.0/16|NZ|apnic|2004-08-09|VOCUSGROUPNZ VocusGroup, NZ
 62.91.101.225|/Satoshi:2.1.8/|70005|20686|62.91.0.0/16|DE|ripencc|2001-06-11|BISPING ISP & Citycarrier, Germany, DE
 66.248.183.139|/Satoshi:2.1.8/|70005|14434|66.248.183.0/24|VI|arin|2004-02-26|VIPNAS1, VI
@@ -115,6 +115,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.147.129.194|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.174.245.219|/Satoshi:2.1.8/|70005|6739|80.174.128.0/17|ES|ripencc|2004-07-05|ONO-AS Cableuropa - ONO, ES
 80.236.198.143|/Satoshi:2.1.8/|70005|5432|80.236.128.0/17|BE|ripencc|2001-10-31|PROXIMUS-ISP-AS, BE
+81.11.167.167|/Satoshi:2.1.8/|70005|5432|81.11.128.0/17|BE|ripencc|2002-05-13|PROXIMUS-ISP-AS, BE
 81.140.160.79|/Satoshi:2.1.8/|70005|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 81.82.205.198|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
@@ -132,7 +133,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.29.44.124|/Satoshi:2.1.8/|70005|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 84.72.195.149|/Satoshi:2.1.8/|70005|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 84.84.244.150|/Satoshi:2.1.8/|70005|1136|84.80.0.0/13|NL|ripencc|2004-03-17|KPN KPN National, NL
-85.149.128.237|/Satoshi:2.1.8/|70005|5390|85.149.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.222.21.70|/Satoshi:2.1.8/|70005|6830|85.222.0.0/18|PL|ripencc|2005-02-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 86.60.178.2|/Satoshi:2.1.8/|70005|39699|86.60.128.0/17|FI|ripencc|2005-09-08|SSPOY-AS, FI
 86.84.135.104|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
@@ -152,6 +152,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.181.81.86|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.37.112.210|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.38.145.73|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.42.50.125|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.55.71.138|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.106.164.153|/Satoshi:2.1.8/|70005|3303|92.106.0.0/16|CH|ripencc|2007-09-28|SWISSCOM Swisscom (Switzerland) Ltd, CH
