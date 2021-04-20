@@ -65,6 +65,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.130.41.241|9333|/LitecoinCore:0.18.1/|3786|118.128.0.0/14|KR|apnic|2007-09-12|LGDACOM LG DACOM Corporation, KR
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.162.199|9333|/LitecoinCore:0.17.1/|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -473,6 +474,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:a:f872::1|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:c:b81::|9333|/LitecoinCore:0.15.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:4451:4477:c200:fa0f:41ff:fe25:b765|9333|/LitecoinCore:0.16.3/|9299|2001:4451::/32|PH|apnic|2016-05-19|IPG-AS-AP Philippine Long Distance Telephone Company, PH
+2001:4455:4df:c800:b2bf:a2f:e269:1631|9333|/LitecoinCore:0.18.1/|9299|2001:4455::/32|PH|apnic|2017-08-02|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 2001:470:1f06:a5f::2|9333|/LitecoinCore:0.18.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:470:6f:579:5054:ff:fe59:d05a|9333|/LitecoinCore:0.18.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:470:7d79::4|9333|/LitecoinCore:0.17.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
@@ -600,7 +602,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2409:8a14:614:62a0:809f:e57b:cd0e:4610|9333|/Satoshi:0.8.6.1/|56044|2409:8a14:600::/39|CN|apnic|2011-08-23|CMNET-AS-LIAONING China Mobile communications corporation, CN
 2409:8a5c:6825:9f70:4537:b0c5:dac4:1b1|9333|/LitecoinCore:0.18.1/|9808|2409:8a5c::/32|CN|apnic|2011-08-23|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 240e:35a:591:fb00:ec4:7aff:fede:db50|9333|/LitecoinCore:0.18.1/|4134|240e:358::/29|CN|apnic|2011-12-14|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+240e:388:834d:d200:ade6:13ee:de9e:5944|9333|/LitecoinCore:0.18.1/|4812|240e:388::/32|CN|apnic|2011-12-14|CHINANET-SH-AP China Telecom (Group), CN
 240e:388:8f23:c20::399|9333|/LitecoinCore:0.18.1/|4812|240e:388::/32|CN|apnic|2011-12-14|CHINANET-SH-AP China Telecom (Group), CN
+240e:390:9680:8150:5069:dbdf:be6b:9c1a|9333|/Satoshi:0.8.6.2/|4134|240e:390::/29|CN|apnic|2011-12-14|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 240f:109:420c:1:f5b6:4d09:86cf:5d0b|9333|/LitecoinCore:0.18.1/|2516|240f:100::/24|JP|apnic|2017-10-27|KDDI KDDI CORPORATION, JP
 2600:1700:3901:28f:250:56ff:fe91:884e|9333|/LitecoinCore:0.18.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1700:daa:90::49|9333|/LitecoinCore:0.18.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
@@ -748,7 +752,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:20d7::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:ccd::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -772,6 +775,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
 2a02:2f08:4611:4e00:dce1:6c34:8705:e4fd|9333|/LitecoinCore:0.15.1/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:7b40:592f:a795::1|9333|/LitecoinCore:0.16.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
+2a02:c205:2010:6230::1|9533|/LitecoinCore:0.16.3/|51167|2a02:c205::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c206:1:4792::1|9333|/LitecoinCore:0.18.1/|51167|2a02:c206::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:0:3829::1|9333|/LitecoinCore:0.16.0/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
 2a02:c207:2012:1570::1|9333|/LitecoinCore:0.14.2/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -1350,7 +1354,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.79.35.133|10333|/LitecoinCore:0.18.1/|42682|95.79.0.0/16|RU|ripencc|2008-12-10|ERTH-NNOV-AS, RU
 96.126.123.143|9333|/LitecoinCore:0.18.1/|63949|96.126.112.0/20|US|arin|2011-05-06|LINODE-AP Linode, LLC, US
 96.22.82.34|9333|/LitecoinCore:0.18.1/|5769|96.22.64.0/18|CA|arin|2007-10-30|VIDEOTRON, CA
-96.244.54.160|9333|/LitecoinCore:0.18.1/|701|96.244.0.0/16|US|arin|2006-12-29|UUNET, US
 96.249.252.98|9333|/LitecoinCore:0.18.1/|701|96.249.224.0/19|US|arin|2006-12-29|UUNET, US
 97.77.231.90|9002|/LitecoinCore:0.18.1/|11427|97.77.0.0/16|US|arin|2007-09-11|TWC-11427-TEXAS, US
 97.92.0.182|9333|/LitecoinCore:0.18.1/|20115|97.92.0.0/19|US|arin|2007-03-21|CHARTER-20115, US
