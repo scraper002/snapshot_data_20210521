@@ -1,5 +1,5 @@
 # Bitnodes https://bitnodes.io/api/v1/snapshots/
-# Time 1618931059
+# Time 1618931855
 IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Hostname|City|Country Code|Latitude|Longitude|Timezone|ASN|Organization Name
 2253ceablq3kxxqc.onion|8333|70015|/Satoshi:0.18.1/|1618845438|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 24ehe7fzpif6socn.onion|8333|70015|/Satoshi:0.18.1/|1618567506|1037|679880|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -32,7 +32,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2ksuu4qhdxiuqmj6.onion|8333|70015|/Satoshi:0.20.1/|1618909500|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 2ky6nnyp6fmz66s4.onion|8333|70015|/Satoshi:0.20.0/|1618566739|1037|679905|None|None|None|0.0|0.0|None|TOR|Tor network
 2miw3ir3dd33v5yl.onion|8333|70015|/Satoshi:0.18.1/|1618802058|1037|679866|None|None|None|0.0|0.0|None|TOR|Tor network
-2mux2xo7i7e5e2hi.onion|8333|70015|/Satoshi:0.20.1/|1618819816|1037|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+2mux2xo7i7e5e2hi.onion|8333|70015|/Satoshi:0.20.1/|1618819816|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 2najg4gtiypdj42q.onion|8333|70015|/Satoshi:0.18.1/|1618600802|1037|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 2ocucrt6zrtuzkl6.onion|8333|70015|/Satoshi:0.20.1/|1618520612|1033|679897|None|None|None|0.0|0.0|None|TOR|Tor network
 2p35wtw7ce3xixcs.onion|8333|70015|/Satoshi:0.18.1/|1618906942|1037|679901|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -62,7 +62,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 33mx3w7qff4euags.onion|8333|70015|/Satoshi:0.18.1/|1618881454|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 344vjfxxvdppueja.onion|8333|70015|/Satoshi:0.20.1/|1618800416|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 34ycrbie4tozduiq.onion|8333|70015|/Satoshi:0.20.0/|1618606305|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
-35ln36me4ptwudbf.onion|8333|70015|/Satoshi:0.18.1/|1618885640|1037|679906|None|None|None|0.0|0.0|None|TOR|Tor network
+35ln36me4ptwudbf.onion|8333|70015|/Satoshi:0.18.1/|1618885640|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 37e7ov7oncujcv6x.onion|8333|70015|/Satoshi:0.20.1/|1618928612|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 37k7u5jfitbcsmpd.onion|8333|70015|/Satoshi:0.20.0/|1618923108|1037|679908|None|None|None|0.0|0.0|None|TOR|Tor network
 37rz3s35j5g65okj.onion|8333|70015|/Satoshi:0.18.1/|1618931031|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -156,6 +156,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 4pozwh6564ygzddk.onion|8333|70015|/Satoshi:0.20.1/|1618910617|1033|679906|None|None|None|0.0|0.0|None|TOR|Tor network
 4qqzosvh47jmlfmg.onion|8333|70015|/Satoshi:0.20.0/|1618625776|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 4r2dgzc3l6a63kit.onion|8333|70015|/Satoshi:0.20.1/|1618571041|1037|679897|None|None|None|0.0|0.0|None|TOR|Tor network
+4t4nkf5vpjxa4pcw.onion|8333|70015|/Satoshi:0.20.0/|1618931823|1037|679915|None|None|None|0.0|0.0|None|TOR|Tor network
 4vorvtoyegh4zbvr.onion|8333|70015|/Satoshi:0.20.0/|1618850398|1033|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 4vv5mvjkds5i7xgy.onion|8333|70015|/Satoshi:0.18.0/|1618868946|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 4w3rjitj2dpslyjf.onion|8333|70015|/Satoshi:0.18.1/|1618918418|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -200,28 +201,26 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 5iv4c4plh2dt35rx.onion|8333|70015|/Satoshi:0.18.99/|1618917341|1037|679909|None|None|None|0.0|0.0|None|TOR|Tor network
 5jm2fctkdplch2mmomyr4gad7ypz467edapvnmjizwz4tgjlrngvseyd.onion|8333|70016|/Satoshi:0.21.0/|1618506598|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 5jm2z2itn3xlcmdw.onion|8333|70015|/Satoshi:0.20.1/|1618533555|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
-5k4m4fktockvevqx.onion|8333|70015|/Satoshi:0.20.0/|1618931040|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
+5k4m4fktockvevqx.onion|8333|70015|/Satoshi:0.20.0/|1618931040|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 5k7bybnixxswyy45.onion|8333|70015|/Satoshi:0.20.1/|1618836363|1037|679908|None|None|None|0.0|0.0|None|TOR|Tor network
 5l3a7k6m7lg4sesk.onion|8333|70016|/Satoshi:0.21.0/|1618888335|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 5m7yzjva7qs6gagf.onion|8333|70015|/Satoshi:0.20.0/|1618873780|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 5miothi7klcu7k2v.onion|8333|70015|/Satoshi:0.20.0/|1618921786|1037|679906|None|None|None|0.0|0.0|None|TOR|Tor network
-5n3rrb34wegq33qr.onion|8333|70015|/Satoshi:0.20.0/|1618705878|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 5oqstxspzhlgjef6.onion|8333|70015|/Satoshi:0.19.1/|1618670679|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 5pbjntkcjorrq7d2.onion|8333|70015|/Satoshi:0.20.1/|1618736771|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 5pferg5xubr3pdzd.onion|8333|70015|/Satoshi:0.20.0/|1618830732|1037|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 5pyfjxhhjq25v4o7.onion|8333|70016|/Satoshi:0.21.0/|1618906190|1033|679876|None|None|None|0.0|0.0|None|TOR|Tor network
 5q4cyxecjvlhobwobuyqkyl42jswpux62w5z5qg4pbdefv5gm22d25yd.onion|8333|70016|/Satoshi:0.21.0/|1618921724|1037|679909|None|None|None|0.0|0.0|None|TOR|Tor network
 5q4orjw4lyfmqdto.onion|8333|70015|/Satoshi:0.18.1/|1618915789|1037|679909|None|None|None|0.0|0.0|None|TOR|Tor network
-5qdxswcgigxilqin.onion|8333|70015|/Satoshi:0.20.1/|1618779412|1033|679880|None|None|None|0.0|0.0|None|TOR|Tor network
+5qdxswcgigxilqin.onion|8333|70015|/Satoshi:0.20.1/|1618779412|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 5s5jgoyba736gq3k.onion|8333|70015|/Satoshi:0.20.1/|1618818141|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 5sjf6lsiuqhq6jik.onion|8333|70015|/Satoshi:0.20.0/|1618887975|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-5tsz6m4jcxtxaynn.onion|8333|70015|/Satoshi:0.20.0/|1618103439|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 5ue7worzbn6hon3e.onion|8333|70015|/Satoshi:0.20.0/|1618354981|1037|679903|None|None|None|0.0|0.0|None|TOR|Tor network
 5uwydkdwh2atumcw.onion|8333|70015|/Satoshi:0.20.1/|1618879234|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 5v7w74hllbrymiua.onion|8333|70015|/Satoshi:0.20.0/|1618884545|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 5vhbrshjk7ywhasw.onion|8333|70015|/Satoshi:0.20.0/|1618862991|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 5w7mq5oui5bxsdny.onion|8333|70015|/Satoshi:0.20.1/|1618854477|1033|679909|None|None|None|0.0|0.0|None|TOR|Tor network
-5waihp6dr4jhfbqf.onion|8333|70015|/Satoshi:0.20.1/|1618882943|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
+5waihp6dr4jhfbqf.onion|8333|70015|/Satoshi:0.20.1/|1618882943|1037|679915|None|None|None|0.0|0.0|None|TOR|Tor network
 5wxhx2tozpovf6z3.onion|8333|70015|/Satoshi:0.20.1/|1618726943|1037|679883|None|None|None|0.0|0.0|None|TOR|Tor network
 5y74ycvghph4ourb.onion|8333|70015|/Satoshi:0.20.0/|1618833141|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 5ykpc53fs3mnornc.onion|8333|70015|/Satoshi:0.20.0/|1618734523|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -273,7 +272,6 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 6ressv4dvplb5ihh.onion|8333|70015|/Satoshi:0.20.1/|1618792367|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 6rf6pxd2gtsntzo2.onion|8333|70015|/Satoshi:0.20.1/|1618735693|1037|679884|None|None|None|0.0|0.0|None|TOR|Tor network
 6rohfgwu3pfkid6e.onion|8333|70015|/Satoshi:0.18.1/|1618605085|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
-6sdm7y5bazmfwchb.onion|8333|70015|/Satoshi:0.20.0/|1618911728|1037|679889|None|None|None|0.0|0.0|None|TOR|Tor network
 6spq5l5g6qvvyfit.onion|8333|70016|/Satoshi:0.21.0/|1618768588|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 6tlgu3qtnc2e272a.onion|8333|70015|/Satoshi:0.20.1/|1618840147|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 6tzb5wjr6mkgcikm.onion|8333|70015|/Satoshi:0.20.0/|1618683890|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -311,7 +309,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 7jwuotf2xrivw3rt.onion|8333|70016|/Satoshi:0.21.0/|1618927469|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 7khv26vheifhutov.onion|8333|70015|/Satoshi:0.20.0/|1618871550|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 7l47bvvoh3gndij7.onion|8334|70015|/Satoshi:0.18.1/|1618776870|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
-7l7sgoj3d454rcwd.onion|8333|70015|/Satoshi:0.20.1/|1618634891|1033|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+7l7sgoj3d454rcwd.onion|8333|70015|/Satoshi:0.20.1/|1618634891|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 7li5bd43ohghhwl333in6ag7ueynfqtobatf4tpmu56sqhmm2vcoixqd.onion|8333|70016|/Satoshi:0.21.0/|1618906192|1033|679876|None|None|None|0.0|0.0|None|TOR|Tor network
 7lpidbk6h4ejjthe.onion|8333|70015|/Satoshi:0.20.0/|1618398702|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 7m6gk4emehol4keo.onion|8333|70015|/Satoshi:0.20.1/|1618918423|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -357,9 +355,9 @@ a6hxsz7w2e7epdjm.onion|8333|70015|/Satoshi:0.20.1/|1618911360|1033|679909|None|N
 a6ra7rhx7lrpg2v6.onion|8333|70015|/Satoshi:0.20.0/|1618595017|1033|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 a6ratrrlhyqw3xxo.onion|8333|70015|/Satoshi:0.20.0/|1618918413|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 a7n7m2climcfje3p.onion|8333|70015|/Satoshi:0.18.1/|1618926382|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-abkndzjbsb6jge6u.onion|8333|70015|/Satoshi:0.20.0/|1618926704|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
+abkndzjbsb6jge6u.onion|8333|70015|/Satoshi:0.20.0/|1618926704|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 ac3ni67jpgvebis5.onion|8333|70015|/Satoshi:0.20.0/|1618861630|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
-ad7356tgt2hbc3lf.onion|8333|70015|/Satoshi:0.20.0/|1618882588|1037|679911|None|None|None|0.0|0.0|None|TOR|Tor network
+ad7356tgt2hbc3lf.onion|8333|70015|/Satoshi:0.20.0/|1618882588|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 adicnhquqkif4upi.onion|8333|70015|/Satoshi:0.20.1/|1618833505|1037|679898|None|None|None|0.0|0.0|None|TOR|Tor network
 adrldxbqbn5qc6en.onion|8333|70015|/Satoshi:0.20.0/|1618353454|1037|679897|None|None|None|0.0|0.0|None|TOR|Tor network
 aeq77ycwfuklem6q.onion|8333|70015|/Satoshi:0.20.0/|1618908051|1037|679879|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -377,7 +375,7 @@ am3gyyfynxzwyxhx.onion|8333|70016|/Satoshi:0.21.0/|1618533885|1033|679911|None|N
 amoqi2ajtf4l44xt.onion|8333|70015|/Satoshi:0.18.0/|1618868134|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 aolqvxygzd7tuj66.onion|8333|70015|/Satoshi:0.20.0/|1618732100|1037|679855|None|None|None|0.0|0.0|None|TOR|Tor network
 aozd3l2megj6t5fzbzipenb6rinto476j7pqr5ruzukdqdiryw3xwjid.onion|8333|70016|/Satoshi:0.21.0/|1618507442|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
-apequayrnyrdc473.onion|8333|70015|/Satoshi:0.20.0/|1618888701|1033|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+apequayrnyrdc473.onion|8333|70015|/Satoshi:0.20.0/|1618888701|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 aqw7l535gkknmtrs.onion|8333|70015|/Satoshi:0.18.0/|1618647739|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 aqwv6jg4ivi5uca5.onion|8333|70015|/Satoshi:0.20.1/|1618907319|1033|679877|None|None|None|0.0|0.0|None|TOR|Tor network
 arcofqfw47petltq.onion|8333|70015|/Satoshi:0.18.1/|1618688557|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -475,7 +473,7 @@ ca4cjlk3dnngghw7.onion|8333|70015|/Satoshi:0.20.0/|1618723615|1037|679910|None|N
 ca73jqplr67jy2eu.onion|8333|70015|/Satoshi:0.20.0/|1618928231|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 cabaf6tzqwzwra6m.onion|8333|70015|/Satoshi:0.20.0/|1618828311|1037|679891|None|None|None|0.0|0.0|None|TOR|Tor network
 cabqn7hcnk5rc67f.onion|8333|70016|/Satoshi:0.21.0/|1618323579|1033|679883|None|None|None|0.0|0.0|None|TOR|Tor network
-caq54ablfbrnumdd.onion|8333|70015|/Satoshi:0.19.1/|1618665493|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
+caq54ablfbrnumdd.onion|8333|70015|/Satoshi:0.19.1/|1618665493|1033|679915|None|None|None|0.0|0.0|None|TOR|Tor network
 cb6xdfnshlb75jyc.onion|8333|70015|/Satoshi:0.18.0/|1618544726|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 ccepmqjro3hvxhpm.onion|8333|70015|/Satoshi:0.18.1/|1618925992|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 ccgkfrl24wfert6g.onion|8333|70015|/Satoshi:0.20.0/|1618900117|1037|679866|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -513,7 +511,7 @@ culvps463in745zt.onion|8333|70015|/Satoshi:0.20.0/|1618695067|1033|0|None|None|N
 cuyty2akipxjjgen.onion|8333|70015|/Satoshi:0.18.1/|1618055705|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 cwaxzpypctqc24ng.onion|8333|70015|/Satoshi:0.19.1/|1618871122|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 cwbce3alv2tkm22h.onion|8333|70015|/Satoshi:0.20.0/|1618701511|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-cwewpp6a6wxlzp4p.onion|8333|70015|/Satoshi:0.20.0/|1618883704|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
+cwewpp6a6wxlzp4p.onion|8333|70015|/Satoshi:0.20.0/|1618883704|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 cwh56rsiwvc5ncor.onion|8333|70015|/Satoshi:0.20.0/|1618801243|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 cx5humgjy2zl5iwg.onion|8333|70015|/Satoshi:0.20.0/|1618765628|1037|679906|None|None|None|0.0|0.0|None|TOR|Tor network
 cx7qa2gpqyp7pld5.onion|8333|70015|/Satoshi:0.19.1/|1618926364|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -549,7 +547,6 @@ diebeetfjgm3cf7j.onion|8333|70015|/Satoshi:0.20.0/|1618881445|1037|679876|None|N
 difsuiu7buz3664f.onion|8333|70015|/Satoshi:0.20.0/|1618603802|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 diurghxbowx3cius.onion|8333|70015|/Satoshi:0.18.1/|1618719194|1037|679876|None|None|None|0.0|0.0|None|TOR|Tor network
 divcrfsizfidvjv5.onion|8333|70015|/Satoshi:0.20.1/|1618624907|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
-djhmi6lvhx7rpfbp.onion|8333|70016|/Satoshi:0.21.0/|1618926362|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 dk5bibc22wsxkdvl.onion|8333|70016|/Satoshi:0.21.0/|1618885663|1033|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 dk732ksftzpoe4b6.onion|8333|70015|/Satoshi:0.19.0.1/|1618807668|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 dkgakapdtryezmno.onion|8333|70015|/Satoshi:0.20.1/|1618710167|1037|679866|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -559,7 +556,7 @@ dmudsr7x7edvyglt.onion|8333|70015|/Satoshi:0.19.0.1/|1618738189|1033|679903|None
 dmxuy7ceu2f4bbkf.onion|8333|70015|/Satoshi:0.20.0/|1618903263|1037|679872|None|None|None|0.0|0.0|None|TOR|Tor network
 dncfg54s47sxtnno.onion|8333|70015|/Satoshi:0.20.0/|1618842759|1037|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 do2ukvyiw7gd63zi.onion|8333|70015|/Satoshi:0.20.0/|1618633649|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
-domrbuiapz5gfa2a.onion|8333|70015|/Satoshi:0.20.0/|1618629456|1037|679908|None|None|None|0.0|0.0|None|TOR|Tor network
+domrbuiapz5gfa2a.onion|8333|70015|/Satoshi:0.20.0/|1618629456|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 dpar5io4yp5tday3.onion|8333|70015|/Satoshi:0.20.0/|1618720405|1037|679884|None|None|None|0.0|0.0|None|TOR|Tor network
 drqmwu3gvn3pov5l.onion|8333|70015|/Satoshi:0.20.0/|1618915025|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 drwo3vnxch5ozfbo.onion|8333|70015|/Satoshi:0.20.0/|1618917351|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -597,12 +594,12 @@ ebcejimmochw62xt.onion|8333|70015|/Satoshi:0.20.0/|1618915778|1033|679904|None|N
 ebmdrubfe7y6urci.onion|8333|70015|/Satoshi:0.20.0/|1618908038|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 ebtojut35xefzbvy.onion|8333|70015|/Satoshi:0.20.1/|1618624034|1033|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 ebwahqqz6asra4et.onion|8333|70015|/Satoshi:0.20.0/|1618068132|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
-ecrpdsud7gt3pmmu.onion|8333|70015|/Satoshi:0.20.0/|1618783654|1037|679906|None|None|None|0.0|0.0|None|TOR|Tor network
+ecrpdsud7gt3pmmu.onion|8333|70015|/Satoshi:0.20.0/|1618783654|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 eeah7rpfmgvqek7m.onion|8333|70015|/Satoshi:0.20.0/Knots:20200614/|1618824036|1037|679875|None|None|None|0.0|0.0|None|TOR|Tor network
 eh5sp6e2e7nb5wfd.onion|8333|70015|/KIT-DSN:0.17.0/|1618468248|1036|0|None|None|None|0.0|0.0|None|TOR|Tor network
 ehbydaxb6h4ltnjp.onion|8333|70015|/Satoshi:0.20.1/|1618904716|1037|679905|None|None|None|0.0|0.0|None|TOR|Tor network
 ei25tpc2e3nzjsuc.onion|8333|70015|/Satoshi:0.20.1/|1618722815|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-ei5i2hgpxkf6n3kc.onion|8333|70015|/Satoshi:0.20.0/|1618928225|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
+ei5i2hgpxkf6n3kc.onion|8333|70015|/Satoshi:0.20.0/|1618928225|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 ejmrdimxnirlpeyz.onion|8333|70015|/Satoshi:0.20.0/|1618865118|1033|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 ekv6kyoepo23at4l.onion|8333|70015|/Satoshi:0.20.1/|1618523070|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 ekxsybivemhgggl7.onion|8333|70015|/Satoshi:0.20.0/|1618920610|1037|679903|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -610,7 +607,7 @@ el5e4wogo6vj72nb.onion|8333|70015|/Satoshi:0.20.1/|1618401880|1033|0|None|None|N
 elsbi4iqd3o64jsy.onion|8333|70015|/Satoshi:0.20.1/|1618855881|1033|679902|None|None|None|0.0|0.0|None|TOR|Tor network
 elsp4zcin5wr623y.onion|8333|70015|/Satoshi:0.20.1/|1618909496|1037|679884|None|None|None|0.0|0.0|None|TOR|Tor network
 emgu6xqn6b7h26m5.onion|8333|70015|/Satoshi:0.20.0/|1618590936|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-emjzgcsy6esxwor3.onion|8333|70015|/Satoshi:0.20.0/|1618548876|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
+emjzgcsy6esxwor3.onion|8333|70015|/Satoshi:0.20.0/|1618548876|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 eml3mluicwtqqz5b.onion|8333|70015|/Satoshi:0.20.1/|1618887199|1033|679865|None|None|None|0.0|0.0|None|TOR|Tor network
 emzhxmqkrvnjpjgi.onion|8333|70015|/Satoshi:0.18.1/|1618850386|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 enejhdtwpfbbalnt.onion|8333|70015|/Satoshi:0.20.0/|1618786508|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -645,12 +642,12 @@ f3qlvdw2owlpxngr.onion|8333|70015|/Satoshi:0.20.1/|1618906572|1033|679909|None|N
 f3xkvo6vklbhajpw.onion|8333|70015|/Satoshi:0.20.0/|1618927479|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 f3zayjftbbvelppv.onion|8333|70016|/Satoshi:0.21.0/|1618740669|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 f3znj4izx4duglbt.onion|8333|70016|/Satoshi:0.21.0/|1618911364|1033|679885|None|None|None|0.0|0.0|None|TOR|Tor network
-f43qulga2ncmdugy.onion|8333|70015|/Satoshi:0.20.0/|1618930558|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
+f43qulga2ncmdugy.onion|8333|70015|/Satoshi:0.20.0/|1618930558|1037|679915|None|None|None|0.0|0.0|None|TOR|Tor network
 f43rmvvflnk2oqyd.onion|8333|70015|/Satoshi:0.20.0/|1618342557|1033|679906|None|None|None|0.0|0.0|None|TOR|Tor network
 f4a6bzrvrx5gkp7b.onion|8333|70015|/Satoshi:0.20.1/|1618759341|1037|679865|None|None|None|0.0|0.0|None|TOR|Tor network
 f4omgpc6uj3quoar.onion|8333|70015|/Satoshi:0.20.0/|1618884540|1033|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 f4wb7qrpjeqqx5xr.onion|8333|70015|/Satoshi:0.20.0/|1618861170|1037|679911|None|None|None|0.0|0.0|None|TOR|Tor network
-f55uhohxxspp6mom.onion|8333|70015|/Satoshi:0.20.1/|1618581194|1033|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+f55uhohxxspp6mom.onion|8333|70015|/Satoshi:0.20.1/|1618581194|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 f5p2jsqy3z33zgrs.onion|8333|70016|/Satoshi:0.21.0/|1618912454|1033|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 f63nu56a7qcvykm7.onion|8333|70015|/Satoshi:0.20.0/|1618681720|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 f7mxa6llqbgxzuue.onion|8333|70015|/Satoshi:0.20.0/|1618578180|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -669,7 +666,7 @@ fdwnynlgy2hq2g6v.onion|8333|70015|/Satoshi:0.20.1/|1618611760|1037|679904|None|N
 fe2w2eucm7nbl2l2.onion|8333|70015|/Satoshi:0.20.0/|1618872009|1037|679889|None|None|None|0.0|0.0|None|TOR|Tor network
 fe6yw72a7lx3wl5t.onion|8333|70015|/Satoshi:0.20.0/|1618673334|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 ffvyqz7kyyinz3hw.onion|8333|70015|/Satoshi:0.20.0/|1618928220|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
-fg4smb253abfy4tb.onion|8333|70015|/Satoshi:0.20.0/|1618799968|1037|679884|None|None|None|0.0|0.0|None|TOR|Tor network
+fg4smb253abfy4tb.onion|8333|70015|/Satoshi:0.20.0/|1618799968|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 fgu6tuow5jue6gas.onion|8333|70015|/Satoshi:0.20.1/|1618683884|1033|679906|None|None|None|0.0|0.0|None|TOR|Tor network
 fjolknhe5ssuqsv4.onion|8333|70015|/Satoshi:0.20.0/|1618712714|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
 fju76rbuztarq7epipydyiip5vstyliadt5tty6avdwimct4uk6zyjyd.onion|8333|70016|/Satoshi:0.21.0/|1618923125|1033|679909|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -694,7 +691,7 @@ fu4pznplkq4hzurv.onion|8333|70015|/Satoshi:0.20.0/|1618916592|1037|679897|None|N
 fufeg3teutwoppav.onion|8333|70016|/Satoshi:0.21.0/|1618830745|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 fulovh2tgykjydt4.onion|8333|70015|/Satoshi:0.20.0/|1618903278|1037|679909|None|None|None|0.0|0.0|None|TOR|Tor network
 fuotwbkgzfzjw5s7.onion|8333|70015|/Satoshi:0.20.1/|1618381317|1037|679908|None|None|None|0.0|0.0|None|TOR|Tor network
-fuoy2ipuqrqwe5cf.onion|8333|70015|/Satoshi:0.20.0/|1618912102|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
+fuoy2ipuqrqwe5cf.onion|8333|70015|/Satoshi:0.20.0/|1618912102|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 fvdfb6fzmg6cuvzj.onion|8333|70015|/Satoshi:0.19.1/|1618703216|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 fvfwyyas3yo76rc4.onion|8333|70015|/Satoshi:0.20.1/|1618094437|1033|672542|None|None|None|0.0|0.0|None|TOR|Tor network
 fygqolj24lir36a7.onion|8333|70015|/Satoshi:0.18.1/|1618547066|1037|679880|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -876,6 +873,7 @@ j5m3ofioumvk23bd.onion|8333|70015|/Satoshi:0.18.1/|1618778672|1037|679888|None|N
 j5ud33lj4ndjezlx.onion|8333|70015|/Satoshi:0.20.0/|1618389447|1037|679909|None|None|None|0.0|0.0|None|TOR|Tor network
 j5vdgftbn7jilxbp.onion|8333|70015|/Satoshi:0.20.1/|1618722824|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 j7psvow5b7czik65.onion|8333|70015|/Satoshi:0.20.0/|1618751549|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
+j7yg25vv2mg3wu7j.onion|8333|70015|/Satoshi:0.20.0/|1618931423|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 jaqilhzjl7ntalv6.onion|8333|70015|/Satoshi:0.20.0/|1618882556|1037|679893|None|None|None|0.0|0.0|None|TOR|Tor network
 jas24k2i7uxilfmm.onion|8333|70015|/Satoshi:0.20.0/|1618635288|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 jbhnjp25sw6cjuqoiyghbie7cxanqesv75jkd5eq5jhlzcmosgpv3mad.onion|8333|70016|/Satoshi:0.21.0/|1618871980|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -926,7 +924,7 @@ k2hyxte2zmjib7iy.onion|8333|70015|/Satoshi:0.20.0/|1618868557|1033|679911|None|N
 k2r5tvcjg7ve2n7w.onion|8333|70015|/Satoshi:0.18.1/|1618887969|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 k2xco5bqhtjb767d.onion|8333|70015|/Satoshi:0.20.1/|1618656173|1037|679889|None|None|None|0.0|0.0|None|TOR|Tor network
 k4cymevxdbuvpo4f.onion|8333|70015|/Satoshi:0.20.0/|1618797418|1037|679889|None|None|None|0.0|0.0|None|TOR|Tor network
-k4nuu4l4ed32qmmh.onion|8333|70015|/Satoshi:0.20.0/|1618893469|1037|679880|None|None|None|0.0|0.0|None|TOR|Tor network
+k4nuu4l4ed32qmmh.onion|8333|70015|/Satoshi:0.20.0/|1618893469|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 k4srtlnrr3mupdrt.onion|8333|70015|/Satoshi:0.20.0/|1618903634|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 k4vhp4vcz5gjcwo2.onion|8333|70015|/Satoshi:0.20.0/|1618718403|1037|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 k5j4mmmorc3de62e.onion|8333|70015|/Satoshi:0.20.1/|1618825738|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -957,7 +955,7 @@ kh4dorspd6jtkbmy.onion|8333|70015|/Satoshi:0.20.1/|1618857646|1033|679876|None|N
 khnusyvah4bb7upi.onion|8333|70015|/Satoshi:0.20.0/|1618805021|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 kipwjiiuisvzaqbn.onion|8333|70015|/Satoshi:0.18.1/|1618730920|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 kknewpgvmo7ms4cm.onion|8333|70015|/Satoshi:0.19.1/|1618628217|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
-kl63ceosoe7unezi.onion|8333|70015|/Satoshi:0.20.1/|1618247530|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
+kl63ceosoe7unezi.onion|8333|70015|/Satoshi:0.20.1/|1618247530|1037|679915|None|None|None|0.0|0.0|None|TOR|Tor network
 klhij4ear5x7wrcf.onion|8333|70015|/Satoshi:0.19.1/|1618627794|1033|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 klvhcvkgeljlrcmp.onion|8333|70015|/Satoshi:0.20.0/|1618918035|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 km2wuycm64tbfnev.onion|8333|70015|/Satoshi:0.18.1/|1618634860|1037|679872|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -970,16 +968,15 @@ kniptro5zvxv6m2j.onion|8333|70015|/Satoshi:0.20.0/|1618425537|1037|0|None|None|N
 knwpnt4bhnlksohr.onion|8333|70015|/Satoshi:0.20.0/|1618928986|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 knymm3arciehs6d7.onion|8333|70015|/Satoshi:0.20.0/|1618902908|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 kohb3oe36oohixsc.onion|8333|70015|/Satoshi:0.20.0/|1618914307|1033|679897|None|None|None|0.0|0.0|None|TOR|Tor network
-kpigalevkpqwhyl7.onion|8333|70015|/Satoshi:0.20.1/|1618802042|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
 kpoamsx4hrthtbpahrinlqsjeg6kqk27tokvvfbniyx26z7f62homiqd.onion|8333|70016|/Satoshi:0.21.0(our site is at http_bitcoin4x427bkoozfk3uxut4cssb7ufh3fnb7phcbhpietuwrsfllad.onion)/|1618755252|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
-kptoyl22tggjqbuq.onion|8333|70015|/Satoshi:0.19.1/|1618260991|1033|679906|None|None|None|0.0|0.0|None|TOR|Tor network
+kptoyl22tggjqbuq.onion|8333|70015|/Satoshi:0.19.1/|1618260991|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 kpwm7katynn7e5qu.onion|8333|70015|/Satoshi:0.20.0/|1618904365|1033|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 krci532x5x2fyvfi.onion|8333|70015|/Satoshi:0.20.1/|1618623601|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 krfuwkzg2xcramls.onion|8333|70015|/Satoshi:0.20.0/|1618735673|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 krvtkvzmtyputxej.onion|8333|70015|/Satoshi:0.20.0/|1618903279|1033|679872|None|None|None|0.0|0.0|None|TOR|Tor network
 krxqe23odlq4ighb.onion|8333|70015|/Satoshi:0.20.1/|1618904370|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 ksc6oqk2h5udyctu.onion|8333|70015|/Satoshi:0.20.1/|1618869428|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-ksesgyehbgsqkikq.onion|8333|70015|/Satoshi:0.18.0/|1618855874|1037|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+ksesgyehbgsqkikq.onion|8333|70015|/Satoshi:0.18.0/|1618855874|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 kthrstrq7xezh3z5.onion|8333|70015|/Satoshi:0.20.0/|1618834772|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 ku4u54z4tuia3a7l.onion|8333|70015|/Satoshi:0.20.1/|1618834783|1037|679880|None|None|None|0.0|0.0|None|TOR|Tor network
 ku7av2ejgeedkk4y.onion|8333|70015|/Satoshi:0.20.0/|1618596728|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1082,7 +1079,6 @@ mhqbxotgvun7ysvc2l6imszlj5nkbfincibjbbbo6h3auewoc27f4myd.onion|8333|70016|/Satos
 mis7baw3harf2lj6.onion|8333|70015|/Satoshi:0.20.0/|1618919464|1033|679901|None|None|None|0.0|0.0|None|TOR|Tor network
 mjclke4ch4ijzt2p.onion|8333|70015|/Satoshi:0.20.1/|1618901657|1032|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 mjipupck27qovril.onion|8333|70015|/Satoshi:0.18.1/|1618908030|1037|679879|None|None|None|0.0|0.0|None|TOR|Tor network
-ml44x3srhkcze7or.onion|8333|70015|/Satoshi:0.19.0.1/|1618924907|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 mllosyct4cqt4fu7.onion|8333|70015|/Satoshi:0.20.1/|1618744304|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 mlvrydqmq4d2uufv.onion|8333|70015|/Satoshi:0.20.0/|1618687690|1037|679876|None|None|None|0.0|0.0|None|TOR|Tor network
 mm53aiojib65p7mt.onion|8333|70015|/Satoshi:0.20.1/|1618399556|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1091,7 +1087,6 @@ mpxcy4hcp6udreguezoczsa6bz5zgqtglnu24ye2bnpb6k2qtkwu37id.onion|8333|70016|/Satos
 mqduhgdztunmtbwi.onion|8333|70015|/Satoshi:0.20.0/|1618634858|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 mqto5hwwei72z4gj.onion|8341|70015|/Satoshi:0.18.99/|1618850826|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 mr5nkdyava3tayda.onion|8333|70015|/Satoshi:0.20.1/|1618496025|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
-ms55ppywbkqj5xqb.onion|8333|70015|/Satoshi:0.20.0/|1618902161|1037|679870|None|None|None|0.0|0.0|None|TOR|Tor network
 msguxgshok3l7hlx.onion|8333|70015|/Satoshi:0.20.0/|1618733343|1037|679906|None|None|None|0.0|0.0|None|TOR|Tor network
 mskjzaem74lbclmr.onion|8333|70016|/Satoshi:0.21.0/|1618881826|1033|679865|None|None|None|0.0|0.0|None|TOR|Tor network
 msnhn7d4buitmwt4.onion|8333|70015|/Satoshi:0.20.0/|1618908755|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1126,7 +1121,7 @@ nc6xlmt2rz4labij.onion|8333|70015|/Satoshi:0.20.0/|1617887935|1037|679912|None|N
 nc6zlswwqqg7c5yz.onion|8333|70015|/Satoshi:0.20.0/|1618862546|1033|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 ncb3wcbeqpqwfpgw.onion|8333|70015|/Satoshi:0.20.1/|1618353452|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 ncbteqfiruodlqbw.onion|8333|70015|/Satoshi:0.18.0/|1618345108|1037|679908|None|None|None|0.0|0.0|None|TOR|Tor network
-nce3ihv2qw3i74ac.onion|8333|70015|/Satoshi:0.20.0/|1618888691|1037|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+nce3ihv2qw3i74ac.onion|8333|70015|/Satoshi:0.20.0/|1618888691|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 nczj44r3defhkg7y.onion|8333|70015|/Satoshi:0.20.0/|1618714319|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
 nd6yye7vy5mr4puv.onion|8333|70015|/Satoshi:0.19.1/|1618897742|1033|679866|None|None|None|0.0|0.0|None|TOR|Tor network
 ndglzhycsrelhd3r.onion|8333|70015|/Satoshi:0.20.0/|1618802078|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1223,7 +1218,6 @@ orsy2v63ecrmdj55.onion|8333|70015|/Satoshi:0.20.0(@wiz)/|1618923131|1037|679907|
 osbdpgclgtkg5ogm.onion|8333|70015|/Satoshi:0.20.0/|1618927068|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 osik6ja6ztt4chxm.onion|8333|70015|/Satoshi:0.20.1/|1618769344|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 oszdrhxh2hsszdt7.onion|8333|70015|/Satoshi:0.20.0/|1618613931|1037|679903|None|None|None|0.0|0.0|None|TOR|Tor network
-otisrrgzwvb5pp7k.onion|8333|70015|/Satoshi:0.20.1/|1618929355|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 oukhtyp225ynaqro.onion|8333|70015|/Satoshi:0.18.1/|1618819800|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 ouzt2wqtnvqgi4t6.onion|8333|70016|/Satoshi:0.21.0/|1618730106|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 ovfrh35g7qltw7lt.onion|8333|70015|/Satoshi:0.20.0/|1618911354|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1282,7 +1276,7 @@ pkbqlgal2wj7r7u6.onion|8333|70015|/Satoshi:0.20.1/|1618902171|1037|679885|None|N
 plromit6euzhyvhf.onion|8333|70015|/Satoshi:0.20.0/|1618816077|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 pmm4tyjnc67zzjtp.onion|8333|70015|/Satoshi:0.20.1/|1618784488|1037|679880|None|None|None|0.0|0.0|None|TOR|Tor network
 pnd6ujrytfwabe4m.onion|8333|70015|/Satoshi:0.16.3/|1618910251|1037|679883|None|None|None|0.0|0.0|None|TOR|Tor network
-pnlrxhwickc2kksa.onion|8333|70015|/Satoshi:0.20.0/|1618854438|1037|679875|None|None|None|0.0|0.0|None|TOR|Tor network
+pnlrxhwickc2kksa.onion|8333|70015|/Satoshi:0.20.0/|1618854438|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 pnzp5cz2m74pw72l.onion|8333|70015|/Satoshi:0.20.0/|1618926374|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 poqw6nm7na3so4lf.onion|8333|70015|/Satoshi:0.20.0/|1618884162|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 pownzkfahz2l2lw2.onion|8333|70015|/Satoshi:0.20.0/|1618526758|1033|679884|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1360,7 +1354,6 @@ r2ozdjlnqqro66cx.onion|8333|70015|/Satoshi:0.20.0/|1617547233|1032|679904|None|N
 r3lndthxrkh5n7zo.onion|8333|70015|/Satoshi:0.20.0/|1618866794|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 r3nrm5s27uvq3kta.onion|8333|70015|/Satoshi:0.20.1/|1618915398|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 r3sf43if7ca7eoda.onion|8333|70015|/Satoshi:0.20.1/|1618894634|1032|679866|None|None|None|0.0|0.0|None|TOR|Tor network
-r4sqssigqocugh4q.onion|8333|70015|/Satoshi:0.20.0/|1618928622|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 r56hsglu25n4v7yi.onion|8333|70015|/Satoshi:0.20.1/|1618923118|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
 r5r376xvrzcmoa3v.onion|8333|70015|/Satoshi:0.20.0/|1618904730|1037|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 r6jedq6mewgypgp5.onion|8333|70015|/Satoshi:0.20.0/|1618687294|1037|679886|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1389,7 +1382,7 @@ rku3yerpgqvujgm3.onion|8333|70015|/Satoshi:0.19.1/|1618423724|1033|679912|None|N
 rl7jhhh57bkcuhaf.onion|8333|70015|/Satoshi:0.20.0/|1618903634|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 rlwc6ejs5hy2a3bp2d7vxfgml5px7a2365ius3kf24tasre6gsw3fiqd.onion|8333|70016|/Satoshi:0.21.0/|1618887189|1037|679891|None|None|None|0.0|0.0|None|TOR|Tor network
 roqwnmepcj453vfh.onion|8333|70015|/Satoshi:0.19.1/|1618495981|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
-rovgip2brcfke45g.onion|8333|70015|/Satoshi:0.20.1/|1618611773|1033|679884|None|None|None|0.0|0.0|None|TOR|Tor network
+rovgip2brcfke45g.onion|8333|70015|/Satoshi:0.20.1/|1618611773|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 rq35ayo6m5narryp.onion|8333|70015|/Satoshi:0.20.1/|1618921393|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 rq7wxhiiccwxt7ko.onion|8333|70015|/Satoshi:0.20.1/|1618870281|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 rqa2kwhkrr3g7z6b.onion|8333|70016|/Satoshi:0.21.0/|1618925259|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1402,7 +1395,7 @@ rrmxf47tjxrzfkjo.onion|8333|70015|/Satoshi:0.20.1/|1617755152|1033|679857|None|N
 rrsappnokrofnogl.onion|8333|70015|/Satoshi:0.20.1/|1618843605|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 rrz4qspfdye44qo2.onion|8333|70015|/Satoshi:0.20.0/|1618813934|1033|679865|None|None|None|0.0|0.0|None|TOR|Tor network
 rs4jwedhm2medkit.onion|8333|70015|/Satoshi:0.18.1/|1618908081|1037|679888|None|None|None|0.0|0.0|None|TOR|Tor network
-rse2vtutj774cp4e.onion|8333|70015|/Satoshi:0.19.0.1/|1618884532|1037|679850|None|None|None|0.0|0.0|None|TOR|Tor network
+rse2vtutj774cp4e.onion|8333|70015|/Satoshi:0.19.0.1/|1618884532|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 rsibqfyr4lzjb4sd.onion|8333|70015|/Satoshi:0.20.0/|1618926717|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 rsxr5zfsm4tmbynz.onion|8333|70015|/Satoshi:0.20.1/|1618645415|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 rszpctzclwfp5ufu.onion|8333|70015|/Satoshi:0.18.0/|1618928594|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1438,7 +1431,6 @@ sbihwgqrjdmjitqc.onion|8333|70015|/Satoshi:0.20.1/|1618841030|1037|679861|None|N
 sceei7nv7thegizw.onion|8333|70015|/Satoshi:0.20.1/|1618714352|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
 se36ks2tmvrukg4q.onion|8333|70015|/Satoshi:0.20.0/|1618909542|1037|679883|None|None|None|0.0|0.0|None|TOR|Tor network
 se6ke3bfyair5i3z.onion|8333|70015|/Satoshi:0.20.0/|1618690724|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
-sf24uvxzdzrf4sb4.onion|8333|70015|/Satoshi:0.18.1/|1618685555|1037|679872|None|None|None|0.0|0.0|None|TOR|Tor network
 sfxgfootu7lmwkfw.onion|8333|70015|/Satoshi:0.20.1/|1618770870|1037|679905|None|None|None|0.0|0.0|None|TOR|Tor network
 shindo45rxrk3737.onion|8333|70015|/Satoshi:0.20.0/|1618476360|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
 shnldu7oje27s3ju.onion|8333|70015|/Satoshi:0.18.1/|1618807662|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1476,7 +1468,6 @@ ssueo6tllwxgkvci.onion|8333|70015|/Satoshi:0.20.0/|1618697201|1037|679908|None|N
 st74qtr4pw2kryop.onion|8333|70016|/Satoshi:0.21.0/|1618557946|1033|679897|None|None|None|0.0|0.0|None|TOR|Tor network
 stt6nqynlu24jmwy.onion|8333|70015|/Satoshi:0.20.0/|1618092404|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
 stybpxkvkaq35j2r.onion|8333|70015|/Satoshi:0.20.0/|1618544727|1037|679872|None|None|None|0.0|0.0|None|TOR|Tor network
-svua5hiqluw7o2sw.onion|8333|70015|/Satoshi:0.20.0/|1618871576|1033|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 sw3flmn4nhqdbimv.onion|8333|70015|/Satoshi:0.20.1/|1618908764|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 sw56dsq6guzbxif4.onion|8333|70015|/Satoshi:0.20.0/|1618903640|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 sw6fvydx4wgv6pur.onion|8333|70015|/Satoshi:0.20.0/|1618733714|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1484,7 +1475,7 @@ swqyy6xcqpxhhmjo.onion|8333|70015|/Satoshi:0.20.1/|1618726908|1037|679885|None|N
 swxwn7xchvqc2eo7.onion|8333|70015|/Satoshi:0.20.1/|1618784071|1033|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 sxqjubmum4rmfgpu.onion|8333|70015|/Satoshi:0.20.0/|1618925267|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 sychwcck4ly73ukv.onion|8333|70015|/Satoshi:0.18.0/|1618802076|1036|679913|None|None|None|0.0|0.0|None|TOR|Tor network
-szdkeu2kcplnijkd.onion|8333|70015|/Satoshi:0.20.1/|1618925267|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
+szdkeu2kcplnijkd.onion|8333|70015|/Satoshi:0.20.1/|1618925267|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 t2n23dg7twiabjzm.onion|8333|70015|/Satoshi:0.20.0/|1618324027|1037|679884|None|None|None|0.0|0.0|None|TOR|Tor network
 t2thr46jg7wga5ng.onion|8333|70015|/Satoshi:0.17.1/|1618908771|1036|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 t42j4q6xkvpdrclg.onion|8333|70015|/Satoshi:0.18.1/|1618662774|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1516,7 +1507,6 @@ tlnj6dhbutw4xozh.onion|8333|70015|/Satoshi:0.20.1/|1618923117|1037|679907|None|N
 tlsm5pievnhfwzi4.onion|8333|70015|/Satoshi:0.19.1/|1618685554|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 tlyywc6n3ucxy6ds.onion|8333|70015|/Satoshi:0.20.1/|1618925982|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 tmn5ceuehgciobb4.onion|8333|70015|/Satoshi:0.19.1/|1618906192|1033|679903|None|None|None|0.0|0.0|None|TOR|Tor network
-tmykvsyrvevatgs7.onion|8333|70015|/Satoshi:0.20.1/|1618782775|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 tnurjpr4jqcjfmnc5his3na3x7ouc2fo3lqqyzhm4hxuf25fsbkujbyd.onion|8333|70016|/Satoshi:0.21.0/|1618868967|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 to22b7tcad7dlhds.onion|8333|70016|/Satoshi:0.21.0/|1618736781|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 tp4ogjqdli3apvxw.onion|8333|70015|/Satoshi:0.20.0/|1618860699|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1525,7 +1515,7 @@ tr5ji44nkrcgl2om.onion|8333|70015|/Satoshi:0.20.1/|1618857615|1033|679909|None|N
 trg2xco7iky5yyky.onion|8333|70015|/Satoshi:0.20.1/|1618261793|1037|679903|None|None|None|0.0|0.0|None|TOR|Tor network
 trzepahzstkjadkq.onion|8333|70015|/Satoshi:0.20.0/|1618723617|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 ttffu7bvr3cdh63b.onion|8333|70015|/Satoshi:0.20.0/|1618893062|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
-ttg3dic2a26wcpmj.onion|8333|70015|/Satoshi:0.20.0/|1618812340|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
+ttg3dic2a26wcpmj.onion|8333|70015|/Satoshi:0.20.0/|1618812340|1037|679915|None|None|None|0.0|0.0|None|TOR|Tor network
 ttryb4tor74orc5r.onion|8333|70015|/Satoshi:0.20.1/|1618670680|1037|679862|None|None|None|0.0|0.0|None|TOR|Tor network
 tttgsj2dipt7bksm.onion|8333|70015|/Satoshi:0.18.1/|1618903631|1036|679874|None|None|None|0.0|0.0|None|TOR|Tor network
 tud6ejmvgf74hsog.onion|8333|70015|/Satoshi:0.20.0/|1618676396|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1546,7 +1536,6 @@ u4r7fnholrdwwlni.onion|8333|70015|/Satoshi:0.20.1/|1618633235|1033|679912|None|N
 u5727vngus4f455r.onion|8333|70015|/Satoshi:0.20.0/|1618902902|1033|679894|None|None|None|0.0|0.0|None|TOR|Tor network
 u5rvj3fb4u6rqazp.onion|8333|70015|/Satoshi:0.20.0/|1618914289|1033|679889|None|None|None|0.0|0.0|None|TOR|Tor network
 u5yll7o6bdxtmnfj.onion|8333|70016|/Satoshi:0.21.0/|1618685580|1037|679865|None|None|None|0.0|0.0|None|TOR|Tor network
-u6hsntu3ynthpxe3.onion|8333|70015|/Satoshi:0.20.0/|1618910959|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 u6lwxtlnqw2e2dy2.onion|8333|70015|/Satoshi:0.18.1/|1618879223|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 uao3d3wss6ccvjpy.onion|8333|70015|/Satoshi:0.20.0/|1618837996|1037|679879|None|None|None|0.0|0.0|None|TOR|Tor network
 ubndibdsdsgqwkmy.onion|8333|70015|/Satoshi:0.20.1/|1618680021|1037|679861|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1582,7 +1571,7 @@ undd7rsj4pen3wo4.onion|8333|70015|/Satoshi:0.20.1/|1618428597|1033|679903|None|N
 untr6rli7jwuoyci.onion|8333|70015|/Satoshi:0.20.0/|1618834778|1037|679872|None|None|None|0.0|0.0|None|TOR|Tor network
 up64pnem5tjw7r5a.onion|8333|70015|/Satoshi:0.20.1/|1618638221|1037|679879|None|None|None|0.0|0.0|None|TOR|Tor network
 upoapuh2chbag627.onion|8333|70015|/Satoshi:0.18.1/|1618435519|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-uqi4zlszdovokd7n.onion|8333|70015|/Satoshi:0.20.1/|1618140265|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
+uqi4zlszdovokd7n.onion|8333|70015|/Satoshi:0.20.1/|1618140265|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 uqmchsup2itezbwm.onion|8333|70015|/Satoshi:0.20.1/|1618757952|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
 urg24s2kox276cxq.onion|8333|70015|/Satoshi:0.20.0/|1618906202|1033|679876|None|None|None|0.0|0.0|None|TOR|Tor network
 usazs7glm7geyxkl.onion|8333|70015|/Satoshi:0.20.1/|1618928613|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1645,7 +1634,7 @@ vq7a7zw6g6cnkwzx.onion|8333|70015|/Satoshi:0.20.0(dim-3500)/|1618624048|1032|0|N
 vqhppd7chmvxbsr6d4nenxq63vqsoy3hefuuifghgnrx5wxxskja37ad.onion|8333|70016|/Satoshi:0.21.0/|1618871581|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
 vrbl6tkn54c67qpz.onion|8333|70016|/Satoshi:21.99.0/|1618841019|1033|679888|None|None|None|0.0|0.0|None|TOR|Tor network
 vsbou5pomzsjjeo3.onion|8333|70015|/Satoshi:0.20.1/|1618327754|1033|0|None|None|None|0.0|0.0|None|TOR|Tor network
-vsbwood73l7a6uv6.onion|8333|70015|/Satoshi:0.20.0/|1618742129|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
+vsbwood73l7a6uv6.onion|8333|70015|/Satoshi:0.20.0/|1618742129|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 vsy4xiritu6i4y3l.onion|8333|70015|/Satoshi:0.20.0/|1618871143|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 vvd52koyacuvfhyt.onion|8333|70015|/Satoshi:0.20.0/|1618863421|1037|679897|None|None|None|0.0|0.0|None|TOR|Tor network
 vvnilqw7mmpiymtd.onion|8333|70015|/Satoshi:0.20.1/|1618920601|1033|679903|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1654,7 +1643,7 @@ vz5pv4ilh3cd4qtk.onion|8333|70015|/Satoshi:0.20.0/|1618685979|1037|679912|None|N
 w2cbk6tvqar4evfq.onion|8333|70015|/Satoshi:0.20.1/|1618710185|1037|679909|None|None|None|0.0|0.0|None|TOR|Tor network
 w2e7r5tqrgtdkdit.onion|8333|70015|/Satoshi:0.20.0/|1618738847|1033|679884|None|None|None|0.0|0.0|None|TOR|Tor network
 w2jojvb7pctnyiui.onion|8333|70015|/Satoshi:0.20.1/|1618724856|1037|679897|None|None|None|0.0|0.0|None|TOR|Tor network
-w33vuokuovntlxgw.onion|8333|70015|/Satoshi:0.20.0/|1618719174|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
+w33vuokuovntlxgw.onion|8333|70015|/Satoshi:0.20.0/|1618719174|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 w3jupzcsce6qkzh4.onion|8333|70015|/Satoshi:0.20.0/|1618865951|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 w433epfbkpw5234e.onion|8333|70015|/Satoshi:0.20.0/|1618850817|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 w4dwsb2y4jd44msb.onion|8333|70015|/Satoshi:0.20.0/|1618929370|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1674,7 +1663,7 @@ wemkid2kr7vmtt7a.onion|8333|70015|/Satoshi:0.20.0/|1617213800|1037|679912|None|N
 wenygpfbvqbeferi.onion|8333|70015|/Satoshi:0.20.1/|1618828731|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 wfa53ftqirl5xteo.onion|8333|70015|/Satoshi:0.20.1/|1618827469|1037|679865|None|None|None|0.0|0.0|None|TOR|Tor network
 wftlflii5lqrzmqc.onion|8333|70015|/Satoshi:0.18.0/|1618833947|1037|679903|None|None|None|0.0|0.0|None|TOR|Tor network
-wgprn6wecxwxizal.onion|8333|70015|/Satoshi:0.20.0/|1618723638|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
+wgprn6wecxwxizal.onion|8333|70015|/Satoshi:0.20.0/|1618723638|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 wh2dsfd477f2yc2u.onion|8333|70015|/Satoshi:0.20.0/|1618872000|1033|679857|None|None|None|0.0|0.0|None|TOR|Tor network
 whcn7thql7e3tinu.onion|8333|70015|/Satoshi:0.20.0/|1618772745|1037|679887|None|None|None|0.0|0.0|None|TOR|Tor network
 whdetmacwk572u7x.onion|8333|70015|/Satoshi:0.20.0/|1618918395|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1714,7 +1703,6 @@ wz6u27xbwl6c624v.onion|8333|70015|/Satoshi:0.20.0/|1618300279|1037|679912|None|N
 x246eo6qucqb3mdg.onion|8333|70015|/Satoshi:0.20.1/|1618824048|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 x2eutbx7bxed7rng.onion|8333|70015|/Satoshi:0.20.1/|1618893462|1033|679861|None|None|None|0.0|0.0|None|TOR|Tor network
 x42jxxfpzfovtwtw.onion|8333|70015|/Satoshi:0.20.2/|1618923127|1033|679907|None|None|None|0.0|0.0|None|TOR|Tor network
-x4njuinbep5nn4gx.onion|8333|70015|/Satoshi:0.20.0/|1618929390|1033|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 x4puel5kvm6lj3sp.onion|8333|70015|/Satoshi:0.20.1/|1618512053|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
 x56rgz23evlv6ku7.onion|8333|70015|/Satoshi:0.20.1/|1618901662|1033|679905|None|None|None|0.0|0.0|None|TOR|Tor network
 x6lazggouvl7jcaa.onion|8333|70015|/Satoshi:0.20.1/|1618896550|1033|679863|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1728,7 +1716,6 @@ xbwp2pf6ikj7aq7a.onion|8333|70015|/Satoshi:0.19.0.1/|1618925267|1033|679910|None
 xcngsgh4564ykdah.onion|8333|70015|/Satoshi:0.20.0/|1618923129|1037|679907|None|None|None|0.0|0.0|None|TOR|Tor network
 xcodhmqanrmflhh4.onion|8333|70015|/Satoshi:0.20.1/|1618666608|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
 xe3kupcvtdvxv2g6.onion|8333|70015|/Satoshi:0.20.1/|1618836372|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
-xfruyxgqu5tnfclz.onion|8333|70015|/Satoshi:0.18.1/|1618918401|1037|679899|None|None|None|0.0|0.0|None|TOR|Tor network
 xg7nv3eghhwttnoc.onion|8333|70015|/Satoshi:0.19.1/|1618687684|1033|679870|None|None|None|0.0|0.0|None|TOR|Tor network
 xgvm57mhgv564dka.onion|8333|70015|/Satoshi:0.18.0/|1618061723|1037|679876|None|None|None|0.0|0.0|None|TOR|Tor network
 xijhxhpqf7gnpva2.onion|8333|70015|/Satoshi:0.20.0/|1618609616|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1740,7 +1727,7 @@ xjtzvcrogk4c4lmp.onion|8333|70015|/Satoshi:0.20.1/|1618841450|1037|679883|None|N
 xjuvj225gf23j3eo.onion|8333|70015|/Satoshi:0.19.1/|1618823617|1033|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 xkfznwe37otleswf.onion|8333|70015|/Satoshi:0.20.0/|1618912096|1037|679885|None|None|None|0.0|0.0|None|TOR|Tor network
 xkxupohz6nl4imjv.onion|8333|70015|/Satoshi:0.20.0/|1618924905|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
-xlny6xkrqfbs5unn.onion|8333|70015|/Satoshi:0.20.1/|1618677170|1037|679913|None|None|None|0.0|0.0|None|TOR|Tor network
+xlny6xkrqfbs5unn.onion|8333|70015|/Satoshi:0.20.1/|1618677170|1037|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 xnk7htmhwuibhevx.onion|8333|70015|/Satoshi:0.20.1/|1618651475|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 xnn2x7274kiymxm2.onion|8333|70015|/Satoshi:0.20.0/|1618322704|1033|679913|None|None|None|0.0|0.0|None|TOR|Tor network
 xnramzrv3bgaerv4.onion|8333|70015|/Satoshi:0.20.1/|1618918027|1033|679899|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1788,7 +1775,6 @@ y3kj7djc2a4dbz4j.onion|8333|70015|/Satoshi:0.19.0.1/|1618597989|1033|487901|None
 y4swmsaxdcos2bnu.onion|8333|70015|/Satoshi:0.19.0.1/|1618737151|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 yb7vt6kwoydngbqg.onion|8333|70015|/Satoshi:0.20.0/|1618607118|1033|679867|None|None|None|0.0|0.0|None|TOR|Tor network
 ybhzvbjlcyr556irjtrwa2qz44ri44r5dn45vfj7zjnot445dnv24tyd.onion|8333|70016|/Satoshi:0.21.0/|1618764859|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
-ybxnzdo3hnxbrgvi.onion|8333|70015|/Satoshi:0.20.0/|1618928244|1033|679911|None|None|None|0.0|0.0|None|TOR|Tor network
 ycai2dmfdg5pusxg.onion|8333|70015|/Satoshi:0.20.0/|1618921378|1037|679904|None|None|None|0.0|0.0|None|TOR|Tor network
 ycmwdqzlmiocjowg.onion|8333|70015|/Satoshi:0.20.0/|1618718372|1037|679912|None|None|None|0.0|0.0|None|TOR|Tor network
 ycvc5jxnqrjg5kbq.onion|8333|70015|/Satoshi:0.20.0/|1618926010|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
@@ -1848,7 +1834,7 @@ zbvv4bvvsavvkwxb.onion|8333|70015|/Satoshi:0.20.1/|1618822784|1033|679891|None|N
 zbxirbpsbr3r4sem.onion|8333|70015|/Satoshi:0.20.1/|1618909519|1033|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 zcdi5qsuwx6qjftk.onion|8333|70015|/Satoshi:0.20.0/|1618512433|1037|679910|None|None|None|0.0|0.0|None|TOR|Tor network
 zco22k2jjuqdjna4.onion|8333|70015|/Satoshi:0.19.0.1/|1618087499|1032|0|None|None|None|0.0|0.0|None|TOR|Tor network
-zcoxv2ufs5niafzq.onion|8333|70015|/Satoshi:0.20.1/|1618910269|1033|679883|None|None|None|0.0|0.0|None|TOR|Tor network
+zcoxv2ufs5niafzq.onion|8333|70015|/Satoshi:0.20.1/|1618910269|1033|679914|None|None|None|0.0|0.0|None|TOR|Tor network
 zdciax3vawln4qma.onion|8333|70015|/Satoshi:0.20.0/|1618594189|1037|679861|None|None|None|0.0|0.0|None|TOR|Tor network
 ze5hd46qi5odx3mu.onion|8333|70015|/Satoshi:0.20.1/|1618260618|1037|679878|None|None|None|0.0|0.0|None|TOR|Tor network
 zehsq3aeye2pm4k7lnspihq5hp5g4qdw3gpbeq6cpo6vgtejpzix3kad.onion|8333|70016|/Satoshi:0.21.0/|1618242993|1037|0|None|None|None|0.0|0.0|None|TOR|Tor network
