@@ -62,7 +62,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.85.12.40|/Satoshi:2.1.8/|70005|6327|24.85.12.0/22|CA|arin|2001-07-12|SHAW, CA
 37.201.116.82|/Satoshi:2.1.8/|70005|3209|37.201.0.0/17|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
 37.209.26.247|/Satoshi:2.1.8/|70005|3209|37.209.0.0/18|DE|ripencc|2012-03-29|VODANET International IP-Backbone of Vodafone, DE
-37.24.42.140|/Satoshi:2.1.8/|70005|3209|37.24.0.0/17|DE|ripencc|2011-12-22|VODANET International IP-Backbone of Vodafone, DE
 37.4.253.202|/Satoshi:2.1.8/|70005|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
 38.141.57.165|/Satoshi:2.1.8/|70005|394449|38.141.57.0/24|US|arin|1991-04-16|FYBERCOM, US
 43.245.160.228|/Satoshi:2.1.8/|70005|133480|43.245.160.0/24|AU|apnic|2014-06-03|INTERGRID-AS-AP Intergrid Group Pty Ltd, AU
@@ -74,6 +73,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.86.201.75|/Satoshi:2.1.8/|70005|60781|45.86.201.0/24|NL|ripencc|2019-06-13|LEASEWEB-NL-AMS-01 Netherlands, NL
 46.135.43.39|/Satoshi:2.1.8/|70005|16019|46.135.0.0/16|CZ|ripencc|2010-11-11|VODAFONE-CZ-AS, CZ
 46.150.55.219|/Satoshi:2.1.8/|70005|3212|46.150.32.0/19|SI|ripencc|2010-11-03|TELEMACH Broadband Access & Carrier Services, SI
+46.223.143.120|/Satoshi:2.1.8/|70005|3209|46.223.128.0/17|DE|ripencc|2011-01-26|VODANET International IP-Backbone of Vodafone, DE
 46.223.162.42|/Satoshi:2.1.8/|70005|3209|46.223.128.0/17|DE|ripencc|2011-01-26|VODANET International IP-Backbone of Vodafone, DE
 47.145.195.206|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.68.126.148|/Satoshi:2.1.8/|70005|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
@@ -95,6 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.132.167.178|/Satoshi:2.1.8/|70005|20001|72.132.0.0/16|US|arin|2005-08-02|TWC-20001-PACWEST, US
 72.223.90.220|/Satoshi:2.1.8/|70005|22773|72.223.0.0/17|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 73.131.193.252|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.251.46.67|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.72.231.228|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.110.188.21|/Satoshi:2.1.8/|70005|701|74.110.128.0/17|US|arin|2009-01-26|UUNET, US
 76.186.65.73|/Satoshi:2.1.8/|70005|11427|76.184.0.0/14|US|arin|2006-07-26|TWC-11427-TEXAS, US
@@ -133,7 +134,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.72.195.149|/Satoshi:2.1.8/|70005|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 85.135.162.251|/Satoshi:2.1.8/|70005|8257|85.135.128.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
 85.148.95.34|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
-85.254.74.16|/Satoshi:2.1.8/|70005|2588|85.254.0.0/17|LV|ripencc|2005-02-11|LATNET-AS, LV
 85.254.74.47|/Satoshi:2.1.8/|70005|2588|85.254.0.0/17|LV|ripencc|2005-02-11|LATNET-AS, LV
 86.84.135.104|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.134.133.4|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
@@ -160,7 +160,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.117.176.108|/Satoshi:2.1.8/|70005|8881|92.117.160.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.157.185.253|/Satoshi:2.1.8/|70005|3215|92.157.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.27.71.55|/Satoshi:2.1.8/|70005|13285|92.26.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
-93.132.111.86|/Satoshi:2.1.8/|70005|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
 93.7.3.198|/Satoshi:2.1.8/|70005|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
 94.227.140.191|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
