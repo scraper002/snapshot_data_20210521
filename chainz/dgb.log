@@ -9,7 +9,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.163.122.207|/DigiByte:7.17.2/|70017|3462|1.163.0.0/16|TW|apnic|2010-05-05|HINET Data Communication Business Group, TW
 100.40.26.12|/DigiByte:7.17.2(bitcore)/|70017|701|100.40.0.0/17|US|arin|2010-12-28|UUNET, US
 102.221.228.65|/DigiByte:7.17.2/|70017|328717|102.221.228.0/24|GH|afrinic|2020-08-18|Tizeti-Network-Ghana, GH
-102.89.2.26|/DigiByte:7.17.2/|70017|29465|102.89.2.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
 103.120.202.234|/DigiByte:7.17.2/|70017|63526|103.120.202.0/24|BD|apnic|2018-08-08|SSDTL-BD Systems Solutions & development Technologies Limited, BD
 103.16.129.95|/open-nodes:0.1/|70019|133159|103.16.128.0/22|AU|apnic|2013-02-06|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 103.26.83.122|/digiwallet:1.0.0/|70017|9541|103.26.83.0/24|PK|apnic|2013-06-19|CYBERNET-AP Cyber Internet Services (Pvt) Ltd., PK
@@ -28,6 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.41.65.42|/digiwallet:1.0.0/|70017|3209|109.40.0.0/13|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
 109.43.50.12|/digiwallet:1.0.0/|70017|3209|109.40.0.0/13|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
 111.90.145.84|/DigiByte:7.17.2/|70017|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
+112.213.37.20|/DigiByte:7.17.2/|70017|133159|112.213.32.0/21|AU|apnic|2009-02-18|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 114.122.44.0|/digiwallet:1.0.0/|70017|23693|114.122.32.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.4.223.119|/digiwallet:1.0.0/|70017|4761|114.4.220.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.84.197.136|/DigiByte:7.17.2/|70017|4812|114.84.0.0/16|CN|apnic|2008-05-14|CHINANET-SH-AP China Telecom (Group), CN
@@ -39,7 +39,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.17.226.235|/digiwallet:1.0.0/|70017|133612|120.17.192.0/18|AU|apnic|2008-03-07|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
 120.229.81.145|/DigiByte:7.17.2/|70017|56040|120.229.0.0/16|CN|apnic|2008-04-14|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 121.98.150.116|/DigiByte:7.17.2/|70017|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
-122.151.121.210|/digiwallet:1.0.0/|70017|9443|122.151.0.0/16|AU|apnic|2010-07-29|VOCUS-RETAIL-AU Vocus Retail, AU
 123.129.116.109|/DigiByte:7.17.2/|70017|4837|123.128.0.0/13|CN|apnic|2007-02-15|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 124.156.113.219|/DigiByte:7.17.2/|70017|132203|124.156.112.0/22|SG|apnic|2006-03-17|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 125.140.198.3|/DigiByte:7.17.2/|70017|4766|125.136.0.0/13|KR|apnic|2005-08-23|KIXS-AS-KR Korea Telecom, KR
@@ -121,6 +120,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.69.166.2|/DigiByte:7.17.2/|70017|212241|185.69.166.0/23|BE|ripencc|2014-09-10|THREEFOLD, BE
 186.22.18.109|/DigiByte:7.17.2/|70017|27747|186.22.16.0/20|AR|lacnic|2010-08-05|Telecentro S.A., AR
 186.241.101.54|/digiwallet:1.0.0/|70017|7738|186.241.64.0/18|BR|lacnic|2010-09-22|Telemar Norte Leste S.A., BR
+186.32.216.3|/DigiByte:7.17.2/|70017|262197|186.32.216.0/23|CR|lacnic|2011-06-24|MILLICOM CABLE COSTA RICA S.A., CR
 187.122.125.69|/digiwallet:1.0.0/|70017|28573|187.122.0.0/17|BR|lacnic|2010-03-01|CLARO S.A., BR
 188.162.80.96|/digiwallet:1.0.0/|70017|31205|188.162.80.0/24|RU|ripencc|2009-05-20|MF-SIB-AS, RU
 188.192.147.63|/DigiByte:7.17.2/|70017|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
@@ -147,6 +147,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.117.93.227|/DigiByte:7.17.2/|70017|30922|217.117.80.0/20|RU|ripencc|2004-01-16|MTS-FBN-SIBERIA-AS, RU
 217.249.30.40|/DigiByte:7.17.2/|70017|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 221.122.37.73|/DigiByte:7.17.2/|70017|23724|221.122.32.0/20|CN|apnic|2003-07-07|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN
+23.97.222.172|/DigiByte:7.17.2/|70017|8075|23.96.0.0/14|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 24.115.120.41|/digiwallet:1.0.0/|70017|3737|24.115.0.0/16|US|arin|2004-10-28|AS-PTD, US
 24.132.224.115|/digiwallet:1.0.0/|70017|33915|24.132.128.0/17|NL|ripencc|2000-01-17|TNF-AS, NL
 24.132.52.144|/DigiByte:7.17.2/|70017|33915|24.132.0.0/17|NL|ripencc|1997-10-13|TNF-AS, NL
@@ -196,7 +197,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.149.93.35|/DigiByte:7.17.2/|70017|9299|49.149.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.246.3|/DigiByte:7.17.2/|70017|9299|49.150.224.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.181.142.126|/digiwallet:1.0.0/|70017|4804|49.181.128.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
-49.182.49.222|/digiwallet:1.0.0/|70017|4804|49.182.0.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 49.224.93.34|/digiwallet:1.0.0/|70017|9500|49.224.64.0/18|NZ|apnic|2010-11-24|VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
 5.144.119.244|/DigiByte:7.17.2/|70017|8359|5.144.96.0/19|RU|ripencc|2012-07-11|MTS, RU
 5.173.139.13|/digiwallet:1.0.0/|70017|39603|5.173.128.0/18|PL|ripencc|2012-07-30|P4NET P4 UMTS operator in Poland, PL
@@ -217,9 +217,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.38.177.230|/DigiByte:7.17.2/|70017|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 58.224.113.16|/DigiByte:7.17.2/|70017|9318|58.224.0.0/13|KR|apnic|2005-06-27|SKB-AS SK Broadband Co Ltd, KR
 59.153.238.45|/digiwallet:1.0.0/|70017|131429|59.153.238.0/24|VN|apnic|2015-10-22|MOBIFONE-AS-VN MOBIFONE Corporation, VN
-60.225.11.207|/digiwallet:1.0.0/|70017|1221|60.224.0.0/13|AU|apnic|2004-07-28|ASN-TELSTRA Telstra Corporation Ltd, AU
 60.229.53.175|/DigiByte:7.17.2/|70017|1221|60.224.0.0/13|AU|apnic|2004-07-28|ASN-TELSTRA Telstra Corporation Ltd, AU
-62.148.147.225|/digiwallet:1.0.0/|70017|15468|62.148.144.0/20|RU|ripencc|2000-06-26|KLGELECS-AS 38, Teatralnaya st., RU
 62.202.180.207|/DigiByte:7.17.2/|70017|3303|62.202.128.0/17|CH|ripencc|2000-10-18|SWISSCOM Swisscom (Switzerland) Ltd, CH
 62.202.188.132|/DigiByte:7.17.2/|70017|3303|62.202.128.0/17|CH|ripencc|2000-10-18|SWISSCOM Swisscom (Switzerland) Ltd, CH
 64.227.100.63|/digibyte-js:5.0.3/|70017|14061|64.227.96.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
