@@ -436,6 +436,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 20.67.163.179|30002|/LitecoinCore:0.18.1/|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 20.67.163.201|30002|/LitecoinCore:0.18.1/|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 200.236.20.210|62420|/LitecoinCore:0.18.1/|10881|200.236.0.0/19|BR|lacnic|1999-12-15|FUNPAR - Fundacao da UFPR para o DCTC, BR
+2001:0:2851:782c:14f2:1a03:cece:24ba|9333|/LitecoinCore:0.18.1/|6939|2001::/32||other||HURRICANE, US
 2001:0:53aa:64c:14aa:5557:bfdd:27f0|9333|/LitecoinCore:0.18.1/|6939|2001::/32||other||HURRICANE, US
 2001:4060:4419:1::61|9027|/Satoshi:0.8.6.2/|6772|2001:4060::/32|CH|ripencc|2004-07-06|IMPNET-AS, CH
 2001:41d0:1008:2798::|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
@@ -564,7 +565,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.84.176.18|9333|/LitecoinCore:0.18.1/|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 220.135.81.163|9333|/LitecoinCore:0.18.1/|3462|220.135.64.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
 220.249.150.154|9333|/LitecoinCore:0.18.1/|4837|220.249.128.0/18|CN|apnic|2003-02-28|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
-221.219.103.132|2321|/LitecoinCore:0.18.1/|4808|221.219.64.0/18|CN|apnic|2003-11-19|CHINA169-BJ China Unicom Beijing Province Network, CN
 222.122.49.43|9333|/LitecoinCore:0.18.1/|4766|222.122.0.0/16|KR|apnic|2003-10-27|KIXS-AS-KR Korea Telecom, KR
 223.72.35.174|2321|/LitecoinCore:0.18.1/|56048|223.72.0.0/16|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 23.102.77.31|9333|/LitecoinCore:0.16.3/|8075|23.102.0.0/16|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -639,6 +639,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f130:0:9e:d294:66ff:fe80:baec|9333|/LitecoinCore:0.18.1/|35916|2607:f130::/32|US|arin|2007-09-07|MULTA-ASN1, US
 2607:f2c0:e4ba:1201:5c0c:9c67:9b47:1e2c|9333|/LitecoinCore:0.17.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
 27.254.47.16|9333|/LitecoinCore:0.18.1/|9891|27.254.40.0/21|TH|apnic|2010-03-16|CSLOX-IDC-AS-AP CS LOXINFO Public Company Limited., TH
+2804:4ec:1013:fd00:1173:2bb4:7813:1239|9333|/LitecoinCore:0.16.3/|28668|2804:4ec:1000::/40|BR|lacnic|2011-05-30|Silva & Silveira Provedor de Internet Ltda, BR
 2806:103e:27:3e63:7955:9ddc:e674:686|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
 2806:2f0:90c1:b5dc:2157:bb8a:bfb:2ddf|9333|/LitecoinCore:0.18.1/|17072|2806:2f0:90c0::/47|MX|lacnic|2012-10-11|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
 2a00:1828:a004:2::666|9333|/LitecoinCore:0.17.1/|34240|2a00:1828::/32|DE|ripencc|2009-12-08|MANITU, DE
@@ -1243,6 +1244,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.53.153.154|9333|/Satoshi:0.8.6.2/|12479|85.53.152.0/22|ES|ripencc|2004-09-07|UNI2-AS, ES
 85.58.138.228|9333|/LitecoinCore:0.18.1/|12479|85.58.136.0/22|ES|ripencc|2004-09-07|UNI2-AS, ES
 86.104.14.179|9333|/LitecoinCore:0.16.3/|202505|86.104.14.0/24|TR|ripencc|2005-04-18|NETBUDUR netbudur.com, TR
+86.106.143.10|9553|/LitecoinCore:0.18.1/|9009|86.106.143.0/24|RO|ripencc|2005-04-18|M247, GB
 86.107.187.54|9333|/LitecoinCore:0.18.1/|207375|86.107.186.0/23|NL|ripencc|2005-04-18|FIBO, NL
 86.134.235.253|9333|/LitecoinCore:0.18.1/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.146.198.240|9333|/LitecoinCore:0.18.1/|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
