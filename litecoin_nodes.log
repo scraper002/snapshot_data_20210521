@@ -67,6 +67,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.3.162.199|9333|/LitecoinCore:0.17.1/|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
+119.45.176.244|9333|/LitecoinCore:0.18.1/|45090|119.45.176.0/20|CN|apnic|2008-01-03|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 120.77.249.96|9333|/LitecoinCore:0.18.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.78.127.243|9333|/LitecoinCore:0.16.3/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.121.117.113|9333|/LitecoinCore:0.18.1/|9534|121.121.0.0/16|MY|apnic|2006-08-18|MAXIS-AS1-AP Binariang Berhad, MY
@@ -755,6 +756,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:20ed::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:19ec::4204|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1dee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1df0::2|11081|/Worldcoin Business Center:3.0.0/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -822,7 +824,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.198.229.226|49333|/LitecoinCore:0.17.1/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.201.114.34|9333|/LitecoinCore:0.13.2(bitcore)/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.221.250.46|9333|/LitecoinCore:0.17.1/|16509|34.208.0.0/12|US|arin|2016-09-12|AMAZON-02, US
-34.222.94.155|9333|/LitecoinCore:0.17.1/|16509|34.208.0.0/12|US|arin|2016-09-12|AMAZON-02, US
 34.225.190.23|9333|/LitecoinCore:0.17.1/|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.143.135.152|9333|/LitecoinCore:0.18.1/|33363|35.136.0.0/13|US|arin|2017-06-30|BHN-33363, US
 35.157.75.94|9333|/LitecoinCore:0.17.1/|16509|35.156.0.0/14|US|arin|2016-08-09|AMAZON-02, US
@@ -1222,8 +1223,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.6.56.202|9333|/LitecoinCore:0.18.1/|5089|82.4.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.65.134.3|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.33.15|9333|/LitecoinCore:0.17.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
-82.75.53.19|9333|/Satoshi:0.8.5.1/|33915|82.74.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
 83.221.211.116|10333|/LitecoinCore:0.16.3/|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
+83.242.81.21|11081|/WorldcoinFoundation:0.8.7.5/|30838|83.242.80.0/21|PL|ripencc|2004-05-07|TELPOL, PL
 83.242.96.21|9333|/LitecoinCore:0.17.1/|50955|83.242.96.0/24|RU|ripencc|2012-03-12|AHOST-AS, RU
 83.242.96.22|9333|/LitecoinCore:0.17.1/|50955|83.242.96.0/24|RU|ripencc|2012-03-12|AHOST-AS, RU
 83.76.247.25|9333|/LitecoinCore:0.17.1/|3303|83.76.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -1387,3 +1388,4 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.217.124.239|9333|/LitecoinCore:0.18.1/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 99.152.32.222|9333|/LitecoinCore:0.18.1/|7018|99.152.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
 99.241.154.33|9333|/LitecoinCore:0.18.1/|812|99.241.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
+99.98.217.243|9333|/LitecoinCore:0.18.1/|7018|99.96.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
