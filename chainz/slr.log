@@ -25,7 +25,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.136.244.176|/Satoshi:2.1.8/|70005|13046|141.136.128.0/17|HR|ripencc|2011-06-29|ASN-ISKON HEP, HR
 142.197.160.83|/Satoshi:2.1.8/|70005|33363|142.196.0.0/15|US|arin|2012-05-08|BHN-33363, US
 144.48.37.84|/Satoshi:2.1.8/|70005|136557|144.48.37.0/24|IN|apnic|2016-04-07|HOST-AS-AP Host Universal Pty Ltd, AU
-146.0.189.148|/Satoshi:2.1.8/|70005|6661|146.0.128.0/18|LU|ripencc|2011-07-07|EPT-LU Entreprise des P. et T. Luxembourg, LU
 151.224.66.193|/Satoshi:2.1.8/|70005|5607|151.224.0.0/13|GB|ripencc|2012-08-09|BSKYB-BROADBAND-AS, GB
 151.38.156.215|/Satoshi:2.1.8/|70005|1267|151.38.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 153.202.239.49|/Satoshi:2.1.8/|70005|4713|153.192.0.0/11|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
@@ -36,7 +35,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 171.50.195.60|/Satoshi:2.1.8/|70005|24560|171.50.192.0/20|IN|apnic|2011-03-03|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
 172.103.179.126|/Satoshi:2.1.8/|70005|25668|172.103.128.0/17|CA|arin|2015-06-22|CIPHERKEY, CA
 172.58.188.135|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
-172.58.191.83|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 173.2.195.19|/Satoshi:2.1.8/|70005|6128|173.2.0.0/15|US|arin|2008-05-12|CABLE-NET-1, US
 176.120.238.55|/Satoshi:2.1.8/|70005|42892|176.120.238.0/24|RU|ripencc|2012-06-25|LOFIS-AS, RU
 176.63.87.55|/Satoshi:2.1.8/|70005|6830|176.63.0.0/16|HU|ripencc|2011-06-08|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -51,7 +49,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.76.28.114|/Satoshi:2.1.8/|70005|41110|185.76.28.0/23|DE|ripencc|2014-11-05|DSLMOBIL, DE
 188.80.224.193|/Satoshi:2.1.8/|70005|3243|188.80.0.0/14|PT|ripencc|2009-03-25|MEO-RESIDENCIAL, PT
 189.180.79.21|/Satoshi:2.1.8/|70005|8151|189.180.72.0/21|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
-189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.192.0/21|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
+189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 191.19.221.84|/Satoshi:2.1.8/|70005|27699|191.19.192.0/19|BR|lacnic|2014-01-30|TELEFONICA BRASIL S.A, BR
 193.121.108.34|/Satoshi:2.1.8/|70005|5432|193.121.0.0/16|BE|ripencc|1996-05-08|PROXIMUS-ISP-AS, BE
@@ -136,7 +134,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.120.223.166|/Satoshi:2.1.8/|70005|3215|90.120.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.240.140.164|/Satoshi:2.1.8/|70005|5378|90.240.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 90.35.123.58|/Satoshi:2.1.8/|70005|3215|90.35.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
-91.109.210.119|/Satoshi:2.1.8/|70005|198208|91.109.210.0/24|TR|ripencc|2012-06-19|KKTCTELEKOMDAIRESI, TR
 91.11.202.123|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.137.62.18|/Satoshi:2.1.8/|70005|199284|91.137.62.0/23|DE|ripencc|2006-10-03|ENCOLINE, DE
 91.180.97.95|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
@@ -146,6 +143,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.207.37.145|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.217.159.20|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.7.3.198|/Satoshi:2.1.8/|70005|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
+94.110.135.218|/Satoshi:2.1.8/|70005|47377|94.110.128.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 94.226.147.247|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.75.250|/Satoshi:2.1.8/|70005|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
