@@ -19,6 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.69.172.158|/Satoshi:0.17.1/|70015|55850|115.69.160.0/19|NZ|apnic|2008-07-18|TRUSTPOWERLTD-AS-AP TrustPower Ltd, NZ
 116.110.43.7|/Satoshi:0.17.1/|70015|7552|116.110.40.0/22|VN|apnic|2007-05-18|VIETEL-AS-AP Viettel Group, VN
 119.18.1.204|/Satoshi:0.17.1/|70015|4764|119.18.0.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
+121.40.32.117|/Satoshi:0.14.0/|70015|37963|121.40.0.0/15|CN|apnic|2006-05-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.45.163.223|/Satoshi:0.17.1/|70015|7545|121.45.160.0/21|AU|apnic|2007-02-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 124.122.34.165|/Satoshi:0.17.1/|70015|17552|124.122.0.0/18|TH|apnic|2007-05-01|TRUEONLINE-AS-AP True Online, TH
 124.168.71.56|/Satoshi:0.17.1/|70015|7545|124.168.64.0/21|AU|apnic|2006-03-20|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -92,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.3.151.106|/Satoshi:0.17.1/|70015|35125|212.3.128.0/19|RU|ripencc|2005-06-07|SMOLENSK-AS, RU
 213.127.71.126|/Satoshi:0.14.0/|70015|33915|213.127.0.0/17|NL|ripencc|1999-09-16|TNF-AS, NL
 213.152.162.181|/Satoshi:0.17.1/|70015|49453|213.152.162.0/24|NL|ripencc|2010-07-09|GLOBALLAYER, NL
+213.152.186.24|/Satoshi:0.17.1/|70015|49453|213.152.186.0/24|NL|ripencc|2010-07-09|GLOBALLAYER, NL
 213.47.182.133|/Satoshi:0.17.1/|70015|6830|213.47.128.0/18|AT|ripencc|1999-12-30|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 213.86.15.21|/Satoshi:0.17.1/|70015|8220|213.86.0.0/16|GB|ripencc|2000-06-02|COLT COLT Technology Services Group Limited, GB
 216.177.178.72|/Satoshi:0.17.1/|70015|16527|216.177.160.0/19|US|arin|2001-01-12|GVTCINTERNET, US
@@ -153,7 +155,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.66.5.212|/Satoshi:0.17.1/|70015|701|72.66.0.0/17|US|arin|2005-06-24|UUNET, US
 72.74.138.53|/Satoshi:0.15.0.1/|70015|701|72.74.0.0/16|US|arin|2005-06-24|UUNET, US
 72.79.161.56|/Satoshi:0.17.1/|70015|701|72.79.128.0/18|US|arin|2005-06-24|UUNET, US
-73.11.10.229|/Satoshi:0.17.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.11.65.221|/Satoshi:0.17.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.130.235.57|/Satoshi:0.17.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.131.230.190|/Satoshi:0.17.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -211,7 +212,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.73.234.15|/Satoshi:0.17.1/|70015|6799|85.73.192.0/18|GR|ripencc|2006-05-17|OTENET-GR Athens - Greece, GR
 85.76.18.199|/Satoshi:0.17.1/|70015|719|85.76.0.0/14|FI|ripencc|2004-10-08|ELISA-AS Helsinki, Finland, FI
 86.7.84.215|/Satoshi:0.17.1/|70015|5089|86.7.0.0/16|GB|ripencc|2005-03-29|NTL, GB
-87.0.186.207|/Satoshi:0.17.1/|70015|3269|87.0.0.0/16|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 87.110.19.238|/Satoshi:0.17.1/|70015|12578|87.110.0.0/16|LV|ripencc|2005-09-12|APOLLO-AS Latvia, LV
 87.177.228.241|/Satoshi:0.17.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.177.238.233|/Satoshi:0.17.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
@@ -219,7 +219,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.113.154.134|/Satoshi:0.17.1/|70015|719|88.112.0.0/14|FI|ripencc|2005-08-24|ELISA-AS Helsinki, Finland, FI
 88.86.152.80|/Satoshi:0.17.1/|70015|1759|88.86.128.0/19|FI|ripencc|2006-02-14|TSF-IP-CORE Telia Finland Oyj, FI
 89.101.242.146|/Satoshi:0.11.1/|70015|6830|89.101.0.0/16|IE|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-89.64.123.233|/Satoshi:0.17.1/|70015|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 90.0.82.192|/Satoshi:0.17.1/|70015|3215|90.0.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.145.218.243|/Satoshi:0.17.1/|70015|29396|90.145.0.0/16|NL|ripencc|2006-11-17|EUROFIBER-UNET EUROFIBER, NL
 91.155.56.15|/Satoshi:0.17.1/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
