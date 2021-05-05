@@ -42,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.169.230.0|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 176.58.227.216|/Satoshi:2.1.8/|70005|25472|176.58.128.0/17|GR|ripencc|2011-06-06|WIND-AS, GR
 176.63.87.55|/Satoshi:2.1.8/|70005|6830|176.63.0.0/16|HU|ripencc|2011-06-08|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-178.116.138.120|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.116.196.136|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.197.192.61|/Satoshi:2.1.8/|70005|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
 178.197.249.44|/Satoshi:2.1.8/|70005|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -73,6 +72,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.172.246.71|/Satoshi:2.1.8/|70005|6752|46.172.224.0/19|AD|ripencc|2011-01-04|ANDORRA Andorra Telecom, AD
 46.223.161.238|/Satoshi:2.1.8/|70005|3209|46.223.128.0/17|DE|ripencc|2011-01-26|VODANET International IP-Backbone of Vodafone, DE
 46.55.167.50|/Satoshi:2.1.8/|70005|51582|46.55.128.0/18|BG|ripencc|2010-10-01|DCC-, BG
+46.90.141.244|/Satoshi:2.1.8/|70005|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.145.195.206|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.157.20.54|/Satoshi:2.1.8/|70005|5650|47.157.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.56.227.140|/Satoshi:2.1.8/|70005|3209|5.56.224.0/19|DE|ripencc|2012-05-31|VODANET International IP-Backbone of Vodafone, DE
@@ -112,9 +112,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.220.51.184|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.235.223.197|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.247.149.173|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.253.61.212|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.140.51.246|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.140.92.225|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.200.60.47|/Satoshi:2.1.8/|70005|5432|80.200.0.0/15|BE|ripencc|2001-11-08|PROXIMUS-ISP-AS, BE
 80.57.240.179|/Satoshi:2.1.8/|70005|33915|80.57.0.0/16|NL|ripencc|2001-05-16|TNF-AS, NL
 81.140.160.79|/Satoshi:2.1.8/|70005|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
@@ -161,7 +161,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.130.61.11|/Satoshi:2.1.8/|70005|8881|88.130.61.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 89.155.127.14|/Satoshi:2.1.8/|70005|2860|89.155.64.0/18|PT|ripencc|2006-02-07|NOS_COMUNICACOES, PT
 89.37.122.22|/Satoshi:2.1.8/|70005|39737|89.37.120.0/21|RO|ripencc|2005-11-29|PRIME-TELECOM-AS, RO
-89.38.115.102|/Satoshi:2.1.8/|70005|41110|89.38.114.0/23|DE|ripencc|2005-11-29|DSLMOBIL, DE
 90.240.140.164|/Satoshi:2.1.8/|70005|5378|90.240.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 90.35.123.58|/Satoshi:2.1.8/|70005|3215|90.35.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.171.187.213|/Satoshi:2.1.8/|70005|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
