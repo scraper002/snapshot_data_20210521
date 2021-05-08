@@ -24,6 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.77.184|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 146.200.150.34|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6871|146.200.0.0/16|US|arin|1991-02-28|PLUSNET UK Internet Service Provider, GB
 147.135.97.55|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-1cbefe44d Strider)/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
+151.34.216.179|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|1267|151.34.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.38.86.255|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|1267|151.38.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 154.21.28.213|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-f29ac07 Strider)/|70015|174|154.21.0.0/16|US|arin|1992-02-05|COGENT-174, US
 159.138.111.140|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|136907|159.138.96.0/20|SG|apnic|1992-04-20|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
@@ -65,7 +66,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.154.184.48|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12876|195.154.0.0/16|FR|ripencc|1996-08-27|Online SAS, FR
 195.78.54.213|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|174|195.78.54.0/24|LT|ripencc|2019-11-04|COGENT-174, US
 199.241.187.130|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0.0-g31b997c3a8bb Strider)/|70015|31863|199.241.184.0/21|US|arin|2012-07-30|DACEN-2, US
-2.100.172.106|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|13285|2.100.0.0/15|GB|ripencc|2010-04-21|OPALTELECOM-AS TalkTalk Communications Limited, GB
 2.108.146.82|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3292|2.104.0.0/13|DK|ripencc|2010-05-04|TDC TDC A/S, DK
 20.73.195.154|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 201.242.202.244|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8048|201.242.192.0/19|VE|lacnic|2005-04-22|CANTV Servicios, Venezuela, VE
@@ -143,11 +143,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.174.154.197|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|50266|82.174.0.0/16|NL|ripencc|2003-09-29|TMOBILE-THUIS, NL
 82.207.237.149|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|8881|82.207.237.0/24|DE|ripencc|2003-12-02|VERSATEL, DE
 82.36.254.90|/Satoshi:0.8.6/Peercoin:0.6.1(v0.6.1ppc-dirty)/|70001|5089|82.36.0.0/16|GB|ripencc|2003-01-31|NTL, GB
+82.42.188.223|/Satoshi:0.6.3/Peercoin:0.4.0(v0.4.0ppc-beta)/|60004|5089|82.42.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 83.121.75.173|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|197207|83.121.0.0/17|IR|ripencc|2004-01-06|MCCI-AS, IR
+83.131.136.231|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|5391|83.131.0.0/16|HR|ripencc|2004-01-16|T-HT Croatian Telecom Inc., HR
 83.7.213.243|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|5617|83.0.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.241.10.250|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|31549|84.241.0.0/18|IR|ripencc|2004-06-10|RASANA, IR
 84.249.0.115|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|1759|84.248.0.0/14|FI|ripencc|2004-06-02|TSF-IP-CORE Telia Finland Oyj, FI
 85.72.187.120|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|6799|85.72.0.0/16|GR|ripencc|2006-05-17|OTENET-GR Athens - Greece, GR
+86.149.213.242|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.238.157.39|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|3215|86.238.128.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 87.88.177.5|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|5410|87.88.0.0/14|FR|ripencc|2005-06-03|BOUYGTEL-ISP, FR
 88.135.94.114|/Satoshi:0.16.3/Peercoin:0.9.0(v0.9.0ppc Strider)/|70015|12403|88.135.80.0/20|RU|ripencc|2009-11-23|FEONET-AS, RU
