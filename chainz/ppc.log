@@ -7,6 +7,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.10.67.171|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45727|103.10.67.0/24|ID|apnic|2011-06-08|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 103.243.173.214|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|59210|103.243.173.0/24|SG|apnic|2013-10-15|PHOENIXNAP-AS-SG1 PhoenixNAP, SG
 104.178.94.185|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|7018|104.176.0.0/12|US|arin|2014-08-12|ATT-INTERNET4, US
+104.207.134.60|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|20473|104.207.132.0/22|US|arin|2014-10-01|AS-CHOOPA, US
 104.54.203.174|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|7018|104.48.0.0/12|US|arin|2014-05-06|ATT-INTERNET4, US
 105.244.66.219|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|36994|105.244.0.0/16|ZA|afrinic|2012-06-06|Vodacom-VB, ZA
 108.16.235.146|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|701|108.16.0.0/16|US|arin|2009-06-05|UUNET, US
@@ -16,10 +17,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.71.183.213|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|31376|109.71.176.0/21|RU|ripencc|2009-11-23|SMART-AS, RU
 110.143.130.252|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|110.143.0.0/16|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 111.196.244.171|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|4808|111.196.192.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
-111.85.64.111|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 111.85.64.162|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 113.218.168.44|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|113.218.0.0/15|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-113.64.98.51|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|113.64.0.0/11|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.202.129.35|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.7.245.187|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 117.102.102.227|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|17451|117.102.102.0/24|ID|apnic|2007-07-11|BIZNET-AS-AP BIZNET NETWORKS, ID
@@ -44,6 +43,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.244.48.106|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|60068|143.244.48.0/22|GB|ripencc|1990-10-26|CDN77 (^_^)/, GB
 145.109.59.57|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1124|145.109.0.0/17|NL|ripencc|1993-09-01|UVA-NL Universiteit van Amsterdam, EU
 147.135.97.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
+151.26.175.108|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1267|151.26.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 159.65.153.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14061|159.65.144.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.69.37.17|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 161.117.184.99|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45102|161.117.128.0/17|SG|apnic|1992-07-09|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -88,7 +88,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.4.68.81|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|27745|190.4.64.0/21|BQ|lacnic|2006-07-31|Telefonia Bonairiano N.V., BQ
 192.154.231.66|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|40676|192.154.231.0/24|US|arin|2013-01-11|AS40676, US
 192.222.229.98|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
-195.18.18.224|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|48004|195.18.16.0/22|UA|ripencc|2010-06-04|KCT-AS ***KCT-AS***, UA
 195.190.99.186|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3216|195.190.96.0/19|RU|ripencc|1998-01-02|SOVAM-AS, RU
 195.195.206.18|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|786|195.194.0.0/15|GB|ripencc|1997-06-30|JANET Jisc Services Limited, GB
 195.91.237.179|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8331|195.91.128.0/17|RU|ripencc|1997-08-01|RINET-AS Cronyx Plus Ltd, RU
@@ -107,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.159.81.229|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 213.65.216.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3301|213.64.0.0/14|SE|ripencc|1999-11-12|TELIANET-SWEDEN Telia Company, SE
 213.87.120.82|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|28884|213.87.120.0/23|RU|ripencc|2000-04-10|MR-SIB-MTSAS MR Sibir, RU
-217.138.202.108|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|9009|217.138.202.0/24|GB|ripencc|2001-01-31|M247, GB
 217.246.139.46|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 218.109.207.112|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24139|218.109.192.0/19|CN|apnic|2002-12-31|WASUHZ Huashu media&Network Limited, CN
 218.146.13.128|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4766|218.144.0.0/13|KR|apnic|2001-09-24|KIXS-AS-KR Korea Telecom, KR
@@ -191,7 +189,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.75.36.104|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|42926|77.75.36.0/24|TR|ripencc|2007-05-03|RADORE, TR
 77.83.89.213|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|39273|77.83.89.0/24|BH|ripencc|2018-12-13|KALAAM-TELECOM-BAHRAIN, BH
 79.135.192.31|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
-79.170.125.248|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|43766|79.170.124.0/22|SA|ripencc|2007-09-27|MTC-KSA-AS, SA
 79.233.96.200|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.249.63.14|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.109.190.206|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|80.109.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -209,6 +206,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.249.0.115|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1759|84.248.0.0/14|FI|ripencc|2004-06-02|TSF-IP-CORE Telia Finland Oyj, FI
 85.143.112.86|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3267|85.142.0.0/15|RU|ripencc|2004-12-17|RUNNET, RU
 85.195.244.131|/Satoshi:0.6.3/Peercoin:0.5.0/Peerunity:0.2.2/|60006|13030|85.195.240.0/20|CH|ripencc|2005-01-13|INIT7, CH
+85.249.168.232|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
 85.72.187.120|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6799|85.72.0.0/16|GR|ripencc|2006-05-17|OTENET-GR Athens - Greece, GR
 86.71.89.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
 87.151.70.245|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
